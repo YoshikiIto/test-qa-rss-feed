@@ -19,11 +19,13 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   //あ
   ['AGEST Engineers Blog', 'https://engineers-blog.agest.co.jp/feed'],
   ['156', 'https://note.com/156musik_test/rss'],
+  ['エムスリーテックブログ - カテゴリ：QA', 'https://www.m3tech.blog/feed/category/QA'],
   //か
   ['記録用ブログ', 'https://mejiro8.hatenablog.com/feed'],
   ['GIHOZ’s blog', 'https://gihoz.hatenablog.com/feed'],
   ['CAT GETTING OUT OF A BAG', 'https://miwa719.hatenablog.com/feed'],
   ['Ques', 'https://quesqa.com/feed/'],
+  ['Gunosy Tech Blog - カテゴリ：ソフトウェアテスト', 'https://tech.gunosy.io/feed/category/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%86%E3%82%B9%E3%83%88'],
   ['くぼぴー / note inc.', 'https://note.com/kubopi/rss'],
   ['Kouichi Akiyama', 'https://note.com/akiyama924/rss'],
   ['コヤマン', 'https://note.com/koyaman2/rss'],
@@ -42,6 +44,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['テスターちゃん【4コマ漫画】', 'https://testerchan.hatenadiary.com/feed'],
   ['テスト自動化研究会 シリーズの新着イベント', 'https://testautomationresearch.connpass.com/ja.atom'],
   ['テストする人。', 'https://underscore42rina.hatenablog.com/feed'],
+  ['テストラジオ', 'https://testradio.fm/feed'],
   ['天の月', 'https://aki-m.hatenadiary.com/feed'],
   ['toshimana\'s diary', 'https://toshimana.hatenablog.com/feed'],
   ['Dreamland-夢と想いと小さな工夫', 'https://shiozi.hatenablog.com/feed'],
@@ -49,6 +52,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['nemorineのブログ', 'https://nemorine.hateblo.jp/feed'],
   //は
   ['hgsgtk', 'https://note.com/hgsgtk/rss'],
+  ['freee Developers Hub - カテゴリ：QA', 'https://developers.freee.co.jp/feed/category/QA'],
   ['ブロッコリーのブログ', 'https://nihonbuson.hatenadiary.jp/feed'],
   ['ベリサーブ/VeriServe シリーズの新着イベント', 'https://veriserve-event.connpass.com/ja.atom'],
   ['honamin @マネーフォワード', 'https://note.com/honamin09/rss'],
