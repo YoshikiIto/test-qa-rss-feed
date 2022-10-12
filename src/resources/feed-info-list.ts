@@ -57,7 +57,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['ベリサーブ/VeriServe シリーズの新着イベント', 'https://veriserve-event.connpass.com/ja.atom'],
   ['honamin @マネーフォワード', 'https://note.com/honamin09/rss'],
   //ま
-  ['マネーフォワード エンジニアブログ', 'https://moneyforward.com/engineers_blog/feed/'],
+  ['マネーフォワード エンジニアブログ - テスト', 'https://moneyforward.com/engineers_blog/feed/?s=%E3%83%86%E3%82%B9%E3%83%88&submit=%E6%A4%9C%E7%B4%A2'],
   //や
   ['yoya', 'https://note.com/yoya_k/rss'],
   //ら
