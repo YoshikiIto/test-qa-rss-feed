@@ -40,7 +40,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   //た
   ['Tsuyoshi Yumoto', 'https://note.com/yumotsuyo/rss'],
   ['株式会社デジタルハーツホールディングス【プレスリリース】 by PR TIMES', 'https://prtimes.jp/companyrdf.php?company_id=76535'],
-  ['テスト自動化タグが付けられた新着記事 - Qiita', 'https://qiita.com/tags/%e3%83%86%e3%82%b9%e3%83%88%e8%87%aa%e5%8b%95%e5%8c%96/feed'],
+  //['テスト自動化タグが付けられた新着記事 - Qiita', 'https://qiita.com/tags/%e3%83%86%e3%82%b9%e3%83%88%e8%87%aa%e5%8b%95%e5%8c%96/feed'],
   ['テストする人。', 'https://underscore42rina.hatenablog.com/feed'],
   ['天の月', 'https://aki-m.hatenadiary.com/feed'],
   //な
