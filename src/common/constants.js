@@ -7,7 +7,7 @@ module.exports = {
   siteUrlStem: siteUrlStem,
   siteTitle: 'テスト・QA関連ブログRSS',
   siteDescription:
-    'ほげほげ',
+    'テスト・QAの話題にふれることがあるブログやサイト、も入れているのでわりと話題は広めかと思います',
 
   // フィード設定
   feedTitle: 'テスト・QA関連ブログRSS',
