@@ -80,5 +80,6 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['yoya', 'https://note.com/yoya_k/rss'],
   //ら
   ['RAKUS Developers Blog | ラクス エンジニアブログ - テスト', 'https://tech-blog.rakus.co.jp/feed/category/%E3%83%86%E3%82%B9%E3%83%88'],
+  ['Ranorex Blog - UIテスト自動化ツール Ranorex', 'https://ranorex.techmatrix.jp/blog/feed/']
   //['', ''],
 ]);
