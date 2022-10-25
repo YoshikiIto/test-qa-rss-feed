@@ -28,6 +28,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['GIHOZ’s blog', 'https://gihoz.hatenablog.com/feed'],
   ['CAT GETTING OUT OF A BAG', 'https://miwa719.hatenablog.com/feed'],
   ['Ques', 'https://quesqa.com/feed/'],
+  ['クオリティアーツ', 'https://quality-arts.com/?feed=rss2'],
   ['QualityForward Blog', 'https://qf-support.hatenablog.com/feed'],
   ['Google Testing Blog', 'http://feeds.feedburner.com/blogspot/RLXA'],
   ['Gunosy Tech Blog - カテゴリ：ソフトウェアテスト', 'https://tech.gunosy.io/feed/category/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%86%E3%82%B9%E3%83%88'],
