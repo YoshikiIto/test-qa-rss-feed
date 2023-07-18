@@ -24,7 +24,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['エムスリーテックブログ - カテゴリ：QA', 'https://www.m3tech.blog/feed/category/QA'],
   //か
   ['かいり', 'https://note.com/kairiver/rss'],
-  ['カカクコムTechBlog', 'https://kakaku-techblog.com/archive/category/QA'],
+  ['カカクコムTechBlog', 'https://kakaku-techblog.com/feed/category/QA'],
   ['記録用ブログ', 'https://mejiro8.hatenablog.com/feed'],
   ['GIHOZ’s blog', 'https://gihoz.hatenablog.com/feed'],
   ['CAT GETTING OUT OF A BAG', 'https://miwa719.hatenablog.com/feed'],
@@ -53,7 +53,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['ソフトウェアテストタグが付けられた新着記事 - Qiita', 'https://qiita.com/tags/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%86%E3%82%B9%E3%83%88/feed'],
   //た
   ['tateishi', 'https://note.com/mt3_set/rss'],
-  ['Tabelog Tech Blog', 'https://tech-blog.tabelog.com/archive/category/QA'],
+  ['Tabelog Tech Blog', 'https://tech-blog.tabelog.com/feed/category/QA'],
   ['tarappo', 'https://note.com/tarappo/rss'],
   ['チームスピリットデベロッパーブログ', 'https://teamspirit.hatenablog.com/feed/category/%E3%83%86%E3%82%B9%E3%83%88'],
   ['知識ゼロからソフトウェアテストをはじめた人', 'https://moyashinomegane.hatenablog.com/feed'],
