@@ -83,7 +83,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['ぺぱち｜QAエンジニア', 'https://note.com/pepachi/rss'],
   ['ベリサーブ/VeriServe シリーズの新着イベント', 'https://veriserve-event.connpass.com/ja.atom'],
   ['honamin', 'https://note.com/honamin09/rss'],
-  ['Hello, Quality World!', 'https://rss.app/feeds/HjBNVLR9KTuz6ARN.xml'],
+  ['Hello, Quality World!', 'https://www.happyou.info/fs/gen.php?u=-18888665&p=860923639'],
   //ま
   ['まこっちゃん', 'https://note.com/mark_hillfield/'],
   ['マネーフォワード エンジニアブログ - テスト', 'https://moneyforward.com/engineers_blog/feed/?s=%E3%83%86%E3%82%B9%E3%83%88&submit=%E6%A4%9C%E7%B4%A2'],
