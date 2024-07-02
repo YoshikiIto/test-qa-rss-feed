@@ -1,0 +1,983 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>テスト・QA関連ブログRSS</title>
+        <link>https://yoshikiito.github.io/test-qa-rss-feed/</link>
+        <description>企テスト・QA関連ブログの更新をまとめたRSSフィード</description>
+        <lastBuildDate>Tue, 02 Jul 2024 04:05:01 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>yoshikiito/test-qa-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>テスト・QA関連ブログRSS</title>
+            <url>https://yoshikiito.github.io/test-qa-rss-feed/images/icon.png</url>
+            <link>https://yoshikiito.github.io/test-qa-rss-feed/</link>
+        </image>
+        <copyright>yoshikiito/test-qa-rss-feed</copyright>
+        <atom:link href="https://yoshikiito.github.io/test-qa-rss-feed/feeds/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[最新！この1週間でもっとも読まれた記事｜2024.6.25~7.1 PV数ランキングTOP10 | SHIFT Group 技術ブログ]]></title>
+            <link>https://note.shiftinc.jp/n/n30cd9037485a</link>
+            <guid>https://note.shiftinc.jp/n/n30cd9037485a</guid>
+            <pubDate>Tue, 02 Jul 2024 02:33:18 GMT</pubDate>
+            <description><![CDATA[こんにちは！ いつも当社の技術ブログをご愛読いただきありがとうございます。 SHIFTGroup技術ブログ担当のノザワです。 梅雨時期のいや～な天気でも、時折見える晴れ間や、雨上がりの大きな虹に癒されますよね。夏の果物も美味しい季節！という楽しみも。 さて今週は、最新のPV数ランキングTOP10記事と、その中から特に注目すべき2つの記事をピックアップしてご紹介します。技術の最前線で活躍する皆さんに...]]></description>
+            <content:encoded><![CDATA[こんにちは！ いつも当社の技術ブログをご愛読いただきありがとうございます。 SHIFTGroup技術ブログ担当のノザワです。 梅雨時期のいや～な天気でも、時折見える晴れ間や、雨上がりの大きな虹に癒されますよね。夏の果物も美味しい季節！という楽しみも。 さて今週は、最新のPV数ランキングTOP10記事と、その中から特に注目すべき2つの記事をピックアップしてご紹介します。技術の最前線で活躍する皆さんにとって、きっと役立つ情報が満載です。それでは、早速ランキングを見ていきましょう！ ★参考｜これまでのランキングまとめ 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/145922544/rectangle_large_type_2_2753b19a846bbb64756f75167f2c92b4.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[「リバースモデリングを行ってテスト設計する」は、単純にリバースしてないと気付いた話 #WACATE | ブロッコリーのブログ]]></title>
+            <link>https://nihonbuson.hatenadiary.jp/entry/test_process_2024</link>
+            <guid>https://nihonbuson.hatenadiary.jp/entry/test_process_2024</guid>
+            <pubDate>Tue, 02 Jul 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[はじめに 先日、WACATE 2024 夏というワークショップを開催しました。私はWACATE実行委員長として運営に携わり、準備を行ってきました。 WACATE 2024 夏の開催内容およびWACATEという団体について詳しくは、以下のページをご覧ください。 wacate.jp WACATE 2024 夏では「テストケースには、必ず作った人の意図が存在する」というサブタイトルを付け、テスト実装から...]]></description>
+            <content:encoded><![CDATA[はじめに 先日、WACATE 2024 夏というワークショップを開催しました。私はWACATE実行委員長として運営に携わり、準備を行ってきました。 WACATE 2024 夏の開催内容およびWACATEという団体について詳しくは、以下のページをご覧ください。 wacate.jp WACATE 2024 夏では「テストケースには、必ず作った人の意図が存在する」というサブタイトルを付け、テスト実装からテスト分析へとテストプロセスをさかのぼる（＝リバースする）過程を体験してもらいました。 ワークショップを作成するにあたり、テストプロセスについて今までより深く考えられた（気がする）ので、本記事で言語化…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn-ak.f.st-hatena.com/images/fotolife/n/nihonbuson/20240702/20240702003252.png"/>
+        </item>
+        <item>
+            <title><![CDATA[モデルトリック LLMにおけるQA LLMにおけるQAで抑えておきたいキーワード | Zennの「QA」のフィード]]></title>
+            <link>https://zenn.dev/devopsinqa/articles/9d4b2e7e99474e</link>
+            <guid>https://zenn.dev/devopsinqa/articles/9d4b2e7e99474e</guid>
+            <pubDate>Mon, 01 Jul 2024 10:03:00 GMT</pubDate>
+            <description><![CDATA[モデルトリックとは LLM（Large Language Models）における「モデルトリック」は、モデルが意図的にプログラムされた動作や制約を回避したり、予期しない方法で動作することを指します。モデルトリックは、品質保証（QA）およびセキュリティの観点からいくつかのリスクをもたらします。以下に詳しく説明します。   QA（品質保証）の観点からのモデルトリック   不安定な出力  モデルトリック...]]></description>
+            <content:encoded><![CDATA[モデルトリックとは LLM（Large Language Models）における「モデルトリック」は、モデルが意図的にプログラムされた動作や制約を回避したり、予期しない方法で動作することを指します。モデルトリックは、品質保証（QA）およびセキュリティの観点からいくつかのリスクをもたらします。以下に詳しく説明します。   QA（品質保証）の観点からのモデルトリック   不安定な出力  モデルトリックによって、モデルは不安定な出力を生成する可能性があります。これは、一貫性のある品質の維持が困難になるため、ユーザー体験に悪影響を与える可能性があります。    テストカバレッジの欠如  モデ...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--zQ-dfeMj--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2583%2588%25E3%2583%25AA%25E3%2583%2583%25E3%2582%25AF%2520LLM%25E3%2581%25AB%25E3%2581%258A%25E3%2581%2591%25E3%2582%258BQA%2520LLM%25E3%2581%25AB%25E3%2581%258A%25E3%2581%2591%25E3%2582%258BQA%25E3%2581%25A7%25E6%258A%2591%25E3%2581%2588%25E3%2581%25A6%25E3%2581%258A%25E3%2581%258D%25E3%2581%259F%25E3%2581%2584%25E3%2582%25AD%25E3%2583%25BC%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E4%25BA%2580%25E4%25BA%2595%25E4%25BA%25AE%25E4%25BB%258B%25EF%25BC%25A0%25E3%2583%259E%25E3%2583%258D%25E3%2583%25BC%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%2589%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzAxZjA0OGQ4MjYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Xcode 16 Betaの「XCTest」の紹介 | tarappo]]></title>
+            <link>https://note.com/tarappo/n/n20efb9490bf4</link>
+            <guid>https://note.com/tarappo/n/n20efb9490bf4</guid>
+            <pubDate>Mon, 01 Jul 2024 08:12:58 GMT</pubDate>
+            <description><![CDATA[Xcode 16 Betaのリリースノートから「Testing」については次で紹介したとおりです。 続きをみる]]></description>
+            <content:encoded><![CDATA[Xcode 16 Betaのリリースノートから「Testing」については次で紹介したとおりです。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/143883525/rectangle_large_type_2_cbffcbc0667f8d43e0b96dd4445704b7.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[ビジネスチャットは書く前にすべて考えること | SHIFT Group 技術ブログ]]></title>
+            <link>https://note.shiftinc.jp/n/n06e3e9304f5c</link>
+            <guid>https://note.shiftinc.jp/n/n06e3e9304f5c</guid>
+            <pubDate>Mon, 01 Jul 2024 01:19:30 GMT</pubDate>
+            <description><![CDATA[はじめに 続きをみる]]></description>
+            <content:encoded><![CDATA[はじめに 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/145163044/rectangle_large_type_2_0b2bae72af3d4aa545d35a07d6860878.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[QAのリレー記事をZennでやるぞ〜！ | Zennの「QA」のフィード]]></title>
+            <link>https://zenn.dev/bitkey_dev/articles/4a1964f5652bff</link>
+            <guid>https://zenn.dev/bitkey_dev/articles/4a1964f5652bff</guid>
+            <pubDate>Mon, 01 Jul 2024 01:00:00 GMT</pubDate>
+            <description><![CDATA[はじめに みなさん、お初にお目にかかります。 株式会社ビットキーでQAをしているやきょ(@yakyo_824)と申します。 今回はじめてZennで記事を投稿するにあたり、ちょっとした企画をしました。 その名もBitkey Software QA Advent Calendar 2024 Summer！ ......長い。長いがゆえに記事タイトルではリレー記事と簡略化しました。 本記事はその集大成と...]]></description>
+            <content:encoded><![CDATA[はじめに みなさん、お初にお目にかかります。 株式会社ビットキーでQAをしているやきょ(@yakyo_824)と申します。 今回はじめてZennで記事を投稿するにあたり、ちょっとした企画をしました。 その名もBitkey Software QA Advent Calendar 2024 Summer！ ......長い。長いがゆえに記事タイトルではリレー記事と簡略化しました。 本記事はその集大成となるようにデザインしながらその説明を行いたいと思います。 また本企画の初回記事となるため、ビットキーとそのSoftware QAチームについて軽く説明します。 もしご興味を持った方がいればぜ...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--7girI-XT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:QA%25E3%2581%25AE%25E3%2583%25AA%25E3%2583%25AC%25E3%2583%25BC%25E8%25A8%2598%25E4%25BA%258B%25E3%2582%2592Zenn%25E3%2581%25A7%25E3%2582%2584%25E3%2582%258B%25E3%2581%259E%25E3%2580%259C%25EF%25BC%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E5%25B1%25B1%25E5%25B7%259D%25E6%2597%25AD%25E6%25B8%2585_%25E3%2583%2593%25E3%2583%2583%25E3%2583%2588%25E3%2582%25AD%25E3%2583%25BC%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2NjNWE2NmE4ZGMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Bitkey%2520Developers%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSzVibnRWU1ZoenhPOTY5TkhkTGpCaXZZd0NRd2VJWWF2SDBHeXNWS2VhcGc9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[膨大なデータを簡単に可視化・分析ができる。新卒採用チームにBIツールがやってきた！ | SHIFT Group 技術ブログ]]></title>
+            <link>https://note.shiftinc.jp/n/n6ebb042d8eb1</link>
+            <guid>https://note.shiftinc.jp/n/n6ebb042d8eb1</guid>
+            <pubDate>Sun, 30 Jun 2024 23:30:00 GMT</pubDate>
+            <description><![CDATA[はじめに 続きをみる]]></description>
+            <content:encoded><![CDATA[はじめに 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/144644035/rectangle_large_type_2_60303aa4468ddb1c99daab2d9623a15d.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[2024年6月のふりかえり | 天の月]]></title>
+            <link>https://aki-m.hatenadiary.com/entry/2024/07/01/000000</link>
+            <guid>https://aki-m.hatenadiary.com/entry/2024/07/01/000000</guid>
+            <pubDate>Sun, 30 Jun 2024 15:00:00 GMT</pubDate>
+            <description><![CDATA[6月が終わったのでいつも通りふりかえりをしていきます。 月のふりかえり 仕事 社外活動/自己研鑽 プライベート 一年でやりたいことに対してのふりかえり 翻訳 登壇(プロポーザル) コミュニティを立ち上げる 続けていることに関して何かしらの単位を変える 1年間運動を継続する 国際カンファレンスに参加 月のふりかえり 仕事 今月から新たなPJが始まり、なおかつどちらも自分にとってかなりチャレンジングな...]]></description>
+            <content:encoded><![CDATA[6月が終わったのでいつも通りふりかえりをしていきます。 月のふりかえり 仕事 社外活動/自己研鑽 プライベート 一年でやりたいことに対してのふりかえり 翻訳 登壇(プロポーザル) コミュニティを立ち上げる 続けていることに関して何かしらの単位を変える 1年間運動を継続する 国際カンファレンスに参加 月のふりかえり 仕事 今月から新たなPJが始まり、なおかつどちらも自分にとってかなりチャレンジングなプロジェクトだったため、かなり忙しい中楽しく仕事をしていました。今月の記録を見てみると、殆どの時間が仕事をしているか仕事のために直接的に役立つ情報収集の時間でした。 パブリックな場ということもあり、あ…]]></content:encoded>
+            <enclosure length="0" url="https://ogimage.blog.st-hatena.com/26006613655256878/6801883189117617191/1719759617"/>
+        </item>
+        <item>
+            <title><![CDATA[スクラムフェス三河にプロポーザルを出した | 天の月]]></title>
+            <link>https://aki-m.hatenadiary.com/entry/2024/06/30/233000</link>
+            <guid>https://aki-m.hatenadiary.com/entry/2024/06/30/233000</guid>
+            <pubDate>Sun, 30 Jun 2024 14:30:00 GMT</pubDate>
+            <description><![CDATA[タイトルの通り、スクラムフェス三河にプロポーザルを出したのでその告知です。(スクラムフェス仙台と同じ締切日ということで告知が続いてしまいすみません) プロポーザル 概要 1本目 2本目 3本目 プロポーザルを出した理由 1本目 2本目 3本目 今回チャレンジしたいこと 1本目 2本目 3本目 おわりに プロポーザル confengine.com confengine.com confengine....]]></description>
+            <content:encoded><![CDATA[タイトルの通り、スクラムフェス三河にプロポーザルを出したのでその告知です。(スクラムフェス仙台と同じ締切日ということで告知が続いてしまいすみません) プロポーザル 概要 1本目 2本目 3本目 プロポーザルを出した理由 1本目 2本目 3本目 今回チャレンジしたいこと 1本目 2本目 3本目 おわりに プロポーザル confengine.com confengine.com confengine.com ※以降、上から順に1本目. 2本目, 3本目と表記していきます。 概要 1本目 本セッションでは、ソフトウェア工学に新たなページを作ろうとしている47機関というチームにjoinして約2年間が経…]]></content:encoded>
+            <enclosure length="0" url="https://ogimage.blog.st-hatena.com/26006613655256878/6801883189118389420/1719757804"/>
+        </item>
+        <item>
+            <title><![CDATA[開発の高スピードと高品質を支えるテストアプローチについて講演 | 千里霧中]]></title>
+            <link>https://goyoki.hatenablog.com/entry/2024/06/30/210148</link>
+            <guid>https://goyoki.hatenablog.com/entry/2024/06/30/210148</guid>
+            <pubDate>Sun, 30 Jun 2024 12:01:48 GMT</pubDate>
+            <description><![CDATA[先日、開発生産性 Conference 2024のSpecial Sessionにて、「高品質と高スピードを両立させるテストアプローチ」と題して講演をさせていただきました。https://speakerdeck.com/goyoki/test-approach-that-improves-quality-and-agility-together speakerdeck.com2000人弱の参加者で...]]></description>
+            <content:encoded><![CDATA[先日、開発生産性 Conference 2024のSpecial Sessionにて、「高品質と高スピードを両立させるテストアプローチ」と題して講演をさせていただきました。https://speakerdeck.com/goyoki/test-approach-that-improves-quality-and-agility-together speakerdeck.com2000人弱の参加者で緊張する登壇でしたが、準備を通して最近の経験や学びを体系的に整理でき、良い機会になりました。 声をかけていただいた運営の方々、参加者の方々、大変ありがとうございました。]]></content:encoded>
+            <enclosure length="0" url="https://ogimage.blog.st-hatena.com/12704538227038514066/6801883189118346273/1719748908"/>
+        </item>
+        <item>
+            <title><![CDATA[ソフトウェアの制約を解き放つ: TOCとDDDによる革新的アプローチ〜アジャイル・スクラム・DevOpsとDDD・TOCの統合〜 | Zennの「QA」のフィード]]></title>
+            <link>https://zenn.dev/devopsinqa/articles/89a8c70e1b7165</link>
+            <guid>https://zenn.dev/devopsinqa/articles/89a8c70e1b7165</guid>
+            <pubDate>Sun, 30 Jun 2024 10:03:00 GMT</pubDate>
+            <description><![CDATA[Podcast https://podcasters.spotify.com/pod/show/-qa-in-devops/episodes/TOCDDDDevOpsDDDTOC-e2klfm9   YouTube   概要 このエピソードでは、アジャイル、スクラム、DevOpsの概念とそれらがドメイン駆動設計（DDD）および制約理論（TOC）とどのように結びつくかを探ります。無駄をなくし、効率化...]]></description>
+            <content:encoded><![CDATA[Podcast https://podcasters.spotify.com/pod/show/-qa-in-devops/episodes/TOCDDDDevOpsDDDTOC-e2klfm9   YouTube   概要 このエピソードでは、アジャイル、スクラム、DevOpsの概念とそれらがドメイン駆動設計（DDD）および制約理論（TOC）とどのように結びつくかを探ります。無駄をなくし、効率化を図るためには、QAやエンジニアがTOCやDDDを学ぶことが有益である理由を解説します。アジャイル環境においては、スプリントごとにルールが変わることがあり、変化に強いアプローチが求められます...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--Sf6EFt4I--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25BD%25E3%2583%2595%25E3%2583%2588%25E3%2582%25A6%25E3%2582%25A7%25E3%2582%25A2%25E3%2581%25AE%25E5%2588%25B6%25E7%25B4%2584%25E3%2582%2592%25E8%25A7%25A3%25E3%2581%258D%25E6%2594%25BE%25E3%2581%25A4%253A%2520TOC%25E3%2581%25A8DDD%25E3%2581%25AB%25E3%2582%2588%25E3%2582%258B%25E9%259D%25A9%25E6%2596%25B0%25E7%259A%2584%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2581%25E3%2580%259C%25E3%2582%25A2%25E3%2582%25B8%25E3%2583%25A3%25E3%2582%25A4%25E3%2583%25AB%25E3%2583%25BB%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25A9%25E3%2583%25A0%25E3%2583%25BBDevOps%25E3%2581%25A8DDD%25E3%2583%25BB...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E4%25BA%2580%25E4%25BA%2595%25E4%25BA%25AE%25E4%25BB%258B%25EF%25BC%25A0%25E3%2583%259E%25E3%2583%258D%25E3%2583%25BC%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%2589%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzAxZjA0OGQ4MjYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[JetBrains AquaでPlaywriteのE2Eテストを書いてみた | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/collabostyle/articles/e25a39be26a3a4</link>
+            <guid>https://zenn.dev/collabostyle/articles/e25a39be26a3a4</guid>
+            <pubDate>Sun, 30 Jun 2024 06:04:47 GMT</pubDate>
+            <description><![CDATA[はじめに 「Aqua」は、JetBrains社が開発したテスト自動化に特化したIDE（統合開発環境）です。 テストコード作成やテスト実行が効率的におこなえるよう、以下機能などが備わっています。   E2Eフレームワーク: Selenium、Playwright、Cypressをサポート。  コーディング支援: Java、Kotlin、Python、JavaScript、TypeScriptなどの言...]]></description>
+            <content:encoded><![CDATA[はじめに 「Aqua」は、JetBrains社が開発したテスト自動化に特化したIDE（統合開発環境）です。 テストコード作成やテスト実行が効率的におこなえるよう、以下機能などが備わっています。   E2Eフレームワーク: Selenium、Playwright、Cypressをサポート。  コーディング支援: Java、Kotlin、Python、JavaScript、TypeScriptなどの言語対応。  Webインスペクタ: テスト対象のロケーターの検証や、CSSやXPathの指定を補完。  HTTPクライアント: テスト対象のAPIを呼び出すためのHTTPクライアントを内蔵。 ...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--HzXF7JSw--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:JetBrains%2520Aqua%25E3%2581%25A7Playwrite%25E3%2581%25AEE2E%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2582%2592%25E6%259B%25B8%25E3%2581%2584%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:TETRER%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzViM2I3NTQxYzUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25B3%25E3%2583%25A9%25E3%2583%259C%25E3%2582%25B9%25E3%2582%25BF%25E3%2582%25A4%25E3%2583%25AB%2520Developers%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzYyN2RmN2E0ZWIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Test | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/taguteadev/articles/68a645bdd6189d</link>
+            <guid>https://zenn.dev/taguteadev/articles/68a645bdd6189d</guid>
+            <pubDate>Sun, 30 Jun 2024 00:05:29 GMT</pubDate>
+            <description><![CDATA[テスト  てすと  テストです https://www.docker.com/ja-jp/products/docker-desktop/ function test(string arg) : void {  // 何らかの  // 処理を  // 書く }]]></description>
+            <content:encoded><![CDATA[テスト  てすと  テストです https://www.docker.com/ja-jp/products/docker-desktop/ function test(string arg) : void {  // 何らかの  // 処理を  // 書く }]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--9SjjMTlW--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_80:Test%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:TaguTea%2527s%2520Develope...%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTFBBMzV1M0Q0dENnYW5jRXFneFZOSF96aTFpYmYydkxQWDZLTDVBUFgyUXFxc1NBPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[第288回：　「ALTAのテキストをつくろう」43　（ユースケーステスト／後編） | Kouichi Akiyama]]></title>
+            <link>https://note.com/akiyama924/n/ncd068e082a3c</link>
+            <guid>https://note.com/akiyama924/n/ncd068e082a3c</guid>
+            <pubDate>Sat, 29 Jun 2024 21:32:17 GMT</pubDate>
+            <description><![CDATA[◀前の記事へ 次の記事へ▶︎  ≡ はじめに 続きをみる]]></description>
+            <content:encoded><![CDATA[◀前の記事へ 次の記事へ▶︎  ≡ はじめに 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/145591629/rectangle_large_type_2_76500433b3cf3a468a110b844951397e.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[スクラムフェス金沢の打ち合わせ第22回目をしてきた | 天の月]]></title>
+            <link>https://aki-m.hatenadiary.com/entry/2024/06/29/221400</link>
+            <guid>https://aki-m.hatenadiary.com/entry/2024/06/29/221400</guid>
+            <pubDate>Sat, 29 Jun 2024 13:14:00 GMT</pubDate>
+            <description><![CDATA[今日もスクフェス金沢の打ち合わせをしていったので、話した内容を書いていきます。 今日も残作業を粛々と整理していきました。 www.scrumfestkanazawa.org 香盤表作成 全体を通した感想 香盤表作成 Day2の香盤表を作っていきました。香盤表を作りながら、以下のような話をしました。 Day2は会場が9時から使えるようになるが、9:20-オンラインで開催できるようにする必要があるので...]]></description>
+            <content:encoded><![CDATA[今日もスクフェス金沢の打ち合わせをしていったので、話した内容を書いていきます。 今日も残作業を粛々と整理していきました。 www.scrumfestkanazawa.org 香盤表作成 全体を通した感想 香盤表作成 Day2の香盤表を作っていきました。香盤表を作りながら、以下のような話をしました。 Day2は会場が9時から使えるようになるが、9:20-オンラインで開催できるようにする必要があるので時間的には結構ばたばたな気がする 受付はまつさきさんとaki.mがいるが、aki.mは午前にセッションがあるのでえわさんに変わってもらう オンライン担当は特別つけなくていい OSTの説明は及部さんが作…]]></content:encoded>
+            <enclosure length="0" url="https://ogimage.blog.st-hatena.com/26006613655256878/6801883189118073385/1719666840"/>
+        </item>
+        <item>
+            <title><![CDATA[TSのType, Interface, Classから秒でテストデータ作成するnpm-pkg公開(Rust製) | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/masatodev/articles/d2e605d681335c</link>
+            <guid>https://zenn.dev/masatodev/articles/d2e605d681335c</guid>
+            <pubDate>Sat, 29 Jun 2024 10:19:03 GMT</pubDate>
+            <description><![CDATA[はじめまして🙋 タイトルの通りTypescriptのType, Interface, Classから秒でテストデータ作成するツールを公開しました👏👏👏   boostestと言います🚀🚀🚀 https://github.com/MasatoDev/boostest https://www.npmjs.com/package/boostest   boostestとは？ npmでインス...]]></description>
+            <content:encoded><![CDATA[はじめまして🙋 タイトルの通りTypescriptのType, Interface, Classから秒でテストデータ作成するツールを公開しました👏👏👏   boostestと言います🚀🚀🚀 https://github.com/MasatoDev/boostest https://www.npmjs.com/package/boostest   boostestとは？ npmでインストールするコマンドです。 日本語のREADMEには利用方法の動画もあります✨✨ ざっくりいうと下記のようなツールでして...  typescriptのtypeやinterface, classから瞬時にテ...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--KtBLkXTS--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:TS%25E3%2581%25AEType%252C%2520Interface%252C%2520Class%25E3%2581%258B%25E3%2582%2589%25E7%25A7%2592%25E3%2581%25A7%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E4%25BD%259C%25E6%2588%2590%25E3%2581%2599%25E3%2582%258Bnpm-pkg%25E5%2585%25AC%25E9%2596%258B%2528Rust%25E8%25A3%25BD%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:massa%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUdObXl4YlRPM0FfQjd4dkptZWVLZFZmZGk4eFctc3U0UEFDemU5ZXFUWTJLUT1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[アジャイル・スクラムにおける効果的なテスト戦略〜非言語コミュニケーションの力：Slackスタンプと自己開示の重要性〜 | Zennの「QA」のフィード]]></title>
+            <link>https://zenn.dev/devopsinqa/articles/d9f87ace8a5d69</link>
+            <guid>https://zenn.dev/devopsinqa/articles/d9f87ace8a5d69</guid>
+            <pubDate>Sat, 29 Jun 2024 10:03:00 GMT</pubDate>
+            <description><![CDATA[Podcast   YouTube https://youtu.be/9dH4fIp5RHk]]></description>
+            <content:encoded><![CDATA[Podcast   YouTube https://youtu.be/9dH4fIp5RHk]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--ABmD_0U9--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25A2%25E3%2582%25B8%25E3%2583%25A3%25E3%2582%25A4%25E3%2583%25AB%25E3%2583%25BB%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25A9%25E3%2583%25A0%25E3%2581%25AB%25E3%2581%258A%25E3%2581%2591%25E3%2582%258B%25E5%258A%25B9%25E6%259E%259C%25E7%259A%2584%25E3%2581%25AA%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E6%2588%25A6%25E7%2595%25A5%25E3%2580%259C%25E9%259D%259E%25E8%25A8%2580%25E8%25AA%259E%25E3%2582%25B3%25E3%2583%259F%25E3%2583%25A5%25E3%2583%258B%25E3%2582%25B1%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2581%25AE%25E5%258A%259B%25EF%25BC%259ASlack%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25B3%25E3%2583%2597%25E3%2581%25A8%25E8%2587%25AA%25E5%25B7%25B1%25E9%2596%258B%25E7%25A4%25BA%25E3%2581%25AE%25E9%2587%258D%25E8%25A6%2581%25E6%2580%25A7%25E3%2580%259C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E4%25BA%2580%25E4%25BA%2595%25E4%25BA%25AE%25E4%25BB%258B%25EF%25BC%25A0%25E3%2583%259E%25E3%2583%258D%25E3%2583%25BC%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%2589%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzAxZjA0OGQ4MjYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Dirty Testerがなぜふりかえりにこだわるのか | ごまずん]]></title>
+            <link>https://note.com/usk_ymst_p/n/n9659da01b118</link>
+            <guid>https://note.com/usk_ymst_p/n/n9659da01b118</guid>
+            <pubDate>Sat, 29 Jun 2024 05:26:13 GMT</pubDate>
+            <description><![CDATA[はじめに 本記事では「ふりかえり」についてDirty Tester、バキバキQAとしての思いを記載します。 続きをみる]]></description>
+            <content:encoded><![CDATA[はじめに 本記事では「ふりかえり」についてDirty Tester、バキバキQAとしての思いを記載します。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/145575325/rectangle_large_type_2_bced638a3fd085cac76abe0bf5e85a2a.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[Go の ogen でテストを実装する３つのパターン | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/otakakot/articles/380093bb02f33b</link>
+            <guid>https://zenn.dev/otakakot/articles/380093bb02f33b</guid>
+            <pubDate>Sat, 29 Jun 2024 00:24:57 GMT</pubDate>
+            <description><![CDATA[はじめに ogen 関連シリーズ第３弾です。 シリーズ化するとともに ogen がどんどん好きになっています。 第１弾 https://zenn.dev/otakakot/articles/43653194611d42 第２弾 https://zenn.dev/otakakot/articles/8f15c1bc906e4e 今回は ogen でテストを実装する際に使える３つのパターンをご紹介しま...]]></description>
+            <content:encoded><![CDATA[はじめに ogen 関連シリーズ第３弾です。 シリーズ化するとともに ogen がどんどん好きになっています。 第１弾 https://zenn.dev/otakakot/articles/43653194611d42 第２弾 https://zenn.dev/otakakot/articles/8f15c1bc906e4e 今回は ogen でテストを実装する際に使える３つのパターンをご紹介します。   ogen https://ogen.dev/ OpenAPI からコードを自動生成することができ、以下のような特徴があります。  生成されたコードで refrect や inter...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--OBzFw_2e--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Go%2520%25E3%2581%25AE%2520ogen%2520%25E3%2581%25A7%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2582%2592%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%2599%25E3%2582%258B%25EF%25BC%2593%25E3%2581%25A4%25E3%2581%25AE%25E3%2583%2591%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%25B3%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258A%25E3%2583%25BC%25E3%2581%259F%25E3%2581%258B%25E3%2581%2593%25E3%2583%25BC%25E3%2581%259F%25E3%2582%258D%25E3%2583%25BC%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzNlODRhZTM5M2MuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[スクラムフェス仙台にプロポーザルを出した | 天の月]]></title>
+            <link>https://aki-m.hatenadiary.com/entry/2024/06/28/233000</link>
+            <guid>https://aki-m.hatenadiary.com/entry/2024/06/28/233000</guid>
+            <pubDate>Fri, 28 Jun 2024 14:30:00 GMT</pubDate>
+            <description><![CDATA[www.scrumfestsendai.org スクラムフェス仙台にプロポーザルを出したので、今日はその告知です。 プロポーザル プロポーザルを出したきっかけ 今回チャレンジしたいこと おわりに プロポーザル confengine.com ■ 概要 本セッションでは、令和の学習指導要領の内容を紐解くことで、スクラムなどの知識を職場やコミュニティで広げようとしている方がより効果的に学びを伝えられるよ...]]></description>
+            <content:encoded><![CDATA[www.scrumfestsendai.org スクラムフェス仙台にプロポーザルを出したので、今日はその告知です。 プロポーザル プロポーザルを出したきっかけ 今回チャレンジしたいこと おわりに プロポーザル confengine.com ■ 概要 本セッションでは、令和の学習指導要領の内容を紐解くことで、スクラムなどの知識を職場やコミュニティで広げようとしている方がより効果的に学びを伝えられるような場の形成方法や、個々人がそれぞれのペースで学びを促進するための勉強会の設計をお伝えします。 ■ 詳細 学習指導要領は、文部科学省が作成する日本の小中高等学校における教育内容や目標を定めたガイドライ…]]></content:encoded>
+            <enclosure length="0" url="https://ogimage.blog.st-hatena.com/26006613655256878/6801883189117848864/1719585000"/>
+        </item>
+        <item>
+            <title><![CDATA[JSTQBシラバス V4.0.J01 から色々キャッチアップ〜テストレベルとテストタイプ〜 | ごまずん]]></title>
+            <link>https://note.com/usk_ymst_p/n/n0c9597826b94</link>
+            <guid>https://note.com/usk_ymst_p/n/n0c9597826b94</guid>
+            <pubDate>Fri, 28 Jun 2024 13:17:52 GMT</pubDate>
+            <description><![CDATA[はじめに 私はJSTQBのAL保有マンですが、FLを取ったのは2018年ですので、真面目にリスキリングしようと思いました。 この記事の公開は2024年6月で、試験は2024年10月以降らしい。 まだ慌てる時間じゃないということで、気ままにシラバスを見ていこうと思います。 また、おそらく私の記事ではISTQBの原文は参照しません。 過去の経験からあんまり意味がないとわかっているからです。 ex.日本...]]></description>
+            <content:encoded><![CDATA[はじめに 私はJSTQBのAL保有マンですが、FLを取ったのは2018年ですので、真面目にリスキリングしようと思いました。 この記事の公開は2024年6月で、試験は2024年10月以降らしい。 まだ慌てる時間じゃないということで、気ままにシラバスを見ていこうと思います。 また、おそらく私の記事ではISTQBの原文は参照しません。 過去の経験からあんまり意味がないとわかっているからです。 ex.日本語シラバスでよくわからんところはどうせ原文でもよくわからない。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://d2l930y2yx77uc.cloudfront.net/production/social_images/5d470c6e15f210e8458bbc83cf6bff3fbaebecc0.png"/>
+        </item>
+        <item>
+            <title><![CDATA[[Laravel] Factoryインスタンスをrawメソッドでarray化する | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/casti/articles/04ab4244af4ec6</link>
+            <guid>https://zenn.dev/casti/articles/04ab4244af4ec6</guid>
+            <pubDate>Fri, 28 Jun 2024 10:22:38 GMT</pubDate>
+            <description><![CDATA[v11.13.0で確認   概要 src/Illuminate/Database/Eloquent/Factories/Factory.phpのrawメソッドを使うことで、Factoryインスタンスをarrayに変換できる   tinker環境での実行結果 > User::factory()->raw() = [  "name" => "Eriberto VonRueden",  "email" ...]]></description>
+            <content:encoded><![CDATA[v11.13.0で確認   概要 src/Illuminate/Database/Eloquent/Factories/Factory.phpのrawメソッドを使うことで、Factoryインスタンスをarrayに変換できる   tinker環境での実行結果 > User::factory()->raw() = [  "name" => "Eriberto VonRueden",  "email" => "ewald.rohan@example.net",  "email_verified_at" => Illuminate\Support\...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--PGYyuGpL--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255BLaravel%255D%2520Factory%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25B3%25E3%2582%25B9%25E3%2582%2592raw%25E3%2583%25A1%25E3%2582%25BD%25E3%2583%2583%25E3%2583%2589%25E3%2581%25A7array%25E5%258C%2596%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Maru%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2NlZTUxYWVmZDcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[カオスエンジニアリング DevOpsとマイクロサービス時代のQA キーワード解説 | Zennの「QA」のフィード]]></title>
+            <link>https://zenn.dev/devopsinqa/articles/7f285f75075af5</link>
+            <guid>https://zenn.dev/devopsinqa/articles/7f285f75075af5</guid>
+            <pubDate>Fri, 28 Jun 2024 10:03:00 GMT</pubDate>
+            <description><![CDATA[カオスエンジニアリング カオスエンジニアリング（Chaos Engineering）は、システムの堅牢性と回復力を向上させるために、意図的に障害や異常を発生させ、そのシステムの挙動を観察・評価する手法です。この手法は、Netflixが開発した「Chaos Monkey」というツールに由来しており、実際の運用環境でランダムな障害を発生させることで、システムの弱点を発見し、改善するために使用されます。...]]></description>
+            <content:encoded><![CDATA[カオスエンジニアリング カオスエンジニアリング（Chaos Engineering）は、システムの堅牢性と回復力を向上させるために、意図的に障害や異常を発生させ、そのシステムの挙動を観察・評価する手法です。この手法は、Netflixが開発した「Chaos Monkey」というツールに由来しており、実際の運用環境でランダムな障害を発生させることで、システムの弱点を発見し、改善するために使用されます。以下では、カオスエンジニアリングがQA、DevOps、およびマイクロサービスの文脈でどのように重要であるかを説明します。 https://youtube.com/shorts/UsjDpG4...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--WSnEdfxO--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25AB%25E3%2582%25AA%25E3%2582%25B9%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%2520DevOps%25E3%2581%25A8%25E3%2583%259E%25E3%2582%25A4%25E3%2582%25AF%25E3%2583%25AD%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AEQA%2520%25E3%2582%25AD%25E3%2583%25BC%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%2589%25E8%25A7%25A3%25E8%25AA%25AC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E4%25BA%2580%25E4%25BA%2595%25E4%25BA%25AE%25E4%25BB%258B%25EF%25BC%25A0%25E3%2583%259E%25E3%2583%258D%25E3%2583%25BC%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%2589%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzAxZjA0OGQ4MjYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[WACATE2024 夏に参加しました！ | Zennの「QA」のフィード]]></title>
+            <link>https://zenn.dev/akihos/articles/c71f1f31925744</link>
+            <guid>https://zenn.dev/akihos/articles/c71f1f31925744</guid>
+            <pubDate>Fri, 28 Jun 2024 09:12:49 GMT</pubDate>
+            <description><![CDATA[WACATE2024 夏に参加しました！ WACATE2024 夏 〜テストケースには、必ず作った人の意図が存在する〜に参加しました。 今回、初めて合宿型のエンジニアイベントに参加し、非常に実りのある体験をさせていただきました。 自分が何を考えて何を感じたのか整理するとともに、どなたかの目に触れて少しでもWACATEの認知度が高まればいいなあと思いこちらの記事を書きました。 自分がこのイベントで感...]]></description>
+            <content:encoded><![CDATA[WACATE2024 夏に参加しました！ WACATE2024 夏 〜テストケースには、必ず作った人の意図が存在する〜に参加しました。 今回、初めて合宿型のエンジニアイベントに参加し、非常に実りのある体験をさせていただきました。 自分が何を考えて何を感じたのか整理するとともに、どなたかの目に触れて少しでもWACATEの認知度が高まればいいなあと思いこちらの記事を書きました。 自分がこのイベントで感じた楽しさが伝わるよう、ゆるめに書きます。   自己紹介 2024年で社会人6年目になります。今年4月にSIerの開発エンジニアから品質コンサルティングサービスのQAエンジニアに転職しました...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--BE2hcmZh--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:WACATE2024%2520%25E5%25A4%258F%25E3%2581%25AB%25E5%258F%2582%25E5%258A%25A0%25E3%2581%2597%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%25EF%25BC%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Akiho%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzE0MTc0YTMyMjIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[開発生産性Conference 2024にシルバースポンサーとして協賛＆登壇します | QA - Tabelog Tech Blog]]></title>
+            <link>https://tech-blog.tabelog.com/entry/dev-productivity-con-2024-about-the-booth-and-the-speaker</link>
+            <guid>https://tech-blog.tabelog.com/entry/dev-productivity-con-2024-about-the-booth-and-the-speaker</guid>
+            <pubDate>Fri, 28 Jun 2024 03:23:45 GMT</pubDate>
+            <description><![CDATA[おはようございます！ (開発生産性Conference 2024)の現地、虎ノ門ヒルズから品質管理室の荻野 (@kokotatata)がお届けします。 食べログは2024年6月28~29日に開催される開発生産性カンファレンスへと協賛し、ブース出展とスポンサーセッション枠での登壇をします。 ブースでは、Four keysについてのお悩みをみなさまとディスカッションをするためのボードを用意しています。...]]></description>
+            <content:encoded><![CDATA[おはようございます！ (開発生産性Conference 2024)の現地、虎ノ門ヒルズから品質管理室の荻野 (@kokotatata)がお届けします。 食べログは2024年6月28~29日に開催される開発生産性カンファレンスへと協賛し、ブース出展とスポンサーセッション枠での登壇をします。 ブースでは、Four keysについてのお悩みをみなさまとディスカッションをするためのボードを用意しています。 また、キーキャップ、ステッカー、靴下などのノベルティをご用意しておりますので、みなさまお気軽にお立ち寄りください。 明日(6月29日)の11:20-12:00にホール5-B会場では、品質管理室の菅原…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn-ak.f.st-hatena.com/images/fotolife/t/tabelog_tech_blog/20240628/20240628114225.png"/>
+        </item>
+        <item>
+            <title><![CDATA[ふるさと納税を福利厚生や組織活性化に活用できる２つの秘策 | SHIFT Group 技術ブログ]]></title>
+            <link>https://note.shiftinc.jp/n/nb0be693041b2</link>
+            <guid>https://note.shiftinc.jp/n/nb0be693041b2</guid>
+            <pubDate>Fri, 28 Jun 2024 01:48:00 GMT</pubDate>
+            <description><![CDATA[こんにちは、SHIFT DAAE（ダーエ）戦略部の荒木です。同部にてマーケティングアドバイザー、ふるさと納税サービス「まん福」の統括担当を経て、現在は地方創生、 自治体向けの新規企画などを担当しています。 この記事はこんな方におすすめ 続きをみる]]></description>
+            <content:encoded><![CDATA[こんにちは、SHIFT DAAE（ダーエ）戦略部の荒木です。同部にてマーケティングアドバイザー、ふるさと納税サービス「まん福」の統括担当を経て、現在は地方創生、 自治体向けの新規企画などを担当しています。 この記事はこんな方におすすめ 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/145447068/rectangle_large_type_2_23b384950daa22dad26d344e08c09ec1.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[Ranorex DesignWise | Ranorex Blog - UIテスト自動化ツール Ranorex]]></title>
+            <link>https://ranorex.techmatrix.jp/blog/2024/06/28/ranorex-designwise/</link>
+            <guid>https://ranorex.techmatrix.jp/?p=25375</guid>
+            <pubDate>Fri, 28 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[高品質な自動テストを構築することは、リリース前にソフトウェアを最適化し、洗練されたものにするために非常に重要です。しかし、プログラマーにとって、できるだけ多くのバグを検出するために多くのテストを構築することは、時間のかか […] The post Ranorex DesignWise first appeared on UIテスト自動化ツール Ranorex.]]></description>
+            <content:encoded><![CDATA[高品質な自動テストを構築することは、リリース前にソフトウェアを最適化し、洗練されたものにするために非常に重要です。しかし、プログラマーにとって、できるだけ多くのバグを検出するために多くのテストを構築することは、時間のかか […] The post Ranorex DesignWise first appeared on UIテスト自動化ツール Ranorex.]]></content:encoded>
+            <category>事例・ソリューション</category>
+            <enclosure length="0" type="png" url="https://57.180.23.150/wp-content/uploads/rx-logo-desktop-dark.png"/>
+        </item>
+        <item>
+            <title><![CDATA[2024.06.28ナレッジNEW   新QC7つ道具について解説 -コミュニケーションツールとして現役バリバリな手法、その使い方と使い分け-    QC7つ道具  新QC7つ道具  QC  品質管理... | メディア | HQW!]]></title>
+            <link>https://www.veriserve.co.jp/helloqualityworld/media/20240628001</link>
+            <guid>https://www.veriserve.co.jp/helloqualityworld/media/20240628001</guid>
+            <pubDate>Fri, 28 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[2024.06.28 ナレッジ NEW 新QC7つ道具について解説 -コミュニケーションツールとして現役バリバリな手法、その使い方と使い分け-  QC7つ道具 新QC7つ道具 QC 品質管理 SQC TQC TQM ナレッジ]]></description>
+            <content:encoded><![CDATA[2024.06.28 ナレッジ NEW 新QC7つ道具について解説 -コミュニケーションツールとして現役バリバリな手法、その使い方と使い分け-  QC7つ道具 新QC7つ道具 QC 品質管理 SQC TQC TQM ナレッジ]]></content:encoded>
+            <enclosure length="0" type="png" url="https://www.veriserve.co.jp/helloqualityworld/media/06bfb1cc911a40c894ee05da52702be9/da4908216a754e47ac8204ffc630140b/7-new-QC-tools.png"/>
+        </item>
+        <item>
+            <title><![CDATA[スクラムフェス三河のプロポーザルを眺めたり、書いてみたりする会に参加してきた | 天の月]]></title>
+            <link>https://aki-m.hatenadiary.com/entry/2024/06/27/225356</link>
+            <guid>https://aki-m.hatenadiary.com/entry/2024/06/27/225356</guid>
+            <pubDate>Thu, 27 Jun 2024 13:53:56 GMT</pubDate>
+            <description><![CDATA[distributed-agile-team.connpass.com こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。(9:30くらいから遅れて参加しました) やってやろうじゃないかメカアジャイル！老舗製造業がプロダクションプリンターで取り組んだハードウェアアジャイルの実例を紹介します スクフェスに参加したら越境の一歩を踏み出せた話、そして小さな取り組みでも得られたも...]]></description>
+            <content:encoded><![CDATA[distributed-agile-team.connpass.com こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。(9:30くらいから遅れて参加しました) やってやろうじゃないかメカアジャイル！老舗製造業がプロダクションプリンターで取り組んだハードウェアアジャイルの実例を紹介します スクフェスに参加したら越境の一歩を踏み出せた話、そして小さな取り組みでも得られたもの（仮） インプットした情報をいい話だっただけで終わらせない！具現化するためにやったこと あまり語られないテスラの組織の秘密、そっと教えます。 グイグイ系QAエンジニアリングマネージャーの仕事 全体を…]]></content:encoded>
+            <enclosure length="0" url="https://ogimage.blog.st-hatena.com/26006613655256878/6801883189117599559/1719496436"/>
+        </item>
+        <item>
+            <title><![CDATA[JSTQBシラバス V4.0.J01 から色々キャッチアップ〜コンテキストに応じたソフトウェア開発ライフサイクルでのテスト part2〜 | ごまずん]]></title>
+            <link>https://note.com/usk_ymst_p/n/n32a20bca772b</link>
+            <guid>https://note.com/usk_ymst_p/n/n32a20bca772b</guid>
+            <pubDate>Thu, 27 Jun 2024 12:52:30 GMT</pubDate>
+            <description><![CDATA[はじめに 私はJSTQBのAL保有マンですが、FLを取ったのは2018年ですので、真面目にリスキリングしようと思いました。 この記事の公開は2024年6月で、試験は2024年10月以降らしい。 まだ慌てる時間じゃないということで、気ままにシラバスを見ていこうと思います。 また、おそらく私の記事ではISTQBの原文は参照しません。 過去の経験からあんまり意味がないとわかっているからです。 ex.日本...]]></description>
+            <content:encoded><![CDATA[はじめに 私はJSTQBのAL保有マンですが、FLを取ったのは2018年ですので、真面目にリスキリングしようと思いました。 この記事の公開は2024年6月で、試験は2024年10月以降らしい。 まだ慌てる時間じゃないということで、気ままにシラバスを見ていこうと思います。 また、おそらく私の記事ではISTQBの原文は参照しません。 過去の経験からあんまり意味がないとわかっているからです。 ex.日本語シラバスでよくわからんところはどうせ原文でもよくわからない。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://d2l930y2yx77uc.cloudfront.net/production/social_images/d80ed1347efb7096ee6966acbfef2bfb013313a4.png"/>
+        </item>
+        <item>
+            <title><![CDATA[心理的安全性 DevOpsとマイクロサービス時代のQA キーワード解説 | Zennの「QA」のフィード]]></title>
+            <link>https://zenn.dev/devopsinqa/articles/260a90690de0d4</link>
+            <guid>https://zenn.dev/devopsinqa/articles/260a90690de0d4</guid>
+            <pubDate>Thu, 27 Jun 2024 10:03:00 GMT</pubDate>
+            <description><![CDATA[心理的安全性とは 心理的安全性（Psychological Safety）は、チームメンバーが自分の意見やアイデア、懸念を自由に表現できる環境のことを指します。この概念は、エイミー・エドモンドソン（Amy Edmondson）によって提唱され、Googleの「Aristotleプロジェクト」によって広く知られるようになりました。心理的安全性が高いチームでは、メンバーがミスを恐れずに発言できるため、...]]></description>
+            <content:encoded><![CDATA[心理的安全性とは 心理的安全性（Psychological Safety）は、チームメンバーが自分の意見やアイデア、懸念を自由に表現できる環境のことを指します。この概念は、エイミー・エドモンドソン（Amy Edmondson）によって提唱され、Googleの「Aristotleプロジェクト」によって広く知られるようになりました。心理的安全性が高いチームでは、メンバーがミスを恐れずに発言できるため、創造性や問題解決能力が向上し、全体的なパフォーマンスが改善されます。以下では、心理的安全性がQA、DevOps、およびマイクロサービスの文脈においてどのように重要であるかを説明します。 ht...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--SxEowbux--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25BF%2583%25E7%2590%2586%25E7%259A%2584%25E5%25AE%2589%25E5%2585%25A8%25E6%2580%25A7%2520DevOps%25E3%2581%25A8%25E3%2583%259E%25E3%2582%25A4%25E3%2582%25AF%25E3%2583%25AD%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AEQA%2520%25E3%2582%25AD%25E3%2583%25BC%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%2589%25E8%25A7%25A3%25E8%25AA%25AC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E4%25BA%2580%25E4%25BA%2595%25E4%25BA%25AE%25E4%25BB%258B%25EF%25BC%25A0%25E3%2583%259E%25E3%2583%258D%25E3%2583%25BC%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%2589%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzAxZjA0OGQ4MjYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[WACATE2024夏に参加しました | Zennの「QA」のフィード]]></title>
+            <link>https://zenn.dev/loglass/articles/c7af93b861f5bb</link>
+            <guid>https://zenn.dev/loglass/articles/c7af93b861f5bb</guid>
+            <pubDate>Thu, 27 Jun 2024 05:20:34 GMT</pubDate>
+            <description><![CDATA[はじめに みなさんこんにちは！ 夏ですね〜！暑いですね〜！ 今回、6/22・23の2日間に渡って行われた WACATEという勉強会に参加したので、レポートを書こうと思います。 ゆるゆると書いていくので、ぜひ通勤時間の暇つぶしにでもお読み頂けると嬉しいです。 https://wacate.jp/   WACATEってなに？ WACATEとは、若手テストエンジニア向けのワークショップです！  Work...]]></description>
+            <content:encoded><![CDATA[はじめに みなさんこんにちは！ 夏ですね〜！暑いですね〜！ 今回、6/22・23の2日間に渡って行われた WACATEという勉強会に参加したので、レポートを書こうと思います。 ゆるゆると書いていくので、ぜひ通勤時間の暇つぶしにでもお読み頂けると嬉しいです。 https://wacate.jp/   WACATEってなに？ WACATEとは、若手テストエンジニア向けのワークショップです！  Workshop for Accelerating CApable Testing Engineers：内に秘めた可能性を持つテストエンジニアたちを加速させるためのワークショップ  自分は最近知りま...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--ymzJ4Z_o--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:WACATE2024%25E5%25A4%258F%25E3%2581%25AB%25E5%258F%2582%25E5%258A%25A0%25E3%2581%2597%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Kyosuke%2520Awata%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzRlNWQ4ZTRjZjguanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2582%25B9%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2MzYmYxMDc5MDQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[2024/6/26（水）、「人生が整うマウンティング大全」読書会に参加しました。 | toshimana's diary]]></title>
+            <link>https://toshimana.hatenablog.com/entry/2024/06/27/000141</link>
+            <guid>https://toshimana.hatenablog.com/entry/2024/06/27/000141</guid>
+            <pubDate>Wed, 26 Jun 2024 15:01:41 GMT</pubDate>
+            <description><![CDATA[はじめに 「南町通りイカ研究所 デベロッパー部」の活動として開催された「人生が整うマウンティング大全」読書会に参加しました。minamimachi.connpass.com人生が整うマウンティング大全作者:マウンティングポリス技術評論社Amazon正直なところ、「ネタ本」だと思いワイガヤできればいいや、くらいに思っての会でしたが、やってみると事前の想定以上に役に立つ考えがあって面白かったです。マウ...]]></description>
+            <content:encoded><![CDATA[はじめに 「南町通りイカ研究所 デベロッパー部」の活動として開催された「人生が整うマウンティング大全」読書会に参加しました。minamimachi.connpass.com人生が整うマウンティング大全作者:マウンティングポリス技術評論社Amazon正直なところ、「ネタ本」だと思いワイガヤできればいいや、くらいに思っての会でしたが、やってみると事前の想定以上に役に立つ考えがあって面白かったです。マウンティング、という日常で避けて通れないネタであり参加者の体験談も豊富に出てきて、とても面白い会でした。想定よりも、人が集まって読書会するのに向いている本だと思いました。 ABD(Active Book…]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://m.media-amazon.com/images/I/41o2i6e-msL._SL500_.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[オブジェクト指向のこころを読む会 Vol22に参加してきた | 天の月]]></title>
+            <link>https://aki-m.hatenadiary.com/entry/2024/06/26/213142</link>
+            <guid>https://aki-m.hatenadiary.com/entry/2024/06/26/213142</guid>
+            <pubDate>Wed, 26 Jun 2024 12:31:42 GMT</pubDate>
+            <description><![CDATA[yr-camp.connpass.com こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 会の概要 会の様子 20章応用問題1 20章応用問題2 20章応用問題3 20章あなたの意見 21章応用問題 21章あなたの意見1 21章あなたの意見2 会全体を通した感想 会の概要 今日もタイトル通りオブジェクト指向のこころを読んで応用問題を解いていきました。 今日は20章と2...]]></description>
+            <content:encoded><![CDATA[yr-camp.connpass.com こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 会の概要 会の様子 20章応用問題1 20章応用問題2 20章応用問題3 20章あなたの意見 21章応用問題 21章あなたの意見1 21章あなたの意見2 会全体を通した感想 会の概要 今日もタイトル通りオブジェクト指向のこころを読んで応用問題を解いていきました。 今日は20章と21章が対象で、応用問題を解いていきました。 会の様子 20章応用問題1 凝集性が低く、変更容易性も下がってしまうという話が出ていました。 また、コードを書くときに考えることも多くなってしまうのもデメリ…]]></content:encoded>
+            <enclosure length="0" url="https://ogimage.blog.st-hatena.com/26006613655256878/6801883189117335637/1719405102"/>
+        </item>
+        <item>
+            <title><![CDATA[生成AIはどうテストを変えるのか (AI Test Lab vol.1) | SHIFT EVOLVE グループの新着イベント]]></title>
+            <link>https://shiftevolve.connpass.com/event/322911/</link>
+            <guid>https://shiftevolve.connpass.com/event/322911/</guid>
+            <pubDate>Wed, 26 Jun 2024 11:25:36 GMT</pubDate>
+            <description><![CDATA[開催日時: 2024/07/24 19:30 ～ 20:50<br />開催場所: オンライン<br /><br /><h2>Overview: TEST x AI Meetup</h2> <p>「人が作った要件に対して人が開発し、テストをする」</p> <p>従来は当たり前だと思っていたことが、生成AIの登場と活用の広がりとともに大きく変わりつつあります。生成AIにどこまで置き換えられるようにな...]]></description>
+            <content:encoded><![CDATA[開催日時: 2024/07/24 19:30 ～ 20:50<br />開催場所: オンライン<br /><br /><h2>Overview: TEST x AI Meetup</h2> <p>「人が作った要件に対して人が開発し、テストをする」</p> <p>従来は当たり前だと思っていたことが、生成AIの登場と活用の広がりとともに大きく変わりつつあります。生成AIにどこまで置き換えられるようになるのか、要件定義や開発の目線では多く語られるテーマですが、本シリーズではテストにフォーカスしてみました。初回となる今回はツールベンダー、テストベンダー、自動テストエンジニアのそれぞれの目線でテストとAI活用を掘り下げます。</p> <p>とどまるところを知らない生成AIの発展が、ソフトウェアテストをどう変えるのか、ご注目ください。</p> <h2>Contents</h2> <ol> <li>登壇者の取り組み紹介 10～15分程度ずつ</li> <li>パネルディスカッション 40～50分程度</li> </ol> <h2>Speakers</h2> <h3>伊藤 望 『E2Eテスト自動化プラ...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://media.connpass.com/thumbs/e7/19/e7194acb91bfe39dd8c675f4a54242c9.png"/>
+        </item>
+        <item>
+            <title><![CDATA[テスト技法:デシジョンテーブルってなんなの？〜ごまずんのオレオレデシジョンテーブル編〜 | ごまずん]]></title>
+            <link>https://note.com/usk_ymst_p/n/nf187f8c33005</link>
+            <guid>https://note.com/usk_ymst_p/n/nf187f8c33005</guid>
+            <pubDate>Wed, 26 Jun 2024 11:23:16 GMT</pubDate>
+            <description><![CDATA[はじめに 本記事は私がデシジョンテーブルを書く時に大切にしていることや、オレオレのやり方について解説します。 続きをみる]]></description>
+            <content:encoded><![CDATA[はじめに 本記事は私がデシジョンテーブルを書く時に大切にしていることや、オレオレのやり方について解説します。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://d2l930y2yx77uc.cloudfront.net/production/social_images/9cc3ccfa5753e8b1b107ca64289940d732e2e08f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[ポイント解説｜探索的テストには、セッションベースド探索的テストを使おう | SHIFT Group 技術ブログ]]></title>
+            <link>https://note.shiftinc.jp/n/nc09a0349569b</link>
+            <guid>https://note.shiftinc.jp/n/nc09a0349569b</guid>
+            <pubDate>Wed, 26 Jun 2024 10:38:19 GMT</pubDate>
+            <description><![CDATA[はじめに 続きをみる]]></description>
+            <content:encoded><![CDATA[はじめに 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/144564795/rectangle_large_type_2_b38fa4950195760d21baf5d1eda9fcb0.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[《24新卒》AWS Summit Japan 2024に参加してきました！ | SHIFT Group 技術ブログ]]></title>
+            <link>https://note.shiftinc.jp/n/n7038ad4a16e6</link>
+            <guid>https://note.shiftinc.jp/n/n7038ad4a16e6</guid>
+            <pubDate>Wed, 26 Jun 2024 10:33:16 GMT</pubDate>
+            <description><![CDATA[はじめに 続きをみる]]></description>
+            <content:encoded><![CDATA[はじめに 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/145114457/rectangle_large_type_2_2e91bf7f0abd0dce15a81c7c305b7cb9.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[Four Keys DevOpsとマイクロサービス時代のQA キーワード解説 | Zennの「QA」のフィード]]></title>
+            <link>https://zenn.dev/devopsinqa/articles/9a0b6979cc0c53</link>
+            <guid>https://zenn.dev/devopsinqa/articles/9a0b6979cc0c53</guid>
+            <pubDate>Wed, 26 Jun 2024 10:03:00 GMT</pubDate>
+            <description><![CDATA[Four Keys "Four Keys"は、GoogleのDevOps Research and Assessment (DORA) チームが特定した、ソフトウェアデリバリとパフォーマンスの成功を示す4つの重要なメトリクスのことを指します。これらのメトリクスは、ソフトウェア開発およびデプロイメントのパフォーマンスを評価し、改善するための基準として広く使用されています。以下では、Four Keys...]]></description>
+            <content:encoded><![CDATA[Four Keys "Four Keys"は、GoogleのDevOps Research and Assessment (DORA) チームが特定した、ソフトウェアデリバリとパフォーマンスの成功を示す4つの重要なメトリクスのことを指します。これらのメトリクスは、ソフトウェア開発およびデプロイメントのパフォーマンスを評価し、改善するための基準として広く使用されています。以下では、Four Keysの各メトリクスについて説明し、それらがQA、DevOps、およびマイクロサービスにおいてどのように活用されるかを詳述します。 https://youtube.com/shorts/z6HHN...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--tfWPs9fV--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Four%2520Keys%2520DevOps%25E3%2581%25A8%25E3%2583%259E%25E3%2582%25A4%25E3%2582%25AF%25E3%2583%25AD%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AEQA%2520%25E3%2582%25AD%25E3%2583%25BC%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%2589%25E8%25A7%25A3%25E8%25AA%25AC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E4%25BA%2580%25E4%25BA%2595%25E4%25BA%25AE%25E4%25BB%258B%25EF%25BC%25A0%25E3%2583%259E%25E3%2583%258D%25E3%2583%25BC%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%2589%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzAxZjA0OGQ4MjYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Vite+React+TypeScript環境にJestとReact Testing Libraryを導入する | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/zhenyou620/articles/25d6f5810a7881</link>
+            <guid>https://zenn.dev/zhenyou620/articles/25d6f5810a7881</guid>
+            <pubDate>Wed, 26 Jun 2024 07:05:08 GMT</pubDate>
+            <description><![CDATA[1．Jest, React Testing Libraryの導入 npm install --save-dev jest ts-jest @types/jest jest-environment-jsdom@latest @testing-library/react@latest @testing-library/jest-dom@latest @testing-library/user-even...]]></description>
+            <content:encoded><![CDATA[1．Jest, React Testing Libraryの導入 npm install --save-dev jest ts-jest @types/jest jest-environment-jsdom@latest @testing-library/react@latest @testing-library/jest-dom@latest @testing-library/user-event@latest 2．package.jsonにjestコマンドを追加  "scripts": {  # 略  "test": "jest"  },   3．con...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--hg7Sw7W1--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Vite%252BReact%252BTypeScript%25E7%2592%25B0%25E5%25A2%2583%25E3%2581%25ABJest%25E3%2581%25A8React%2520Testing%2520Library%25E3%2582%2592%25E5%25B0%258E%25E5%2585%25A5%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mayu%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I5ODA4ZjExZWMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[APIdogを利用して、QAエンジニアによるAPIテストを実施してみる | Zennの「QA」のフィード]]></title>
+            <link>https://zenn.dev/kkuro/articles/9006e768cb5f63</link>
+            <guid>https://zenn.dev/kkuro/articles/9006e768cb5f63</guid>
+            <pubDate>Wed, 26 Jun 2024 05:59:05 GMT</pubDate>
+            <description><![CDATA[はじめに これまで、CUIベースやPostmanを利用したAPIテストを実施してきましたが、これまで結合テスト期間中に一人で実施することが多かったので、特にテストツールには拘りはありませんでした。 今回は複数人のチームでテストを実施すること、API実装と並行してAPIテストを実施するアジャイル開発を行うため、チームでテスト環境を共有できるツールが必要になりました。実験的なプロセスでもあったため、4...]]></description>
+            <content:encoded><![CDATA[はじめに これまで、CUIベースやPostmanを利用したAPIテストを実施してきましたが、これまで結合テスト期間中に一人で実施することが多かったので、特にテストツールには拘りはありませんでした。 今回は複数人のチームでテストを実施すること、API実装と並行してAPIテストを実施するアジャイル開発を行うため、チームでテスト環境を共有できるツールが必要になりました。実験的なプロセスでもあったため、4人までならFree利用(かつクレジットカード登録不要)ができるAPIDogを利用することになりました。   APIDogとは APIDogは、API開発とテストを効率化するためのAPI開発プ...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--WyMSlzB0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:APIdog%25E3%2582%2592%25E5%2588%25A9%25E7%2594%25A8%25E3%2581%2597%25E3%2581%25A6%25E3%2580%2581QA%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2581%25AB%25E3%2582%2588%25E3%2582%258BAPI%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2582%2592%25E5%25AE%259F%25E6%2596%25BD%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kkuro%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUFjSFR0ZWhCN3F5VjZJZEtzOEtpZEhuNmZuWURLMHhLRVRwUUVMVmpnazdsLXJ5MHNBPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[6月26（水）27日（木）開催『ベリサーブ モビリティ イニシアティブ 2024』 | ベリサーブ/VeriServe グループの新着イベント]]></title>
+            <link>https://veriserve-event.connpass.com/event/319058/</link>
+            <guid>https://veriserve-event.connpass.com/event/319058/</guid>
+            <pubDate>Wed, 26 Jun 2024 02:08:15 GMT</pubDate>
+            <description><![CDATA[開催日時: 2024/06/26 13:00 ～ 2024/06/27 15:45<br />開催場所: オンライン<br /><br /><h2>■Veriserve Mobility Initiative（ベリサーブ モビリティ イニシアティブ）について</h2> <hr> <p></p> Veriserve Mobility Initiative（以下 VMI）は、新時代の品質創造をリードす...]]></description>
+            <content:encoded><![CDATA[開催日時: 2024/06/26 13:00 ～ 2024/06/27 15:45<br />開催場所: オンライン<br /><br /><h2>■Veriserve Mobility Initiative（ベリサーブ モビリティ イニシアティブ）について</h2> <hr> <p></p> Veriserve Mobility Initiative（以下 VMI）は、新時代の品質創造をリードするベリサーブがお届けする、MaaS/CASE時代の最先端技術カンファレンスです。 2021年より開催し、延べ3900名を超える方々にご参加いただいています。<p></p><p></p> <h2>■Veriserve Mobility Initiative 2024のテーマならびに開催趣旨</h2> <hr> <p></p> 本年度のテーマは『世界で打ち克つ「モビリティ品質」を考える－SDV時代の日本のモビリティ・イノベーションを加速する－』です。<br>  人やモノの移動を、安全に、スマートにするモビリティ新時代を迎え、その実現はSDVのみならず社会の新たなシステムを支えるソフトウェア開発にか...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://media.connpass.com/thumbs/d7/13/d713a3f46553b51f1d5e88fb07442815.png"/>
+        </item>
+        <item>
+            <title><![CDATA[2024.06.26ビジネスNEW   「技術の社会実装」に使命感、ウルシステムズ・漆原茂氏が目指すもの(後編)    エンジニア  働き方  システム開発  ソフトウェア開発  AI | メディア | HQW!]]></title>
+            <link>https://www.veriserve.co.jp/helloqualityworld/media/20240626001</link>
+            <guid>https://www.veriserve.co.jp/helloqualityworld/media/20240626001</guid>
+            <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[2024.06.26 ビジネス NEW 「技術の社会実装」に使命感、ウルシステムズ・漆原茂氏が目指すもの(後編)  エンジニア 働き方 システム開発 ソフトウェア開発 AI]]></description>
+            <content:encoded><![CDATA[2024.06.26 ビジネス NEW 「技術の社会実装」に使命感、ウルシステムズ・漆原茂氏が目指すもの(後編)  エンジニア 働き方 システム開発 ソフトウェア開発 AI]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://www.veriserve.co.jp/helloqualityworld/media/06bfb1cc911a40c894ee05da52702be9/6578bd01dc594c6abf62268b81fbc345/urs02001.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WACATE2024夏 BPP賞をいただきました | 杞憂]]></title>
+            <link>https://note.com/kiyou77/n/nf4cff7f33385</link>
+            <guid>https://note.com/kiyou77/n/nf4cff7f33385</guid>
+            <pubDate>Tue, 25 Jun 2024 23:49:39 GMT</pubDate>
+            <description><![CDATA[先日、WACATE2024 夏に参加した旨の記事を書きましたが、実はそこでBest Position Paper賞、通称BPP賞をいただいていたのでした。 続きをみる]]></description>
+            <content:encoded><![CDATA[先日、WACATE2024 夏に参加した旨の記事を書きましたが、実はそこでBest Position Paper賞、通称BPP賞をいただいていたのでした。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://assets.st-note.com/production/uploads/images/145208089/rectangle_large_type_2_850929ebce0dee838fa7e01122eef7e0.jpg?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[大人のソフトウェアテスト雑談会 #217【志】に参加してきた | 天の月]]></title>
+            <link>https://aki-m.hatenadiary.com/entry/2024/06/25/232440</link>
+            <guid>https://aki-m.hatenadiary.com/entry/2024/06/25/232440</guid>
+            <pubDate>Tue, 25 Jun 2024 14:24:40 GMT</pubDate>
+            <description><![CDATA[ost-zatu.connpass.com 今週もテストの街葛飾に行ってきたので、会の様子と感想を書いていこうと思います。 スクラムフェス大阪の感想戦 日本語と同じニュアンスの外国語 文房具ガチ勢 JaSST関西 全体を通した感想 スクラムフェス大阪の感想戦 皆さんスクラムフェス大阪に参加されていたので、感想戦をしていきました。 Ryoさんは発表を70minしたあとに体調不良でずっと寝ていたそうで...]]></description>
+            <content:encoded><![CDATA[ost-zatu.connpass.com 今週もテストの街葛飾に行ってきたので、会の様子と感想を書いていこうと思います。 スクラムフェス大阪の感想戦 日本語と同じニュアンスの外国語 文房具ガチ勢 JaSST関西 全体を通した感想 スクラムフェス大阪の感想戦 皆さんスクラムフェス大阪に参加されていたので、感想戦をしていきました。 Ryoさんは発表を70minしたあとに体調不良でずっと寝ていたそうで残念ながらあまり楽しめなかったそうですが、各地域盛り上がっていて非常によかったという話をしました。 ただ、関西に住んでいる人からすると、スクラムフェス大阪と言っていながらもなんで大阪であまり人が集まっ…]]></content:encoded>
+            <enclosure length="0" url="https://ogimage.blog.st-hatena.com/26006613655256878/6801883189117115318/1719325480"/>
+        </item>
+        <item>
+            <title><![CDATA[リバースモデリングという名の深淵 - WACATE2024夏に参加して思ったこと | 杞憂]]></title>
+            <link>https://note.com/kiyou77/n/n368df5224ef9</link>
+            <guid>https://note.com/kiyou77/n/n368df5224ef9</guid>
+            <pubDate>Tue, 25 Jun 2024 10:52:49 GMT</pubDate>
+            <description><![CDATA[WACATE2024夏に参加してきました。参加しての感想、というかリバースモデリングという言葉にまつわる理解を簡単に書いておきます。 WACATEについては前回の2023冬に参加したのが初めてですが、当時はそもそもオフラインのイベント参加自体が初めてで、それなりに緊張していたことを思うと、今回は前日まで存在を忘れていたくらいには余裕があり、この半年で随分こなれを得たなあと感慨深いものがあります。 ...]]></description>
+            <content:encoded><![CDATA[WACATE2024夏に参加してきました。参加しての感想、というかリバースモデリングという言葉にまつわる理解を簡単に書いておきます。 WACATEについては前回の2023冬に参加したのが初めてですが、当時はそもそもオフラインのイベント参加自体が初めてで、それなりに緊張していたことを思うと、今回は前日まで存在を忘れていたくらいには余裕があり、この半年で随分こなれを得たなあと感慨深いものがあります。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://d2l930y2yx77uc.cloudfront.net/production/social_images/431ba7420d80310548e32c071529762c80d8aaaf.png"/>
+        </item>
+        <item>
+            <title><![CDATA[ビッグバンリリース DevOpsとマイクロサービス時代のQA キーワード解説 | Zennの「QA」のフィード]]></title>
+            <link>https://zenn.dev/devopsinqa/articles/dd74c7cb58c7a5</link>
+            <guid>https://zenn.dev/devopsinqa/articles/dd74c7cb58c7a5</guid>
+            <pubDate>Tue, 25 Jun 2024 10:03:01 GMT</pubDate>
+            <description><![CDATA[ビックバンリリースとは ビッグバンリリースは、新しいシステムや大規模なアップデートを一度にリリースする手法ですが、その性質上、リスクが高いとされています。以下では、ビッグバンリリースのリスク、リスクを軽減するための対策、およびQA、DevOps、マイクロサービスの文脈での具体的な取り組みについて説明します。 https://youtube.com/shorts/yKvuHdmKmrY   ビッグバ...]]></description>
+            <content:encoded><![CDATA[ビックバンリリースとは ビッグバンリリースは、新しいシステムや大規模なアップデートを一度にリリースする手法ですが、その性質上、リスクが高いとされています。以下では、ビッグバンリリースのリスク、リスクを軽減するための対策、およびQA、DevOps、マイクロサービスの文脈での具体的な取り組みについて説明します。 https://youtube.com/shorts/yKvuHdmKmrY   ビッグバンリリースのリスク   システム全体の不安定化：一度に大量の変更を加えるため、予期しないバグや互換性の問題が発生しやすく、システム全体が不安定になる可能性があります。  リリース失敗の影響：...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--mVohvjcq--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2593%25E3%2583%2583%25E3%2582%25B0%25E3%2583%2590%25E3%2583%25B3%25E3%2583%25AA%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25B9%2520DevOps%25E3%2581%25A8%25E3%2583%259E%25E3%2582%25A4%25E3%2582%25AF%25E3%2583%25AD%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AEQA%2520%25E3%2582%25AD%25E3%2583%25BC%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%2589%25E8%25A7%25A3%25E8%25AA%25AC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E4%25BA%2580%25E4%25BA%2595%25E4%25BA%25AE%25E4%25BB%258B%25EF%25BC%25A0%25E3%2583%259E%25E3%2583%258D%25E3%2583%25BC%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%2589%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzAxZjA0OGQ4MjYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[BigQueryを利用したアプリケーションのローカルテスト | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/carenet/articles/eeb5600b17c7d0</link>
+            <guid>https://zenn.dev/carenet/articles/eeb5600b17c7d0</guid>
+            <pubDate>Tue, 25 Jun 2024 08:59:22 GMT</pubDate>
+            <description><![CDATA[BigQueryを利用するアプリケーションの開発時に、データベースの操作をどのようにテストするかが課題となります。その際の主な選択肢は下記となります。  BigQueryのモックを作成してローカルでテストする テスト用のBigQuery環境を用意してGCP上でテストする  bigquery-emulatorを利用してローカルでテストする    1. BigQueryのモックを作成してローカルでテス...]]></description>
+            <content:encoded><![CDATA[BigQueryを利用するアプリケーションの開発時に、データベースの操作をどのようにテストするかが課題となります。その際の主な選択肢は下記となります。  BigQueryのモックを作成してローカルでテストする テスト用のBigQuery環境を用意してGCP上でテストする  bigquery-emulatorを利用してローカルでテストする    1. BigQueryのモックを作成してローカルでテストする   概要 BigQueryの操作をモック化し、テスト時に実際のBigQueryに接続せずにテストを行う方法です。   メリット  テストの実行が高速 外部サービスに依存しないため、安定し...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--eexIul5w--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:BigQuery%25E3%2582%2592%25E5%2588%25A9%25E7%2594%25A8%25E3%2581%2597%25E3%2581%259F%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2582%25B1%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2581%25AE%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25AB%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Kaz%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzE0MTRiZmIwZWQuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:CareNet%2520Engineers%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNXJGOGFDT3NiNW5JTGRDSkVSUC1tNTJZZF9qNzRqUWJTemlGR0s9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[JaSST'24 Kansai に2年目QAエンジニアが現地参加して感じた３つのこと | SHIFT Group 技術ブログ]]></title>
+            <link>https://note.shiftinc.jp/n/n483dfa20652f</link>
+            <guid>https://note.shiftinc.jp/n/n483dfa20652f</guid>
+            <pubDate>Tue, 25 Jun 2024 08:34:49 GMT</pubDate>
+            <description><![CDATA[はじめに  続きをみる]]></description>
+            <content:encoded><![CDATA[はじめに  続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/145115115/rectangle_large_type_2_0304627219e74dbff65ce78b7ff4753d.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[AIに「QAの価値」のKPIツリー作らせてみた | ソフトウェアテストタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/YutoM/items/ee05ea1a4f6cc7319d0a</link>
+            <guid>https://qiita.com/YutoM/items/ee05ea1a4f6cc7319d0a</guid>
+            <pubDate>Tue, 25 Jun 2024 06:53:17 GMT</pubDate>
+            <description><![CDATA[大きくなったのでいくつかのツリーに分解しています ■メインツリー graph TD;  A[QA価値] -->|影響| B[コスト削減]  A -->|影響| C[顧客満足度向上]  A -->|影響| …]]></description>
+            <content:encoded><![CDATA[大きくなったのでいくつかのツリーに分解しています ■メインツリー graph TD;  A[QA価値] -->|影響| B[コスト削減]  A -->|影響| C[顧客満足度向上]  A -->|影響| …]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&amp;w=1200&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk3MiZoPTM3OCZ0eHQ9QUklRTMlODElQUIlRTMlODAlOENRQSVFMyU4MSVBRSVFNCVCRSVBMSVFNSU4MCVBNCVFMyU4MCU4RCVFMyU4MSVBRUtQSSVFMyU4MyU4NCVFMyU4MyVBQSVFMyU4MyVCQyVFNCVCRCU5QyVFMyU4MiU4OSVFMyU4MSU5QiVFMyU4MSVBNiVFMyU4MSVCRiVFMyU4MSU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMjEyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnM9ZDBmZWZmZjc4M2RmMTUyZTQ5NTE4ODVjNjU2ZTY3MTc&amp;mark-x=142&amp;mark-y=57&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZoPTc2Jnc9NzcwJnR4dD0lNDBZdXRvTSZ0eHQtY29sb3I9JTIzMjEyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnM9YTA1NGExNTZhNWY5NWI0ODY1MGRmZTY4NTNhMjkwZjI&amp;blend-x=142&amp;blend-y=486&amp;blend-mode=normal&amp;s=12276942fbcb3fdbe2ae587c23edca66"/>
+        </item>
+        <item>
+            <title><![CDATA[最新！この1週間でもっとも読まれた記事｜2024.6.18~6.24 PV数ランキングTOP10 | SHIFT Group 技術ブログ]]></title>
+            <link>https://note.shiftinc.jp/n/n4368d6bead46</link>
+            <guid>https://note.shiftinc.jp/n/n4368d6bead46</guid>
+            <pubDate>Tue, 25 Jun 2024 06:46:09 GMT</pubDate>
+            <description><![CDATA[皆さん、こんにちは！SHIFTGroup技術ブログ担当のノザワです。 今週も最新情報をお届けする時間がやってきました。 今回も当社の技術ブログのPV数ランキングTOP10記事を紹介し、その中から特に注目すべき2つの記事をピックアップしてご紹介します。技術の最前線で活躍する皆さんにとって、きっと役立つ情報が満載です。 それでは、早速ランキングを見ていきましょう！ ▼マガジン｜これまでのランキングまと...]]></description>
+            <content:encoded><![CDATA[皆さん、こんにちは！SHIFTGroup技術ブログ担当のノザワです。 今週も最新情報をお届けする時間がやってきました。 今回も当社の技術ブログのPV数ランキングTOP10記事を紹介し、その中から特に注目すべき2つの記事をピックアップしてご紹介します。技術の最前線で活躍する皆さんにとって、きっと役立つ情報が満載です。 それでは、早速ランキングを見ていきましょう！ ▼マガジン｜これまでのランキングまとめ 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/145178425/rectangle_large_type_2_e330bf01773b1f226cd594a4c08868bb.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[API テストを Scenarigo と GitHub Actions で自動化する | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/hogeticlab/articles/9b420653190190</link>
+            <guid>https://zenn.dev/hogeticlab/articles/9b420653190190</guid>
+            <pubDate>Tue, 25 Jun 2024 01:56:20 GMT</pubDate>
+            <description><![CDATA[はじめに Hogetic Lab でエンジニアをしている佐々木と申します。 API テストは、システムの信頼性を確保するために不可欠なプロセスです。特に、複雑なシステムや多くの依存関係を持つアプリケーションでは、手動でのテストは時間と労力がかかります。弊社では API のテストツールとして Scenarigo を導入しています。本記事では、Scenarigo を使用して API テストを行い、Gi...]]></description>
+            <content:encoded><![CDATA[はじめに Hogetic Lab でエンジニアをしている佐々木と申します。 API テストは、システムの信頼性を確保するために不可欠なプロセスです。特に、複雑なシステムや多くの依存関係を持つアプリケーションでは、手動でのテストは時間と労力がかかります。弊社では API のテストツールとして Scenarigo を導入しています。本記事では、Scenarigo を使用して API テストを行い、GitHub Actions を使って CI パイプラインに統合する方法について紹介します。   Scenarigo とは？ Scenarigo は、YAML 形式のシナリオファイルを使用して ...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--IBx0OpH6--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:API%2520%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2582%2592%2520Scenarigo%2520%25E3%2581%25A8%2520GitHub%2520Actions%2520%25E3%2581%25A7%25E8%2587%25AA%25E5%258B%2595%25E5%258C%2596%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Teppei%2520Sasaki%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQ0YWZjMjY2MTUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Hogetic%2520Lab%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzFjYjU1MzdjM2QuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[アジャイルカフェ@オンライン 第55回に参加してきた | 天の月]]></title>
+            <link>https://aki-m.hatenadiary.com/entry/2024/06/24/233000</link>
+            <guid>https://aki-m.hatenadiary.com/entry/2024/06/24/233000</guid>
+            <pubDate>Mon, 24 Jun 2024 14:30:00 GMT</pubDate>
+            <description><![CDATA[agile-studio.connpass.com こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 会の概要 会の様子 アジャイルコーチはスクラムマスターにどう働きかけるか？ アジャイルコーチとスクラムマスターはどういう関係性の変遷をたどるのか？ 「完璧」とは？ アジャイルコーチングの成功体験 立場は変わってもコーチングは必要 会全体を通した感想 会の概要 木下さん天...]]></description>
+            <content:encoded><![CDATA[agile-studio.connpass.com こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 会の概要 会の様子 アジャイルコーチはスクラムマスターにどう働きかけるか？ アジャイルコーチとスクラムマスターはどういう関係性の変遷をたどるのか？ 「完璧」とは？ アジャイルコーチングの成功体験 立場は変わってもコーチングは必要 会全体を通した感想 会の概要 木下さん天野さん家永さんのアジャイルコーチ3人が、アジャイル実践者からの質問に対して深堀りをしていくイベントです。 今日のテーマは、「スクラムマスターが完璧だったらアジャイルコーチはいるの？」でした。 会の様子…]]></content:encoded>
+            <enclosure length="0" url="https://ogimage.blog.st-hatena.com/26006613655256878/6801883189116840274/1719239400"/>
+        </item>
+        <item>
+            <title><![CDATA[もしテスト設計コンテストに複数人で出るなら考えること | テストするアシカ]]></title>
+            <link>https://tyngw.hatenablog.com/entry/2024/06/24/225257</link>
+            <guid>https://tyngw.hatenablog.com/entry/2024/06/24/225257</guid>
+            <pubDate>Mon, 24 Jun 2024 13:52:57 GMT</pubDate>
+            <description><![CDATA[テスト設計コンテスト2023 OPENクラスにソロで出場した筆者が、 次回もし複数人のチームで出るならどんなことを考慮するかを妄想する記事です。 はじめに バグ出しのコンテストではなく、テスト設計成果物の良さを競うコンテストであるため、 成果物のドキュメントを作る時間に非常に多くの時間を費やすことになります。 私は前回ソロで出場したので、数多くの手戻り工数を重ねながら、なんとか成果物の提出にこぎつ...]]></description>
+            <content:encoded><![CDATA[テスト設計コンテスト2023 OPENクラスにソロで出場した筆者が、 次回もし複数人のチームで出るならどんなことを考慮するかを妄想する記事です。 はじめに バグ出しのコンテストではなく、テスト設計成果物の良さを競うコンテストであるため、 成果物のドキュメントを作る時間に非常に多くの時間を費やすことになります。 私は前回ソロで出場したので、数多くの手戻り工数を重ねながら、なんとか成果物の提出にこぎつけました。 一方で、チームで出場した場合に手戻りが発生すると…。想像に難くない結果になるでしょう。 そこで、過去の苦い経験も踏まえて、最初からやっておけばよかったと思うことをマネジメントの要素を中心に…]]></content:encoded>
+            <enclosure length="0" url="https://ogimage.blog.st-hatena.com/820878482941555694/6801883189116841343/1719724853"/>
+        </item>
+        <item>
+            <title><![CDATA[ボリュームテスト DevOpsとマイクロサービス時代のQA キーワード解説 | Zennの「QA」のフィード]]></title>
+            <link>https://zenn.dev/devopsinqa/articles/3525ac66f343cb</link>
+            <guid>https://zenn.dev/devopsinqa/articles/3525ac66f343cb</guid>
+            <pubDate>Mon, 24 Jun 2024 13:04:15 GMT</pubDate>
+            <description><![CDATA[ボリュームテストとは ボリュームテスト（Volume Testing）は、大量のデータを扱う状況においてシステムがどのように動作するかを評価するテスト手法です。これにより、データ量の増加がシステムの性能に与える影響を確認し、パフォーマンスやリソース利用の効率性を評価します。以下の観点から、ボリュームテストについて具体的に説明します。 https://youtube.com/shorts/dapkP...]]></description>
+            <content:encoded><![CDATA[ボリュームテストとは ボリュームテスト（Volume Testing）は、大量のデータを扱う状況においてシステムがどのように動作するかを評価するテスト手法です。これにより、データ量の増加がシステムの性能に与える影響を確認し、パフォーマンスやリソース利用の効率性を評価します。以下の観点から、ボリュームテストについて具体的に説明します。 https://youtube.com/shorts/dapkPYl2gA0   QAの観点 1. データ量増加時のシステム挙動の評価  ボリュームテストを実施することで、大量のデータを処理する際のシステムの挙動を評価します。これにより、システムがデータ...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--dt26sqUI--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%259C%25E3%2583%25AA%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%25A0%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%2520DevOps%25E3%2581%25A8%25E3%2583%259E%25E3%2582%25A4%25E3%2582%25AF%25E3%2583%25AD%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AEQA%2520%25E3%2582%25AD%25E3%2583%25BC%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%2589%25E8%25A7%25A3%25E8%25AA%25AC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E4%25BA%2580%25E4%25BA%2595%25E4%25BA%25AE%25E4%25BB%258B%25EF%25BC%25A0%25E3%2583%259E%25E3%2583%258D%25E3%2583%25BC%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%2589%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzAxZjA0OGQ4MjYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[WACATE24夏に参加しました | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/djcatcher/articles/b4449504236989</link>
+            <guid>https://zenn.dev/djcatcher/articles/b4449504236989</guid>
+            <pubDate>Mon, 24 Jun 2024 12:59:29 GMT</pubDate>
+            <description><![CDATA[こんにちはHR-techブロダクトでQAエンジニアを担当しているますやまゆうきです。 詳細は後述しますが、WACATEネームはまっす〜です。 ソフトウェアテストの合宿形式のワークショップ「WACATE」に初参加しましたので、詳細についてブログで書かせていただこうと思います。   対象読者  WACATEに興味はあるけど参加したことがない方 WACATE参加経験者 未来の自分(次回参加時の事前準備短...]]></description>
+            <content:encoded><![CDATA[こんにちはHR-techブロダクトでQAエンジニアを担当しているますやまゆうきです。 詳細は後述しますが、WACATEネームはまっす〜です。 ソフトウェアテストの合宿形式のワークショップ「WACATE」に初参加しましたので、詳細についてブログで書かせていただこうと思います。   対象読者  WACATEに興味はあるけど参加したことがない方 WACATE参加経験者 未来の自分(次回参加時の事前準備短縮用)    イベントの詳細   WACATEとは  Workshop for Accelerating CApable Testing Engineers：内に秘めた可能性を持つテストエンジニ...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--jj8nDhGu--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:WACATE24%25E5%25A4%258F%25E3%2581%25AB%25E5%258F%2582%25E5%258A%25A0%25E3%2581%2597%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:massu%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzdjMjJmZmZlNGUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[WACATE24夏に参加しました | Zennの「QA」のフィード]]></title>
+            <link>https://zenn.dev/djcatcher/articles/b4449504236989</link>
+            <guid>https://zenn.dev/djcatcher/articles/b4449504236989</guid>
+            <pubDate>Mon, 24 Jun 2024 12:59:29 GMT</pubDate>
+            <description><![CDATA[こんにちはHR-techブロダクトでQAエンジニアを担当しているますやまゆうきです。 詳細は後述しますが、WACATEネームはまっす〜です。 ソフトウェアテストの合宿形式のワークショップ「WACATE」に初参加しましたので、詳細についてブログで書かせていただこうと思います。   対象読者  WACATEに興味はあるけど参加したことがない方 WACATE参加経験者 未来の自分(次回参加時の事前準備短...]]></description>
+            <content:encoded><![CDATA[こんにちはHR-techブロダクトでQAエンジニアを担当しているますやまゆうきです。 詳細は後述しますが、WACATEネームはまっす〜です。 ソフトウェアテストの合宿形式のワークショップ「WACATE」に初参加しましたので、詳細についてブログで書かせていただこうと思います。   対象読者  WACATEに興味はあるけど参加したことがない方 WACATE参加経験者 未来の自分(次回参加時の事前準備短縮用)    イベントの詳細   WACATEとは  Workshop for Accelerating CApable Testing Engineers：内に秘めた可能性を持つテストエンジニ...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--jj8nDhGu--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:WACATE24%25E5%25A4%258F%25E3%2581%25AB%25E5%258F%2582%25E5%258A%25A0%25E3%2581%2597%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:massu%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzdjMjJmZmZlNGUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[現役UIUXデザイナーがオススメする！本当に使えるデザインシンキングの手法：エクストリームユーザー編 | SHIFT Group 技術ブログ]]></title>
+            <link>https://note.shiftinc.jp/n/n9d9ea96d9c89</link>
+            <guid>https://note.shiftinc.jp/n/n9d9ea96d9c89</guid>
+            <pubDate>Mon, 24 Jun 2024 11:48:24 GMT</pubDate>
+            <description><![CDATA[はじめに 続きをみる]]></description>
+            <content:encoded><![CDATA[はじめに 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/144754017/rectangle_large_type_2_d6b02442df1ab122243fc038861d5462.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[開発未経験者がSalesforce認定プラットフォームデベロッパーⅠ取得できるまでの道のり | SHIFT Group 技術ブログ]]></title>
+            <link>https://note.shiftinc.jp/n/n334b8c074218</link>
+            <guid>https://note.shiftinc.jp/n/n334b8c074218</guid>
+            <pubDate>Mon, 24 Jun 2024 11:02:30 GMT</pubDate>
+            <description><![CDATA[ご挨拶  続きをみる]]></description>
+            <content:encoded><![CDATA[ご挨拶  続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/144444950/rectangle_large_type_2_9df919cb7a421722d4b67fcfab2cb23b.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[ロジカルシンキングで問題解決をしよう！ | SHIFT Group 技術ブログ]]></title>
+            <link>https://note.shiftinc.jp/n/ne37ab6338ed6</link>
+            <guid>https://note.shiftinc.jp/n/ne37ab6338ed6</guid>
+            <pubDate>Mon, 24 Jun 2024 10:12:01 GMT</pubDate>
+            <description><![CDATA[はじめに 続きをみる]]></description>
+            <content:encoded><![CDATA[はじめに 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/144458467/rectangle_large_type_2_fe8ac01bd0eaa83ea02dfe269c960dae.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[Excelを読み書きするAnsibleモジュールとフィルターをAnsible Galaxyで公開してみた | SHIFT Group 技術ブログ]]></title>
+            <link>https://note.shiftinc.jp/n/n84bdfc8da2e7</link>
+            <guid>https://note.shiftinc.jp/n/n84bdfc8da2e7</guid>
+            <pubDate>Mon, 24 Jun 2024 10:06:52 GMT</pubDate>
+            <description><![CDATA[はじめに 続きをみる]]></description>
+            <content:encoded><![CDATA[はじめに 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/144735136/rectangle_large_type_2_f6f9e318513fada2b90cf94d16911c9f.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[DX推進に必要不可欠な“SaaS” ～増えても安心、ツールで簡単一元管理～ | SHIFT Group 技術ブログ]]></title>
+            <link>https://note.shiftinc.jp/n/n85859514d2d1</link>
+            <guid>https://note.shiftinc.jp/n/n85859514d2d1</guid>
+            <pubDate>Mon, 24 Jun 2024 09:53:21 GMT</pubDate>
+            <description><![CDATA[はじめに  続きをみる]]></description>
+            <content:encoded><![CDATA[はじめに  続きをみる]]></content:encoded>
+            <enclosure length="0" type="jpeg" url="https://assets.st-note.com/production/uploads/images/145081256/rectangle_large_type_2_b16794ebdb9ec01551cceeb0929faf32.jpeg?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[システム開発における、お客様目線とは | SHIFT Group 技術ブログ]]></title>
+            <link>https://note.shiftinc.jp/n/nb7ad30b912b9</link>
+            <guid>https://note.shiftinc.jp/n/nb7ad30b912b9</guid>
+            <pubDate>Mon, 24 Jun 2024 08:49:13 GMT</pubDate>
+            <description><![CDATA[ご挨拶  続きをみる]]></description>
+            <content:encoded><![CDATA[ご挨拶  続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/144428303/rectangle_large_type_2_81c924d391076a62333322f26d3b09b9.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[JaSST Kansai 24で登壇してきました | tarappo]]></title>
+            <link>https://note.com/tarappo/n/n3833a464c324</link>
+            <guid>https://note.com/tarappo/n/n3833a464c324</guid>
+            <pubDate>Mon, 24 Jun 2024 07:38:12 GMT</pubDate>
+            <description><![CDATA[続きをみる]]></description>
+            <content:encoded><![CDATA[続きをみる]]></content:encoded>
+            <enclosure length="0" type="jpeg" url="https://assets.st-note.com/production/uploads/images/145085718/rectangle_large_type_2_1ad3f2e6c71cba1537748fa83cf6e85b.jpeg?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[IT企業×田植え体験イベント｜従業員が田んぼの中で〝リアル体験“  | SHIFT Group 技術ブログ]]></title>
+            <link>https://note.shiftinc.jp/n/n45e3a45870a1</link>
+            <guid>https://note.shiftinc.jp/n/n45e3a45870a1</guid>
+            <pubDate>Mon, 24 Jun 2024 01:12:54 GMT</pubDate>
+            <description><![CDATA[こんにちは！SHIFT社内広報チームです。 5月18日（土）SHIFT グループでは田植え体験イベントを行いました！ この記事では、IT企業であるSHIFTがなぜ田植えイベントをすることにしたのか、理由を紐解きながら、その効果と今後の課題を検証していきます。   続きをみる]]></description>
+            <content:encoded><![CDATA[こんにちは！SHIFT社内広報チームです。 5月18日（土）SHIFT グループでは田植え体験イベントを行いました！ この記事では、IT企業であるSHIFTがなぜ田植えイベントをすることにしたのか、理由を紐解きながら、その効果と今後の課題を検証していきます。   続きをみる]]></content:encoded>
+            <enclosure length="0" type="jpeg" url="https://assets.st-note.com/production/uploads/images/143590556/rectangle_large_type_2_3176b2092bab24b15402f61a0204f90c.jpeg?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[スクラムフェス大阪Day2に参加してきた | 天の月]]></title>
+            <link>https://aki-m.hatenadiary.com/entry/2024/06/23/230000</link>
+            <guid>https://aki-m.hatenadiary.com/entry/2024/06/23/230000</guid>
+            <pubDate>Sun, 23 Jun 2024 14:00:00 GMT</pubDate>
+            <description><![CDATA[www.scrumosaka.org スクラムフェス大阪Day2に参加してきたので、会の様子と感想を書いていこうと思います。(ニセコサテライトでずっと参加していました) かみとさんの家へ&amp;ズームイン 札幌トラックで登壇する ランチ さささんの講演を聴く Tommyさんの講演を聴く 金沢トラックで登壇をする トラックふりかえり BBQ 二次会 三次会 全体を通した感想 かみとさんの家へ&amp;ズームイン ...]]></description>
+            <content:encoded><![CDATA[www.scrumosaka.org スクラムフェス大阪Day2に参加してきたので、会の様子と感想を書いていこうと思います。(ニセコサテライトでずっと参加していました) かみとさんの家へ&amp;ズームイン 札幌トラックで登壇する ランチ さささんの講演を聴く Tommyさんの講演を聴く 金沢トラックで登壇をする トラックふりかえり BBQ 二次会 三次会 全体を通した感想 かみとさんの家へ&amp;ズームイン 根本さんが迎えに来てくださり、近くのホテルからかみとさんのお家に向かいました。その後は各地域のズームインに参加し、羊蹄山をアピールしてきました。 おは羊蹄はハイコンテキストすぎてあまり伝わっていなかっ…]]></content:encoded>
+            <enclosure length="0" url="https://ogimage.blog.st-hatena.com/26006613655256878/6801883189116534154/1719151201"/>
+        </item>
+        <item>
+            <title><![CDATA[QAエンジニアがいったん自分の仕事を棚上げして消費者目線で品質について素朴に検討しなおしてみた | ごまずん]]></title>
+            <link>https://note.com/usk_ymst_p/n/ne8cf941b8540</link>
+            <guid>https://note.com/usk_ymst_p/n/ne8cf941b8540</guid>
+            <pubDate>Sun, 23 Jun 2024 12:35:24 GMT</pubDate>
+            <description><![CDATA[はじめに 本記事では「品質」について考え直したいと思います。 まず私のQAエンジニアとしての品質についてのポジぺは別の記事で記載しています。 続きをみる]]></description>
+            <content:encoded><![CDATA[はじめに 本記事では「品質」について考え直したいと思います。 まず私のQAエンジニアとしての品質についてのポジぺは別の記事で記載しています。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/145026827/rectangle_large_type_2_629590a3b30eef97c15f1c38f61f3624.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[ReactにVitestを追加してテスト環境を整備する方法 | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/takubii/articles/eded24be6a41a3</link>
+            <guid>https://zenn.dev/takubii/articles/eded24be6a41a3</guid>
+            <pubDate>Sun, 23 Jun 2024 11:49:25 GMT</pubDate>
+            <description><![CDATA[どうもこんにちは、たくびーです。 今回はReactプロジェクトにvitestを導入したので備忘録として残したいと思います。   Vitest導入方法   パッケージインストール まずは必要なパッケージをインストールします。以下のコマンドを実行してください。 npm install -D vitest jsdom @testing-library/jest-dom @testing-library/...]]></description>
+            <content:encoded><![CDATA[どうもこんにちは、たくびーです。 今回はReactプロジェクトにvitestを導入したので備忘録として残したいと思います。   Vitest導入方法   パッケージインストール まずは必要なパッケージをインストールします。以下のコマンドを実行してください。 npm install -D vitest jsdom @testing-library/jest-dom @testing-library/react @testing-library/user-event   ファイル追加 次に、テストのセットアップ用ファイルを追加します。vitest-setup.tsというファイルを作成し、以下...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--eM7osAX8--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:React%25E3%2581%25ABVitest%25E3%2582%2592%25E8%25BF%25BD%25E5%258A%25A0%25E3%2581%2597%25E3%2581%25A6%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E7%2592%25B0%25E5%25A2%2583%25E3%2582%2592%25E6%2595%25B4%25E5%2582%2599%25E3%2581%2599%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:takubii%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ZiNGYwMWMzNmEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[ソフトウェアの制約を解き放つ: TOCとDDDによる革新的アプローチ〜DXの成功と課題：方針制約と人の動きの変革〜 | Zennの「QA」のフィード]]></title>
+            <link>https://zenn.dev/devopsinqa/articles/d2a2608ea4ac0e</link>
+            <guid>https://zenn.dev/devopsinqa/articles/d2a2608ea4ac0e</guid>
+            <pubDate>Sun, 23 Jun 2024 10:03:00 GMT</pubDate>
+            <description><![CDATA[Podcast https://podcasters.spotify.com/pod/show/-qa-in-devops/episodes/TOCDDDTOCDDD-e2klfiu   YouTube   概要 このエピソードでは、品質保証（QA）とコアドメインの関連性について詳しく解説します。コアドメインでない部分のシステム化が無駄である理由や、ルールを可視化する重要性を探ります。コアドメイン...]]></description>
+            <content:encoded><![CDATA[Podcast https://podcasters.spotify.com/pod/show/-qa-in-devops/episodes/TOCDDDTOCDDD-e2klfiu   YouTube   概要 このエピソードでは、品質保証（QA）とコアドメインの関連性について詳しく解説します。コアドメインでない部分のシステム化が無駄である理由や、ルールを可視化する重要性を探ります。コアドメインが増えると品質が低下し、技術的負債が貯まり、顧客価値を提供できなくなる現象を説明します。削ることで品質を向上させるアプローチや、ルールの負債解消が顧客価値に繋がる方法を議論します。また、エリ...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--x3FekbVR--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25BD%25E3%2583%2595%25E3%2583%2588%25E3%2582%25A6%25E3%2582%25A7%25E3%2582%25A2%25E3%2581%25AE%25E5%2588%25B6%25E7%25B4%2584%25E3%2582%2592%25E8%25A7%25A3%25E3%2581%258D%25E6%2594%25BE%25E3%2581%25A4%253A%2520TOC%25E3%2581%25A8DDD%25E3%2581%25AB%25E3%2582%2588%25E3%2582%258B%25E9%259D%25A9%25E6%2596%25B0%25E7%259A%2584%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2581%25E3%2580%259CDX%25E3%2581%25AE%25E6%2588%2590%25E5%258A%259F%25E3%2581%25A8%25E8%25AA%25B2%25E9%25A1%258C%25EF%25BC%259A%25E6%2596%25B9%25E9%2587%259D%25E5%2588%25B6%25E7%25B4%2584%25E3%2581%25A8%25E4%25BA%25BA%25E3%2581%25AE%25E5%258B%2595%25E3%2581%258D%25E3%2581%25AE%25E5%25A4%2589%25E9%259D%25A9%25E3%2580%259C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E4%25BA%2580%25E4%25BA%2595%25E4%25BA%25AE%25E4%25BB%258B%25EF%25BC%25A0%25E3%2583%259E%25E3%2583%258D%25E3%2583%25BC%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%2589%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzAxZjA0OGQ4MjYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[デジタル庁「テキスト生成 AI 利活用におけるリスクへの対策ガイドブック（α版）」を読んでみた | ソフトウェアの品質を学びまくる]]></title>
+            <link>https://www.kzsuzuki.com/entry/2024/06/23/123527</link>
+            <guid>https://www.kzsuzuki.com/entry/2024/06/23/123527</guid>
+            <pubDate>Sun, 23 Jun 2024 03:35:27 GMT</pubDate>
+            <description><![CDATA[2024年5月、デジタル庁から『テキスト生成 AI 利活用におけるリスクへの対策ガイドブック（α版）』が公開されました。 www.digital.go.jp 本書自身が「α版」として以下のように注記している通り、生成AIについて特に詳しいわけではもないわたしから見ても、記述に不十分と感じられましたが、「叩き台を作る人はえらい」派の人間なので、このようなものを公開してくれたことに感謝したいです。 実...]]></description>
+            <content:encoded><![CDATA[2024年5月、デジタル庁から『テキスト生成 AI 利活用におけるリスクへの対策ガイドブック（α版）』が公開されました。 www.digital.go.jp 本書自身が「α版」として以下のように注記している通り、生成AIについて特に詳しいわけではもないわたしから見ても、記述に不十分と感じられましたが、「叩き台を作る人はえらい」派の人間なので、このようなものを公開してくれたことに感謝したいです。 実践的なフレームワークやチェックリストによるガイドブックを作成できるまでの知見が蓄積されていないため、留意点の紹介にとどめる。 この記事では、本書の中の特にテスト・品質保証について感じたことを書きたいと…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn-ak.f.st-hatena.com/images/fotolife/k/kz_suzuki/20240623/20240623123508.png"/>
+        </item>
+        <item>
+            <title><![CDATA[テスト設計コンテストについて世界に発信した10年前のブログ | Tsuyoshi Yumoto]]></title>
+            <link>https://note.com/yumotsuyo/n/n2bbb1a528b0e</link>
+            <guid>https://note.com/yumotsuyo/n/n2bbb1a528b0e</guid>
+            <pubDate>Sat, 22 Jun 2024 22:54:26 GMT</pubDate>
+            <description><![CDATA[10年前（2014年）に、当時勤めてた外資系企業のサイトでブログを書く担当になって３本掲載されたのだが、そのときの１本目の記事の原稿が見つかり、読み直すとすごくいいこと書いてあるので、掲載します。（ブログサイトは既に見れなくなってます。） 外国の人にテスコン紹介する時に使ってください！  続きをみる]]></description>
+            <content:encoded><![CDATA[10年前（2014年）に、当時勤めてた外資系企業のサイトでブログを書く担当になって３本掲載されたのだが、そのときの１本目の記事の原稿が見つかり、読み直すとすごくいいこと書いてあるので、掲載します。（ブログサイトは既に見れなくなってます。） 外国の人にテスコン紹介する時に使ってください！  続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/144947985/rectangle_large_type_2_3d7d42b4f1e6d25e58f0ae24ff86406b.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[第287回：　「ALTAのテキストをつくろう」42　（ユースケーステスト／中編） | Kouichi Akiyama]]></title>
+            <link>https://note.com/akiyama924/n/n2e1a9c013156</link>
+            <guid>https://note.com/akiyama924/n/n2e1a9c013156</guid>
+            <pubDate>Sat, 22 Jun 2024 21:51:42 GMT</pubDate>
+            <description><![CDATA[◀前の記事へ 次の記事へ▶︎  ≡ はじめに 続きをみる]]></description>
+            <content:encoded><![CDATA[◀前の記事へ 次の記事へ▶︎  ≡ はじめに 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/144920652/rectangle_large_type_2_c2edac0f8288490b1543a01014fde07d.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[スクラムフェス大阪2024の札幌トラック(ニセコ)で発表してきた | 天の月]]></title>
+            <link>https://aki-m.hatenadiary.com/entry/2024/06/22/233000</link>
+            <guid>https://aki-m.hatenadiary.com/entry/2024/06/22/233000</guid>
+            <pubDate>Sat, 22 Jun 2024 14:30:00 GMT</pubDate>
+            <description><![CDATA[スクラムフェス大阪2024の札幌トラック(ニセコ)で発表してきたので、そのふりかえりをしていこうと思います。 資料 speakerdeck.com 採択前 もし採択されたら、その採択されたサテライトに行こうと思っていたので、札幌トラック(ニセコ)で採択されたのはめちゃくちゃ嬉しかったです。(家族も喜んでいました) 準備 カタログの中身自体は、自分の中で既に一定の整理ができていた(自分の中でこういう...]]></description>
+            <content:encoded><![CDATA[スクラムフェス大阪2024の札幌トラック(ニセコ)で発表してきたので、そのふりかえりをしていこうと思います。 資料 speakerdeck.com 採択前 もし採択されたら、その採択されたサテライトに行こうと思っていたので、札幌トラック(ニセコ)で採択されたのはめちゃくちゃ嬉しかったです。(家族も喜んでいました) 準備 カタログの中身自体は、自分の中で既に一定の整理ができていた(自分の中でこういうときはこういう読書方法ということをまとめていた)ので、あとはそれを話としてどんな感じでつなげるかというところが今回のポイントでした。前回の反省点として、このつなげ方が今一つで、ただ色々な読書方法がある…]]></content:encoded>
+            <enclosure length="0" url="https://ogimage.blog.st-hatena.com/26006613655256878/6801883189116198347/1719066600"/>
+        </item>
+        <item>
+            <title><![CDATA[テストの意図を自然言語で伝えるためのオレオレTestDesignDoc | テストするアシカ]]></title>
+            <link>https://tyngw.hatenablog.com/entry/2024/06/22/211706</link>
+            <guid>https://tyngw.hatenablog.com/entry/2024/06/22/211706</guid>
+            <pubDate>Sat, 22 Jun 2024 12:17:06 GMT</pubDate>
+            <description><![CDATA[この記事は、次の記事で紹介されている TestDesignDoc にインスパイヤーされて、 自分だったらどんな大項目を書くだろうかと、思いに耽る記事です。 note.com オリジナルのTestDesignDocとは全く関係のない第三者による妄想記事ですので、批判やコメントはすべてわたくしにお願いします。 はじめに 他のテスト担当者や、開発チームのメンバーにレビューを依頼するときに、 テストの実装...]]></description>
+            <content:encoded><![CDATA[この記事は、次の記事で紹介されている TestDesignDoc にインスパイヤーされて、 自分だったらどんな大項目を書くだろうかと、思いに耽る記事です。 note.com オリジナルのTestDesignDocとは全く関係のない第三者による妄想記事ですので、批判やコメントはすべてわたくしにお願いします。 はじめに 他のテスト担当者や、開発チームのメンバーにレビューを依頼するときに、 テストの実装結果であるテストスイートをそのまま渡されるとレビュワーは困ります。 (例)レビュワーの頭の中 「このケースは、あの仕様を確認するために作られたのかな」 「このケースは、こんなバグを見つけたいのかな」 …]]></content:encoded>
+            <enclosure length="0" url="https://ogimage.blog.st-hatena.com/820878482941555694/6801883189116083516/1719724869"/>
+        </item>
+        <item>
+            <title><![CDATA[テストケースの形式性 | ごまずん]]></title>
+            <link>https://note.com/usk_ymst_p/n/na3babcef1f62</link>
+            <guid>https://note.com/usk_ymst_p/n/na3babcef1f62</guid>
+            <pubDate>Sat, 22 Jun 2024 11:20:12 GMT</pubDate>
+            <description><![CDATA[はじめに この記事は私が勝手に定義したテストケースの特性である「テストケースの形式性」について記載します。 続きをみる]]></description>
+            <content:encoded><![CDATA[はじめに この記事は私が勝手に定義したテストケースの特性である「テストケースの形式性」について記載します。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/144906938/rectangle_large_type_2_8d3a27b8bbca12a8f565877f1ba635fa.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[アジャイル・スクラムにおける効果的なテスト戦略〜QAのソフトスキル：文化形成とコミュニケーションの秘訣〜 | Zennの「QA」のフィード]]></title>
+            <link>https://zenn.dev/devopsinqa/articles/cddb6345e09b04</link>
+            <guid>https://zenn.dev/devopsinqa/articles/cddb6345e09b04</guid>
+            <pubDate>Sat, 22 Jun 2024 10:03:00 GMT</pubDate>
+            <description><![CDATA[Podcast   Youtube https://youtu.be/GI3gXYq1_8A]]></description>
+            <content:encoded><![CDATA[Podcast   Youtube https://youtu.be/GI3gXYq1_8A]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--n71VNbkE--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25A2%25E3%2582%25B8%25E3%2583%25A3%25E3%2582%25A4%25E3%2583%25AB%25E3%2583%25BB%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25A9%25E3%2583%25A0%25E3%2581%25AB%25E3%2581%258A%25E3%2581%2591%25E3%2582%258B%25E5%258A%25B9%25E6%259E%259C%25E7%259A%2584%25E3%2581%25AA%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E6%2588%25A6%25E7%2595%25A5%25E3%2580%259CQA%25E3%2581%25AE%25E3%2582%25BD%25E3%2583%2595%25E3%2583%2588%25E3%2582%25B9%25E3%2582%25AD%25E3%2583%25AB%25EF%25BC%259A%25E6%2596%2587%25E5%258C%2596%25E5%25BD%25A2%25E6%2588%2590%25E3%2581%25A8%25E3%2582%25B3%25E3%2583%259F%25E3%2583%25A5%25E3%2583%258B%25E3%2582%25B1%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2581%25AE%25E7%25A7%2598%25E8%25A8%25A3%25E3%2580%259C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E4%25BA%2580%25E4%25BA%2595%25E4%25BA%25AE%25E4%25BB%258B%25EF%25BC%25A0%25E3%2583%259E%25E3%2583%258D%25E3%2583%25BC%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%2589%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzAxZjA0OGQ4MjYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[[まとめ] 知識ゼロから学ぶ ソフトウェアテスト | Zennの「QA」のフィード]]></title>
+            <link>https://zenn.dev/nst240622/articles/dc0352fa4ece3f</link>
+            <guid>https://zenn.dev/nst240622/articles/dc0352fa4ece3f</guid>
+            <pubDate>Fri, 21 Jun 2024 23:24:17 GMT</pubDate>
+            <description><![CDATA[ソフトウェアテストの基本ーホワイトボックステスト   ホワイトボックステスト  プログラムの論理構造が正しいかを解析するテスト 論理構造の正しさのみをテストする＝ソフトウェアの仕様がまちがっていることから起こるバグは発見できない    制御パステスト法  プログラムがどのような振る舞いをして、どのように制御され実行されていくかをテストする。 カバレッジ率（coverage rate） カバレッジテ...]]></description>
+            <content:encoded><![CDATA[ソフトウェアテストの基本ーホワイトボックステスト   ホワイトボックステスト  プログラムの論理構造が正しいかを解析するテスト 論理構造の正しさのみをテストする＝ソフトウェアの仕様がまちがっていることから起こるバグは発見できない    制御パステスト法  プログラムがどのような振る舞いをして、どのように制御され実行されていくかをテストする。 カバレッジ率（coverage rate） カバレッジテスト  ステートメント（命令文）カバレッジ  コードの中の命令文を少なくとも1回は実行   ブランチカバレッジ  分岐コードに対してそれぞれの判定条件が TRUE、FALSE の結果を少なく...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--LqWDNZeO--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255B%25E3%2581%25BE%25E3%2581%25A8%25E3%2582%2581%255D%2520%25E7%259F%25A5%25E8%25AD%2598%25E3%2582%25BC%25E3%2583%25AD%25E3%2581%258B%25E3%2582%2589%25E5%25AD%25A6%25E3%2581%25B6%2520%25E3%2582%25BD%25E3%2583%2595%25E3%2583%2588%25E3%2582%25A6%25E3%2582%25A7%25E3%2582%25A2%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:nst%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzk5OTg5MmFkYjcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[【Flutter/Riverpod/Mockito】MVVM + RepositoryのUnitテストを検討する | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/enjoy_nori/articles/65882124a526a3</link>
+            <guid>https://zenn.dev/enjoy_nori/articles/65882124a526a3</guid>
+            <pubDate>Fri, 21 Jun 2024 13:17:28 GMT</pubDate>
+            <description><![CDATA[ディレクトリ構成 liblib ├─ model │ ├ user.dart  │ ├ user.freezed.dart  │ └ user.g.dart  │  ├─ repository  │ ├ api_client.dart  │ └ users_repository.dart  │  ├─ controller │ ├ user_list_page_controller.dart  │...]]></description>
+            <content:encoded><![CDATA[ディレクトリ構成 liblib ├─ model │ ├ user.dart  │ ├ user.freezed.dart  │ └ user.g.dart  │  ├─ repository  │ ├ api_client.dart  │ └ users_repository.dart  │  ├─ controller │ ├ user_list_page_controller.dart  │ ├ user_list_page_controll.freezed.dart  │ ├ user_list_page_st...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--n21aN49u--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Flutter%252FRiverpod%252FMockito%25E3%2580%2591MVVM%2520%252B%2520Repository%25E3%2581%25AEUnit%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%258E%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25AE%25E3%2582%258A%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzg4YzQyZDljZjYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[JaSST'24 Kansaiの実行委員インタビュー 山下編 | ごまずん]]></title>
+            <link>https://note.com/usk_ymst_p/n/n8f60e9221f50</link>
+            <guid>https://note.com/usk_ymst_p/n/n8f60e9221f50</guid>
+            <pubDate>Fri, 21 Jun 2024 13:12:40 GMT</pubDate>
+            <description><![CDATA[はじめに 2024年6月21日にJaSST'24 Kansaiが行われました。 本記事ではJaSST Kansai実行委員の募集を目的として、筆者のごまずんがJaSST Kansai実行委員の山下さんにインタビューしてきました。 本記事を一読いただき、関西のソフトウェアテスト/QA業界を盛り上げるためにJaSST Kansai実行委員会に参加していただければ幸いです。 続きをみる]]></description>
+            <content:encoded><![CDATA[はじめに 2024年6月21日にJaSST'24 Kansaiが行われました。 本記事ではJaSST Kansai実行委員の募集を目的として、筆者のごまずんがJaSST Kansai実行委員の山下さんにインタビューしてきました。 本記事を一読いただき、関西のソフトウェアテスト/QA業界を盛り上げるためにJaSST Kansai実行委員会に参加していただければ幸いです。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/144230073/rectangle_large_type_2_7eb102770c39a99c094f32a2072d0241.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[ペネトレーションテスト DevOpsとマイクロサービス時代のQA キーワード解説 | Zennの「QA」のフィード]]></title>
+            <link>https://zenn.dev/devopsinqa/articles/3d6d832a0810f0</link>
+            <guid>https://zenn.dev/devopsinqa/articles/3d6d832a0810f0</guid>
+            <pubDate>Fri, 21 Jun 2024 10:03:00 GMT</pubDate>
+            <description><![CDATA[ペネトレーションテストとは ペネトレーションテスト（Penetration Testing、ペンテスト）は、システムやネットワーク、アプリケーションのセキュリティ脆弱性を発見し、攻撃者が悪用する可能性のあるセキュリティホールを特定するための一連のテストです。ペネトレーションテストは、セキュリティ専門家（ペネトレーションテスター）が、実際の攻撃者の視点からシステムに対して攻撃を試みることで行われます...]]></description>
+            <content:encoded><![CDATA[ペネトレーションテストとは ペネトレーションテスト（Penetration Testing、ペンテスト）は、システムやネットワーク、アプリケーションのセキュリティ脆弱性を発見し、攻撃者が悪用する可能性のあるセキュリティホールを特定するための一連のテストです。ペネトレーションテストは、セキュリティ専門家（ペネトレーションテスター）が、実際の攻撃者の視点からシステムに対して攻撃を試みることで行われます。以下では、QA、DevOps、およびマイクロサービスの文脈におけるペネトレーションテストの役割と重要性について説明します。 https://youtube.com/shorts/TLp6x...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--I9_EkBQt--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%259A%25E3%2583%258D%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%2520DevOps%25E3%2581%25A8%25E3%2583%259E%25E3%2582%25A4%25E3%2582%25AF%25E3%2583%25AD%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AEQA%2520%25E3%2582%25AD%25E3%2583%25BC%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%2589%25E8%25A7%25A3%25E8%25AA%25AC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E4%25BA%2580%25E4%25BA%2595%25E4%25BA%25AE%25E4%25BB%258B%25EF%25BC%25A0%25E3%2583%259E%25E3%2583%258D%25E3%2583%25BC%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%2589%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzAxZjA0OGQ4MjYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[スクラムフェス大阪のDay1に参加してきた | 天の月]]></title>
+            <link>https://aki-m.hatenadiary.com/entry/2024/06/21/185919</link>
+            <guid>https://aki-m.hatenadiary.com/entry/2024/06/21/185919</guid>
+            <pubDate>Fri, 21 Jun 2024 09:59:19 GMT</pubDate>
+            <description><![CDATA[www.scrumosaka.org 今日からスクラムフェス大阪が始まりました！今日はDay1に参加してきたので、会の様子と感想を書いていこうと思います。 くどうさんにニセコに送ってもらう かみとさん家に到着＆ホテルにチェックイン 横道さんのkeynoteを聴く 地域トラックによるセッション紹介 くどうさんにニセコに送ってもらう くどうさんにニセコに車で送ってもらいました。車の揺れに弱い(眠くなる...]]></description>
+            <content:encoded><![CDATA[www.scrumosaka.org 今日からスクラムフェス大阪が始まりました！今日はDay1に参加してきたので、会の様子と感想を書いていこうと思います。 くどうさんにニセコに送ってもらう かみとさん家に到着＆ホテルにチェックイン 横道さんのkeynoteを聴く 地域トラックによるセッション紹介 くどうさんにニセコに送ってもらう くどうさんにニセコに車で送ってもらいました。車の揺れに弱い(眠くなる)ということもあって、後半は半分意識が飛んでいました笑 最近オンラインコミュニティに参加していると、札幌に住んでいる方が結構アジャイルコミュニティに多く参加しているという話をしました。ただ、アジャイル…]]></content:encoded>
+            <enclosure length="0" url="https://ogimage.blog.st-hatena.com/26006613655256878/6801883189116024871/1718963959"/>
+        </item>
+        <item>
+            <title><![CDATA[JDLA Generative AI Test 2024 ♯1 合格 | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/acntechjp/articles/a2ef9ba0ac8f55</link>
+            <guid>https://zenn.dev/acntechjp/articles/a2ef9ba0ac8f55</guid>
+            <pubDate>Fri, 21 Jun 2024 07:30:05 GMT</pubDate>
+            <description><![CDATA[こんちは、Jimmyです。 Generative AI Test合格してました！！    Generative AI Testとは 一般社団法人日本ディープラーニング協会（JDLA）が実施する、生成AIに特化した知識や活用リテラシーを確認するためのミニテストです。   試験の特徴 受験資格に制限はなく、誰でも受験可能です。 試験時間は20分で、19問の択一式/多肢選択式問題と1問の記述式問題があり...]]></description>
+            <content:encoded><![CDATA[こんちは、Jimmyです。 Generative AI Test合格してました！！    Generative AI Testとは 一般社団法人日本ディープラーニング協会（JDLA）が実施する、生成AIに特化した知識や活用リテラシーを確認するためのミニテストです。   試験の特徴 受験資格に制限はなく、誰でも受験可能です。 試験時間は20分で、19問の択一式/多肢選択式問題と1問の記述式問題があります。 オンラインでPC/スマートフォンから受験できます。 受験費用は2,200円（税込）と比較的安価です。 合格者にはオープンバッジが付与されます。 2023年の第1回試験の合格率は73.9%...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--hlh8f4QP--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:JDLA%2520Generative%2520AI%2520Test%25202024%2520%25E2%2599%25AF1%2520%25E5%2590%2588%25E6%25A0%25BC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Hiromitsu%2520Jin%252FJimmy%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U2ZDA4MDY5ODcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Accenture%2520Japan%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzliN2NiM2RmYzkuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[SHIFT流！障がい者雇用における「合理的配慮」～才能と能力を活かすためのマイカルテ導入までの道のり～ | SHIFT Group 技術ブログ]]></title>
+            <link>https://note.shiftinc.jp/n/n56869e3d9058</link>
+            <guid>https://note.shiftinc.jp/n/n56869e3d9058</guid>
+            <pubDate>Fri, 21 Jun 2024 06:12:32 GMT</pubDate>
+            <description><![CDATA[はじめに 続きをみる]]></description>
+            <content:encoded><![CDATA[はじめに 続きをみる]]></content:encoded>
+            <enclosure length="0" type="jpeg" url="https://assets.st-note.com/production/uploads/images/144632210/rectangle_large_type_2_0bd72d4782e5df1cc1a970a7dc642976.jpeg?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[IT未経験の私が自動テストコードを解読してみた | SHIFT Group 技術ブログ]]></title>
+            <link>https://note.shiftinc.jp/n/n2d53401f30a0</link>
+            <guid>https://note.shiftinc.jp/n/n2d53401f30a0</guid>
+            <pubDate>Fri, 21 Jun 2024 01:03:59 GMT</pubDate>
+            <description><![CDATA[はじめに 続きをみる]]></description>
+            <content:encoded><![CDATA[はじめに 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/144333908/rectangle_large_type_2_cd13df7c65b2f0d6528cf4590dc5ad29.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[AnsibleでExcelファイルを読み込むカスタムモジュールを作る | SHIFT Group 技術ブログ]]></title>
+            <link>https://note.shiftinc.jp/n/n1c77e57f3cf9</link>
+            <guid>https://note.shiftinc.jp/n/n1c77e57f3cf9</guid>
+            <pubDate>Fri, 21 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[はじめに 続きをみる]]></description>
+            <content:encoded><![CDATA[はじめに 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/144683205/rectangle_large_type_2_bfc6cdcab98f048c651ea8d3846fbcfc.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[2024.06.21スキルアップ   テストの質を測るためのメトリクス    テストケース  メトリクス  テストプロジェクト  欠陥発見率  JaSST | メディア | HQW!]]></title>
+            <link>https://www.veriserve.co.jp/helloqualityworld/media/20240621001</link>
+            <guid>https://www.veriserve.co.jp/helloqualityworld/media/20240621001</guid>
+            <pubDate>Fri, 21 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[2024.06.21 スキルアップ テストの質を測るためのメトリクス  テストケース メトリクス テストプロジェクト 欠陥発見率 JaSST]]></description>
+            <content:encoded><![CDATA[2024.06.21 スキルアップ テストの質を測るためのメトリクス  テストケース メトリクス テストプロジェクト 欠陥発見率 JaSST]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://www.veriserve.co.jp/helloqualityworld/media/06bfb1cc911a40c894ee05da52702be9/11d60a0b63a24266ae62563aae230f4b/%E3%83%86%E3%82%B9%E3%83%88%E3%81%AE%E8%B3%AA%E3%82%92%E6%B8%AC%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%A1%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AnsibleでExcelを読み込むカスタムフィルターを作る | SHIFT Group 技術ブログ]]></title>
+            <link>https://note.shiftinc.jp/n/nd83b7f43b269</link>
+            <guid>https://note.shiftinc.jp/n/nd83b7f43b269</guid>
+            <pubDate>Thu, 20 Jun 2024 10:29:01 GMT</pubDate>
+            <description><![CDATA[はじめに 続きをみる]]></description>
+            <content:encoded><![CDATA[はじめに 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/144682384/rectangle_large_type_2_148b7f00a3fa7e1810713c4a39e1dab6.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[SLA DevOpsとマイクロサービス時代のQA キーワード解説 | Zennの「QA」のフィード]]></title>
+            <link>https://zenn.dev/devopsinqa/articles/32cd951ea48ae7</link>
+            <guid>https://zenn.dev/devopsinqa/articles/32cd951ea48ae7</guid>
+            <pubDate>Thu, 20 Jun 2024 10:03:00 GMT</pubDate>
+            <description><![CDATA[SLAとは SLA（Service Level Agreement、サービスレベルアグリーメント）は、サービス提供者と顧客の間で合意されたサービスの品質やパフォーマンスに関する取り決めを明文化した契約です。SLAは、特定のサービスがどのように提供されるべきか、またそのサービスが期待されるパフォーマンス基準を満たさなかった場合に取られるべき対策を明確に定義します。以下では、QA、DevOps、および...]]></description>
+            <content:encoded><![CDATA[SLAとは SLA（Service Level Agreement、サービスレベルアグリーメント）は、サービス提供者と顧客の間で合意されたサービスの品質やパフォーマンスに関する取り決めを明文化した契約です。SLAは、特定のサービスがどのように提供されるべきか、またそのサービスが期待されるパフォーマンス基準を満たさなかった場合に取られるべき対策を明確に定義します。以下では、QA、DevOps、およびマイクロサービスのコンテキストにおけるSLAの役割と重要性について説明します。 https://youtube.com/shorts/an0q6gw-BMw   QAにおけるSLA QAの観...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--TjmzfF5V--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:SLA%2520DevOps%25E3%2581%25A8%25E3%2583%259E%25E3%2582%25A4%25E3%2582%25AF%25E3%2583%25AD%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AEQA%2520%25E3%2582%25AD%25E3%2583%25BC%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%2589%25E8%25A7%25A3%25E8%25AA%25AC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E4%25BA%2580%25E4%25BA%2595%25E4%25BA%25AE%25E4%25BB%258B%25EF%25BC%25A0%25E3%2583%259E%25E3%2583%258D%25E3%2583%25BC%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%2589%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzAxZjA0OGQ4MjYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[未経験でIT業界志望のあなたに。SHIFTが最良の選択肢と言える4つの理由 | SHIFT Group 技術ブログ]]></title>
+            <link>https://note.shiftinc.jp/n/n1e558aa25815</link>
+            <guid>https://note.shiftinc.jp/n/n1e558aa25815</guid>
+            <pubDate>Thu, 20 Jun 2024 07:19:32 GMT</pubDate>
+            <description><![CDATA[はじめに  続きをみる]]></description>
+            <content:encoded><![CDATA[はじめに  続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/143564406/rectangle_large_type_2_c46ce2da6ab55d0515450961221e08c6.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[Dockerコンテナを活用したテストツール【Testcontainers】 | テスト - RAKUS Developers Blog | ラクス エンジニアブログ]]></title>
+            <link>https://tech-blog.rakus.co.jp/entry/20240620/testcontainers</link>
+            <guid>https://tech-blog.rakus.co.jp/entry/20240620/testcontainers</guid>
+            <pubDate>Thu, 20 Jun 2024 06:00:00 GMT</pubDate>
+            <description><![CDATA[はじめに Testcontainersとは Testcontainersのメリット ハンズオン 環境設定 goプロジェクトの作成 必要なパッケージのインストール テストコードの作成 コンテナリクエストの設定 コンテナの起動 コンテナのホストとポートの取得 結果の確認 まとめ]]></description>
+            <content:encoded><![CDATA[はじめに Testcontainersとは Testcontainersのメリット ハンズオン 環境設定 goプロジェクトの作成 必要なパッケージのインストール テストコードの作成 コンテナリクエストの設定 コンテナの起動 コンテナのホストとポートの取得 結果の確認 まとめ]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn-ak.f.st-hatena.com/images/fotolife/t/tech-rakus/20240619/20240619133636.png"/>
+        </item>
+        <item>
+            <title><![CDATA[自動化と効率化のためにGitHub Actionsを使いこなそうに参加してきた | 天の月]]></title>
+            <link>https://aki-m.hatenadiary.com/entry/2024/06/20/000000</link>
+            <guid>https://aki-m.hatenadiary.com/entry/2024/06/20/000000</guid>
+            <pubDate>Wed, 19 Jun 2024 15:00:00 GMT</pubDate>
+            <description><![CDATA[devops-study.connpass.com こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 会の概要 会の様子 田中さんの講演 GitHub Actionsの簡単な説明 アクションの危険性 料金 Pushだけじゃないイベント駆動 マトリックス キャッシュを使った高速化 Q&amp;A GitHub ActionsにてWindowsが使用できるのは初耳だったのだが、利用...]]></description>
+            <content:encoded><![CDATA[devops-study.connpass.com こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 会の概要 会の様子 田中さんの講演 GitHub Actionsの簡単な説明 アクションの危険性 料金 Pushだけじゃないイベント駆動 マトリックス キャッシュを使った高速化 Q&amp;A GitHub ActionsにてWindowsが使用できるのは初耳だったのだが、利用できるOSはWindowsServerシリーズか？ GitHub Actions初心者は何から手をつけるとよいか？ AzureDevOpsでも同じようなことはできるのか？ actは使ったほうがよいのか…]]></content:encoded>
+            <enclosure length="0" url="https://ogimage.blog.st-hatena.com/26006613655256878/6801883189115607411/1718809200"/>
+        </item>
+        <item>
+            <title><![CDATA[オブジェクト指向のこころを読む会 Vol21に参加してきた | 天の月]]></title>
+            <link>https://aki-m.hatenadiary.com/entry/2024/06/19/221624</link>
+            <guid>https://aki-m.hatenadiary.com/entry/2024/06/19/221624</guid>
+            <pubDate>Wed, 19 Jun 2024 13:16:24 GMT</pubDate>
+            <description><![CDATA[yr-camp.connpass.com こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 18章応用問題1 18章応用問題2 18章応用問題3 あなたの意見 19章応用問題1 19章応用問題2&amp;19章応用問題3 全体を通した感想 18章応用問題1 BridgeパターンもDecoratorパターンも、元々存在する概念やオブジェクトを構造化するようなデザインパターンになっ...]]></description>
+            <content:encoded><![CDATA[yr-camp.connpass.com こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 18章応用問題1 18章応用問題2 18章応用問題3 あなたの意見 19章応用問題1 19章応用問題2&amp;19章応用問題3 全体を通した感想 18章応用問題1 BridgeパターンもDecoratorパターンも、元々存在する概念やオブジェクトを構造化するようなデザインパターンになっているので、構造のパターンと言ってよいのではないか？となりました。 ただし、構造のパターンと振る舞いのパターンの違いってそもそもなんだろう？という話になり、特にDecoratorパターンはどのような点…]]></content:encoded>
+            <enclosure length="0" url="https://ogimage.blog.st-hatena.com/26006613655256878/6801883189115590214/1718802984"/>
+        </item>
+        <item>
+            <title><![CDATA[次世代QAに贈る、お薦め書籍7選！！〜ごまずん編〜 | ごまずん]]></title>
+            <link>https://note.com/usk_ymst_p/n/n352b2deff3c5</link>
+            <guid>https://note.com/usk_ymst_p/n/n352b2deff3c5</guid>
+            <pubDate>Wed, 19 Jun 2024 12:28:26 GMT</pubDate>
+            <description><![CDATA[はじめに この記事は以下の記事からインスパイアされています。 続きをみる]]></description>
+            <content:encoded><![CDATA[はじめに この記事は以下の記事からインスパイアされています。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/144592718/rectangle_large_type_2_5538d83416eaa29927c62847f56fa6c4.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[JSTQBシラバス V4.0.J01 から色々キャッチアップ〜コンテキストに応じたソフトウェア開発ライフサイクルでのテスト〜 | ごまずん]]></title>
+            <link>https://note.com/usk_ymst_p/n/n5f173da9ed61</link>
+            <guid>https://note.com/usk_ymst_p/n/n5f173da9ed61</guid>
+            <pubDate>Wed, 19 Jun 2024 12:06:05 GMT</pubDate>
+            <description><![CDATA[はじめに 私はJSTQBのAL保有マンですが、FLを取ったのは2018年ですので、真面目にリスキリングしようと思いました。 この記事の公開は2024年6月で、試験は2024年10月以降らしい。 まだ慌てる時間じゃないということで、気ままにシラバスを見ていこうと思います。 また、おそらく私の記事ではISTQBの原文は参照しません。 過去の経験からあんまり意味がないとわかっているからです。 ex.日本...]]></description>
+            <content:encoded><![CDATA[はじめに 私はJSTQBのAL保有マンですが、FLを取ったのは2018年ですので、真面目にリスキリングしようと思いました。 この記事の公開は2024年6月で、試験は2024年10月以降らしい。 まだ慌てる時間じゃないということで、気ままにシラバスを見ていこうと思います。 また、おそらく私の記事ではISTQBの原文は参照しません。 過去の経験からあんまり意味がないとわかっているからです。 ex.日本語シラバスでよくわからんところはどうせ原文でもよくわからない。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://assets.st-note.com/production/uploads/images/53044447/profile_90b81ba604c8e05903141ae311e2b0ee.jpg?fit=bounds&amp;format=jpeg&amp;quality=85&amp;width=330"/>
+        </item>
+        <item>
+            <title><![CDATA[【簡単解説】Salesforce資格オンライン試験の申し込み方法 | SHIFT Group 技術ブログ]]></title>
+            <link>https://note.shiftinc.jp/n/n59fc6e8920fd</link>
+            <guid>https://note.shiftinc.jp/n/n59fc6e8920fd</guid>
+            <pubDate>Wed, 19 Jun 2024 09:48:24 GMT</pubDate>
+            <description><![CDATA[はじめに 続きをみる]]></description>
+            <content:encoded><![CDATA[はじめに 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/144316405/rectangle_large_type_2_559291f17c81a3af59de3e34397819b9.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[アジャイル開発お悩み相談会 vol.15 ～これでできる！ スプリントプランニングの傾向と対策～ | SHIFT EVOLVE グループの新着イベント]]></title>
+            <link>https://shiftevolve.connpass.com/event/321528/</link>
+            <guid>https://shiftevolve.connpass.com/event/321528/</guid>
+            <pubDate>Wed, 19 Jun 2024 08:01:28 GMT</pubDate>
+            <description><![CDATA[開催日時: 2024/07/03 19:30 ～ 20:30<br />開催場所: オンライン<br /><br /><h2>■どんなイベント？</h2> <p>アジャイル(Agile)開発を導入している企業やチームも年々増えていますね<br> しかしアジャイル開発にシフトしたことで出てきた新しい悩みや相談事を抱えている方もいるのではないでしょうか?<br> そこで今回は日々現場で、アジャイルコー...]]></description>
+            <content:encoded><![CDATA[開催日時: 2024/07/03 19:30 ～ 20:30<br />開催場所: オンライン<br /><br /><h2>■どんなイベント？</h2> <p>アジャイル(Agile)開発を導入している企業やチームも年々増えていますね<br> しかしアジャイル開発にシフトしたことで出てきた新しい悩みや相談事を抱えている方もいるのではないでしょうか?<br> そこで今回は日々現場で、アジャイルコーチやスクラムマスターとして活躍されている方々が<br> パネルディスカッション形式で参加者の方々の質問や相談事項に回答していく相談会イベントを開催します</p> <p>今回のディスカッションテーマはこちらです</p> <p><strong>『これでできる！ スプリントプランニングの傾向と対策』</strong></p> <p>「スプリントプランニングが毎回タイムボックスを超えてしまう？」「スプリントゴールを決めていないけどこれって大丈夫？」など、スプリントプランニングに関する傾向と対策をこの機会に是非聞いてみてください！スクラム全般のご質問も大歓迎です。</p> <h3>■開催形式</h3> ...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://media.connpass.com/thumbs/cd/89/cd897cc9abf035fb51823f27f8bd9807.png"/>
+        </item>
+        <item>
+            <title><![CDATA[メトリクス DevOpsとマイクロサービス時代のQA キーワード解説 | Zennの「QA」のフィード]]></title>
+            <link>https://zenn.dev/devopsinqa/articles/0e9d5016ef69f1</link>
+            <guid>https://zenn.dev/devopsinqa/articles/0e9d5016ef69f1</guid>
+            <pubDate>Wed, 19 Jun 2024 07:45:00 GMT</pubDate>
+            <description><![CDATA[メトリクスとは メトリクスは、ソフトウェア開発と運用におけるプロセスの効果や品質を定量的に評価するための重要な指標です。これらのメトリクスは、特に品質保証（QA）、DevOps、およびマイクロサービスのコンテキストで重要な役割を果たします。以下では、各領域における主要なメトリクスとその活用方法について詳しく説明します。 https://youtube.com/shorts/Z1UJozecJf4 ...]]></description>
+            <content:encoded><![CDATA[メトリクスとは メトリクスは、ソフトウェア開発と運用におけるプロセスの効果や品質を定量的に評価するための重要な指標です。これらのメトリクスは、特に品質保証（QA）、DevOps、およびマイクロサービスのコンテキストで重要な役割を果たします。以下では、各領域における主要なメトリクスとその活用方法について詳しく説明します。 https://youtube.com/shorts/Z1UJozecJf4   メトリクスの基本的な説明 メトリクスは、特定の目標に対する進捗や達成度を測定するための数値的な指標です。これらの指標を用いることで、プロジェクトの健康状態を評価し、必要な改善策を講じるこ...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--g9kTmOUK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E3%2582%25AF%25E3%2582%25B9%2520DevOps%25E3%2581%25A8%25E3%2583%259E%25E3%2582%25A4%25E3%2582%25AF%25E3%2583%25AD%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AEQA%2520%25E3%2582%25AD%25E3%2583%25BC%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%2589%25E8%25A7%25A3%25E8%25AA%25AC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E4%25BA%2580%25E4%25BA%2595%25E4%25BA%25AE%25E4%25BB%258B%25EF%25BC%25A0%25E3%2583%259E%25E3%2583%258D%25E3%2583%25BC%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%2589%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzAxZjA0OGQ4MjYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[【IT未経験】AWSクラウドプラクティショナー合格までにやったこと | SHIFT Group 技術ブログ]]></title>
+            <link>https://note.shiftinc.jp/n/n0405cfd64807</link>
+            <guid>https://note.shiftinc.jp/n/n0405cfd64807</guid>
+            <pubDate>Wed, 19 Jun 2024 07:01:19 GMT</pubDate>
+            <description><![CDATA[はじめに 続きをみる]]></description>
+            <content:encoded><![CDATA[はじめに 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/143255480/rectangle_large_type_2_b0e294c7745757fd414f3877f4d12b38.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[25卒採用ハイライト！BIツールの導入、イベント出展、就職企業人気ランキングへのランクインなど | SHIFT Group 技術ブログ]]></title>
+            <link>https://note.shiftinc.jp/n/n40242bbda80b</link>
+            <guid>https://note.shiftinc.jp/n/n40242bbda80b</guid>
+            <pubDate>Wed, 19 Jun 2024 04:48:50 GMT</pubDate>
+            <description><![CDATA[はじめに 続きをみる]]></description>
+            <content:encoded><![CDATA[はじめに 続きをみる]]></content:encoded>
+            <enclosure length="0" type="jpeg" url="https://assets.st-note.com/production/uploads/images/140125935/rectangle_large_type_2_cf655a047b01c35245dd3755479ee545.jpeg?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[S/4HANA Cloud 社内向け学習環境構築記～6～データ登録 | SHIFT Group 技術ブログ]]></title>
+            <link>https://note.shiftinc.jp/n/n4ee53d2d7747</link>
+            <guid>https://note.shiftinc.jp/n/n4ee53d2d7747</guid>
+            <pubDate>Wed, 19 Jun 2024 04:40:51 GMT</pubDate>
+            <description><![CDATA[はじめに 続きをみる]]></description>
+            <content:encoded><![CDATA[はじめに 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/143667536/rectangle_large_type_2_fca7aa19f0f65870a30153da845b96e1.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[FSx for ONTAP におけるマルチプロトコルアクセスについてLDAPを使用しないケース | SHIFT Group 技術ブログ]]></title>
+            <link>https://note.shiftinc.jp/n/n68c25c69c41a</link>
+            <guid>https://note.shiftinc.jp/n/n68c25c69c41a</guid>
+            <pubDate>Wed, 19 Jun 2024 02:28:35 GMT</pubDate>
+            <description><![CDATA[はじめに 続きをみる]]></description>
+            <content:encoded><![CDATA[はじめに 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/143606879/rectangle_large_type_2_b0a52175170fab21bb17a7e191cf1407.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[Myersの三角形問題でテストの観点を養う | ソフトウェアテストタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/kccs_takanori-kanameya/items/a6fcc8d872f061467b68</link>
+            <guid>https://qiita.com/kccs_takanori-kanameya/items/a6fcc8d872f061467b68</guid>
+            <pubDate>Wed, 19 Jun 2024 01:55:25 GMT</pubDate>
+            <description><![CDATA[京セラコミュニケーションシステムの要谷（かなめや）です。 前回からかなり時間が空いてしまいましたが、今回は実際に『テストする時の観点』についてMyersの三角形問題を利用して執筆しています。 対象の…]]></description>
+            <content:encoded><![CDATA[京セラコミュニケーションシステムの要谷（かなめや）です。 前回からかなり時間が空いてしまいましたが、今回は実際に『テストする時の観点』についてMyersの三角形問題を利用して執筆しています。 対象の…]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&amp;w=1200&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk3MiZoPTM3OCZ0eHQ9TXllcnMlRTMlODElQUUlRTQlQjglODklRTglQTclOTIlRTUlQkQlQTIlRTUlOTUlOEYlRTklQTElOEMlRTMlODElQTclRTMlODMlODYlRTMlODIlQjklRTMlODMlODglRTMlODElQUUlRTglQTYlQjMlRTclODIlQjklRTMlODIlOTIlRTklQTQlOEElRTMlODElODYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzIxMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZzPTUyZTc2ZThiMWZlM2I2MzAzMmFjMmM1YmUwMjkwZGRh&amp;mark-x=142&amp;mark-y=57&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZoPTc2Jnc9NzcwJnR4dD0lNDBrY2NzX3Rha2Fub3JpLWthbmFtZXlhJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz04NDJiZWE5Yzg5N2M2NjU2OGJjODY2ZGFiOWI3Y2ZlZQ&amp;blend-x=142&amp;blend-y=436&amp;blend-mode=normal&amp;txt64=aW4g5Lqs44K744Op44Kz44Of44Ol44OL44Kx44O844K344On44Oz44K344K544OG44Og77yI5YWI56uv5oqA6KGT6ZaL55m677yJ&amp;txt-width=770&amp;txt-clip=end%2Cellipsis&amp;txt-color=%23212121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=36&amp;txt-x=156&amp;txt-y=536&amp;s=71db242174e2a37e34ccbf018a3eed97"/>
+        </item>
+        <item>
+            <title><![CDATA[[gomock] 新しく追加されていたCondが便利だった件 | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/hacobell_dev/articles/11325552db7d87</link>
+            <guid>https://zenn.dev/hacobell_dev/articles/11325552db7d87</guid>
+            <pubDate>Wed, 19 Jun 2024 00:30:00 GMT</pubDate>
+            <description><![CDATA[gomockとは？ gomockは、Go言語用のモッキング・フレームワークです。 元々はGoogleのgolang/mockとして開発されていましたが、2023年の6月頃にプロジェクトがアーカイブされ、現在はUber社がフォークして保守しています。 基本的な使い方はこちらの記事をご参照ください。 https://zenn.dev/sanpo_shiho/articles/01da627ead98f...]]></description>
+            <content:encoded><![CDATA[gomockとは？ gomockは、Go言語用のモッキング・フレームワークです。 元々はGoogleのgolang/mockとして開発されていましたが、2023年の6月頃にプロジェクトがアーカイブされ、現在はUber社がフォークして保守しています。 基本的な使い方はこちらの記事をご参照ください。 https://zenn.dev/sanpo_shiho/articles/01da627ead98f5 本記事ではUber社によってフォークされたのちに追加された便利Matcherのうち、特に活用頻度が高いCondMatcherについて紹介していきます。 Cond以外のMatcherについ...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--0avsgm6O--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255Bgomock%255D%2520%25E6%2596%25B0%25E3%2581%2597%25E3%2581%258F%25E8%25BF%25BD%25E5%258A%25A0%25E3%2581%2595%25E3%2582%258C%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259FCond%25E3%2581%258C%25E4%25BE%25BF%25E5%2588%25A9%25E3%2581%25A0%25E3%2581%25A3%25E3%2581%259F%25E4%25BB%25B6%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%25BB%25E3%2582%258A%25E3%2581%2597%25E3%2582%2587%25E3%2583%25BC%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzEzYjhhODE4MTUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Hacobell%2520Developers%2520...%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ZiZTM4NTI2YzMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[「生涯一エンジニア」を貫くウルシステムズ・漆原茂氏は、いかにして業界屈指の精鋭技術集団を作り上げたのか(前編) | メディア | HQW!]]></title>
+            <link>https://www.veriserve.co.jp/helloqualityworld/media/20240619001</link>
+            <guid>https://www.veriserve.co.jp/helloqualityworld/media/20240619001</guid>
+            <pubDate>Wed, 19 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[2024.06.19 ビジネス 「生涯一エンジニア」を貫くウルシステムズ・漆原茂氏は、いかにして業界屈指の精鋭技術集団を作り上げたのか(前編)  エンジニア 働き方 システム開発 ソフトウェア開発 AI]]></description>
+            <content:encoded><![CDATA[2024.06.19 ビジネス 「生涯一エンジニア」を貫くウルシステムズ・漆原茂氏は、いかにして業界屈指の精鋭技術集団を作り上げたのか(前編)  エンジニア 働き方 システム開発 ソフトウェア開発 AI]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://www.veriserve.co.jp/helloqualityworld/media/06bfb1cc911a40c894ee05da52702be9/bdf10b663699445693143f07572dd016/urs01001.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[大人のソフトウェアテスト雑談会 #216【ひざし】 に参加してきた | 天の月]]></title>
+            <link>https://aki-m.hatenadiary.com/entry/2024/06/18/231235</link>
+            <guid>https://aki-m.hatenadiary.com/entry/2024/06/18/231235</guid>
+            <pubDate>Tue, 18 Jun 2024 14:12:35 GMT</pubDate>
+            <description><![CDATA[ost-zatu.connpass.com 今週もテストの街葛飾に行ってきたので、会の様子と感想を書いていこうと思います。 おおひらさんのwikipedia QAコンサルタント 2023年のコミュニティ動向 PdMというロールへの疑問 全体を通した感想 おおひらさんのwikipedia テスト界隈の方々はWikipediaがある方も多いということで、おおひらさんのWikipediaも作るとよいので...]]></description>
+            <content:encoded><![CDATA[ost-zatu.connpass.com 今週もテストの街葛飾に行ってきたので、会の様子と感想を書いていこうと思います。 おおひらさんのwikipedia QAコンサルタント 2023年のコミュニティ動向 PdMというロールへの疑問 全体を通した感想 おおひらさんのwikipedia テスト界隈の方々はWikipediaがある方も多いということで、おおひらさんのWikipediaも作るとよいのではないか？という話が出ていました。 なお、アジャイル界隈の方だとみほらぶさん以外はまだ見たことがなく、平鍋さんですら作られていないということでした。 ja.wikipedia.org QAコンサルタン…]]></content:encoded>
+            <enclosure length="0" url="https://ogimage.blog.st-hatena.com/26006613655256878/6801883189115367385/1718719955"/>
+        </item>
+        <item>
+            <title><![CDATA[「ソフトウェアテストの教科書 [増補改訂 第2版]」批判 〜2章 ソフトウェア開発の流れとテスト工程とは〜その2 | ごまずん]]></title>
+            <link>https://note.com/usk_ymst_p/n/n117b744b6c04</link>
+            <guid>https://note.com/usk_ymst_p/n/n117b744b6c04</guid>
+            <pubDate>Tue, 18 Jun 2024 12:23:24 GMT</pubDate>
+            <description><![CDATA[はじめに 本記事は「ソフトウェアテストの教科書 [増補改訂 第2版]」という本について、ひとりのDirty Tester目線で批判する記事です。 続きをみる]]></description>
+            <content:encoded><![CDATA[はじめに 本記事は「ソフトウェアテストの教科書 [増補改訂 第2版]」という本について、ひとりのDirty Tester目線で批判する記事です。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://d2l930y2yx77uc.cloudfront.net/production/social_images/0d28082655d91acd234f5c034006e042b7d06ed7.png"/>
+        </item>
+        <item>
+            <title><![CDATA[ISO/IEC 25010 SQueRE 保守性の副特性「テスト性」 DevOpsとマイクロサービス時代のQA キーワード解説 | Zennの「QA」のフィード]]></title>
+            <link>https://zenn.dev/devopsinqa/articles/ae80cd2d2c08d2</link>
+            <guid>https://zenn.dev/devopsinqa/articles/ae80cd2d2c08d2</guid>
+            <pubDate>Tue, 18 Jun 2024 10:03:00 GMT</pubDate>
+            <description><![CDATA[テスト性とは SQuaRE（Software Product Quality Requirements and Evaluation、ISO/IEC 25010）における保守性の副特性としての「テスト性（Testability）」は、ソフトウェアがどれだけ効率的にテストされるかを示す品質特性です。テスト性は、ソフトウェアのテスト計画の作成、テストケースの実行、およびテスト結果の評価が容易である程度...]]></description>
+            <content:encoded><![CDATA[テスト性とは SQuaRE（Software Product Quality Requirements and Evaluation、ISO/IEC 25010）における保守性の副特性としての「テスト性（Testability）」は、ソフトウェアがどれだけ効率的にテストされるかを示す品質特性です。テスト性は、ソフトウェアのテスト計画の作成、テストケースの実行、およびテスト結果の評価が容易である程度を指します。 https://youtube.com/shorts/v1LsCxn9bLw   テスト性が高いソフトウェアの特徴・利点   観察可能性: ソフトウェアの動作が外部から観察しや...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--HniMdyEN--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:ISO%252FIEC%252025010%2520SQueRE%2520%25E4%25BF%259D%25E5%25AE%2588%25E6%2580%25A7%25E3%2581%25AE%25E5%2589%25AF%25E7%2589%25B9%25E6%2580%25A7%25E3%2580%258C%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E6%2580%25A7%25E3%2580%258D%2520DevOps%25E3%2581%25A8%25E3%2583%259E%25E3%2582%25A4%25E3%2582%25AF%25E3%2583%25AD%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AEQA%2520%25E3%2582%25AD...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E4%25BA%2580%25E4%25BA%2595%25E4%25BA%25AE%25E4%25BB%258B%25EF%25BC%25A0%25E3%2583%259E%25E3%2583%258D%25E3%2583%25BC%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%2589%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzAxZjA0OGQ4MjYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+    </channel>
+</rss>
