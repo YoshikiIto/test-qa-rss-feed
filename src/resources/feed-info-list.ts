@@ -65,6 +65,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['tarappo', 'https://note.com/tarappo/rss'],
   ['チームスピリットデベロッパーブログ', 'https://teamspirit.hatenablog.com/feed/category/%E3%83%86%E3%82%B9%E3%83%88'],
   ['知識ゼロからソフトウェアテストをはじめた人', 'https://moyashinomegane.hatenablog.com/feed'],
+  ['2106yoshikawa', 'https://note.com/2106yoshikawa/rss'],
   ['つーつー', 'https://note.com/ms_tsu_tsu/rss'],
   ['Tsuyoshi Yumoto', 'https://note.com/yumotsuyo/rss'],
   //['テスト自動化タグが付けられた新着記事 - Qiita', 'https://qiita.com/tags/%e3%83%86%e3%82%b9%e3%83%88%e8%87%aa%e5%8b%95%e5%8c%96/feed'],
