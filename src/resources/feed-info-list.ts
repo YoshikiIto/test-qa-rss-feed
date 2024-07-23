@@ -44,7 +44,6 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['次世代ゲームテスト研究所', 'https://blog.aiqveone.co.jp/feed'],
   ['柴田 芳樹 (Yoshiki Shibata)', 'https://yshibata.blog.ss-blog.jp/index.xml'],
   ['SHIFT EVOLVE', 'https://shiftevolve.connpass.com/ja.atom'],
-  ['SHIFT Group 技術ブログ', 'https://note.com/shift_tech/rss'],
   ['a_shirami', 'https://note.com/a_shirami/rss'],
   ['shiro庵 - カテゴリ：ソフトウェアテスト', 'https://yuki-shiro.hatenablog.com/feed/category/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%86%E3%82%B9%E3%83%88'],
   ['gu3', 'https://note.com/gu3323/rss'],
