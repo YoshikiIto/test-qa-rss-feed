@@ -21,6 +21,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['飴ブロ(仮', 'https://pineapplecandy.hatenadiary.jp/feed'],
   ['ANDPAD Tech Blog', 'https://tech.andpad.co.jp/feed/category/%E8%87%AA%E5%8B%95%E3%83%86%E3%82%B9%E3%83%88'],
   ['156', 'https://note.com/156musik_test/rss'],
+  ['AIテスト自動化プラットフォーム「MagicPod」公式note', 'https://note.com/magicpod/rss'],
   ['エムスリーテックブログ - カテゴリ：QA', 'https://www.m3tech.blog/feed/category/QA'],
   //か
   ['かいり', 'https://note.com/kairiver/rss'],
@@ -67,6 +68,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['2106yoshikawa', 'https://note.com/2106yoshikawa/rss'],
   ['つーつー', 'https://note.com/ms_tsu_tsu/rss'],
   ['Tsuyoshi Yumoto', 'https://note.com/yumotsuyo/rss'],
+  ['特定非営利活動法人ソフトウェアテスト技術振興協会【プレスリリース】 by PR TIMES', 'https://prtimes.jp/companyrdf.php?company_id=54604'],
   //['テスト自動化タグが付けられた新着記事 - Qiita', 'https://qiita.com/tags/%e3%83%86%e3%82%b9%e3%83%88%e8%87%aa%e5%8b%95%e5%8c%96/feed'],
   ['DeNA Testing Blog', 'https://swet.dena.com/feed'],
   ['テスターちゃん【4コマ漫画】', 'https://testerchan.hatenadiary.com/feed'],
