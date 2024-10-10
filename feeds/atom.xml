@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yoshikiito.github.io/test-qa-rss-feed/</id>
+    <title>テスト・QA関連ブログRSS</title>
+    <updated>2024-10-10T15:04:30.723Z</updated>
+    <generator>yoshikiito/test-qa-rss-feed</generator>
+    <link rel="alternate" href="https://yoshikiito.github.io/test-qa-rss-feed/"/>
+    <link rel="self" href="https://yoshikiito.github.io/test-qa-rss-feed/feeds/atom.xml"/>
+    <subtitle>企テスト・QA関連ブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://yoshikiito.github.io/test-qa-rss-feed/images/icon.png</logo>
+    <icon>https://yoshikiito.github.io/test-qa-rss-feed/images/favicon.ico</icon>
+    <rights>yoshikiito/test-qa-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[アジャイルコーチとスクラムマスターの集い Day1に参加してきた | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2024/10/10/073751</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2024/10/10/073751"/>
+        <updated>2024-10-09T22:37:51.000Z</updated>
+        <summary type="html"><![CDATA[www.attractor.co.jp 今日からアトラクタさんが主催のリトリートに参加してきているので、会の様子を書いていこうと思います。 申し込み忘れていて参加を諦めていたのですが、急遽欠員が出そうということで、欠員される方と話をして代理で行けることになったので参加しました！ 到着まで Hideさんとお話する むとうさんに挨拶する お昼ごはんを食べる 小井さんに挨拶する Ackyさんと話す オー...]]></summary>
+        <content type="html"><![CDATA[www.attractor.co.jp 今日からアトラクタさんが主催のリトリートに参加してきているので、会の様子を書いていこうと思います。 申し込み忘れていて参加を諦めていたのですが、急遽欠員が出そうということで、欠員される方と話をして代理で行けることになったので参加しました！ 到着まで Hideさんとお話する むとうさんに挨拶する お昼ごはんを食べる 小井さんに挨拶する Ackyさんと話す オープニング OSTテーマ1 JKさんAckyさんと話す アジャイルコーチとコンサルタント OODAやDX 早く成長するチーム 丸谷さんみやちさんと話す 境界ゲーム 夜ご飯 みほらぶさん洋さんと話す お風…]]></content>
+        <published>2024-10-09T22:37:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flutterにおけるテストの作法 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/masarufuruya/articles/cb2f8354b26f90</id>
+        <link href="https://zenn.dev/masarufuruya/articles/cb2f8354b26f90"/>
+        <updated>2024-10-09T12:47:33.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 自分自身はWebエンジニア出身でFlutterでの開発経験はほぼ皆無なのですが、個人的に最近Flutterの勉強を始めています。 今回はFlutterにおいてテストはどう書いていくのがよいのか調べてみました。   公式ドキュメント テストについては公式ドキュメントが一番よくまとまっています。概要を掴むには日本語の記事でもよいですが、まずは公式のものからあたるのが良いです。 テストのサンプ...]]></summary>
+        <content type="html"><![CDATA[はじめに 自分自身はWebエンジニア出身でFlutterでの開発経験はほぼ皆無なのですが、個人的に最近Flutterの勉強を始めています。 今回はFlutterにおいてテストはどう書いていくのがよいのか調べてみました。   公式ドキュメント テストについては公式ドキュメントが一番よくまとまっています。概要を掴むには日本語の記事でもよいですが、まずは公式のものからあたるのが良いです。 テストのサンプルはこちらのcodelabで学ぶことができます。 https://codelabs.developers.google.com/codelabs/flutter-app-testing?hl...]]></content>
+        <author>
+            <name>masarufuruya</name>
+        </author>
+        <published>2024-10-09T12:47:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[改めまして、ボク亀井です。その3 | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/devopsinqa/articles/8918063a996230</id>
+        <link href="https://zenn.dev/devopsinqa/articles/8918063a996230"/>
+        <updated>2024-10-09T10:18:24.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 改めまして、ボク亀井です。その2の続きです。 10月26日、秋の旬なアーキテクチャLT会 supported by KIKKAKE CREATIONに登壇するので、棚卸しをしています。自分を知ってもらう機会かと思い、Zennにも投稿します〜   プログラミング言語  Perl Java(1.4とかw)  Struts   JavaScript  PrototypeJS jQuery Vu...]]></summary>
+        <content type="html"><![CDATA[はじめに 改めまして、ボク亀井です。その2の続きです。 10月26日、秋の旬なアーキテクチャLT会 supported by KIKKAKE CREATIONに登壇するので、棚卸しをしています。自分を知ってもらう機会かと思い、Zennにも投稿します〜   プログラミング言語  Perl Java(1.4とかw)  Struts   JavaScript  PrototypeJS jQuery Vue Node Next.js   PHP  Cake Laravel   Python SQL    設計  機能設計 DB設計 アーキテクチャ設計    他  Docker ラズパイ Po...]]></content>
+        <author>
+            <name>亀井亮介＠マネーフォワード</name>
+        </author>
+        <published>2024-10-09T10:18:24.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JSTQB Conference in 2024 Autumnのパネルディスカッションに登壇したよ | テストする人。]]></title>
+        <id>https://underscore42rina.hatenablog.com/entry/2024/10/09/174013</id>
+        <link href="https://underscore42rina.hatenablog.com/entry/2024/10/09/174013"/>
+        <updated>2024-10-09T08:40:13.000Z</updated>
+        <summary type="html"><![CDATA[JSTQB Conference in 2024 Autumn https://jstqb.jp/prinfo/conference2024/ 参加しました＆パネルディスカッションに登壇してきました。 パネルディスカッション-1 アジャイル/DevOps/スクラムでのTMMiの活用 です。 オープン情報に名前がないので、私が出るということはわからなかったかもしれません。 今回登壇の話を聞いたのも2...]]></summary>
+        <content type="html"><![CDATA[JSTQB Conference in 2024 Autumn https://jstqb.jp/prinfo/conference2024/ 参加しました＆パネルディスカッションに登壇してきました。 パネルディスカッション-1 アジャイル/DevOps/スクラムでのTMMiの活用 です。 オープン情報に名前がないので、私が出るということはわからなかったかもしれません。 今回登壇の話を聞いたのも2週間くらい前だったので、つつがなく終わってよかったなと思っています。 モデレーターの力って本当にすごいですね。 技術委員として登壇したのですが、パネリストの立場としては、QAのエンジニアリングマネージ…]]></content>
+        <published>2024-10-09T08:40:13.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Terraform TestのMockを試してみる | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/taromurata/articles/terraform_mock</id>
+        <link href="https://zenn.dev/taromurata/articles/terraform_mock"/>
+        <updated>2024-10-09T08:21:17.000Z</updated>
+        <summary type="html"><![CDATA[本記事の想定読者  Terraform Testって何？Terraformにネイティブなtestコマンドなんてあったっけ。。。？🤔な方。 Terraformのtestはちょっと使ったことがあるけどTerraform TestのMockってなに？👀な方。    はじめに   TerraformのTest みなさん、Terraformコードのテストはどうしていますか？ Terraformは言わずと...]]></summary>
+        <content type="html"><![CDATA[本記事の想定読者  Terraform Testって何？Terraformにネイティブなtestコマンドなんてあったっけ。。。？🤔な方。 Terraformのtestはちょっと使ったことがあるけどTerraform TestのMockってなに？👀な方。    はじめに   TerraformのTest みなさん、Terraformコードのテストはどうしていますか？ Terraformは言わずと知れたIaCツールですが、実はそのTest機能は長らく実装されておらず、サードパーティのツールを使ってテストしたり、お手製スクリプトでテストしたりされるケースが多かったのではないかなと思います。...]]></content>
+        <author>
+            <name>taro</name>
+        </author>
+        <published>2024-10-09T08:21:17.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【連載】蔵前の珈琲豆屋がソフトウェアテストから学んだこと:障がい者は大切なパートナー、福祉事業所と共に築き上げた焙煎事業(第2回) | メディア | HQW!]]></title>
+        <id>https://www.veriserve.co.jp/helloqualityworld/media/20241009001</id>
+        <link href="https://www.veriserve.co.jp/helloqualityworld/media/20241009001"/>
+        <updated>2024-10-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2024.10.09 ビジネス NEW 【連載】蔵前の珈琲豆屋がソフトウェアテストから学んだこと:障がい者は大切なパートナー、福祉事業所と共に築き上げた焙煎事業(第2回)  コーヒー ソフトウェアテスト 起業 地域 キャリア 社会貢献]]></summary>
+        <content type="html"><![CDATA[2024.10.09 ビジネス NEW 【連載】蔵前の珈琲豆屋がソフトウェアテストから学んだこと:障がい者は大切なパートナー、福祉事業所と共に築き上げた焙煎事業(第2回)  コーヒー ソフトウェアテスト 起業 地域 キャリア 社会貢献]]></content>
+        <published>2024-10-09T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アジャイルよもやま話 ~ 受託開発でもアジャイル開発できました ~に参加してきた | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2024/10/09/003000</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2024/10/09/003000"/>
+        <updated>2024-10-08T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[aws-dev-live-show.connpass.com こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 会の概要 会の様子 及部さんの講演 受託開発のイメージ 受託開発の難しさ 及部さんのチームの取り組み 受託開発の罠 まとめ Q&amp;A チーム転職という発想がなかったのでそれをしたのはすごい 発注側とチームになるには？ 2つめのチームはどう作ったのか？ 受託開発で...]]></summary>
+        <content type="html"><![CDATA[aws-dev-live-show.connpass.com こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 会の概要 会の様子 及部さんの講演 受託開発のイメージ 受託開発の難しさ 及部さんのチームの取り組み 受託開発の罠 まとめ Q&amp;A チーム転職という発想がなかったのでそれをしたのはすごい 発注側とチームになるには？ 2つめのチームはどう作ったのか？ 受託開発でチーミングするときに気をつけたほうが良いことは？ 固定スコープに対してどうアプローチしたのか？ 今日話した内容は最初から気がついていたのか？ チームのサイズはどれくらいなのか？ 会全体を通した感想 会…]]></content>
+        <published>2024-10-08T15:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大人のソフトウェアテスト雑談会 #233【供養】に参加してきた | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2024/10/08/231821</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2024/10/08/231821"/>
+        <updated>2024-10-08T14:18:21.000Z</updated>
+        <summary type="html"><![CDATA[ost-zatu.connpass.com 今週もテストの街葛飾に行ってきたので、会の様子と感想を書いていこうと思います。 RSGT×QA QA×スクラムマスター 一人目〇〇と新卒〇〇 気になるプロポーザル 全体を通した感想 RSGT×QA QAの方がかなりRSGTにプロポーザルを出しているような気がするという話をしたところ、おおひらさんからQA(というか厳密に言うとテスター)の話をするプロポーザ...]]></summary>
+        <content type="html"><![CDATA[ost-zatu.connpass.com 今週もテストの街葛飾に行ってきたので、会の様子と感想を書いていこうと思います。 RSGT×QA QA×スクラムマスター 一人目〇〇と新卒〇〇 気になるプロポーザル 全体を通した感想 RSGT×QA QAの方がかなりRSGTにプロポーザルを出しているような気がするという話をしたところ、おおひらさんからQA(というか厳密に言うとテスター)の話をするプロポーザルは全然ないというコメントをいただきました。 QA×スクラムマスター QAの人がスクラムマスターになりたいと思うのは、エンジニアがスクラムマスターになりたいという想いと同じように尊重できる一方で、品質…]]></content>
+        <published>2024-10-08T14:18:21.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[改めまして、ボク亀井です。その2 | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/devopsinqa/articles/6404df809bad2d</id>
+        <link href="https://zenn.dev/devopsinqa/articles/6404df809bad2d"/>
+        <updated>2024-10-08T10:03:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 改めまして、ボク亀井です。その1の続きです。 10月26日、秋の旬なアーキテクチャLT会 supported by KIKKAKE CREATIONに登壇するので、棚卸しをしています。自分を知ってもらう機会かと思い、Zennにも投稿します〜   仕事のスタイル  アジャイル・スクラム前提 TDD（テスト駆動開発推奨） ユニットテストは大事（ユニットテストだけで品質保証できるとは言っていな...]]></summary>
+        <content type="html"><![CDATA[はじめに 改めまして、ボク亀井です。その1の続きです。 10月26日、秋の旬なアーキテクチャLT会 supported by KIKKAKE CREATIONに登壇するので、棚卸しをしています。自分を知ってもらう機会かと思い、Zennにも投稿します〜   仕事のスタイル  アジャイル・スクラム前提 TDD（テスト駆動開発推奨） ユニットテストは大事（ユニットテストだけで品質保証できるとは言っていない） DevOpsにおけるQAを実現したいので、Four Keysも重要視、生産性は下げたくない    成功体験  新電力サービス業案件に入ったら、リリース3ヶ月前に300個のバグがある→リ...]]></content>
+        <author>
+            <name>亀井亮介＠マネーフォワード</name>
+        </author>
+        <published>2024-10-08T10:03:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GIHOZアップデート情報：テスト観点ツリーでツリーやサブツリー内の文字列検索が可能に、テストモデル・ケース仕様をコピーする際、コピー先にフォルダの指定が可能に | GIHOZ’s blog]]></title>
+        <id>https://gihoz.hatenablog.com/entry/2024/10/08/140955</id>
+        <link href="https://gihoz.hatenablog.com/entry/2024/10/08/140955"/>
+        <updated>2024-10-08T05:09:55.000Z</updated>
+        <summary type="html"><![CDATA[日頃からテスト技法ツールGIHOZをご利用いただき誠にありがとうございます。 また、ご感想やフィードバックをいただき誠にありがとうございます。 最新のアップデート情報をお知らせします。 テスト観点ツリーでツリーやサブツリー内の文字列検索が可能になりました テスト観点ツリーやサブツリー内の文字列検索ができるようになりました。これまでは、テスト観点が多いと、編集したいテスト観点を目視で探す必要があり手...]]></summary>
+        <content type="html"><![CDATA[日頃からテスト技法ツールGIHOZをご利用いただき誠にありがとうございます。 また、ご感想やフィードバックをいただき誠にありがとうございます。 最新のアップデート情報をお知らせします。 テスト観点ツリーでツリーやサブツリー内の文字列検索が可能になりました テスト観点ツリーやサブツリー内の文字列検索ができるようになりました。これまでは、テスト観点が多いと、編集したいテスト観点を目視で探す必要があり手間がかかりましたが、検索機能の追加によってテスト観点を簡単に探すことができるようになり、テスト観点ツリーの編集がこれまでよりスムーズに行えるようなりました。 文字を入力することで、テスト観点ツリーとサ…]]></content>
+        <published>2024-10-08T05:09:55.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アジャイルカフェ@オンライン 第60回に参加してきた | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2024/10/07/233000</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2024/10/07/233000"/>
+        <updated>2024-10-07T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[agile-studio.connpass.com こちらのイベントに参加してきたので、会の様子と感想を記載していこうと思います。 会の概要 会の様子 兼任にまつわる説明 なしの主張 ありの主張 会全体を通した感想 会の概要 アジャイルコーチの木下さん家永さん天野さんがアジャイル実践者のお悩みに答えていくイベントです。今日のテーマは、「スクラムマスターと開発者の兼任はありか？」でした。 会の様子 ...]]></summary>
+        <content type="html"><![CDATA[agile-studio.connpass.com こちらのイベントに参加してきたので、会の様子と感想を記載していこうと思います。 会の概要 会の様子 兼任にまつわる説明 なしの主張 ありの主張 会全体を通した感想 会の概要 アジャイルコーチの木下さん家永さん天野さんがアジャイル実践者のお悩みに答えていくイベントです。今日のテーマは、「スクラムマスターと開発者の兼任はありか？」でした。 会の様子 兼任にまつわる説明 scruminc.jp なしの主張 最初に兼務がだめだと言われている理由に関して話がありました。以下、その理由を箇条書きで記載していきます。 スクラムマスターと開発者は必要な仕事が…]]></content>
+        <published>2024-10-07T14:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[改めまして、ボク亀井です。その1 | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/devopsinqa/articles/8105e310bc19ce</id>
+        <link href="https://zenn.dev/devopsinqa/articles/8105e310bc19ce"/>
+        <updated>2024-10-07T09:45:38.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 10月26日、秋の旬なアーキテクチャLT会 supported by KIKKAKE CREATIONに登壇するので、棚卸しをしています。自分を知ってもらう機会かと思い、Zennにも投稿します〜   お前は何者だ！  ITのことなら何でもやってしまう人 一応QAという肩書きがついている DevOpsを前提としたQAを全社的にどう実現するかを考える人 結局、標準化を推進する人    経歴 ...]]></summary>
+        <content type="html"><![CDATA[はじめに 10月26日、秋の旬なアーキテクチャLT会 supported by KIKKAKE CREATIONに登壇するので、棚卸しをしています。自分を知ってもらう機会かと思い、Zennにも投稿します〜   お前は何者だ！  ITのことなら何でもやってしまう人 一応QAという肩書きがついている DevOpsを前提としたQAを全社的にどう実現するかを考える人 結局、標準化を推進する人    経歴  24歳: 東京のソフトハウスでバイト、UNIXサーバ4台に囲まれてWebサービスのテスト 25歳: 結婚をきっかけに開発会社に入社、主にJava(1.4系)とJavaScriptを書く 2...]]></content>
+        <author>
+            <name>亀井亮介＠マネーフォワード</name>
+        </author>
+        <published>2024-10-07T09:45:38.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フロントエンドのテスト戦略ってどうすればいいの？ | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/coconala/articles/f048377f314507</id>
+        <link href="https://zenn.dev/coconala/articles/f048377f314507"/>
+        <updated>2024-10-07T01:02:34.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！ 株式会社ココナラの法律相談事業部でWebエンジニアをしている 原井夏樹 です。 ココナラ法律相談というプロダクトのフロントエンド・バックエンド開発を担当しています。 よければXのフォローをお願いします！喜びます！ @superhahnah この記事ではフロントエンドテストの導入にあたり、私たちのプロダクトではどんなテスト戦略をとるべきかを調査・検討して得られた知見を共有します。 読ん...]]></summary>
+        <content type="html"><![CDATA[こんにちは！ 株式会社ココナラの法律相談事業部でWebエンジニアをしている 原井夏樹 です。 ココナラ法律相談というプロダクトのフロントエンド・バックエンド開発を担当しています。 よければXのフォローをお願いします！喜びます！ @superhahnah この記事ではフロントエンドテストの導入にあたり、私たちのプロダクトではどんなテスト戦略をとるべきかを調査・検討して得られた知見を共有します。 読んでくださる皆さんの参考になれば幸いです。   そもそもフロントエンドのテストって色々ありすぎてよくわからん 「〇〇テスト」っていう用語、本当にたくさんありますよね。 例えば…  ユニットテスト(...]]></content>
+        <author>
+            <name>株式会社ココナラ</name>
+        </author>
+        <published>2024-10-07T01:02:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スクラムフェスニセコで今年も個人スポンサーをします | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2024/10/06/233000</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2024/10/06/233000"/>
+        <updated>2024-10-06T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[www.scrumfestsapporo.org 告知が続いて申し訳ないですが、公式ブログにもスポンサーロゴ(??)が出たので、今年もスクラムフェスニセコで個人スポンサーをしてくる宣言をしたいと思います。 昨年の記事 昨年から継続して個人スポンサーをしようと思っている理由 ゴールドスポンサーにした理由 個人スポンサーセッション 個人ブース 来年以降どうしていきたいか 昨年の記事 aki-m.hat...]]></summary>
+        <content type="html"><![CDATA[www.scrumfestsapporo.org 告知が続いて申し訳ないですが、公式ブログにもスポンサーロゴ(??)が出たので、今年もスクラムフェスニセコで個人スポンサーをしてくる宣言をしたいと思います。 昨年の記事 昨年から継続して個人スポンサーをしようと思っている理由 ゴールドスポンサーにした理由 個人スポンサーセッション 個人ブース 来年以降どうしていきたいか 昨年の記事 aki-m.hatenadiary.com 昨年から継続して個人スポンサーをしようと思っている理由 一番の理由は、昨年のスクラムフェスニセコの体験がとても良かったことです。合宿型のカンファレンスというのは当時初めてだっ…]]></content>
+        <published>2024-10-06T14:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[共感力とコミュニケーション：QA成功の鍵を探る Podcast | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/devopsinqa/articles/dc9dca17886199</id>
+        <link href="https://zenn.dev/devopsinqa/articles/dc9dca17886199"/>
+        <updated>2024-10-06T10:03:05.000Z</updated>
+        <summary type="html"><![CDATA[Podcast https://podcasters.spotify.com/pod/show/-qa-in-devops/episodes/QA-e2n5tmp   YouTube https://youtu.be/mQnlAR0l_EI]]></summary>
+        <content type="html"><![CDATA[Podcast https://podcasters.spotify.com/pod/show/-qa-in-devops/episodes/QA-e2n5tmp   YouTube https://youtu.be/mQnlAR0l_EI]]></content>
+        <author>
+            <name>亀井亮介＠マネーフォワード</name>
+        </author>
+        <published>2024-10-06T10:03:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【jest/vitest】toBe と toEqual の違い | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/yuya333/articles/363c15c96f6f9d</id>
+        <link href="https://zenn.dev/yuya333/articles/363c15c96f6f9d"/>
+        <updated>2024-10-06T08:42:40.000Z</updated>
+        <summary type="html"><![CDATA[JavaScriptで以下のようなobjectを返す関数を考えます。ManyKeyObjectとあるように、非常に多くのkeyを持つobjectを返します。 type ManyKeyObject = {  a: string  b: string  ...  z: string };  const returnObject = ({  object1,  object2,  isFirst, }:...]]></summary>
+        <content type="html"><![CDATA[JavaScriptで以下のようなobjectを返す関数を考えます。ManyKeyObjectとあるように、非常に多くのkeyを持つobjectを返します。 type ManyKeyObject = {  a: string  b: string  ...  z: string };  const returnObject = ({  object1,  object2,  isFirst, }: {  object1: ManyKeyObject;  object2: ManyKeyObject;  isFirst: boolean; }) =>...]]></content>
+        <author>
+            <name>yuya333</name>
+        </author>
+        <published>2024-10-06T08:42:40.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソフトウェアテスト自動化カンファレンス2024 | テスト自動化研究会 グループの新着イベント]]></title>
+        <id>https://testautomationresearch.connpass.com/event/333442/</id>
+        <link href="https://testautomationresearch.connpass.com/event/333442/"/>
+        <updated>2024-10-06T07:50:59.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2024/12/07 12:50 ～ 19:00<br />開催場所: オンライン<br /><br /><h1>オンライン開催</h1> <p>今回の「ソフトウェアテスト自動化カンファレンス2024」はオンライン開催になります。<br> コミュニケーションの手段として下記のツールを利用します。どちらも無料でご利用いただけます。</p> <ul> <li>Discord（スケジュール、...]]></summary>
+        <content type="html"><![CDATA[開催日時: 2024/12/07 12:50 ～ 19:00<br />開催場所: オンライン<br /><br /><h1>オンライン開催</h1> <p>今回の「ソフトウェアテスト自動化カンファレンス2024」はオンライン開催になります。<br> コミュニケーションの手段として下記のツールを利用します。どちらも無料でご利用いただけます。</p> <ul> <li>Discord（スケジュール、講演中のコメント、Ask the Speaker）<br>  <a href="https://discord.com" rel="nofollow">https://discord.com</a></li> <li>Zoom（講演のストリーム配信）<br>  <a href="https://zoom.us" rel="nofollow">https://zoom.us</a></li> </ul> <p>なお、講演は後日、テスト自動化研究会のYouTubeチャンネル <a href="https://www.youtube.com/c/テスト自動化研究会/featured" rel="no...]]></content>
+        <published>2024-10-06T07:50:59.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第302回：　「ALTAのテキストをつくろう」56　（相互運用性テスト） | Kouichi Akiyama]]></title>
+        <id>https://note.com/akiyama924/n/nfe2ebf849dae</id>
+        <link href="https://note.com/akiyama924/n/nfe2ebf849dae"/>
+        <updated>2024-10-05T21:44:38.000Z</updated>
+        <summary type="html"><![CDATA[◀前の記事へ 次の記事へ▶︎  ≡ はじめに 続きをみる]]></summary>
+        <content type="html"><![CDATA[◀前の記事へ 次の記事へ▶︎  ≡ はじめに 続きをみる]]></content>
+        <published>2024-10-05T21:44:38.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テストに関して | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/monyyy/articles/30368bfaeba2a3</id>
+        <link href="https://zenn.dev/monyyy/articles/30368bfaeba2a3"/>
+        <updated>2024-10-05T11:27:59.000Z</updated>
+        <summary type="html"><![CDATA[単体テスト  機能単位のテストを行う  実際にはどの様なものか？ ・関数単位 ・画面パーツ単位など できるだけ小さな単位でテストを行う 例）ログイン画面 ・空で入ろうとするとバリデーションがかかるか ・そのページに利用規約がある場合は、そのページは遷移するか 実際には単体テスト仕様書に記載する    テスト対象 テスト内容 期待結果 結果     ログインフォーム 正しいメールアドレスとパスワード...]]></summary>
+        <content type="html"><![CDATA[単体テスト  機能単位のテストを行う  実際にはどの様なものか？ ・関数単位 ・画面パーツ単位など できるだけ小さな単位でテストを行う 例）ログイン画面 ・空で入ろうとするとバリデーションがかかるか ・そのページに利用規約がある場合は、そのページは遷移するか 実際には単体テスト仕様書に記載する    テスト対象 テスト内容 期待結果 結果     ログインフォーム 正しいメールアドレスとパスワードを入力してログインボタンをクリック ログインに成功し、マイページに遷移すること ⚪︎    誤ったメールアドレスとパスワードを入力して、ログインボタンをクリック エラーメッセージが表示される...]]></content>
+        <author>
+            <name>Mon</name>
+        </author>
+        <published>2024-10-05T11:27:59.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RSGT2025にプロポーザルを出した | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2024/10/05/194151</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2024/10/05/194151"/>
+        <updated>2024-10-05T10:41:51.000Z</updated>
+        <summary type="html"><![CDATA[RSGT2025にプロポーザルを出したので今日はその告知です。 confengine.com confengine.com 発表概要 1本目 2本目 プロポーザルを出したきっかけ チャレンジしたいこと おわりに 発表概要 1本目 自分が外部アジャイルコーチとして現場に入るとき多く聞く要望の一つに、「チームや組織がどれくらいアジャイルになっているのかを客観的に評価してほしい」があります。(特にアジャ...]]></summary>
+        <content type="html"><![CDATA[RSGT2025にプロポーザルを出したので今日はその告知です。 confengine.com confengine.com 発表概要 1本目 2本目 プロポーザルを出したきっかけ チャレンジしたいこと おわりに 発表概要 1本目 自分が外部アジャイルコーチとして現場に入るとき多く聞く要望の一つに、「チームや組織がどれくらいアジャイルになっているのかを客観的に評価してほしい」があります。(特にアジャイルチームを立ち上げてちょっと時間が経っている現場では多い印象です)しかし、評価を求めている動機によっては、評価をしても何も成果をあげられなかったり、最悪の場合はアジャイルな組織やチームから後退する可…]]></content>
+        <published>2024-10-05T10:41:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ゼロデイ攻撃 LLM QA キーワード解説 | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/devopsinqa/articles/7554e98a2fd816</id>
+        <link href="https://zenn.dev/devopsinqa/articles/7554e98a2fd816"/>
+        <updated>2024-10-05T10:03:05.000Z</updated>
+        <summary type="html"><![CDATA[ゼロデイ攻撃 ゼロデイ攻撃とは、ソフトウェアやシステムに存在するセキュリティ脆弱性が開発者やシステム管理者に発見・修正される前に、その脆弱性を悪用して行われるサイバー攻撃です。ゼロデイ攻撃は、脆弱性に対する修正やパッチがリリースされていない状態で行われるため、組織や個人にとって非常に危険です。   QA観点でのゼロデイ攻撃の説明   1. QAで対応が難しい理由  ゼロデイ攻撃は、脆弱性が公知にな...]]></summary>
+        <content type="html"><![CDATA[ゼロデイ攻撃 ゼロデイ攻撃とは、ソフトウェアやシステムに存在するセキュリティ脆弱性が開発者やシステム管理者に発見・修正される前に、その脆弱性を悪用して行われるサイバー攻撃です。ゼロデイ攻撃は、脆弱性に対する修正やパッチがリリースされていない状態で行われるため、組織や個人にとって非常に危険です。   QA観点でのゼロデイ攻撃の説明   1. QAで対応が難しい理由  ゼロデイ攻撃は、脆弱性が公知になる前に行われるため、QAチームや開発チームがテスト中にこの脆弱性を特定して防ぐことが非常に困難です。通常のQAプロセスでは、既知の脆弱性に基づいてセキュリティテストや脆弱性スキャンを行います...]]></content>
+        <author>
+            <name>亀井亮介＠マネーフォワード</name>
+        </author>
+        <published>2024-10-05T10:03:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Testing Libraryでよく使う文法10選　初心者向け | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/643866/articles/f38c3acb0d0df6</id>
+        <link href="https://zenn.dev/643866/articles/f38c3acb0d0df6"/>
+        <updated>2024-10-05T05:25:05.000Z</updated>
+        <summary type="html"><![CDATA[導入 Reactでのテストの書き方を復習を兼ねて、記載していきます。 React Testing Libraryでよく使う文法10選を紹介します。 間違った使い方があれば教えて頂きたいです。 React Testing Library https://testing-library.com/docs/preact-testing-library/intro   実践 今回ではコンポーネントの単体テ...]]></summary>
+        <content type="html"><![CDATA[導入 Reactでのテストの書き方を復習を兼ねて、記載していきます。 React Testing Libraryでよく使う文法10選を紹介します。 間違った使い方があれば教えて頂きたいです。 React Testing Library https://testing-library.com/docs/preact-testing-library/intro   実践 今回ではコンポーネントの単体テストを想定して、React Testing Libraryを使ってテストしていきます。   1. render 要素をレンダリングしてくれる機能です。 レンダリングされているかどうか確認した...]]></content>
+        <author>
+            <name>たこ焼き</name>
+        </author>
+        <published>2024-10-05T05:25:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XP祭り2024のスライド | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2024/10/04/233000</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2024/10/04/233000"/>
+        <updated>2024-10-04T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[xpjug.connpass.com スライドをまとめたので公開します。(LTセッションは後日追記します) また、見つけられていないものもあると思うのでもし記載されていないスライドがあれば教えていただけると嬉しいです。 Extreme Programmingとオブジェクト指向 20年目の答え合わせ Scrumに出会って人との関わり方を改善していく事に夢中になっていた結果、その知識と実践がエンジニア...]]></summary>
+        <content type="html"><![CDATA[xpjug.connpass.com スライドをまとめたので公開します。(LTセッションは後日追記します) また、見つけられていないものもあると思うのでもし記載されていないスライドがあれば教えていただけると嬉しいです。 Extreme Programmingとオブジェクト指向 20年目の答え合わせ Scrumに出会って人との関わり方を改善していく事に夢中になっていた結果、その知識と実践がエンジニアとしての成長にも繋がったお話。 エンジニアによるユーザーリサーチのススメ 〜価値あるプロダクト開発を目指して〜 QAtoAQパターンの活用事例 開発者体験を向上させるボトムアップな組織改善 銀河英雄伝…]]></content>
+        <published>2024-10-04T14:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ゼロデイ脆弱性 LLM QA キーワード解説 | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/devopsinqa/articles/58f2a149e52b21</id>
+        <link href="https://zenn.dev/devopsinqa/articles/58f2a149e52b21"/>
+        <updated>2024-10-04T10:03:05.000Z</updated>
+        <summary type="html"><![CDATA[ゼロデイ脆弱性 ゼロデイ脆弱性とは、ソフトウェアやシステムに存在するセキュリティ上の欠陥や脆弱性が、開発者やセキュリティチームによって認識される前に、攻撃者によって悪用される脆弱性のことを指します。名前の由来は、開発者が脆弱性に対応するための猶予が「ゼロ日（zero day）」しかないことからきています。   QA観点でのゼロデイ脆弱性の説明   1. 予測不可能な脆弱性  ゼロデイ脆弱性は、開発...]]></summary>
+        <content type="html"><![CDATA[ゼロデイ脆弱性 ゼロデイ脆弱性とは、ソフトウェアやシステムに存在するセキュリティ上の欠陥や脆弱性が、開発者やセキュリティチームによって認識される前に、攻撃者によって悪用される脆弱性のことを指します。名前の由来は、開発者が脆弱性に対応するための猶予が「ゼロ日（zero day）」しかないことからきています。   QA観点でのゼロデイ脆弱性の説明   1. 予測不可能な脆弱性  ゼロデイ脆弱性は、開発者やQAチームがテスト中に検出できない場合が多く、既存のテストケースやセキュリティチェックをすり抜けます。QAのプロセスでは、こうした未知の脅威を防ぐために、セキュリティテストを高度化し、脆...]]></content>
+        <author>
+            <name>亀井亮介＠マネーフォワード</name>
+        </author>
+        <published>2024-10-04T10:03:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[楽しく学べる『ソフトウェアテスト技法練習帳』の学習方法について（macOS, PICT, GIHOZ) | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/hamltail/articles/39f9a0fd47f363</id>
+        <link href="https://zenn.dev/hamltail/articles/39f9a0fd47f363"/>
+        <updated>2024-10-04T09:01:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに   学習の目的 ソフトウェア開発のプロセスにおいて、テストは重要なフェーズです。プロジェクトによっては、開発者自身がテストを担当することもありますが、その際に「テストはしているものの、体系的なテスト技術が身についていない」と感じることがありました。 そこで、より深くテストの本質を理解し、効率的で効果的なテスト設計を学びたいと思い、『ソフトウェアテスト技法練習帳』を手に取りました。   本...]]></summary>
+        <content type="html"><![CDATA[はじめに   学習の目的 ソフトウェア開発のプロセスにおいて、テストは重要なフェーズです。プロジェクトによっては、開発者自身がテストを担当することもありますが、その際に「テストはしているものの、体系的なテスト技術が身についていない」と感じることがありました。 そこで、より深くテストの本質を理解し、効率的で効果的なテスト設計を学びたいと思い、『ソフトウェアテスト技法練習帳』を手に取りました。   本記事のターゲット  ソフトウェアテスト技法について学習したい方（初学者） テストエンジニアを目指している方（IT業界未経験者、学生さん、無職の方） なんとなくこの記事を閲覧してしまったそこの...]]></content>
+        <author>
+            <name>はむる</name>
+        </author>
+        <published>2024-10-04T09:01:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go言語で flag.Arg を使ったコードのテスト | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/rayfiyo/articles/20241003-testing_code_with_arg_in_go</id>
+        <link href="https://zenn.dev/rayfiyo/articles/20241003-testing_code_with_arg_in_go"/>
+        <updated>2024-10-04T09:00:06.000Z</updated>
+        <summary type="html"><![CDATA[概要  Go言語の flag パッケージの Arg を使ったコードでテストをする    背景 flag パッケージのうち，フラグを指定しているコードのテストは見つかったものの， （Arg を使った）実行時の引数を指定しているコードのテストが見つからなかったから．   対象読者  Go言語を使っている テストを書いている flagパッケージを使っている flag.Arg(0) などの引数を使ったコー...]]></summary>
+        <content type="html"><![CDATA[概要  Go言語の flag パッケージの Arg を使ったコードでテストをする    背景 flag パッケージのうち，フラグを指定しているコードのテストは見つかったものの， （Arg を使った）実行時の引数を指定しているコードのテストが見つからなかったから．   対象読者  Go言語を使っている テストを書いている flagパッケージを使っている flag.Arg(0) などの引数を使ったコードのテストを書きたい    環境 今回の環境は次である． $ go version go version go1.23.1 linux/amd64    本論 フラグ: $main -fla...]]></content>
+        <author>
+            <name>rayfiyo</name>
+        </author>
+        <published>2024-10-04T09:00:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024.10.04アカデミックNEW   千葉工業大学・小笠原秀人教授が語る「ソフトウェア品質」の勘所(前編)    ソフトウェア品質  千葉工業大学  プロジェクトマネジメント  東芝  プロセス... | メディア | HQW!]]></title>
+        <id>https://www.veriserve.co.jp/helloqualityworld/media/20241004001</id>
+        <link href="https://www.veriserve.co.jp/helloqualityworld/media/20241004001"/>
+        <updated>2024-10-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2024.10.04 アカデミック NEW 千葉工業大学・小笠原秀人教授が語る「ソフトウェア品質」の勘所(前編)  ソフトウェア品質 千葉工業大学 プロジェクトマネジメント 東芝 プロセス改善 ソフトウェアテスト バグ管理 テスト管理]]></summary>
+        <content type="html"><![CDATA[2024.10.04 アカデミック NEW 千葉工業大学・小笠原秀人教授が語る「ソフトウェア品質」の勘所(前編)  ソフトウェア品質 千葉工業大学 プロジェクトマネジメント 東芝 プロセス改善 ソフトウェアテスト バグ管理 テスト管理]]></content>
+        <published>2024-10-04T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スクラムフェス沖縄で登壇してきます | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2024/10/03/233000</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2024/10/03/233000"/>
+        <updated>2024-10-03T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[confengine.com スクラムフェス沖縄で登壇できることになったので今日はその告知です。 概要 Acceptされた時の心境 チャレンジしたいこと おまけ(スクラムフェス沖縄には関係ないが思ったこと) 概要 学習をしていくうえでの読書の重要性や有用性を示す研究は多数発表されていますが、読書を通して得られる効果は多岐にわたるが故に、「読書は重要だ」というなんとなくのイメージで読書をしようとする...]]></summary>
+        <content type="html"><![CDATA[confengine.com スクラムフェス沖縄で登壇できることになったので今日はその告知です。 概要 Acceptされた時の心境 チャレンジしたいこと おまけ(スクラムフェス沖縄には関係ないが思ったこと) 概要 学習をしていくうえでの読書の重要性や有用性を示す研究は多数発表されていますが、読書を通して得られる効果は多岐にわたるが故に、「読書は重要だ」というなんとなくのイメージで読書をしようとすることが多いように感じます。また、得たい効果が自分の中で明確になっても、個々人にあった読書手法を模索する必要があり、その手がかりとなるような既存の知見も、速読や要約といった文章を"効率的に"読む方法に偏…]]></content>
+        <published>2024-10-03T14:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[モデルポイズニング LLM QA キーワード解説 | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/devopsinqa/articles/b15c5ee7ad7e2d</id>
+        <link href="https://zenn.dev/devopsinqa/articles/b15c5ee7ad7e2d"/>
+        <updated>2024-10-03T10:03:05.000Z</updated>
+        <summary type="html"><![CDATA[モデルポイズニング モデルポイズニングは、機械学習モデルに対する攻撃手法の一種であり、悪意あるデータを学習プロセスに組み込むことで、モデルのパフォーマンスや信頼性を意図的に低下させる行為を指します。特にAIや機械学習を使用するシステムにおいて、モデルポイズニングは深刻な脅威となります。QA（品質保証）の観点から、この脅威に対処するための対策や注意点を理解することが重要です。   モデルポイズニング...]]></summary>
+        <content type="html"><![CDATA[モデルポイズニング モデルポイズニングは、機械学習モデルに対する攻撃手法の一種であり、悪意あるデータを学習プロセスに組み込むことで、モデルのパフォーマンスや信頼性を意図的に低下させる行為を指します。特にAIや機械学習を使用するシステムにおいて、モデルポイズニングは深刻な脅威となります。QA（品質保証）の観点から、この脅威に対処するための対策や注意点を理解することが重要です。   モデルポイズニングの概要 モデルポイズニングは、以下の方法で実行されることが多いです：   悪意のあるデータの混入: 攻撃者が、学習データに意図的に不正確または操作されたデータを挿入することで、モデルが不正な...]]></content>
+        <author>
+            <name>亀井亮介＠マネーフォワード</name>
+        </author>
+        <published>2024-10-03T10:03:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spectatorを使ってLaravelで実装したAPIとOpenAPI Schemaとの剥離を防ぐ | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/fukuden/articles/laravel-with-spectator</id>
+        <link href="https://zenn.dev/fukuden/articles/laravel-with-spectator"/>
+        <updated>2024-10-03T02:08:31.000Z</updated>
+        <summary type="html"><![CDATA[Spectatorとは OpenAPIで定義したAPIのリクエスト内容・レスポンス内容を、実装コードが満たしているかを簡単に確認できるようにしてくれます。 LaravelのHTTPテストに組み込むことで、必須項目の有無や各項目の型があっているかをチェックしてくれます。 リポジトリはこちら https://github.com/hotmeteor/spectator   動作環境 PHP 8.2.1...]]></summary>
+        <content type="html"><![CDATA[Spectatorとは OpenAPIで定義したAPIのリクエスト内容・レスポンス内容を、実装コードが満たしているかを簡単に確認できるようにしてくれます。 LaravelのHTTPテストに組み込むことで、必須項目の有無や各項目の型があっているかをチェックしてくれます。 リポジトリはこちら https://github.com/hotmeteor/spectator   動作環境 PHP 8.2.19 Laravel 10.48.11 Spectator 2.0   インストール Composerでインストールします。 composer require hotmeteor/specta...]]></content>
+        <author>
+            <name>fukuden</name>
+        </author>
+        <published>2024-10-03T02:08:31.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[電話自動応答システムのQAのための自動応答システムを作った話 | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/ivry/articles/0e725ffec8bd0c</id>
+        <link href="https://zenn.dev/ivry/articles/0e725ffec8bd0c"/>
+        <updated>2024-10-03T00:57:12.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは。電話AI SaaS IVRyのAIエンジニアの町田です。 IVRyは従来のプッシュ型の自動応答システムに留まらず、LLMを積極的に活用したAI音声対話システムを開発しています。2023年初頭にAI対話システムの開発を開始してから1年半、多くの企業に実際に導入され、ほぼ毎週新機能や改善のリリースを行うまでに成長しました。 https://ivry.jp/pr/20240123/...]]></summary>
+        <content type="html"><![CDATA[はじめに こんにちは。電話AI SaaS IVRyのAIエンジニアの町田です。 IVRyは従来のプッシュ型の自動応答システムに留まらず、LLMを積極的に活用したAI音声対話システムを開発しています。2023年初頭にAI対話システムの開発を開始してから1年半、多くの企業に実際に導入され、ほぼ毎週新機能や改善のリリースを行うまでに成長しました。 https://ivry.jp/pr/20240123/ しかし、実際の音声対話をベースとしたAI電話アプリケーションの開発は、従来のWebアプリケーション開発とは異なる独自の課題を抱えています。毎週の新機能や改修を安定的にリリースすることは、決...]]></content>
+        <author>
+            <name>u16m</name>
+        </author>
+        <published>2024-10-03T00:57:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[yr-learning Vol37に参加してきた | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2024/10/02/215043</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2024/10/02/215043"/>
+        <updated>2024-10-02T12:50:43.000Z</updated>
+        <summary type="html"><![CDATA[yr-learning Vol37 - connpass こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 今度開催されるイベント 型のバランス データフロー 全体を通した感想 今週もこちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 今日は 今度開催されるイベント 現状パブリックにできる話ではないのですが今度あるイベントが開催される予定で、な...]]></summary>
+        <content type="html"><![CDATA[yr-learning Vol37 - connpass こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 今度開催されるイベント 型のバランス データフロー 全体を通した感想 今週もこちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 今日は 今度開催されるイベント 現状パブリックにできる話ではないのですが今度あるイベントが開催される予定で、なおかつ参加者全員がそのイベントの詳細を知っている状態だったので、その話をしていきました。 型のバランス 最近まさに議論が起きていたように、型に関しては思想の違いがあまりにもはっきりと出るため、Cloj…]]></content>
+        <published>2024-10-02T12:50:43.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プロンプト・インジェクション LLM QA キーワード解説 | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/devopsinqa/articles/ea14e7d1493c76</id>
+        <link href="https://zenn.dev/devopsinqa/articles/ea14e7d1493c76"/>
+        <updated>2024-10-02T10:03:05.000Z</updated>
+        <summary type="html"><![CDATA[プロンプト・インジェクション プロンプト・インジェクションは、AIシステムや自然言語処理（NLP）システムに対して悪意のある入力を行い、その応答や動作に意図的な操作や改ざんを引き起こす攻撃手法です。特に大規模言語モデルやチャットボット、生成AIが使用されるシステムにおいて、ユーザーの入力内容（プロンプト）に対してAIがどのように応答するかを操作することを目的としています。   プロンプト・インジェ...]]></summary>
+        <content type="html"><![CDATA[プロンプト・インジェクション プロンプト・インジェクションは、AIシステムや自然言語処理（NLP）システムに対して悪意のある入力を行い、その応答や動作に意図的な操作や改ざんを引き起こす攻撃手法です。特に大規模言語モデルやチャットボット、生成AIが使用されるシステムにおいて、ユーザーの入力内容（プロンプト）に対してAIがどのように応答するかを操作することを目的としています。   プロンプト・インジェクションのQA観点での説明   1. セキュリティの脆弱性評価  QAの観点から、プロンプト・インジェクションはシステムのセキュリティに関わる重大な脆弱性です。プロンプト・インジェクション攻...]]></content>
+        <author>
+            <name>亀井亮介＠マネーフォワード</name>
+        </author>
+        <published>2024-10-02T10:03:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHubActionsでMagicPodとTestRailを連携しました | ソフトウェアテスト - Gunosy Tech Blog]]></title>
+        <id>https://tech.gunosy.io/entry/magicpod_testrail_githubactions_integration</id>
+        <link href="https://tech.gunosy.io/entry/magicpod_testrail_githubactions_integration"/>
+        <updated>2024-10-02T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。QAチームの宮城です。 GitHub Actionsを使って自動テストの結果をテスト管理ツールに登録する運用を開始しましたので、今回はその内容について紹介します。 GitHub Actionsを選択した経緯 JenkinsとGitHub Actionsを両方試してみて Jenkinsの良かったところ Jenkinsの良くなかったところ GitHub Actionsにすると 自動化の概要...]]></summary>
+        <content type="html"><![CDATA[こんにちは。QAチームの宮城です。 GitHub Actionsを使って自動テストの結果をテスト管理ツールに登録する運用を開始しましたので、今回はその内容について紹介します。 GitHub Actionsを選択した経緯 JenkinsとGitHub Actionsを両方試してみて Jenkinsの良かったところ Jenkinsの良くなかったところ GitHub Actionsにすると 自動化の概要 自動化の手順 スクリプトの準備 ワークフローの設定 ワークフローの実行 おわりに GitHub Actionsを選択した経緯 QAチームでは自動テストツール(MagicPod)とテストケースの管理ツ…]]></content>
+        <published>2024-10-02T03:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024.10.02スキルアップ   【連載】要求工学における「利用状況」の扱いをめぐる考察:ジョブ理解に基づくマーケティングのインサイトを開発で確実に生かすには?(第1回)    ジョブ理論  マー... | メディア | HQW!]]></title>
+        <id>https://www.veriserve.co.jp/helloqualityworld/media/20241002001</id>
+        <link href="https://www.veriserve.co.jp/helloqualityworld/media/20241002001"/>
+        <updated>2024-10-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2024.10.02 スキルアップ 【連載】要求工学における「利用状況」の扱いをめぐる考察:ジョブ理解に基づくマーケティングのインサイトを開発で確実に生かすには?(第1回)  ジョブ理論 マーケティング ジョブストーリー 要求工学 ユーザーストーリーマッピング BDD ATDD]]></summary>
+        <content type="html"><![CDATA[2024.10.02 スキルアップ 【連載】要求工学における「利用状況」の扱いをめぐる考察:ジョブ理解に基づくマーケティングのインサイトを開発で確実に生かすには?(第1回)  ジョブ理論 マーケティング ジョブストーリー 要求工学 ユーザーストーリーマッピング BDD ATDD]]></content>
+        <published>2024-10-02T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大人のソフトウェアテスト雑談会 #232【極限】に参加してきた | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2024/10/01/231736</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2024/10/01/231736"/>
+        <updated>2024-10-01T14:17:36.000Z</updated>
+        <summary type="html"><![CDATA[ost-zatu.connpass.com 今週もテストの街葛飾に行ってきたので、会の様子と感想を書いていこうと思います。 いろいろな派閥 メモエディタ 若者の定義 視力 歯 マカロン 最強のテスターおおひらさん 全体を通した感想 いろいろな派閥 内容がブログに書けなさすぎるのですが、いろいろな派閥の話をしていきました。 メモエディタ 古の(?)メモエディタの話を聞きました。いろいろな固有名詞が出...]]></summary>
+        <content type="html"><![CDATA[ost-zatu.connpass.com 今週もテストの街葛飾に行ってきたので、会の様子と感想を書いていこうと思います。 いろいろな派閥 メモエディタ 若者の定義 視力 歯 マカロン 最強のテスターおおひらさん 全体を通した感想 いろいろな派閥 内容がブログに書けなさすぎるのですが、いろいろな派閥の話をしていきました。 メモエディタ 古の(?)メモエディタの話を聞きました。いろいろな固有名詞が出ていたのですが、サクラエディタ意外よくわかりませんでした... 若者の定義 40歳前であればそれは若者だという言説を聞いていきました。歳を取っていくと、若者の定義がどんどんゆるくなっていくそうです。 …]]></content>
+        <published>2024-10-01T14:17:36.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roborazziでテスト用のコードを書かずにスクリーンショットテストを追加する | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/galapagos/articles/a3e6b2aa430fc4</id>
+        <link href="https://zenn.dev/galapagos/articles/a3e6b2aa430fc4"/>
+        <updated>2024-10-01T10:23:03.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 先日開催されたDroidKaigi 2024の「仕組みから理解する！Composeプレビューを様々なバリエーションでスクリーンショットテストしよう」のセッションにて、Roborazziで@Previewのプレビューを使用してスクリーンショットテストを行うことができる機能の説明がありました。 元々Roborazziを使ってスクリーンショットテスト(VRT)を行っていましたが、テスト用のコー...]]></summary>
+        <content type="html"><![CDATA[はじめに 先日開催されたDroidKaigi 2024の「仕組みから理解する！Composeプレビューを様々なバリエーションでスクリーンショットテストしよう」のセッションにて、Roborazziで@Previewのプレビューを使用してスクリーンショットテストを行うことができる機能の説明がありました。 元々Roborazziを使ってスクリーンショットテスト(VRT)を行っていましたが、テスト用のコードを記述するのに煩わしさを感じていたところでもあったため、これはすごい！と思い、試してみました。 サンプルコードはこちらになります。   使ってみた感想 そこまで大きな手間なく@Previe...]]></content>
+        <author>
+            <name>mutai takuya</name>
+        </author>
+        <published>2024-10-01T10:23:03.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[脅威モデル・脅威モデリング LLM QA キーワード解説 | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/devopsinqa/articles/d34abea3897690</id>
+        <link href="https://zenn.dev/devopsinqa/articles/d34abea3897690"/>
+        <updated>2024-10-01T10:03:05.000Z</updated>
+        <summary type="html"><![CDATA[脅威モデル・脅威モデリング 脅威モデル（脅威モデリング）は、システムやアプリケーションに対してどのような脅威が存在し、それらの脅威がどのように悪影響を及ぼす可能性があるかを体系的に分析・評価する手法です。QA（品質保証）の観点からは、脅威モデリングは、システムのセキュリティ品質を向上させ、リスクを軽減するために不可欠なプロセスです。   脅威モデリングの概要 脅威モデリングは、次のステップで進行す...]]></summary>
+        <content type="html"><![CDATA[脅威モデル・脅威モデリング 脅威モデル（脅威モデリング）は、システムやアプリケーションに対してどのような脅威が存在し、それらの脅威がどのように悪影響を及ぼす可能性があるかを体系的に分析・評価する手法です。QA（品質保証）の観点からは、脅威モデリングは、システムのセキュリティ品質を向上させ、リスクを軽減するために不可欠なプロセスです。   脅威モデリングの概要 脅威モデリングは、次のステップで進行するプロセスです：   システムの理解 システムのアーキテクチャやフロー、データの流れを理解し、どこに脆弱性が存在しうるかを把握します。この段階で、システムの全体像を視覚化することが重要です（...]]></content>
+        <author>
+            <name>亀井亮介＠マネーフォワード</name>
+        </author>
+        <published>2024-10-01T10:03:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バックエンドのテスト方針について | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/fivot/articles/87b0f980f4258f</id>
+        <link href="https://zenn.dev/fivot/articles/87b0f980f4258f"/>
+        <updated>2024-10-01T06:04:09.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 弊社ではバックエンドのテスト方針をADRにまとめています。 (テストの方針はArchitecture Decisionなのか？という疑問もありますが、弊社では広く技術に関する意思決定をADRに残しています。) ADR作成前も大まかな慣習やお作法はありましたが、詳細については開発者の判断に委ねられていました。 テストの方針を改めて明文化することにより、常に一定の品質を保つことを狙いとしてい...]]></summary>
+        <content type="html"><![CDATA[はじめに 弊社ではバックエンドのテスト方針をADRにまとめています。 (テストの方針はArchitecture Decisionなのか？という疑問もありますが、弊社では広く技術に関する意思決定をADRに残しています。) ADR作成前も大まかな慣習やお作法はありましたが、詳細については開発者の判断に委ねられていました。 テストの方針を改めて明文化することにより、常に一定の品質を保つことを狙いとしています。 この記事では、テスト方針をまとめたADRを公開します。 テストに関心がある方や、テストの方針に悩んでいる方の参考になれば幸いです。   前提  弊社のバックエンドはGo言語で実装され...]]></content>
+        <author>
+            <name>Fiddler25</name>
+        </author>
+        <published>2024-10-01T06:04:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VRT(ビジュアルリグレッションテスト)の導入タイミングを考察する | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/react_uncle/articles/0d63a10e5bfd35</id>
+        <link href="https://zenn.dev/react_uncle/articles/0d63a10e5bfd35"/>
+        <updated>2024-09-30T23:07:56.000Z</updated>
+        <summary type="html"><![CDATA[はじめに みなさんはビジュアルリグレッションテスト(以下 VRT)を導入するタイミングをどのように考えていますか？ 筆者も VRT を導入しようと考えた中で、気づけば導入せずにそのままアプリケーションがリリースされ、運用保守に入って導入するタイミングを逃した経験があります。 本記事では、軽く VRT の概要と導入しなかった場合に発生する問題を解説し、どのタイミングで導入するのが適切かを考察します。...]]></summary>
+        <content type="html"><![CDATA[はじめに みなさんはビジュアルリグレッションテスト(以下 VRT)を導入するタイミングをどのように考えていますか？ 筆者も VRT を導入しようと考えた中で、気づけば導入せずにそのままアプリケーションがリリースされ、運用保守に入って導入するタイミングを逃した経験があります。 本記事では、軽く VRT の概要と導入しなかった場合に発生する問題を解説し、どのタイミングで導入するのが適切かを考察します。   VRT とは Storybook の公式では下記のように記載されています。  Visual tests catch bugs in UI appearance. They work b...]]></content>
+        <author>
+            <name>Shogo</name>
+        </author>
+        <published>2024-09-30T23:07:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本で一番働きたい会社に入って6年がたった | テストする人。]]></title>
+        <id>https://underscore42rina.hatenablog.com/entry/6thyears</id>
+        <link href="https://underscore42rina.hatenablog.com/entry/6thyears"/>
+        <updated>2024-09-30T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[underscore42rina.hatenablog.com からさらに2年が経ってしまった。もはや記憶がない。 去年は完全にそれどころじゃなくてすっ飛ばしてしまったけど、それはそれで↓があるのでよしとしよう。ほんと？ underscore42rina.hatenablog.com 2023/10 ~ 2023/12 もうあんまり記憶がないけど、QAのメンバーの受け入れの準備と、テスト設計をモリ...]]></summary>
+        <content type="html"><![CDATA[underscore42rina.hatenablog.com からさらに2年が経ってしまった。もはや記憶がない。 去年は完全にそれどころじゃなくてすっ飛ばしてしまったけど、それはそれで↓があるのでよしとしよう。ほんと？ underscore42rina.hatenablog.com 2023/10 ~ 2023/12 もうあんまり記憶がないけど、QAのメンバーの受け入れの準備と、テスト設計をモリモリやったり、 入ってきた人たちを全速力出してもらうためのことをめっちゃやってた気がする。 あと、開発スケジュールどうやったらええんや？！みたいなのを私のマネージャーとめっちゃグラフ作ったりしてたかも…]]></content>
+        <published>2024-09-30T23:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ScalaTestのEitherValuesでvalueに誤ったアクセスをしたら不意にNotAllowedExceptionで怒られた話 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/ara_ta3/articles/scala-test-not-allowed-exception-in-eithervalues</id>
+        <link href="https://zenn.dev/ara_ta3/articles/scala-test-not-allowed-exception-in-eithervalues"/>
+        <updated>2024-09-30T15:07:56.000Z</updated>
+        <summary type="html"><![CDATA[初めに結論 下記のようにAnyFreeSpecでin ではなく - の中で.valueでLeftにアクセスしていて怒られました。 単純に使い方のミスです。 EitherValuesの.valueは-ではなくinの中で使いましょう。 import org.scalatest.freespec.AnyFreeSpec import org.scalatest.diagrams.Diagrams imp...]]></summary>
+        <content type="html"><![CDATA[初めに結論 下記のようにAnyFreeSpecでin ではなく - の中で.valueでLeftにアクセスしていて怒られました。 単純に使い方のミスです。 EitherValuesの.valueは-ではなくinの中で使いましょう。 import org.scalatest.freespec.AnyFreeSpec import org.scalatest.diagrams.Diagrams import org.scalatest.EitherValues._  class TestEitherValueNotInInSpec extends AnyFreeSpec with Dia...]]></content>
+        <author>
+            <name>ara_ta3</name>
+        </author>
+        <published>2024-09-30T15:07:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ スクラムフェスバンパク(仮称)の打ち合わせ(第7回)をしてきた | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2024/09/30/235717</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2024/09/30/235717"/>
+        <updated>2024-09-30T14:57:17.000Z</updated>
+        <summary type="html"><![CDATA[aki-m.hatenadiary.com こちらの打ち合わせを9/30にしてきたので、その内容まとめです。 スクフェス三河でじゅんぺーさんと話した内容の共有 XP祭りと同時開催する場合の具体案 川口さんと話をする スクフェス三河でじゅんぺーさんと話した内容の共有 スクフェス三河に参加した時にじゅんぺーさんに今企画しているスクラムフェスに関して色々相談をさせてもらったので、そのときの話を共有しまし...]]></summary>
+        <content type="html"><![CDATA[aki-m.hatenadiary.com こちらの打ち合わせを9/30にしてきたので、その内容まとめです。 スクフェス三河でじゅんぺーさんと話した内容の共有 XP祭りと同時開催する場合の具体案 川口さんと話をする スクフェス三河でじゅんぺーさんと話した内容の共有 スクフェス三河に参加した時にじゅんぺーさんに今企画しているスクラムフェスに関して色々相談をさせてもらったので、そのときの話を共有しました。内容の詳細はスクラムフェス三河のブログがあるので、そちらを参照してください。 XP祭りと同時開催する場合の具体案 XP祭りの運営の方と話すための材料として、前回話したXP祭りと同時開催する際の具体…]]></content>
+        <published>2024-09-30T14:57:17.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RACIチャート LLM QA キーワード解説 | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/devopsinqa/articles/639b31983b8c9c</id>
+        <link href="https://zenn.dev/devopsinqa/articles/639b31983b8c9c"/>
+        <updated>2024-09-30T10:03:05.000Z</updated>
+        <summary type="html"><![CDATA[RACIチャート RACIチャートは、プロジェクトや業務の役割と責任を明確にするためのフレームワークです。RACIは、それぞれの役割を示す4つの英単語の頭文字を取ったもので、以下の4つの責任カテゴリを定義します。   RACIの意味   R（Responsible） - 実行責任者  そのタスクやプロセスを実際に担当し、遂行する責任を負う人。複数の担当者がいる場合もあります。 実際に「手を動かして...]]></summary>
+        <content type="html"><![CDATA[RACIチャート RACIチャートは、プロジェクトや業務の役割と責任を明確にするためのフレームワークです。RACIは、それぞれの役割を示す4つの英単語の頭文字を取ったもので、以下の4つの責任カテゴリを定義します。   RACIの意味   R（Responsible） - 実行責任者  そのタスクやプロセスを実際に担当し、遂行する責任を負う人。複数の担当者がいる場合もあります。 実際に「手を動かして」業務を遂行する立場。    A（Accountable） - 最終責任者  タスクやプロジェクトの結果について最終的な責任を持つ人物。この役割は通常1人だけであり、成果物や結果が期待どおり...]]></content>
+        <author>
+            <name>亀井亮介＠マネーフォワード</name>
+        </author>
+        <published>2024-09-30T10:03:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SmartHR 品質保証部の現状の体制と目指す姿（24/09版） | QA - SmartHR Tech Blog]]></title>
+        <id>https://tech.smarthr.jp/entry/qa_series_article_vol1</id>
+        <link href="https://tech.smarthr.jp/entry/qa_series_article_vol1"/>
+        <updated>2024-09-30T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[SmartHR 品質保証部の現状の体制と目指す姿（24/09版） はじめまして！ SmartHR 品質保証部マネージャー（Acting*1）のtarappoです。 本記事はSmartHR 品質保証部について紹介する連載記事の第一回目となります。 まずは品質保証部全体の紹介をし、今後各ユニットの紹介を定期的に公開していく予定です。 はじめに 品質保証部は今年の4月に次のブログ記事でその時点における組...]]></summary>
+        <content type="html"><![CDATA[SmartHR 品質保証部の現状の体制と目指す姿（24/09版） はじめまして！ SmartHR 品質保証部マネージャー（Acting*1）のtarappoです。 本記事はSmartHR 品質保証部について紹介する連載記事の第一回目となります。 まずは品質保証部全体の紹介をし、今後各ユニットの紹介を定期的に公開していく予定です。 はじめに 品質保証部は今年の4月に次のブログ記事でその時点における組織体制について紹介をしています。 このブログ記事の公開から約半年が過ぎました。 その間に組織体制の変化もあり、改めて「SmartHRの品質保証部の現状の体制」と新たに言語化した「目指す姿」、そして現時…]]></content>
+        <published>2024-09-30T07:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【C#】単体テストでプライベートメソッドをテストする方法 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/st_little/articles/how-to-test-private-methods-in-csharp-unit-tests</id>
+        <link href="https://zenn.dev/st_little/articles/how-to-test-private-methods-in-csharp-unit-tests"/>
+        <updated>2024-09-30T00:12:03.000Z</updated>
+        <summary type="html"><![CDATA[環境  .NET: 8.0.303 xUnit: 2.5.3    参考情報  dotnet テストと xUnit を使用した .NET での単体テスト C# InternalsVisibleToAttribute クラス    プライベートメソッドをテストする   ソリューションファイルを作成します。 dotnet new sln    ソリューションファイルにテスト対象の csproj ファイ...]]></summary>
+        <content type="html"><![CDATA[環境  .NET: 8.0.303 xUnit: 2.5.3    参考情報  dotnet テストと xUnit を使用した .NET での単体テスト C# InternalsVisibleToAttribute クラス    プライベートメソッドをテストする   ソリューションファイルを作成します。 dotnet new sln    ソリューションファイルにテスト対象の csproj ファイルを追加します。 dotnet sln add PrimeService.csproj    テストプロジェクトを作成します。 dotnet new xunit -o PrimeServic...]]></content>
+        <author>
+            <name>st-little</name>
+        </author>
+        <published>2024-09-30T00:12:03.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flutter Golden Test / VRT でしきい値を指定して比較する | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/greendrop/articles/2024-09-30-5a2483d20735e3</id>
+        <link href="https://zenn.dev/greendrop/articles/2024-09-30-5a2483d20735e3"/>
+        <updated>2024-09-29T22:00:07.000Z</updated>
+        <summary type="html"><![CDATA[はじめに Flutter の Golden Test / VRT では、完全一致による比較になります。 ただ、テストを実行する環境によって差分が発生してしまうため、しきい値を設定して比較できるようにしてみました。 ! Golden Test / VRT は Alchemist を使用しているので、こちらの記事 も参照ください。      テスト環境による差分が発生する事例  Mac にて flut...]]></summary>
+        <content type="html"><![CDATA[はじめに Flutter の Golden Test / VRT では、完全一致による比較になります。 ただ、テストを実行する環境によって差分が発生してしまうため、しきい値を設定して比較できるようにしてみました。 ! Golden Test / VRT は Alchemist を使用しているので、こちらの記事 も参照ください。      テスト環境による差分が発生する事例  Mac にて flutter test --update-goldens を実行し、比較用の画像を生成 CI(ubuntu)にて flutter test を実行し、差分が発生 ══╡ EXCEPTION CA...]]></content>
+        <author>
+            <name>greendrop</name>
+        </author>
+        <published>2024-09-29T22:00:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024年9月のふりかえり | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2024/09/29/233000</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2024/09/29/233000"/>
+        <updated>2024-09-29T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[9月が終わるのでいつも通りふりかえりをしていきます。 月のふりかえり 仕事 社外活動/自己研鑽 プライベート 一年でやりたいことに対してのふりかえり 翻訳 登壇(プロポーザル) コミュニティを立ち上げる 続けていることに関して何かしらの単位を変える 1年間運動を継続する 月のふりかえり 仕事 PJのスタートとエンドが被ってしまい、現職に入ってからは一番と言っていいのではないかというくらいの大分忙し...]]></summary>
+        <content type="html"><![CDATA[9月が終わるのでいつも通りふりかえりをしていきます。 月のふりかえり 仕事 社外活動/自己研鑽 プライベート 一年でやりたいことに対してのふりかえり 翻訳 登壇(プロポーザル) コミュニティを立ち上げる 続けていることに関して何かしらの単位を変える 1年間運動を継続する 月のふりかえり 仕事 PJのスタートとエンドが被ってしまい、現職に入ってからは一番と言っていいのではないかというくらいの大分忙しい日々を過ごしていました。 英語力に大分進歩がみられて、インターナルのミーティングであれば英語で話ができるようになって、以前抱いていた恐怖心のようなものもなくなってきたのは非常によかったです。また、英…]]></content>
+        <published>2024-09-29T14:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jotaiのatomを自由にテストしたいときに見る記事 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/yuneco/articles/jotai-atom-testing</id>
+        <link href="https://zenn.dev/yuneco/articles/jotai-atom-testing"/>
+        <updated>2024-09-29T14:20:27.000Z</updated>
+        <summary type="html"><![CDATA[Jotaiのテスト方法に関する記事があんまりないので書きました。 公式ドキュメントにもテストに関するページはあるのですが、わりとあっさりしていて実際テストしようと思うと手探り感が強いです。 この記事では、公式の内容に加えて、Reactに依存せず必要なatomのみをテストする方法をまとめます。   環境＆バージョン viteのテンプレでReactのアプリを作って、JotaiとVitestを入れます。...]]></summary>
+        <content type="html"><![CDATA[Jotaiのテスト方法に関する記事があんまりないので書きました。 公式ドキュメントにもテストに関するページはあるのですが、わりとあっさりしていて実際テストしようと思うと手探り感が強いです。 この記事では、公式の内容に加えて、Reactに依存せず必要なatomのみをテストする方法をまとめます。   環境＆バージョン viteのテンプレでReactのアプリを作って、JotaiとVitestを入れます。すべてテンプレのデフォルトまたは執筆時の最新版です。そのほかlinter等（biome, eslint）は好きに調整してください ※ 後述しますが、テストのやり方によってはここまでフルセットに色...]]></content>
+        <author>
+            <name>yuki matsumoto</name>
+        </author>
+        <published>2024-09-29T14:20:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[開発と並走したいQAが開発の各工程でやっていること | かいり]]></title>
+        <id>https://note.com/kairiver/n/ncfc096c089c7</id>
+        <link href="https://note.com/kairiver/n/ncfc096c089c7"/>
+        <updated>2024-09-29T12:32:18.000Z</updated>
+        <summary type="html"><![CDATA[今回は、普段の振り返りがてら開発の各工程でやっていることをまとめたいと思います。基本的にはシフトレフトを意識しながらテストを進めています。 シフトレフトなスケジュールのイメージ 続きをみる]]></summary>
+        <content type="html"><![CDATA[今回は、普段の振り返りがてら開発の各工程でやっていることをまとめたいと思います。基本的にはシフトレフトを意識しながらテストを進めています。 シフトレフトなスケジュールのイメージ 続きをみる]]></content>
+        <published>2024-09-29T12:32:18.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テキストコミュニケーションの裏側：絵文字とスタンプの力 Podcast | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/devopsinqa/articles/f438f5833d660c</id>
+        <link href="https://zenn.dev/devopsinqa/articles/f438f5833d660c"/>
+        <updated>2024-09-29T10:03:05.000Z</updated>
+        <summary type="html"><![CDATA[Podcast https://podcasters.spotify.com/pod/show/-qa-in-devops/episodes/ep-e2n5qcc   YouTube https://youtu.be/XpdLua3x2Pg]]></summary>
+        <content type="html"><![CDATA[Podcast https://podcasters.spotify.com/pod/show/-qa-in-devops/episodes/ep-e2n5qcc   YouTube https://youtu.be/XpdLua3x2Pg]]></content>
+        <author>
+            <name>亀井亮介＠マネーフォワード</name>
+        </author>
+        <published>2024-09-29T10:03:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flutter Alchemist で Golden Test / VRT を行う | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/greendrop/articles/2024-09-29-a1fa614645ba96</id>
+        <link href="https://zenn.dev/greendrop/articles/2024-09-29-a1fa614645ba96"/>
+        <updated>2024-09-29T03:30:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに Flutter にて画面差分やデザインの崩れがないかを、 Golden Test / Visual Regression Test（以下、VRT）でテストする方法があります。 Flutter では golden_toolkit が有名ですが、2024/09/12 にメンテナンスされなくなったことが公開されました。 そこで、golden_toolkit にインスパイアされたAlchemis...]]></summary>
+        <content type="html"><![CDATA[はじめに Flutter にて画面差分やデザインの崩れがないかを、 Golden Test / Visual Regression Test（以下、VRT）でテストする方法があります。 Flutter では golden_toolkit が有名ですが、2024/09/12 にメンテナンスされなくなったことが公開されました。 そこで、golden_toolkit にインスパイアされたAlchemistを導入してみました。   Alchemist とは https://github.com/Betterment/alchemist  Alchemist is a Flutter pack...]]></content>
+        <author>
+            <name>greendrop</name>
+        </author>
+        <published>2024-09-29T03:30:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第301回：　「ALTAのテキストをつくろう」55　（機能適合性テスト） | Kouichi Akiyama]]></title>
+        <id>https://note.com/akiyama924/n/n7890c02affee</id>
+        <link href="https://note.com/akiyama924/n/n7890c02affee"/>
+        <updated>2024-09-28T21:35:26.000Z</updated>
+        <summary type="html"><![CDATA[◀前の記事へ 次の記事へ▶︎  ≡ はじめに 続きをみる]]></summary>
+        <content type="html"><![CDATA[◀前の記事へ 次の記事へ▶︎  ≡ はじめに 続きをみる]]></content>
+        <published>2024-09-28T21:35:26.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ペンテスト（脆弱性試験） LLM QA キーワード解説 | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/devopsinqa/articles/d158ad45be6a73</id>
+        <link href="https://zenn.dev/devopsinqa/articles/d158ad45be6a73"/>
+        <updated>2024-09-28T10:03:05.000Z</updated>
+        <summary type="html"><![CDATA[ペンテスト ペンテスト（ペネトレーションテスト、脆弱性試験）は、QA（品質保証）の観点から、システムやアプリケーションのセキュリティ品質を評価するための重要なテスト手法です。QAプロセスにおいては、通常の機能テストやパフォーマンステストに加えて、セキュリティテストが必要不可欠であり、ペンテストはその一環として、システムの脆弱性を特定し、攻撃に対する耐性を評価する役割を担います。   ペンテストの概...]]></summary>
+        <content type="html"><![CDATA[ペンテスト ペンテスト（ペネトレーションテスト、脆弱性試験）は、QA（品質保証）の観点から、システムやアプリケーションのセキュリティ品質を評価するための重要なテスト手法です。QAプロセスにおいては、通常の機能テストやパフォーマンステストに加えて、セキュリティテストが必要不可欠であり、ペンテストはその一環として、システムの脆弱性を特定し、攻撃に対する耐性を評価する役割を担います。   ペンテストの概要 ペンテストは、攻撃者の視点からシステムやアプリケーションに対して意図的に攻撃を行い、セキュリティホールや脆弱性を発見するためのテストです。実際の攻撃手法をシミュレートし、不正アクセスやデ...]]></content>
+        <author>
+            <name>亀井亮介＠マネーフォワード</name>
+        </author>
+        <published>2024-09-28T10:03:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XP祭り2024で登壇してきた | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2024/09/28/172011</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2024/09/28/172011"/>
+        <updated>2024-09-28T08:20:11.000Z</updated>
+        <summary type="html"><![CDATA[xpjug.connpass.com 今年もXP祭りで登壇する機会をいただけたので、ふりかえりをしていこうと思います。 スライド 発表準備 発表当日 スライド speakerdeck.com 発表準備 スクラムフェス三河に引き続き、9月はスライドを作る時間がないことが分かっていたので8月中に終わることを目指して早めに準備をしていきました。 今年に限った話ではないのですが、XP祭りでは「自分とは違う...]]></summary>
+        <content type="html"><![CDATA[xpjug.connpass.com 今年もXP祭りで登壇する機会をいただけたので、ふりかえりをしていこうと思います。 スライド 発表準備 発表当日 スライド speakerdeck.com 発表準備 スクラムフェス三河に引き続き、9月はスライドを作る時間がないことが分かっていたので8月中に終わることを目指して早めに準備をしていきました。 今年に限った話ではないのですが、XP祭りでは「自分とは違う人だな...」となってしまうことは避けつつもエクストリームな話をしていこうというのを目標にしました。そのため、どうにも真似できないところは軽く触れつつ、発表を聞いてくださった方が自分も取り入れたいと思…]]></content>
+        <published>2024-09-28T08:20:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[重要度を増すセキュリティ侵害への対応と変化する公開情報に参加してきた | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2024/09/27/230000</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2024/09/27/230000"/>
+        <updated>2024-09-27T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[miraclelinux.connpass.com こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 会の概要 会の様子 5分でわかるCVE/CVSS 脆弱性はどの辺で使用されているのか Q&amp;A 脆弱性を調査する際にCVE以外にもNVDやJVNを参照したほうがいいか？ 速報性を重視するならどこが良いのか？ サーバの脆弱性管理でAWSのSSM Agentのように集中管理で...]]></summary>
+        <content type="html"><![CDATA[miraclelinux.connpass.com こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 会の概要 会の様子 5分でわかるCVE/CVSS 脆弱性はどの辺で使用されているのか Q&amp;A 脆弱性を調査する際にCVE以外にもNVDやJVNを参照したほうがいいか？ 速報性を重視するならどこが良いのか？ サーバの脆弱性管理でAWSのSSM Agentのように集中管理できるツールは他にあるか？ WSUSがゆくゆくはなくなるという話があるが、今後アップデートのマネジメントスタイルも変えていく必要があるのか？ 会全体を通した感想 会の概要 以下、イベントページから引用で…]]></content>
+        <published>2024-09-27T14:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jestのテストで一部だけモックしたい場合 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/arsaga/articles/84fda761a51d01</id>
+        <link href="https://zenn.dev/arsaga/articles/84fda761a51d01"/>
+        <updated>2024-09-27T10:52:05.000Z</updated>
+        <summary type="html"><![CDATA[🔖 概要 Jestを使ってモック化するときに一部をモックしたい場合に手こずったので経過と共にメモ。 ※ React(Next.js)&amp;TypeScriptを使用 【🏃 お急ぎ便 🏃】 やりたいことは 準備 と テスト項目に、自分なりの答えは 結論 に記載。   🌏 環境  React: 18 Next.js: 13.5.6 Jest: 29.7.0    📦 準備 以下2つのコンポーネン...]]></summary>
+        <content type="html"><![CDATA[🔖 概要 Jestを使ってモック化するときに一部をモックしたい場合に手こずったので経過と共にメモ。 ※ React(Next.js)&amp;TypeScriptを使用 【🏃 お急ぎ便 🏃】 やりたいことは 準備 と テスト項目に、自分なりの答えは 結論 に記載。   🌏 環境  React: 18 Next.js: 13.5.6 Jest: 29.7.0    📦 準備 以下2つのコンポーネント ButtonGroup.tsx と Button.tsx を使用。 ButtonGroupのテストをするために子コンポーネントであるButtonをモック化したりしなかったりする。  ./c...]]></content>
+        <author>
+            <name>おおくぼ</name>
+        </author>
+        <published>2024-09-27T10:52:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ガバナンス LLM QA キーワード解説 | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/devopsinqa/articles/e0f322f47fbaa6</id>
+        <link href="https://zenn.dev/devopsinqa/articles/e0f322f47fbaa6"/>
+        <updated>2024-09-27T10:03:05.000Z</updated>
+        <summary type="html"><![CDATA[ガバナンス ガバナンスは、QA（品質保証）において、品質基準やプロセスの維持、リスク管理、コンプライアンスを組織全体で適切に管理するための枠組みを提供します。QAにおけるガバナンスの役割は、品質の一貫性を保証し、製品やサービスの信頼性、セキュリティ、効率性を維持するための重要な要素です。   QAにおけるガバナンスの主な要素   1. 品質ポリシーの策定と遵守  ガバナンスは、組織の品質ポリシーや...]]></summary>
+        <content type="html"><![CDATA[ガバナンス ガバナンスは、QA（品質保証）において、品質基準やプロセスの維持、リスク管理、コンプライアンスを組織全体で適切に管理するための枠組みを提供します。QAにおけるガバナンスの役割は、品質の一貫性を保証し、製品やサービスの信頼性、セキュリティ、効率性を維持するための重要な要素です。   QAにおけるガバナンスの主な要素   1. 品質ポリシーの策定と遵守  ガバナンスは、組織の品質ポリシーや基準を策定し、それが全てのプロジェクトや製品開発において一貫して適用されることを保証します。これにより、プロジェクトごとにバラつきがなく、品質が統一された製品やサービスを提供することが可能と...]]></content>
+        <author>
+            <name>亀井亮介＠マネーフォワード</name>
+        </author>
+        <published>2024-09-27T10:03:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ranorex の便利機能 - 待機アクション | ソフトウェアテストタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/s_katase/items/165cd1e9d8d9e80f30bc</id>
+        <link href="https://qiita.com/s_katase/items/165cd1e9d8d9e80f30bc"/>
+        <updated>2024-09-27T00:33:40.000Z</updated>
+        <summary type="html"><![CDATA[はじめに テスト対象アプリに対してUIテストを実施する場合、ある特定の操作をおこなったあと、次の画面に遷移するまで待機し、画面が表示されたタイミングで次の操作をおこなう必要があります。 このような場…]]></summary>
+        <content type="html"><![CDATA[はじめに テスト対象アプリに対してUIテストを実施する場合、ある特定の操作をおこなったあと、次の画面に遷移するまで待機し、画面が表示されたタイミングで次の操作をおこなう必要があります。 このような場…]]></content>
+        <published>2024-09-27T00:33:40.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リリーステストの最適化～教科のハコで進めるテスト効率化 | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/atamaplus/articles/c522ee44835400</id>
+        <link href="https://zenn.dev/atamaplus/articles/c522ee44835400"/>
+        <updated>2024-09-27T00:18:59.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！atama plusでQAをやっている池上です。 ソフトウェア開発においては、QCD（品質・コスト・納期）のバランスを整えながら、ユーザーに良いプロダクトを提供することが重要です。 本記事では、教材という特性を踏まえたテストケースの効率化について紹介します。   はじめに atama plusでは、学生向けのAIを用いた学習システムを開発しており、複数の開発チームがそれぞれ同一プロダク...]]></summary>
+        <content type="html"><![CDATA[こんにちは！atama plusでQAをやっている池上です。 ソフトウェア開発においては、QCD（品質・コスト・納期）のバランスを整えながら、ユーザーに良いプロダクトを提供することが重要です。 本記事では、教材という特性を踏まえたテストケースの効率化について紹介します。   はじめに atama plusでは、学生向けのAIを用いた学習システムを開発しており、複数の開発チームがそれぞれ同一プロダクトの異なる部分を担当しています。 リリース前には各チームのプログラムを統合し、網羅的なリグレッションテストである「リリーステスト」を実施しています。 QAチームは、生徒の学習体験を網羅することを...]]></content>
+        <author>
+            <name>いけがみ</name>
+        </author>
+        <published>2024-09-27T00:18:59.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リリーステストの最適化～教科のハコで進めるテスト効率化 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/atamaplus/articles/c522ee44835400</id>
+        <link href="https://zenn.dev/atamaplus/articles/c522ee44835400"/>
+        <updated>2024-09-27T00:18:59.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！atama plusでQAをやっている池上です。 ソフトウェア開発においては、QCD（品質・コスト・納期）のバランスを整えながら、ユーザーに良いプロダクトを提供することが重要です。 本記事では、教材という特性を踏まえたテストケースの効率化について紹介します。   はじめに atama plusでは、学生向けのAIを用いた学習システムを開発しており、複数の開発チームがそれぞれ同一プロダク...]]></summary>
+        <content type="html"><![CDATA[こんにちは！atama plusでQAをやっている池上です。 ソフトウェア開発においては、QCD（品質・コスト・納期）のバランスを整えながら、ユーザーに良いプロダクトを提供することが重要です。 本記事では、教材という特性を踏まえたテストケースの効率化について紹介します。   はじめに atama plusでは、学生向けのAIを用いた学習システムを開発しており、複数の開発チームがそれぞれ同一プロダクトの異なる部分を担当しています。 リリース前には各チームのプログラムを統合し、網羅的なリグレッションテストである「リリーステスト」を実施しています。 QAチームは、生徒の学習体験を網羅することを...]]></content>
+        <author>
+            <name>いけがみ</name>
+        </author>
+        <published>2024-09-27T00:18:59.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024.09.27ビジネス   【連載】石黒邦宏の「日米デジタル論考」:テレグラムはメッセージアプリなのか? それともプラットフォームなのか?    テレグラム  グループチャット  プラットフォー... | メディア | HQW!]]></title>
+        <id>https://www.veriserve.co.jp/helloqualityworld/media/20240927001</id>
+        <link href="https://www.veriserve.co.jp/helloqualityworld/media/20240927001"/>
+        <updated>2024-09-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2024.09.27 ビジネス 【連載】石黒邦宏の「日米デジタル論考」:テレグラムはメッセージアプリなのか? それともプラットフォームなのか?  テレグラム グループチャット プラットフォーム DSA VLOPs]]></summary>
+        <content type="html"><![CDATA[2024.09.27 ビジネス 【連載】石黒邦宏の「日米デジタル論考」:テレグラムはメッセージアプリなのか? それともプラットフォームなのか?  テレグラム グループチャット プラットフォーム DSA VLOPs]]></content>
+        <published>2024-09-27T00:00:00.000Z</published>
+    </entry>
+</feed>
