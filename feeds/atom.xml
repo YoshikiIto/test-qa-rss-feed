@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yoshikiito.github.io/test-qa-rss-feed/</id>
+    <title>テスト・QA関連ブログRSS</title>
+    <updated>2024-10-21T15:04:51.540Z</updated>
+    <generator>yoshikiito/test-qa-rss-feed</generator>
+    <link rel="alternate" href="https://yoshikiito.github.io/test-qa-rss-feed/"/>
+    <link rel="self" href="https://yoshikiito.github.io/test-qa-rss-feed/feeds/atom.xml"/>
+    <subtitle>企テスト・QA関連ブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://yoshikiito.github.io/test-qa-rss-feed/images/icon.png</logo>
+    <icon>https://yoshikiito.github.io/test-qa-rss-feed/images/favicon.ico</icon>
+    <rights>yoshikiito/test-qa-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[(オンライン読書会) これが現象学だに参加してきた | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2024/10/21/205113</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2024/10/21/205113"/>
+        <updated>2024-10-21T11:51:13.000Z</updated>
+        <summary type="html"><![CDATA[educational-psychology.connpass.com こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 理解不可能性 驚愕 フロイトとの結びつき 異他性と自分 全体を通した感想 理解不可能性 自分と異なった世界に属しているのかという判断基準の一つとして理解不可能性が語られていますが、「Aだ！」と思ってもBだった場合などは理解不可能性があると言えるのだろ...]]></summary>
+        <content type="html"><![CDATA[educational-psychology.connpass.com こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 理解不可能性 驚愕 フロイトとの結びつき 異他性と自分 全体を通した感想 理解不可能性 自分と異なった世界に属しているのかという判断基準の一つとして理解不可能性が語られていますが、「Aだ！」と思ってもBだった場合などは理解不可能性があると言えるのだろうか？という話をしました。(例えば違う種族である犬であっても、行動を勝手に解釈して「理解した」と判断することがある) 明確な答えはないものの、理解した！と思ったら勘違いというよりは、異なる場所で異なる…]]></content>
+        <published>2024-10-21T11:51:13.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unable to connect: Adaptive Server is unavailable or does not exist | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/ryoryotarosu/articles/55e5349be3ebe6</id>
+        <link href="https://zenn.dev/ryoryotarosu/articles/55e5349be3ebe6"/>
+        <updated>2024-10-21T05:47:03.000Z</updated>
+        <summary type="html"><![CDATA[Unable to connect: Adaptive Server is unavailable or does not exist (ホスト名) (TinyTds::Error)がrailsのコンソールででる Ruby・Rails で開発をしている時に、テスト用のDBサーバ(SQLServer)を使用していると、コンソールで上記のエラーが出たので共有します。 https://github.co...]]></summary>
+        <content type="html"><![CDATA[Unable to connect: Adaptive Server is unavailable or does not exist (ホスト名) (TinyTds::Error)がrailsのコンソールででる Ruby・Rails で開発をしている時に、テスト用のDBサーバ(SQLServer)を使用していると、コンソールで上記のエラーが出たので共有します。 https://github.com/rails-sqlserver/tiny_tds/issues/218 上記のサイトでも似たようなエラーが見られますが、Azure を私は使っていないし、日本語じゃないしで全然わからなか...]]></content>
+        <author>
+            <name>りょりょ</name>
+        </author>
+        <published>2024-10-21T05:47:03.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第257回 テストラジオ スマートウォッチの知らない機能とデグレーションの話 | テストラジオ]]></title>
+        <id>https://testradio.fm/?p=1576</id>
+        <link href="https://testradio.fm/testradio-no/1576/"/>
+        <updated>2024-10-20T23:30:00.000Z</updated>
+        <author>
+            <name>なそ＠さとうひろゆき</name>
+        </author>
+        <category label="テストラジオ"/>
+        <published>2024-10-20T23:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 2Q(4-6月)の出来事や考えたこと | ぐんちゃ]]></title>
+        <id>https://note.com/gun_chari/n/nb14bdcb50912</id>
+        <link href="https://note.com/gun_chari/n/nb14bdcb50912"/>
+        <updated>2024-10-20T14:45:07.000Z</updated>
+        <summary type="html"><![CDATA[今までどんなことをしてきたかnoteに雑に残しておきたくなったので、2022年と2023年は年度単位、2024年はQ単位で雑に残しておく。 こういった雑な記事から切り取ったものを、いつかもっとしっかりした記事にしたい。 4月 続きをみる]]></summary>
+        <content type="html"><![CDATA[今までどんなことをしてきたかnoteに雑に残しておきたくなったので、2022年と2023年は年度単位、2024年はQ単位で雑に残しておく。 こういった雑な記事から切り取ったものを、いつかもっとしっかりした記事にしたい。 4月 続きをみる]]></content>
+        <published>2024-10-20T14:45:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SREをはじめよう ―個人と組織による信頼性獲得への第一歩~ Forkwell Library#70に参加してきた | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2024/10/20/233000</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2024/10/20/233000"/>
+        <updated>2024-10-20T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[forkwell.connpass.com 会の概要 会の様子 山口さんの講演 こういう本ではない 翻訳の裏話 著者の話 第一部 第二部 第三部 パネルディスカッション RoleとしてSREが存在してない組織で必要性をどのような軸で判断するのが良いのか？上層部がエンジニアリングに詳しくないなら必要性はどう伝えればいいのか？ SREに向いている人は？ SREの文化がなかった組織で始まるにあたって、プ...]]></summary>
+        <content type="html"><![CDATA[forkwell.connpass.com 会の概要 会の様子 山口さんの講演 こういう本ではない 翻訳の裏話 著者の話 第一部 第二部 第三部 パネルディスカッション RoleとしてSREが存在してない組織で必要性をどのような軸で判断するのが良いのか？上層部がエンジニアリングに詳しくないなら必要性はどう伝えればいいのか？ SREに向いている人は？ SREの文化がなかった組織で始まるにあたって、プロジェクトチームに対して、SREのロールを与えられた人はプロジェクトチームに対してどのようなアプローチから始めるべきか？ SREの職種が面白いと思えるポイントは？ SREはどんな組織にも必要か？ SR…]]></content>
+        <published>2024-10-20T14:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コピペは楽だがバグの元 | かいり]]></title>
+        <id>https://note.com/kairiver/n/n5384d2dc7a78</id>
+        <link href="https://note.com/kairiver/n/n5384d2dc7a78"/>
+        <updated>2024-10-20T13:45:39.000Z</updated>
+        <summary type="html"><![CDATA[まずはじめに、この記事においては開発者に対して時々言われるような「コピー＆ペースト（以下コピペ）はするべきではない」といった趣旨のことは書きません。ただ、事実としてミス、ひいてはバグに繋がることがある行動ではあると思っているので、そのこととテストする際に気にする点がお伝えできたらいいなと思います。 少しでも参考になれば幸いです。 続きをみる]]></summary>
+        <content type="html"><![CDATA[まずはじめに、この記事においては開発者に対して時々言われるような「コピー＆ペースト（以下コピペ）はするべきではない」といった趣旨のことは書きません。ただ、事実としてミス、ひいてはバグに繋がることがある行動ではあると思っているので、そのこととテストする際に気にする点がお伝えできたらいいなと思います。 少しでも参考になれば幸いです。 続きをみる]]></content>
+        <published>2024-10-20T13:45:39.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第304回：　にしさんの教え | Kouichi Akiyama]]></title>
+        <id>https://note.com/akiyama924/n/n237c98d5e40a</id>
+        <link href="https://note.com/akiyama924/n/n237c98d5e40a"/>
+        <updated>2024-10-19T21:40:35.000Z</updated>
+        <summary type="html"><![CDATA[≡ はじめに 連載「ALTAのテキストをつくろう」を1回お休みして、今週は、2024/10/18に発売したばかりの『にしさんの教え』という本の紹介をします。 続きをみる]]></summary>
+        <content type="html"><![CDATA[≡ はじめに 連載「ALTAのテキストをつくろう」を1回お休みして、今週は、2024/10/18に発売したばかりの『にしさんの教え』という本の紹介をします。 続きをみる]]></content>
+        <published>2024-10-19T21:40:35.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[下書き | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/kzkk/books/5c2d2d010649f6</id>
+        <link href="https://zenn.dev/kzkk/books/5c2d2d010649f6"/>
+        <updated>2024-10-19T16:27:15.000Z</updated>
+        <summary type="html"><![CDATA[公開してるけど下書きです]]></summary>
+        <content type="html"><![CDATA[公開してるけど下書きです]]></content>
+        <author>
+            <name>kzkk</name>
+        </author>
+        <published>2024-10-19T16:27:15.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RSGT2025で発表できることになりました | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2024/10/19/223750</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2024/10/19/223750"/>
+        <updated>2024-10-19T13:37:50.000Z</updated>
+        <summary type="html"><![CDATA[タイトルの通り、RSGT2025に出していたプロポーザルが採択されて発表できることになったので、今日はその告知です。 confengine.com 発表概要 自分が外部アジャイルコーチとして現場に入るとき多く聞く要望の一つに、「チームや組織がどれくらいアジャイルになっているのかを客観的に評価してほしい」があります。(特にアジャイルチームを立ち上げてちょっと時間が経っている現場では多い印象です) し...]]></summary>
+        <content type="html"><![CDATA[タイトルの通り、RSGT2025に出していたプロポーザルが採択されて発表できることになったので、今日はその告知です。 confengine.com 発表概要 自分が外部アジャイルコーチとして現場に入るとき多く聞く要望の一つに、「チームや組織がどれくらいアジャイルになっているのかを客観的に評価してほしい」があります。(特にアジャイルチームを立ち上げてちょっと時間が経っている現場では多い印象です) しかし、評価を求めている動機によっては、評価をしても何も成果をあげられなかったり、最悪の場合はアジャイルな組織やチームから後退する可能性もあります。 例えば、以下のような動機は自分の経験上、評価をするこ…]]></content>
+        <published>2024-10-19T13:37:50.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[E2E自動テストを理解したい | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/yuu104/articles/what-is-e2e-test</id>
+        <link href="https://zenn.dev/yuu104/articles/what-is-e2e-test"/>
+        <updated>2024-10-19T04:02:03.000Z</updated>
+        <summary type="html"><![CDATA[はじめに E2E（End-to-End）自動テストは、ソフトウェア開発における重要な品質保証手法の一つです。 しかし、その導入と実践には多くの課題があります。 本記事では、E2E 自動テストの基本的な概念から実践的なテクニックまでを包括的に理解するために、私が様々な書籍や記事から学んだ内容を言語化したものです。 具体的には、以下の内容を取り上げます：  E2E テストとは何か、その特徴とメリット・...]]></summary>
+        <content type="html"><![CDATA[はじめに E2E（End-to-End）自動テストは、ソフトウェア開発における重要な品質保証手法の一つです。 しかし、その導入と実践には多くの課題があります。 本記事では、E2E 自動テストの基本的な概念から実践的なテクニックまでを包括的に理解するために、私が様々な書籍や記事から学んだ内容を言語化したものです。 具体的には、以下の内容を取り上げます：  E2E テストとは何か、その特徴とメリット・デメリット E2E テスト導入の戦略と継続的テストの概念 テストコードの作成方法と注意点 信頼性の高いテストを作るためのテクニック テストコードの可読性を高めるための方法    E2E テス...]]></content>
+        <author>
+            <name>yuu</name>
+        </author>
+        <published>2024-10-19T04:02:03.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スクラムカンファレンスの歩き方に参加してきた | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2024/10/18/234030</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2024/10/18/234030"/>
+        <updated>2024-10-18T14:40:30.000Z</updated>
+        <summary type="html"><![CDATA[スクラムカンファレンスの歩き方 - connpass こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 会の概要 会の様子 川口さんの講演 スライド 歩き方 RSGTという場で重視していること セッションのカテゴリ 基調講演 OST 参加者の獲得 正義さんの講演 スライド スクラムフェスの全体感 オンラインの原体験 プロポーザルを眺める オフラインとオンラインの差 無理...]]></summary>
+        <content type="html"><![CDATA[スクラムカンファレンスの歩き方 - connpass こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 会の概要 会の様子 川口さんの講演 スライド 歩き方 RSGTという場で重視していること セッションのカテゴリ 基調講演 OST 参加者の獲得 正義さんの講演 スライド スクラムフェスの全体感 オンラインの原体験 プロポーザルを眺める オフラインとオンラインの差 無理はしない Mahoさんの講演 なぜGSGに行ったのか？ 参加する心境の変化 学んだこと おすすめの歩き方 会全体を通した感想 会の概要 以下、イベントページから引用です。 株式会社タイミーは「一人ひと…]]></content>
+        <published>2024-10-18T14:40:30.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 1Q(1-3月)の出来事や考えたこと | ぐんちゃ]]></title>
+        <id>https://note.com/gun_chari/n/ne95b55af379e</id>
+        <link href="https://note.com/gun_chari/n/ne95b55af379e"/>
+        <updated>2024-10-18T13:14:26.000Z</updated>
+        <summary type="html"><![CDATA[今までどんなことをしてきたかnoteに雑に残しておきたくなったので、2022年と2023年は年度単位、2024年はQ単位で雑に残しておく。 こういった雑な記事から切り取ったものを、いつかもっとしっかりした記事にしたい。 1月 続きをみる]]></summary>
+        <content type="html"><![CDATA[今までどんなことをしてきたかnoteに雑に残しておきたくなったので、2022年と2023年は年度単位、2024年はQ単位で雑に残しておく。 こういった雑な記事から切り取ったものを、いつかもっとしっかりした記事にしたい。 1月 続きをみる]]></content>
+        <published>2024-10-18T13:14:26.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マイパル - Q&amp;A | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/christian_yh/articles/8d914794dbe26d</id>
+        <link href="https://zenn.dev/christian_yh/articles/8d914794dbe26d"/>
+        <updated>2024-10-18T09:24:21.000Z</updated>
+        <summary type="html"><![CDATA[アカウント削除＆退会の仕方 1.ホーム画面一番下の左側にある設定を開く 2.通常退会もしくは、アカウント削除を選択する。]]></summary>
+        <content type="html"><![CDATA[アカウント削除＆退会の仕方 1.ホーム画面一番下の左側にある設定を開く 2.通常退会もしくは、アカウント削除を選択する。]]></content>
+        <author>
+            <name>クリスチャン。YH</name>
+        </author>
+        <published>2024-10-18T09:24:21.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ranorex ハンズオンセミナー オンデマンド配信が始まりました | Ranorex Blog - UIテスト自動化ツール Ranorex]]></title>
+        <id>https://ranorex.techmatrix.jp/?p=26346</id>
+        <link href="https://ranorex.techmatrix.jp/blog/2024/10/18/ondemand_seminar_start/"/>
+        <updated>2024-10-18T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[テクマトリックスでは、Ranorex を初めてご利用いただく方に向け、無償のハンズオンセミナーを定期開催しています。2024年からは中級コースも追加され、Ranorexのより深い機能まで無償で学べるようになりました。 こ […] The post Ranorex ハンズオンセミナー オンデマンド配信が始まりました first appeared on UIテスト自動化ツール Ranorex.]]></summary>
+        <content type="html"><![CDATA[テクマトリックスでは、Ranorex を初めてご利用いただく方に向け、無償のハンズオンセミナーを定期開催しています。2024年からは中級コースも追加され、Ranorexのより深い機能まで無償で学べるようになりました。 こ […] The post Ranorex ハンズオンセミナー オンデマンド配信が始まりました first appeared on UIテスト自動化ツール Ranorex.]]></content>
+        <author>
+            <name>user</name>
+        </author>
+        <category label="セミナー・お知らせ"/>
+        <published>2024-10-18T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024.10.18キャリアNEW   【連載】冒険者の地図:ゲーム好きが興じてQAエンジニアに、第一線で奮闘するLayerX・松山晃大さんの成長の軌跡(前編)    QAエンジニア  キャリア  冒... | メディア | HQW!]]></title>
+        <id>https://www.veriserve.co.jp/helloqualityworld/media/20241018001</id>
+        <link href="https://www.veriserve.co.jp/helloqualityworld/media/20241018001"/>
+        <updated>2024-10-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2024.10.18 キャリア NEW 【連載】冒険者の地図:ゲーム好きが興じてQAエンジニアに、第一線で奮闘するLayerX・松山晃大さんの成長の軌跡(前編)  QAエンジニア キャリア 冒険者の地図 AI アジャイル API 品質保証 SaaS]]></summary>
+        <content type="html"><![CDATA[2024.10.18 キャリア NEW 【連載】冒険者の地図:ゲーム好きが興じてQAエンジニアに、第一線で奮闘するLayerX・松山晃大さんの成長の軌跡(前編)  QAエンジニア キャリア 冒険者の地図 AI アジャイル API 品質保証 SaaS]]></content>
+        <published>2024-10-18T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023年の出来事や考えたこと | ぐんちゃ]]></title>
+        <id>https://note.com/gun_chari/n/n056ec874b32c</id>
+        <link href="https://note.com/gun_chari/n/n056ec874b32c"/>
+        <updated>2024-10-17T16:04:07.000Z</updated>
+        <summary type="html"><![CDATA[今までどんなことをしてきたかnoteに雑に残しておきたくなったので、2022年と2023年は年度単位、2024年はQ単位で雑に残しておく。 こういった雑な記事から切り取ったものを、いつかもっとしっかりした記事にしたい。 2023 1Q(1-3月) 続きをみる]]></summary>
+        <content type="html"><![CDATA[今までどんなことをしてきたかnoteに雑に残しておきたくなったので、2022年と2023年は年度単位、2024年はQ単位で雑に残しておく。 こういった雑な記事から切り取ったものを、いつかもっとしっかりした記事にしたい。 2023 1Q(1-3月) 続きをみる]]></content>
+        <published>2024-10-17T16:04:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年の7-12月の出来事や考えたこと | ぐんちゃ]]></title>
+        <id>https://note.com/gun_chari/n/nbf4dd45d0232</id>
+        <link href="https://note.com/gun_chari/n/nbf4dd45d0232"/>
+        <updated>2024-10-17T15:42:46.000Z</updated>
+        <summary type="html"><![CDATA[今までどんなことをしてきたかnoteに雑に残しておきたくなったので、2022年と2023年は年度単位、2024年はQ単位で雑に残しておく。 こういった雑な記事から切り取ったものを、いつかもっとしっかりした記事にしたい。 2022 1Qと2Qは割愛。2022年は半期分しか残らないけどまあいいや。 続きをみる]]></summary>
+        <content type="html"><![CDATA[今までどんなことをしてきたかnoteに雑に残しておきたくなったので、2022年と2023年は年度単位、2024年はQ単位で雑に残しておく。 こういった雑な記事から切り取ったものを、いつかもっとしっかりした記事にしたい。 2022 1Qと2Qは割愛。2022年は半期分しか残らないけどまあいいや。 続きをみる]]></content>
+        <published>2024-10-17T15:42:46.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スクラムフェス金沢2025を開催します | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2024/10/17/220712</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2024/10/17/220712"/>
+        <updated>2024-10-17T13:07:12.000Z</updated>
+        <summary type="html"><![CDATA[www.scrumfestkanazawa.org スクラムフェス金沢2025の開催に向けた準備が始まったので、今日はその内容を書いていきます。 日程を決める keynoteを考える 全体を通した感想 日程を決める 趣意書をさくっと公開するためにも、まずは日程を決めようという話をしました。(場所は第一候補が確定済み) 会場予約システムの都合で1月に入らないと正式確定はできないのですが、会場が取れる...]]></summary>
+        <content type="html"><![CDATA[www.scrumfestkanazawa.org スクラムフェス金沢2025の開催に向けた準備が始まったので、今日はその内容を書いていきます。 日程を決める keynoteを考える 全体を通した感想 日程を決める 趣意書をさくっと公開するためにも、まずは日程を決めようという話をしました。(場所は第一候補が確定済み) 会場予約システムの都合で1月に入らないと正式確定はできないのですが、会場が取れるなら7/11〜7/12で開催する方向で調整しようという話をしました。 keynoteを考える 地元の方に「この人(この会社)の話を聞きたい」と思うものを挙げてもらい、その方のプロフィールや発表スライド…]]></content>
+        <published>2024-10-17T13:07:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SmartHR 品質保証部 労務ユニットAの紹介 | QA - SmartHR Tech Blog]]></title>
+        <id>https://tech.smarthr.jp/entry/qa_series_article_vol2</id>
+        <link href="https://tech.smarthr.jp/entry/qa_series_article_vol2"/>
+        <updated>2024-10-17T09:20:28.000Z</updated>
+        <summary type="html"><![CDATA[SmartHR 品質保証部 労務ユニットAの紹介 こんにちは！QAエンジニアのkaomiです。 入社して1年3ヶ月が経ち、労務領域のプロダクトを中心にさまざまな業務に携わっています。 オーストラリアの固有種であるウォンバットが大好きで、10/20(日)に大阪府池田市で行われる「ウォンバットの日」が気になっています。 はじめに 本記事は品質保証部の連載記事第2弾です。今回のブログでは、労務ユニットA...]]></summary>
+        <content type="html"><![CDATA[SmartHR 品質保証部 労務ユニットAの紹介 こんにちは！QAエンジニアのkaomiです。 入社して1年3ヶ月が経ち、労務領域のプロダクトを中心にさまざまな業務に携わっています。 オーストラリアの固有種であるウォンバットが大好きで、10/20(日)に大阪府池田市で行われる「ウォンバットの日」が気になっています。 はじめに 本記事は品質保証部の連載記事第2弾です。今回のブログでは、労務ユニットAの紹介と現在取り組んでいる活動について紹介します。 労務ユニットAについて 第1弾のブログで触れたように、労務ユニットAは2024年7月の組織変更で新たに編成されたユニットです。チーフ（プレイングマネ…]]></content>
+        <published>2024-10-17T09:20:28.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[初めての海外出張記（インドネシア編） | AIテスト自動化プラットフォーム「MagicPod」公式note]]></title>
+        <id>https://note.com/magicpod/n/n0ea2b0995965</id>
+        <link href="https://note.com/magicpod/n/n0ea2b0995965"/>
+        <updated>2024-10-17T05:57:25.000Z</updated>
+        <summary type="html"><![CDATA[はじめまして！MagicPodのカスタマーサクセスエンジニア、Ishiiです。先日初めての海外出張、インドネシアに行ってまいりました。興奮冷めやらぬ内にその模様をレポートします！ 簡単に自己紹介をさせてください。私は2023年10月にMagicPodに入社しました。現在はカスタマーサクセスエンジニアとしてユーザーのテスト自動化をサポートしています。具体的には技術的なお問い合わせの調査、ヘルプページ...]]></summary>
+        <content type="html"><![CDATA[はじめまして！MagicPodのカスタマーサクセスエンジニア、Ishiiです。先日初めての海外出張、インドネシアに行ってまいりました。興奮冷めやらぬ内にその模様をレポートします！ 簡単に自己紹介をさせてください。私は2023年10月にMagicPodに入社しました。現在はカスタマーサクセスエンジニアとしてユーザーのテスト自動化をサポートしています。具体的には技術的なお問い合わせの調査、ヘルプページの作成、テスト自動化コンサルティングなど幅広い業務を担当しています。 続きをみる]]></content>
+        <published>2024-10-17T05:57:25.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Goでサーバーを立ち上げてテストを実行するときはbufconnを使おう | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/tatsuyan/articles/golang-http-server-bufconn</id>
+        <link href="https://zenn.dev/tatsuyan/articles/golang-http-server-bufconn"/>
+        <updated>2024-10-17T05:15:28.000Z</updated>
+        <summary type="html"><![CDATA[Go で HTTP サーバーを立ててインテグレーションテストを行いたい場合がありますよね。 そのまま実装すると実際に OS にポートを確保してもらい、そのポート経由で通信する経路のテストになります。 しかしこの方法にはいくつかの問題が発生する可能性があります。  OS への呼び出しが増えるため、並列でテストを実行すればするほどテストが遅くなる。 実際にポートを確保して通信するため、問題発生時にネッ...]]></summary>
+        <content type="html"><![CDATA[Go で HTTP サーバーを立ててインテグレーションテストを行いたい場合がありますよね。 そのまま実装すると実際に OS にポートを確保してもらい、そのポート経由で通信する経路のテストになります。 しかしこの方法にはいくつかの問題が発生する可能性があります。  OS への呼び出しが増えるため、並列でテストを実行すればするほどテストが遅くなる。 実際にポートを確保して通信するため、問題発生時にネットワークレイヤーの考慮が必要になる可能性がある。 ポートを固定で指定していた場合、並列でテストを回すのが難しい。  アプリケーションからポートの確保を行う経路のテストを確実に行いたいケースは別と...]]></content>
+        <author>
+            <name>つけ麺テキーラ</name>
+        </author>
+        <published>2024-10-17T05:15:28.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トップエンジニアに学ぶ成功術（もっと良くなる日本のIT vol.2） | SHIFT EVOLVE グループの新着イベント]]></title>
+        <id>https://shiftevolve.connpass.com/event/334429/</id>
+        <link href="https://shiftevolve.connpass.com/event/334429/"/>
+        <updated>2024-10-17T03:51:22.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2024/11/13 19:30 ～ 20:50<br />開催場所: 東京都港区麻布台1-3-1<br /><br /><h2>トップエンジニアに学ぶ成功術（もっと良くなる日本のIT vol.2）</h2> <p>SHIFTの技術顧問川口耕介氏を迎えての対談企画。お相手は川口氏が自ら選出！</p> <p>アメリカで最先端の技術を開発し活躍する彼が思う、日本のITの未来とは。</p> ...]]></summary>
+        <content type="html"><![CDATA[開催日時: 2024/11/13 19:30 ～ 20:50<br />開催場所: 東京都港区麻布台1-3-1<br /><br /><h2>トップエンジニアに学ぶ成功術（もっと良くなる日本のIT vol.2）</h2> <p>SHIFTの技術顧問川口耕介氏を迎えての対談企画。お相手は川口氏が自ら選出！</p> <p>アメリカで最先端の技術を開発し活躍する彼が思う、日本のITの未来とは。</p> <p>今回は、ニフティ、はてな、一休と、数々の有名企業で成功を収めてきたトップエンジニアの伊藤直也氏を迎え、その成功術を紐解きます。</p> <p>会場では、オンライン配信やアーカイブ動画に載らない限定トークをお届け予定。ここでしか聞くことのできない、伊藤さんと川口さんの貴重なお話を聞きたい方は、ぜひ会場でご参加ください！</p> <p>エンジニアとして走り続ける方々へ、勇気と希望を与えるようなトークが届けられたら嬉しいです。</p> <h2>SHIFT技術顧問 川口耕介氏よりメッセージ</h2> <p>伊藤さん個人のEngineering Leader, CTOとしての成長の過程・旅路が知り...]]></content>
+        <published>2024-10-17T03:51:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[yr-learning Vol38に参加してきた | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2024/10/16/220822</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2024/10/16/220822"/>
+        <updated>2024-10-16T13:08:22.000Z</updated>
+        <summary type="html"><![CDATA[yr-camp.connpass.com 今週もこちらのイベントに参加してきたので、会の様子と感想を書いていこうと想います。 SOLIDはOOPのものではない 好きな言語 過度にISPを適用する事例はあるか？ ダックタイピングとISP 全体を通した感想 SOLIDはOOPのものではない オブジェクト指向プログラミングの中でSOLIDの話はされがちですが、そういう話ではないんだというのがClojur...]]></summary>
+        <content type="html"><![CDATA[yr-camp.connpass.com 今週もこちらのイベントに参加してきたので、会の様子と感想を書いていこうと想います。 SOLIDはOOPのものではない 好きな言語 過度にISPを適用する事例はあるか？ ダックタイピングとISP 全体を通した感想 SOLIDはOOPのものではない オブジェクト指向プログラミングの中でSOLIDの話はされがちですが、そういう話ではないんだというのがClojureのコードを実例としてわかったのは良かったという話をしました。 また、関数型プログラミングのほうがLSPとかは自然と守れやすそうだという話も出ていました。 好きな言語 いろいろなプログラミング言語を触…]]></content>
+        <published>2024-10-16T13:08:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Goでtime.Now()を使用している箇所のテストについて | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/i_keito/articles/120872c8-f4a6-8083-9d20-ed0eaa0b9bdc</id>
+        <link href="https://zenn.dev/i_keito/articles/120872c8-f4a6-8083-9d20-ed0eaa0b9bdc"/>
+        <updated>2024-10-16T01:23:47.000Z</updated>
+        <summary type="html"><![CDATA[概要 time.Now()を使用している箇所のテストがしづらいと感じたのでその際のメモ 結論：contextにtime.Now()で生成する方法を採用   既存のコード func Hoge() {  todo := GetTodo()  if IsTimeAfter(todo.StartTime) {  ...  } }  func IsTimeAfter(startTime time.Time)...]]></summary>
+        <content type="html"><![CDATA[概要 time.Now()を使用している箇所のテストがしづらいと感じたのでその際のメモ 結論：contextにtime.Now()で生成する方法を採用   既存のコード func Hoge() {  todo := GetTodo()  if IsTimeAfter(todo.StartTime) {  ...  } }  func IsTimeAfter(startTime time.Time) {  currentDate := time.Now() // テストを実行する時刻に依存する。現在日時を固定にしたい。  return startTime.After(currentD...]]></content>
+        <author>
+            <name>keito-isurugi</name>
+        </author>
+        <published>2024-10-16T01:23:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure DevOps との連携 | Ranorex Blog - UIテスト自動化ツール Ranorex]]></title>
+        <id>https://ranorex.techmatrix.jp/?p=26295</id>
+        <link href="https://ranorex.techmatrix.jp/blog/2024/10/16/integrating-azure-devops/"/>
+        <updated>2024-10-16T01:00:36.000Z</updated>
+        <summary type="html"><![CDATA[Ranorex には、クラウドベースのCIソフトウェアである Azure DevOps との連携機能が備えられています。この機能を活用することで、Ranorex で作成したテストをAzure DevOps のビルドパイプ […] The post Azure DevOps との連携 first appeared on UIテスト自動化ツール Ranorex.]]></summary>
+        <content type="html"><![CDATA[Ranorex には、クラウドベースのCIソフトウェアである Azure DevOps との連携機能が備えられています。この機能を活用することで、Ranorex で作成したテストをAzure DevOps のビルドパイプ […] The post Azure DevOps との連携 first appeared on UIテスト自動化ツール Ranorex.]]></content>
+        <author>
+            <name>user</name>
+        </author>
+        <category label="ツール連携"/>
+        <published>2024-10-16T01:00:36.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024.10.16スキルアップNEW   安全・安心なAIのためのマネジメントシステム「ISO/IEC 42001」    ISO/IEC 42001  AI  AIMS | メディア | HQW!]]></title>
+        <id>https://www.veriserve.co.jp/helloqualityworld/media/20241016001</id>
+        <link href="https://www.veriserve.co.jp/helloqualityworld/media/20241016001"/>
+        <updated>2024-10-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2024.10.16 スキルアップ NEW 安全・安心なAIのためのマネジメントシステム「ISO/IEC 42001」  ISO/IEC 42001 AI AIMS]]></summary>
+        <content type="html"><![CDATA[2024.10.16 スキルアップ NEW 安全・安心なAIのためのマネジメントシステム「ISO/IEC 42001」  ISO/IEC 42001 AI AIMS]]></content>
+        <published>2024-10-16T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大人のソフトウェアテスト雑談会 #234【髭】に参加してきた | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2024/10/15/230833</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2024/10/15/230833"/>
+        <updated>2024-10-15T14:08:33.000Z</updated>
+        <summary type="html"><![CDATA[ost-zatu.connpass.com 音楽 自分は音楽をまったく聞かないのですが、音楽を聞きまくった方々が多数いて、シティポップの話題で盛り上がっていました。 箱根 箱根でおおひらさんが話の中で登場していたのでその話をしていきました。おおひらさんはリトリートなどに全然来ませんが、参加するつもりがないというよりは行き方がわからない、経路をイメージできないという表現が正しいそうです。 バグ密度 ...]]></summary>
+        <content type="html"><![CDATA[ost-zatu.connpass.com 音楽 自分は音楽をまったく聞かないのですが、音楽を聞きまくった方々が多数いて、シティポップの話題で盛り上がっていました。 箱根 箱根でおおひらさんが話の中で登場していたのでその話をしていきました。おおひらさんはリトリートなどに全然来ませんが、参加するつもりがないというよりは行き方がわからない、経路をイメージできないという表現が正しいそうです。 バグ密度 confengine.com こちらのプロポーザルがどうもきになるという話をしていきました。 そもそも密度とは何なのか？という話になり、体積あたりの質量という中学生の頃の懐かしい定義が登場していました…]]></content>
+        <published>2024-10-15T14:08:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SMURF: Beyond the Test Pyramid | Google Testing Blog]]></title>
+        <id>http://testing.googleblog.com/2024/10/smurf-beyond-test-pyramid.html</id>
+        <link href="http://testing.googleblog.com/2024/10/smurf-beyond-test-pyramid.html"/>
+        <updated>2024-10-15T12:22:00.000Z</updated>
+        <summary type="html"><![CDATA[This article was adapted from a Google Testing on the Toilet (TotT) episode. You can download a printer-friendly version of this TotT episode and post it in your office.   By Adam Bender     The test ...]]></summary>
+        <content type="html"><![CDATA[This article was adapted from a Google Testing on the Toilet (TotT) episode. You can download a printer-friendly version of this TotT episode and post it in your office.   By Adam Bender     The test pyramid is the canonical heuristic for guiding test suite evolution. It conveys a simple message - prefer more unit tests than integration tests, and prefer more integration tests than end-to-end tests. While useful, the test pyramid lacks the details you need as your test suite grows and you face c...]]></content>
+        <published>2024-10-15T12:22:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[エディタ内でテスト結果が表示される開発体験を、エディタに依存せず実現するツールを作った | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/kbwok/articles/588cb8584c99b2</id>
+        <link href="https://zenn.dev/kbwok/articles/588cb8584c99b2"/>
+        <updated>2024-10-15T12:00:05.000Z</updated>
+        <summary type="html"><![CDATA[エディタ上でテストのエラーを表示することができるLSPサーバとその周辺ツールを作りました。 https://github.com/kbwo/testing-language-server   動機 数ヶ月前にこの記事を見ました。 Wallaby.jsを使ってフロントエンド開発のテストを効率化しよう - Findy Tech Blog https://tech.findy.co.jp/entry/2...]]></summary>
+        <content type="html"><![CDATA[エディタ上でテストのエラーを表示することができるLSPサーバとその周辺ツールを作りました。 https://github.com/kbwo/testing-language-server   動機 数ヶ月前にこの記事を見ました。 Wallaby.jsを使ってフロントエンド開発のテストを効率化しよう - Findy Tech Blog https://tech.findy.co.jp/entry/2024/04/15/100523 エディタ上でリアルタイムにテスト結果が反映される開発体験が大変魅力的に見えます。 私は普段Neovimを使用しているので、この記事を見てすぐ、Neovimでも同...]]></content>
+        <author>
+            <name>kbwo</name>
+        </author>
+        <published>2024-10-15T12:00:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スクラム祭りの打ち合わせ(8回目)をしてきた | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2024/10/14/233034</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2024/10/14/233034"/>
+        <updated>2024-10-14T14:30:34.000Z</updated>
+        <summary type="html"><![CDATA[aki-m.hatenadiary.com こちらの打ち合わせを10/14にしてきたので、その内容まとめです。 XP祭りと同時開催検討結果の報告 趣意書を作る 次回に向けた作業確認 XP祭りと同時開催検討結果の報告 先週の金曜日にXP祭り代表の小井土さんと川口さんとkobaseさんとXP祭りとスクラムフェスを同時開催する方向での話し合い(飲み会)を実施したので、その内容を共有しました。 XP祭りと...]]></summary>
+        <content type="html"><![CDATA[aki-m.hatenadiary.com こちらの打ち合わせを10/14にしてきたので、その内容まとめです。 XP祭りと同時開催検討結果の報告 趣意書を作る 次回に向けた作業確認 XP祭りと同時開催検討結果の報告 先週の金曜日にXP祭り代表の小井土さんと川口さんとkobaseさんとXP祭りとスクラムフェスを同時開催する方向での話し合い(飲み会)を実施したので、その内容を共有しました。 XP祭りと同時開催することに抵抗はない XP祭りの形式は変えずにその裏でスクラムフェスをやるような感じになる XP祭り向けのkeynoteが裏番組になるので、keynoteは招聘したほうがいいかもしれない もし…]]></content>
+        <published>2024-10-14T14:30:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Women in agile Tokyo 2025にプロポーザルを出した | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2024/10/13/233000</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2024/10/13/233000"/>
+        <updated>2024-10-13T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[confengine.com Women in agile Tokyo 2025にプロポーザルを出したので今日はその告知です。 概要 プロポーザルを出した経緯 チャレンジしたいこと 概要 Scrum TokyoのYoutubeチャンネルが公開されて4年以上が経ち、スクラムやアジャイルの実践者の貴重な知見が多く集積するチャンネルになっています。しかし、公開されている動画の本数は10/11現在で750...]]></summary>
+        <content type="html"><![CDATA[confengine.com Women in agile Tokyo 2025にプロポーザルを出したので今日はその告知です。 概要 プロポーザルを出した経緯 チャレンジしたいこと 概要 Scrum TokyoのYoutubeチャンネルが公開されて4年以上が経ち、スクラムやアジャイルの実践者の貴重な知見が多く集積するチャンネルになっています。しかし、公開されている動画の本数は10/11現在で750本を超えており、その中から自分に適したセッションを選ぶ難度はなかなか高いです。そこで、本セッションでは、Scrum Tokyoの全動画を見ている二人が、参加者の悩みやニーズをもとにして、参加者にあった…]]></content>
+        <published>2024-10-13T14:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【フロントエンドが初めて触る Rails 】Rspecでのletを使った遅延評価とは | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/siva_dev/articles/b1c8b4c2e00579</id>
+        <link href="https://zenn.dev/siva_dev/articles/b1c8b4c2e00579"/>
+        <updated>2024-10-13T10:36:55.000Z</updated>
+        <summary type="html"><![CDATA[概要 業務でRSpecを使ってテストを実装している際に、let!(:hoge)でモデルのインスタンス生成処理を書けばいいんだな、と思いながら実装していました。すると、先輩エンジニアから「letとlet!には遅延評価の違いがある」との助言をもらいました。 その時は、「どんな場合に使い分ければいいんだ？」とすぐにはピンとこなかったので、今回しっかり調べて知識として整理してみようと思います。   let...]]></summary>
+        <content type="html"><![CDATA[概要 業務でRSpecを使ってテストを実装している際に、let!(:hoge)でモデルのインスタンス生成処理を書けばいいんだな、と思いながら実装していました。すると、先輩エンジニアから「letとlet!には遅延評価の違いがある」との助言をもらいました。 その時は、「どんな場合に使い分ければいいんだ？」とすぐにはピンとこなかったので、今回しっかり調べて知識として整理してみようと思います。   letとlet!   let：実際に参照される時に評価されインスタンスが生成される。  遅延評価    let!：テストが実行される前にすぐに評価されインスタンス生成される。  即時評価     ...]]></content>
+        <author>
+            <name>ogaru_sh</name>
+        </author>
+        <published>2024-10-13T10:36:55.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[組み込み単体テスト実践入門 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/kimatata/books/b0a55247706116</id>
+        <link href="https://zenn.dev/kimatata/books/b0a55247706116"/>
+        <updated>2024-10-13T05:01:23.000Z</updated>
+        <summary type="html"><![CDATA[多くの組み込みソフトウェア開発現場では、テストはすべて手動で行われ、デグレやリリース遅延が頻繁に発生しています。「組み込みは自動テストが難しい」と考える人が多いですが、私は担当製品に単体テストとCIを導入し、バグの早期発見と品質向上を実現しました。  本書では、組み込み特有のハードウェア依存を解消し、単体テストを導入する方法をGoogle Testを使ったサンプルコードを交えながら紹介します。手動...]]></summary>
+        <content type="html"><![CDATA[多くの組み込みソフトウェア開発現場では、テストはすべて手動で行われ、デグレやリリース遅延が頻繁に発生しています。「組み込みは自動テストが難しい」と考える人が多いですが、私は担当製品に単体テストとCIを導入し、バグの早期発見と品質向上を実現しました。  本書では、組み込み特有のハードウェア依存を解消し、単体テストを導入する方法をGoogle Testを使ったサンプルコードを交えながら紹介します。手動テストから脱却し、効率的にテストを行いたい方に参考にしていただければ幸いです。  すべてのサンプルコードはGitHub上で公開しています。 https://github.com/kimatata/embeded-testing-guide]]></content>
+        <author>
+            <name>matazo</name>
+        </author>
+        <published>2024-10-13T05:01:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第303回：　「ALTAのテキストをつくろう」57　（使用性の評価前編：　使用性の側面） | Kouichi Akiyama]]></title>
+        <id>https://note.com/akiyama924/n/n5224a0bc01d2</id>
+        <link href="https://note.com/akiyama924/n/n5224a0bc01d2"/>
+        <updated>2024-10-12T21:51:13.000Z</updated>
+        <summary type="html"><![CDATA[◀前の記事へ 次の記事へ▶︎  ≡ はじめに 続きをみる]]></summary>
+        <content type="html"><![CDATA[◀前の記事へ 次の記事へ▶︎  ≡ はじめに 続きをみる]]></content>
+        <published>2024-10-12T21:51:13.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アジャイルコーチとスクラムマスターの集い Day3に参加してきました | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2024/10/12/233000</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2024/10/12/233000"/>
+        <updated>2024-10-12T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[www.attractor.co.jp 昨日に引き続きDay3の内容をブログに書きます。 朝ご飯 丸谷さんと青山(ktraoy)さんと話す 原田さん稲野さんに新しく立ち上げようとしているスクラムフェスの相談をする 帰宅 朝ご飯 稲野さんとを中心に、朝からこういった場でしかできないようなちょっと踏み込んだ話をしていきました。一部ぼかしたり省いしたりしながらではありますが以下のような話をしていきました...]]></summary>
+        <content type="html"><![CDATA[www.attractor.co.jp 昨日に引き続きDay3の内容をブログに書きます。 朝ご飯 丸谷さんと青山(ktraoy)さんと話す 原田さん稲野さんに新しく立ち上げようとしているスクラムフェスの相談をする 帰宅 朝ご飯 稲野さんとを中心に、朝からこういった場でしかできないようなちょっと踏み込んだ話をしていきました。一部ぼかしたり省いしたりしながらではありますが以下のような話をしていきました。 SAFeは特に何も変えなくてもアジャイルを導入していると言えてしまうという話や、一度導入してしまうとそれがアジャイルだというイメージが染み付いてしまってなかなか変革が起こしにくいという話をしていま…]]></content>
+        <published>2024-10-12T14:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アジャイルコーチとスクラムマスターの集い Day2に参加してきた | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2024/10/11/234830</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2024/10/11/234830"/>
+        <updated>2024-10-11T14:48:30.000Z</updated>
+        <summary type="html"><![CDATA[www.attractor.co.jp 昨日に引き続きDay2の内容をブログに書きます。なお、9時〜22時くらいまで仕事でライムリゾートを離れていました。(1日いるはずなのに内容が薄めに感じたらそのせいです) 及部さんと朝ご飯を食べる Kiroさんに宮ノ下駅まで送ってもらう 小泉さんに迎えに来てもらう みほらぶさん田口さん山根さん中さんと話す moriyuyaさん小泉さんかっぱさんSammyさんt...]]></summary>
+        <content type="html"><![CDATA[www.attractor.co.jp 昨日に引き続きDay2の内容をブログに書きます。なお、9時〜22時くらいまで仕事でライムリゾートを離れていました。(1日いるはずなのに内容が薄めに感じたらそのせいです) 及部さんと朝ご飯を食べる Kiroさんに宮ノ下駅まで送ってもらう 小泉さんに迎えに来てもらう みほらぶさん田口さん山根さん中さんと話す moriyuyaさん小泉さんかっぱさんSammyさんtrebyさんAckyさん田口さんJKさん中さんHideさんと話す 小泉さんKiroさんと話す 及部さんと朝ご飯を食べる 及部さんと朝ご飯を食べながら会話しました。今回のリトリートはお互いに忙しかったこ…]]></content>
+        <published>2024-10-11T14:48:30.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソフトウェアをカイゼンする50のアイデア：読書ノート | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/medicalforce/articles/2d196b955e45df</id>
+        <link href="https://zenn.dev/medicalforce/articles/2d196b955e45df"/>
+        <updated>2024-10-11T01:16:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 私はチームでの品質について考える時、具体的なフローや禁則だけでは難しいのではないかと感じるシーンがあります。それは項目として具体性が不足している時に効果が弱まること、文字数の制限によって局所最適化的となること、強く限定することはハックされ形骸化することを懸念しているからです。 現在ではアプローチとして、メンバーがどのように考えているかの意見交換を大事にしています。 今回取り上げる「ソフト...]]></summary>
+        <content type="html"><![CDATA[はじめに 私はチームでの品質について考える時、具体的なフローや禁則だけでは難しいのではないかと感じるシーンがあります。それは項目として具体性が不足している時に効果が弱まること、文字数の制限によって局所最適化的となること、強く限定することはハックされ形骸化することを懸念しているからです。 現在ではアプローチとして、メンバーがどのように考えているかの意見交換を大事にしています。 今回取り上げる「ソフトウェアをカイゼンする50のアイデア」から私が気になった項目を取り上げ、意見交換の種となればと思います。   取り上げたアイデア群   「関係者と品質に関する全体像を定義しよう」 これを取り上...]]></content>
+        <author>
+            <name>canopu</name>
+        </author>
+        <published>2024-10-11T01:16:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024.10.11ナレッジ   【連載】概念モデリングを習得しよう:意味の場の状態をモデルで記述する(第4回)    概念モデリング  モデル  概念インスタンス | メディア | HQW!]]></title>
+        <id>https://www.veriserve.co.jp/helloqualityworld/media/20241011001</id>
+        <link href="https://www.veriserve.co.jp/helloqualityworld/media/20241011001"/>
+        <updated>2024-10-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2024.10.11 ナレッジ 【連載】概念モデリングを習得しよう:意味の場の状態をモデルで記述する(第4回)  概念モデリング モデル 概念インスタンス]]></summary>
+        <content type="html"><![CDATA[2024.10.11 ナレッジ 【連載】概念モデリングを習得しよう:意味の場の状態をモデルで記述する(第4回)  概念モデリング モデル 概念インスタンス]]></content>
+        <published>2024-10-11T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テストから始めるWebアクセシビリティ | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/yumemi_inc/articles/2df0e3ae5ae9aa</id>
+        <link href="https://zenn.dev/yumemi_inc/articles/2df0e3ae5ae9aa"/>
+        <updated>2024-10-10T10:30:06.000Z</updated>
+        <summary type="html"><![CDATA[自己紹介 すずきゆーだい(@szkyudi)です。株式会社ゆめみという会社でWebフロントエンドエンジニアをやっています。秋になると柿を200個食べます。   アクセシビリティは誰のためにあるか アクセシビリティは特定の人々だけでなく、あらゆる人のためにあるものです。 というような言葉はよく耳にすると思います。ただ、この言葉にピンときていない方々も多いと思いますし、私自身、まだまだ理解を深めていく...]]></summary>
+        <content type="html"><![CDATA[自己紹介 すずきゆーだい(@szkyudi)です。株式会社ゆめみという会社でWebフロントエンドエンジニアをやっています。秋になると柿を200個食べます。   アクセシビリティは誰のためにあるか アクセシビリティは特定の人々だけでなく、あらゆる人のためにあるものです。 というような言葉はよく耳にすると思います。ただ、この言葉にピンときていない方々も多いと思いますし、私自身、まだまだ理解を深めていく必要があると感じています。 そこで、この記事では、エンジニア自身がアクセシビリティ向上の恩恵を受ける当事者であることを認識してもらうとともに、少しでもアクセシビリティに興味を持ってもらうため...]]></content>
+        <author>
+            <name>すずきゆーだい</name>
+        </author>
+        <published>2024-10-10T10:30:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rehab Cloud QAチームのこれまでとこれから（過去編） | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/rehabforjapan/articles/d92971fb9179fb</id>
+        <link href="https://zenn.dev/rehabforjapan/articles/d92971fb9179fb"/>
+        <updated>2024-10-10T09:54:55.000Z</updated>
+        <summary type="html"><![CDATA[はじめに はじめまして！ Rehab for JAPAN QAエンジニアのトビーです。 私がRehab for JAPANに入社したのはちょうど1年前の2023年10月でした。 1人目QAとして入社してからRehab Cloudの「レセプト」という記録請求サービスの開発に携わりつつ、QAチームの組織化を進めています。 本記事では、入社直後に何をやっていたのかをまとめています。   入社直後にやった...]]></summary>
+        <content type="html"><![CDATA[はじめに はじめまして！ Rehab for JAPAN QAエンジニアのトビーです。 私がRehab for JAPANに入社したのはちょうど1年前の2023年10月でした。 1人目QAとして入社してからRehab Cloudの「レセプト」という記録請求サービスの開発に携わりつつ、QAチームの組織化を進めています。 本記事では、入社直後に何をやっていたのかをまとめています。   入社直後にやったこと 当時は2024年4月に控えたレセプトの1stリリースに向けたテスト実施フェーズが始まって2週間ほど経った頃でした。 1stリリースのQA業務は第三者検証の会社様に外注していたたのですが...]]></content>
+        <author>
+            <name>toby_ebn</name>
+        </author>
+        <published>2024-10-10T09:54:55.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アジャイルコーチとスクラムマスターの集い Day1に参加してきた | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2024/10/10/073751</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2024/10/10/073751"/>
+        <updated>2024-10-09T22:37:51.000Z</updated>
+        <summary type="html"><![CDATA[www.attractor.co.jp 今日からアトラクタさんが主催のリトリートに参加してきているので、会の様子を書いていこうと思います。 申し込み忘れていて参加を諦めていたのですが、急遽欠員が出そうということで、欠員される方と話をして代理で行けることになったので参加しました！ 到着まで Hideさんとお話する むとうさんに挨拶する お昼ごはんを食べる 小井さんに挨拶する Ackyさんと話す オー...]]></summary>
+        <content type="html"><![CDATA[www.attractor.co.jp 今日からアトラクタさんが主催のリトリートに参加してきているので、会の様子を書いていこうと思います。 申し込み忘れていて参加を諦めていたのですが、急遽欠員が出そうということで、欠員される方と話をして代理で行けることになったので参加しました！ 到着まで Hideさんとお話する むとうさんに挨拶する お昼ごはんを食べる 小井さんに挨拶する Ackyさんと話す オープニング OSTテーマ1 JKさんAckyさんと話す アジャイルコーチとコンサルタント OODAやDX 早く成長するチーム 丸谷さんみやちさんと話す 境界ゲーム 夜ご飯 みほらぶさん洋さんと話す お風…]]></content>
+        <published>2024-10-09T22:37:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flutterにおけるテストの作法 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/masarufuruya/articles/cb2f8354b26f90</id>
+        <link href="https://zenn.dev/masarufuruya/articles/cb2f8354b26f90"/>
+        <updated>2024-10-09T12:47:33.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 自分自身はWebエンジニア出身でFlutterでの開発経験はほぼ皆無なのですが、個人的に最近Flutterの勉強を始めています。 今回はFlutterにおいてテストはどう書いていくのがよいのか調べてみました。   公式ドキュメント テストについては公式ドキュメントが一番よくまとまっています。概要を掴むには日本語の記事でもよいですが、まずは公式のものからあたるのが良いです。 テストのサンプ...]]></summary>
+        <content type="html"><![CDATA[はじめに 自分自身はWebエンジニア出身でFlutterでの開発経験はほぼ皆無なのですが、個人的に最近Flutterの勉強を始めています。 今回はFlutterにおいてテストはどう書いていくのがよいのか調べてみました。   公式ドキュメント テストについては公式ドキュメントが一番よくまとまっています。概要を掴むには日本語の記事でもよいですが、まずは公式のものからあたるのが良いです。 テストのサンプルはこちらのcodelabで学ぶことができます。 https://codelabs.developers.google.com/codelabs/flutter-app-testing?hl...]]></content>
+        <author>
+            <name>masarufuruya</name>
+        </author>
+        <published>2024-10-09T12:47:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JSTQB Conference in 2024 Autumnのパネルディスカッションに登壇したよ | テストする人。]]></title>
+        <id>https://underscore42rina.hatenablog.com/entry/2024/10/09/174013</id>
+        <link href="https://underscore42rina.hatenablog.com/entry/2024/10/09/174013"/>
+        <updated>2024-10-09T08:40:13.000Z</updated>
+        <summary type="html"><![CDATA[JSTQB Conference in 2024 Autumn https://jstqb.jp/prinfo/conference2024/ 参加しました＆パネルディスカッションに登壇してきました。 パネルディスカッション-1 アジャイル/DevOps/スクラムでのTMMiの活用 です。 オープン情報に名前がないので、私が出るということはわからなかったかもしれません。 今回登壇の話を聞いたのも2...]]></summary>
+        <content type="html"><![CDATA[JSTQB Conference in 2024 Autumn https://jstqb.jp/prinfo/conference2024/ 参加しました＆パネルディスカッションに登壇してきました。 パネルディスカッション-1 アジャイル/DevOps/スクラムでのTMMiの活用 です。 オープン情報に名前がないので、私が出るということはわからなかったかもしれません。 今回登壇の話を聞いたのも2週間くらい前だったので、つつがなく終わってよかったなと思っています。 モデレーターの力って本当にすごいですね。 技術委員として登壇したのですが、パネリストの立場としては、QAのエンジニアリングマネージ…]]></content>
+        <published>2024-10-09T08:40:13.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Terraform TestのMockを試してみる | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/taromurata/articles/terraform_mock</id>
+        <link href="https://zenn.dev/taromurata/articles/terraform_mock"/>
+        <updated>2024-10-09T08:21:17.000Z</updated>
+        <summary type="html"><![CDATA[本記事の想定読者  Terraform Testって何？Terraformにネイティブなtestコマンドなんてあったっけ。。。？🤔な方。 Terraformのtestはちょっと使ったことがあるけどTerraform TestのMockってなに？👀な方。    はじめに   TerraformのTest みなさん、Terraformコードのテストはどうしていますか？ Terraformは言わずと...]]></summary>
+        <content type="html"><![CDATA[本記事の想定読者  Terraform Testって何？Terraformにネイティブなtestコマンドなんてあったっけ。。。？🤔な方。 Terraformのtestはちょっと使ったことがあるけどTerraform TestのMockってなに？👀な方。    はじめに   TerraformのTest みなさん、Terraformコードのテストはどうしていますか？ Terraformは言わずと知れたIaCツールですが、実はそのTest機能は長らく実装されておらず、サードパーティのツールを使ってテストしたり、お手製スクリプトでテストしたりされるケースが多かったのではないかなと思います。...]]></content>
+        <author>
+            <name>taro</name>
+        </author>
+        <published>2024-10-09T08:21:17.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【連載】蔵前の珈琲豆屋がソフトウェアテストから学んだこと:障がい者は大切なパートナー、福祉事業所と共に築き上げた焙煎事業(第2回) | メディア | HQW!]]></title>
+        <id>https://www.veriserve.co.jp/helloqualityworld/media/20241009001</id>
+        <link href="https://www.veriserve.co.jp/helloqualityworld/media/20241009001"/>
+        <updated>2024-10-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2024.10.09 ビジネス 【連載】蔵前の珈琲豆屋がソフトウェアテストから学んだこと:障がい者は大切なパートナー、福祉事業所と共に築き上げた焙煎事業(第2回)  コーヒー ソフトウェアテスト 起業 地域 キャリア 社会貢献]]></summary>
+        <content type="html"><![CDATA[2024.10.09 ビジネス 【連載】蔵前の珈琲豆屋がソフトウェアテストから学んだこと:障がい者は大切なパートナー、福祉事業所と共に築き上げた焙煎事業(第2回)  コーヒー ソフトウェアテスト 起業 地域 キャリア 社会貢献]]></content>
+        <published>2024-10-09T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アジャイルよもやま話 ~ 受託開発でもアジャイル開発できました ~に参加してきた | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2024/10/09/003000</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2024/10/09/003000"/>
+        <updated>2024-10-08T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[aws-dev-live-show.connpass.com こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 会の概要 会の様子 及部さんの講演 受託開発のイメージ 受託開発の難しさ 及部さんのチームの取り組み 受託開発の罠 まとめ Q&amp;A チーム転職という発想がなかったのでそれをしたのはすごい 発注側とチームになるには？ 2つめのチームはどう作ったのか？ 受託開発で...]]></summary>
+        <content type="html"><![CDATA[aws-dev-live-show.connpass.com こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 会の概要 会の様子 及部さんの講演 受託開発のイメージ 受託開発の難しさ 及部さんのチームの取り組み 受託開発の罠 まとめ Q&amp;A チーム転職という発想がなかったのでそれをしたのはすごい 発注側とチームになるには？ 2つめのチームはどう作ったのか？ 受託開発でチーミングするときに気をつけたほうが良いことは？ 固定スコープに対してどうアプローチしたのか？ 今日話した内容は最初から気がついていたのか？ チームのサイズはどれくらいなのか？ 会全体を通した感想 会…]]></content>
+        <published>2024-10-08T15:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大人のソフトウェアテスト雑談会 #233【供養】に参加してきた | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2024/10/08/231821</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2024/10/08/231821"/>
+        <updated>2024-10-08T14:18:21.000Z</updated>
+        <summary type="html"><![CDATA[ost-zatu.connpass.com 今週もテストの街葛飾に行ってきたので、会の様子と感想を書いていこうと思います。 RSGT×QA QA×スクラムマスター 一人目〇〇と新卒〇〇 気になるプロポーザル 全体を通した感想 RSGT×QA QAの方がかなりRSGTにプロポーザルを出しているような気がするという話をしたところ、おおひらさんからQA(というか厳密に言うとテスター)の話をするプロポーザ...]]></summary>
+        <content type="html"><![CDATA[ost-zatu.connpass.com 今週もテストの街葛飾に行ってきたので、会の様子と感想を書いていこうと思います。 RSGT×QA QA×スクラムマスター 一人目〇〇と新卒〇〇 気になるプロポーザル 全体を通した感想 RSGT×QA QAの方がかなりRSGTにプロポーザルを出しているような気がするという話をしたところ、おおひらさんからQA(というか厳密に言うとテスター)の話をするプロポーザルは全然ないというコメントをいただきました。 QA×スクラムマスター QAの人がスクラムマスターになりたいと思うのは、エンジニアがスクラムマスターになりたいという想いと同じように尊重できる一方で、品質…]]></content>
+        <published>2024-10-08T14:18:21.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GIHOZアップデート情報：テスト観点ツリーでツリーやサブツリー内の文字列検索が可能に、テストモデル・ケース仕様をコピーする際、コピー先にフォルダの指定が可能に | GIHOZ’s blog]]></title>
+        <id>https://gihoz.hatenablog.com/entry/2024/10/08/140955</id>
+        <link href="https://gihoz.hatenablog.com/entry/2024/10/08/140955"/>
+        <updated>2024-10-08T05:09:55.000Z</updated>
+        <summary type="html"><![CDATA[日頃からテスト技法ツールGIHOZをご利用いただき誠にありがとうございます。 また、ご感想やフィードバックをいただき誠にありがとうございます。 最新のアップデート情報をお知らせします。 テスト観点ツリーでツリーやサブツリー内の文字列検索が可能になりました テスト観点ツリーやサブツリー内の文字列検索ができるようになりました。これまでは、テスト観点が多いと、編集したいテスト観点を目視で探す必要があり手...]]></summary>
+        <content type="html"><![CDATA[日頃からテスト技法ツールGIHOZをご利用いただき誠にありがとうございます。 また、ご感想やフィードバックをいただき誠にありがとうございます。 最新のアップデート情報をお知らせします。 テスト観点ツリーでツリーやサブツリー内の文字列検索が可能になりました テスト観点ツリーやサブツリー内の文字列検索ができるようになりました。これまでは、テスト観点が多いと、編集したいテスト観点を目視で探す必要があり手間がかかりましたが、検索機能の追加によってテスト観点を簡単に探すことができるようになり、テスト観点ツリーの編集がこれまでよりスムーズに行えるようなりました。 文字を入力することで、テスト観点ツリーとサ…]]></content>
+        <published>2024-10-08T05:09:55.000Z</published>
+    </entry>
+</feed>
