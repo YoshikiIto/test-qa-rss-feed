@@ -1,0 +1,1116 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "テスト・QA関連ブログRSS",
+    "home_page_url": "https://yoshikiito.github.io/test-qa-rss-feed/",
+    "feed_url": "https://yoshikiito.github.io/test-qa-rss-feed/feeds/feed.json",
+    "description": "企テスト・QA関連ブログの更新をまとめたRSSフィード",
+    "icon": "https://yoshikiito.github.io/test-qa-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://aki-m.hatenadiary.com/entry/2024/10/24/233000",
+            "content_html": "aki-m.hatenadiary.com こちらの打ち合わせをしてきたので、会の様子と感想を書いていこうと思います。 メールアドレス作成 Google Groupを作り実行委員のメンバーを追加しました。また、権限設定をして追加した実行委員のメンバーは全員Groupのオーナーとなるようにしました。 Xのアカウント立ち上げ Tweets by scrummatsuri x.com Google Groupではメールアドレス登録ができなかったので、gmailアカウントを一つ作って、そのアカウントでXの登録をしました。(Google Groupのメール受信設定を弱めてみましたがメールが来ず...) …",
+            "url": "https://aki-m.hatenadiary.com/entry/2024/10/24/233000",
+            "title": "スクラム祭りの打ち合わせ(9回目)をしてきた | 天の月",
+            "summary": "aki-m.hatenadiary.com こちらの打ち合わせをしてきたので、会の様子と感想を書いていこうと思います。 メールアドレス作成 Google Groupを作り実行委員のメンバーを追加しました。また、権限設定をして追加した実行委員のメンバーは全員Groupのオーナーとなるようにしました。 Xのアカウント立ち上げ Tweets by scrummatsuri x.com Google Gr...",
+            "image": {
+                "type": null,
+                "url": "https://ogimage.blog.st-hatena.com/26006613655256878/6802418398297914541/1729780200"
+            },
+            "date_modified": "2024-10-24T14:30:00.000Z",
+            "date_published": "2024-10-24T14:30:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "スクラム祭りの打ち合わせ(9回目)をしてきた",
+                "blogTitle": "天の月",
+                "blogLink": "https://aki-m.hatenadiary.com/",
+                "blogLinkMd5Hash": "f18fd33ac8346d4d368fa9778015ffd8"
+            }
+        },
+        {
+            "id": "https://note.com/honamin09/n/n3a3e99f437ea",
+            "content_html": "noteはだいぶご無沙汰しております。honaminです。 今もオープンロジという会社で引き続きQAエンジニアをやっています。今後1年間はテスト自動化メインで活動する予定です。例にも漏れず We are hiring!なので一緒に働いてくれる人をいつも募集しています。QAエンジニアだけでなくSREさんも激しく募集しています。一緒に信頼性を上げてくれる方ぜひ。  採用情報 | OPENLOGI | 株式会社オープンロジOPENLOGI | 株式会社オープンロジテクノロジーを使い サイロ化された物流をネットワーク化しデータを起点に物の流れを革新するcorp.openlogi.com 続きをみる",
+            "url": "https://note.com/honamin09/n/n3a3e99f437ea",
+            "title": "はじめてのPodcast produced by 亀井さん | honamin",
+            "summary": "noteはだいぶご無沙汰しております。honaminです。 今もオープンロジという会社で引き続きQAエンジニアをやっています。今後1年間はテスト自動化メインで活動する予定です。例にも漏れず We are hiring!なので一緒に働いてくれる人をいつも募集しています。QAエンジニアだけでなくSREさんも激しく募集しています。一緒に信頼性を上げてくれる方ぜひ。  採用情報 | OPENLOGI | ...",
+            "image": {
+                "type": "png",
+                "url": "https://assets.st-note.com/production/uploads/images/159179482/rectangle_large_type_2_a9eb4eab658dbd0ed62b3aa2b1ef6ad9.png?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2024-10-24T10:36:09.000Z",
+            "date_published": "2024-10-24T10:36:09.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "はじめてのPodcast produced by 亀井さん",
+                "blogTitle": "honamin",
+                "blogLink": "https://note.com/honamin09",
+                "blogLinkMd5Hash": "dc0286b6028346815b985c8d54a6488b"
+            }
+        },
+        {
+            "id": "https://zenn.dev/alq/articles/f9adb3c7d1f3fc",
+            "content_html": "test test  example.com",
+            "url": "https://zenn.dev/alq/articles/f9adb3c7d1f3fc",
+            "title": "test | Zennの「Test」のフィード",
+            "summary": "test test  example.com",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--vDp41gY6--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_80:test%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:alq%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS3hyVFg5YlJhWkROOFphSkpBYUJCV01zdnFOYzVLVlRmbTVTYkVyb2xjd01yZHZzMmVBZz1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-24T09:34:41.000Z",
+            "date_published": "2024-10-24T09:34:41.000Z",
+            "author": {
+                "name": "alq"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "test",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08"
+            }
+        },
+        {
+            "id": "https://gihoz.hatenablog.com/entry/2024/10/24/091125",
+            "content_html": "日頃からテスト技法ツールGIHOZをご利用いただき誠にありがとうございます。 また、ご感想やフィードバックをいただき誠にありがとうございます。 最新のアップデート情報をお知らせします。 テスト観点ツリーでテスト観点や線の色が変更可能になりました テスト観点ツリーやサブツリー内のテスト観点や線の色を変更できるようになりました。これにより、テスト観点の重要度などを色で表現でき、視覚的に分かりやすいテスト観点ツリーやサブツリーを作成することが可能になりました。 テスト観点ツリーやサブツリー内のテスト観点や線を選択することで、テスト観点ツリー編集エリアの左下から色を変更できます。色の変更はテスト観点ツ…",
+            "url": "https://gihoz.hatenablog.com/entry/2024/10/24/091125",
+            "title": "GIHOZアップデート情報：テスト観点ツリーでテスト観点や線の色が変更可能に、テストモデル・ケース仕様のコピー動作を改善など | GIHOZ’s blog",
+            "summary": "日頃からテスト技法ツールGIHOZをご利用いただき誠にありがとうございます。 また、ご感想やフィードバックをいただき誠にありがとうございます。 最新のアップデート情報をお知らせします。 テスト観点ツリーでテスト観点や線の色が変更可能になりました テスト観点ツリーやサブツリー内のテスト観点や線の色を変更できるようになりました。これにより、テスト観点の重要度などを色で表現でき、視覚的に分かりやすいテス...",
+            "image": {
+                "type": null,
+                "url": "https://cdn.image.st-hatena.com/image/scale/34731d4697b888dbc42b5b700ebd2f28672fde4f/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F157860548%2F1613452374462641"
+            },
+            "date_modified": "2024-10-24T00:11:25.000Z",
+            "date_published": "2024-10-24T00:11:25.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "GIHOZアップデート情報：テスト観点ツリーでテスト観点や線の色が変更可能に、テストモデル・ケース仕様のコピー動作を改善など",
+                "blogTitle": "GIHOZ’s blog",
+                "blogLink": "https://gihoz.hatenablog.com/",
+                "blogLinkMd5Hash": "54d1438f53134e894e0e57b4978a29f1"
+            }
+        },
+        {
+            "id": "https://zenn.dev/yabuki/articles/2024-10-22-hwoto-debug-deno-with-vscode",
+            "content_html": "要約 この文書では、下記の情報を取り扱う。  Visual Studio Codeを使って、TypeScriptランタイム環境のDenoのunittestをするときにデバッガーを使えるように設定する。 いわゆるモノレポ形式のリポジトリで、Visual Studio Codeのデバッガーの設定ファイルのdeno testの設定例を提示し、説明する。 Visual Studio Codeの「ワークスペース」でDenoの設定について提示し、考察する。 Denoの権限管理(permissions)について、deno testでどのように扱うかを考察する。 denoの設定ファイル、deno.j...",
+            "url": "https://zenn.dev/yabuki/articles/2024-10-22-hwoto-debug-deno-with-vscode",
+            "title": "Visual Stdio Codeを使ってDeno testをDebugで活用する 2024/10版 | Zennの「Test」のフィード",
+            "summary": "要約 この文書では、下記の情報を取り扱う。  Visual Studio Codeを使って、TypeScriptランタイム環境のDenoのunittestをするときにデバッガーを使えるように設定する。 いわゆるモノレポ形式のリポジトリで、Visual Studio Codeのデバッガーの設定ファイルのdeno testの設定例を提示し、説明する。 Visual Studio Codeの「ワークスペ...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--0V0KOwye--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Visual%2520Stdio%2520Code%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6Deno%2520test%25E3%2582%2592Debug%25E3%2581%25A7%25E6%25B4%25BB%25E7%2594%25A8%25E3%2581%2599%25E3%2582%258B%25202024%252F10%25E7%2589%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:YABUKI%2520Yukiharu%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2huRmQ1MnFmTEF6bUNNYVREYVhrTEZsZ0l0d1FrNVlrczJvcjBEPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-23T16:38:46.000Z",
+            "date_published": "2024-10-23T16:38:46.000Z",
+            "author": {
+                "name": "YABUKI Yukiharu"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Visual Stdio Codeを使ってDeno testをDebugで活用する 2024/10版",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08"
+            }
+        },
+        {
+            "id": "https://note.com/gun_chari/n/nf183035fc542",
+            "content_html": "今までどんなことをしてきたかnoteに雑に残しておきたくなったので、2022年と2023年は年度単位、2024年はQ単位で雑に残しておく。 こういった雑な記事から切り取ったものを、いつかもっとしっかりした記事にしたい。 7月 続きをみる",
+            "url": "https://note.com/gun_chari/n/nf183035fc542",
+            "title": "2024 3Q(7-9月)の出来事や考えたこと | ぐんちゃ",
+            "summary": "今までどんなことをしてきたかnoteに雑に残しておきたくなったので、2022年と2023年は年度単位、2024年はQ単位で雑に残しておく。 こういった雑な記事から切り取ったものを、いつかもっとしっかりした記事にしたい。 7月 続きをみる",
+            "image": {
+                "type": "png",
+                "url": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/f20eb812dbf1917ef66980a3fddd8be3623f5db0.png"
+            },
+            "date_modified": "2024-10-23T15:57:35.000Z",
+            "date_published": "2024-10-23T15:57:35.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "2024 3Q(7-9月)の出来事や考えたこと",
+                "blogTitle": "ぐんちゃ",
+                "blogLink": "https://note.com/gun_chari",
+                "blogLinkMd5Hash": "82459005322c3880f73478ac4d469c55"
+            }
+        },
+        {
+            "id": "https://aki-m.hatenadiary.com/entry/2024/10/23/220650",
+            "content_html": "yr-camp.connpass.com こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 雑談 @Customer DIP違反 全体を通した感想 雑談 今日は矢田さんが久しぶりに来たということもあって、40分近く雑談をしていました笑 若手というと25歳くらいの印象があるんだけれど、20代(28歳、29歳...)で若手というのはどうなんだろうか？という話をしていきました 来たるイベントがあるのですが、参加者の様子がなんかおかしいぞ...という話をしていました。当初は二人でペアプロできるなんてすごく楽しみ！と思っていたのですが、自分はどんどんペアプロするのが心配になっ…",
+            "url": "https://aki-m.hatenadiary.com/entry/2024/10/23/220650",
+            "title": "yr-learning Vol39に参加してきた | 天の月",
+            "summary": "yr-camp.connpass.com こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 雑談 @Customer DIP違反 全体を通した感想 雑談 今日は矢田さんが久しぶりに来たということもあって、40分近く雑談をしていました笑 若手というと25歳くらいの印象があるんだけれど、20代(28歳、29歳...)で若手というのはどうなんだろうか？という話をしていきました...",
+            "image": {
+                "type": null,
+                "url": "https://ogimage.blog.st-hatena.com/26006613655256878/6802418398298391366/1729688810"
+            },
+            "date_modified": "2024-10-23T13:06:50.000Z",
+            "date_published": "2024-10-23T13:06:50.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "yr-learning Vol39に参加してきた",
+                "blogTitle": "天の月",
+                "blogLink": "https://aki-m.hatenadiary.com/",
+                "blogLinkMd5Hash": "f18fd33ac8346d4d368fa9778015ffd8"
+            }
+        },
+        {
+            "id": "https://www.veriserve.co.jp/helloqualityworld/media/20241023001",
+            "content_html": "2024.10.23 ナレッジ NEW 工場セキュリティとは。ガイドラインや主な対策、事例を解説  工場セキュリティ セキュリティ サイバーセキュリティ ITシステム 工場システム ナレッジ",
+            "url": "https://www.veriserve.co.jp/helloqualityworld/media/20241023001",
+            "title": "2024.10.23ナレッジNEW   工場セキュリティとは。ガイドラインや主な対策、事例を解説    工場セキュリティ  セキュリティ  サイバーセキュリティ  ITシステム  工場システム  ナレ... | メディア | HQW!",
+            "summary": "2024.10.23 ナレッジ NEW 工場セキュリティとは。ガイドラインや主な対策、事例を解説  工場セキュリティ セキュリティ サイバーセキュリティ ITシステム 工場システム ナレッジ",
+            "image": {
+                "type": "png",
+                "url": "https://www.veriserve.co.jp/helloqualityworld/media/06bfb1cc911a40c894ee05da52702be9/6838aa32c7474c39bf21ebcc1e3e94c0/factory-security.png"
+            },
+            "date_modified": "2024-10-23T00:00:00.000Z",
+            "date_published": "2024-10-23T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "2024.10.23ナレッジNEW   工場セキュリティとは。ガイドラインや主な対策、事例を解説    工場セキュリティ  セキュリティ  サイバーセキュリティ  ITシステム  工場システム  ナレ...",
+                "blogTitle": "メディア | HQW!",
+                "blogLink": "https://www.veriserve.co.jp/helloqualityworld/media/",
+                "blogLinkMd5Hash": "52d2c523003d7d044b6fc313200f6655"
+            }
+        },
+        {
+            "id": "https://note.com/testan4771/n/nfb4b7ffb2e60",
+            "content_html": "近況と今後？ 前回の投稿を見てみると、２カ月前（汗 noteを開始したきっかけは、自分の備忘録の位置づけでした。 備忘録なので、特に思い出す必要もないかと思えるものはかかなくてもいいかなと思って２カ月。 人間サボりだすとダメですね（苦笑 TOPの写真は、数年前にいったベトナムで飲んだサトウキビジュース。 機会があれば、ベトナムはまた行ってみたい。 続きをみる",
+            "url": "https://note.com/testan4771/n/nfb4b7ffb2e60",
+            "title": "お久しぶりな投稿。 | Testan4818",
+            "summary": "近況と今後？ 前回の投稿を見てみると、２カ月前（汗 noteを開始したきっかけは、自分の備忘録の位置づけでした。 備忘録なので、特に思い出す必要もないかと思えるものはかかなくてもいいかなと思って２カ月。 人間サボりだすとダメですね（苦笑 TOPの写真は、数年前にいったベトナムで飲んだサトウキビジュース。 機会があれば、ベトナムはまた行ってみたい。 続きをみる",
+            "image": {
+                "type": "jpeg",
+                "url": "https://assets.st-note.com/production/uploads/images/158966909/rectangle_large_type_2_38ad691a36b0cd002b148e8a68ff334e.jpeg?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2024-10-22T15:10:21.000Z",
+            "date_published": "2024-10-22T15:10:21.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "お久しぶりな投稿。",
+                "blogTitle": "Testan4818",
+                "blogLink": "https://note.com/testan4771",
+                "blogLinkMd5Hash": "4bd8fab499532e7209b653cd11a2fd10"
+            }
+        },
+        {
+            "id": "https://aki-m.hatenadiary.com/entry/2024/10/22/231342",
+            "content_html": "ost-zatu.connpass.com 今週もテストの街葛飾に行ってきたので、会の様子と感想を書いていこうと思います。 怖い参加者 出世するQAエンジニアと良いQAエンジニア おおひらさんのプロポーザル RSGT 葛飾例大祭 全体を通した感想 怖い参加者 creationline.connpass.com 今度こちらのイベントを開催するのですが、その経緯やコスプレをするのか？という話をしていきました。ただ、よく見ると参加者の人たちは怖い人たちばかりなので、当日が楽しみではなくなってきました笑 出世するQAエンジニアと良いQAエンジニア お金の使い方が上手な(経営目線で予算を立てられるような…",
+            "url": "https://aki-m.hatenadiary.com/entry/2024/10/22/231342",
+            "title": "大人のソフトウェアテスト雑談会 #235【おばけ】に参加してきた | 天の月",
+            "summary": "ost-zatu.connpass.com 今週もテストの街葛飾に行ってきたので、会の様子と感想を書いていこうと思います。 怖い参加者 出世するQAエンジニアと良いQAエンジニア おおひらさんのプロポーザル RSGT 葛飾例大祭 全体を通した感想 怖い参加者 creationline.connpass.com 今度こちらのイベントを開催するのですが、その経緯やコスプレをするのか？という話をしていき...",
+            "image": {
+                "type": null,
+                "url": "https://ogimage.blog.st-hatena.com/26006613655256878/6802418398298157153/1729606422"
+            },
+            "date_modified": "2024-10-22T14:13:42.000Z",
+            "date_published": "2024-10-22T14:13:42.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "大人のソフトウェアテスト雑談会 #235【おばけ】に参加してきた",
+                "blogTitle": "天の月",
+                "blogLink": "https://aki-m.hatenadiary.com/",
+                "blogLinkMd5Hash": "f18fd33ac8346d4d368fa9778015ffd8"
+            }
+        },
+        {
+            "id": "https://zenn.dev/kyoheyjapan/articles/2fd14cacad0f8e",
+            "content_html": "aaa",
+            "url": "https://zenn.dev/kyoheyjapan/articles/2fd14cacad0f8e",
+            "title": "aaa | Zennの「Test」のフィード",
+            "summary": "aaa",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--MARiEf2t--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_80:aaa%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kyohei%2520hayashi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pXdG16enZXdWg5aGFXN1gxMW5oWVFfYzBzSTI4VFVfUUV5eDlJckE9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-22T06:48:55.000Z",
+            "date_published": "2024-10-22T06:48:55.000Z",
+            "author": {
+                "name": "kyohei hayashi"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "aaa",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08"
+            }
+        },
+        {
+            "id": "https://prtimes.jp/main/html/rd/p/000000041.000054604.html",
+            "content_html": "[特定非営利活動法人ソフトウェアテスト技術振興協会] JSTQB(ソフトウェアテスト技術者資格認定組織)は、11 月 1 日（金）よりFoundation Level シラバスVersion 2023V4.0を適用した試験を開始いたします。お申込みは10 月 31 日（木）午前中からとなります。 ■JSTQB ...",
+            "url": "https://prtimes.jp/main/html/rd/p/000000041.000054604.html",
+            "title": "JSTQB(ソフトウェアテスト技術者資格認定組織)は、Foundation Level シラバスVersion 2023V4.0を適用した試験を11月1日(金)より開始いたします | 特定非営利活動法人ソフトウェアテスト技術振興協会【プレスリリース】 by PR TIMES",
+            "summary": "[特定非営利活動法人ソフトウェアテスト技術振興協会] JSTQB(ソフトウェアテスト技術者資格認定組織)は、11 月 1 日（金）よりFoundation Level シラバスVersion 2023V4.0を適用した試験を開始いたします。お申込みは10 月 31 日（木）午前中からとなります。 ■JSTQB ...",
+            "image": {
+                "type": "image/jpeg",
+                "url": "https://prcdn.freetls.fastly.net/release_image/54604/41/54604-41-90ffe7f99542b85e8909c14ec116a6f2-492x455.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+            },
+            "date_modified": "2024-10-22T05:00:01.000Z",
+            "date_published": "2024-10-22T05:00:01.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "JSTQB(ソフトウェアテスト技術者資格認定組織)は、Foundation Level シラバスVersion 2023V4.0を適用した試験を11月1日(金)より開始いたします",
+                "blogTitle": "特定非営利活動法人ソフトウェアテスト技術振興協会【プレスリリース】 by PR TIMES",
+                "blogLink": "https://prtimes.jp",
+                "blogLinkMd5Hash": "638ddfeefaf074bcadf05d9b5818d3f8"
+            }
+        },
+        {
+            "id": "https://zenn.dev/55_ymzn/articles/developer_integrity_hypothesis",
+            "content_html": "はじめに 本記事は、「開発者完全性仮説」という概念について説明します。 開発者完全性仮説は、ソフトウェア開発、その中でも品質保証に従事するプロフェッショナルとして向き合っていくべき大切な概念です。 開発者完全性仮説は品質保証に従事する人々の職場での存在意義を揺さぶり、自分自身がどのように価値を残しているのかを改めて言語化するのに役立ちます。   開発者完全性仮説の原典 開発者完全性仮説とは、以下の引用文で端的に表せます。  「開発者が完璧だったらテストやQAはいらない」 「完璧なスクラムチームだったら（以下略）」  JaSST nano vol.13 #4「もうQAはいらない」ってホ...",
+            "url": "https://zenn.dev/55_ymzn/articles/developer_integrity_hypothesis",
+            "title": "開発者完全性仮説とは | Zennの「QA」のフィード",
+            "summary": "はじめに 本記事は、「開発者完全性仮説」という概念について説明します。 開発者完全性仮説は、ソフトウェア開発、その中でも品質保証に従事するプロフェッショナルとして向き合っていくべき大切な概念です。 開発者完全性仮説は品質保証に従事する人々の職場での存在意義を揺さぶり、自分自身がどのように価値を残しているのかを改めて言語化するのに役立ちます。   開発者完全性仮説の原典 開発者完全性仮説とは、以下の...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--FnOtEhmE--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%2596%258B%25E7%2599%25BA%25E8%2580%2585%25E5%25AE%258C%25E5%2585%25A8%25E6%2580%25A7%25E4%25BB%25AE%25E8%25AA%25AC%25E3%2581%25A8%25E3%2581%25AF%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2584%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%25E3%2581%25AEzenn%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzBiMDJkZTVhNDkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-21T12:12:23.000Z",
+            "date_published": "2024-10-21T12:12:23.000Z",
+            "author": {
+                "name": "やましたのzenn"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "開発者完全性仮説とは",
+                "blogTitle": "Zennの「QA」のフィード",
+                "blogLink": "https://zenn.dev/topics/qa",
+                "blogLinkMd5Hash": "31c7f35c994712b2f4c822a6de926717"
+            }
+        },
+        {
+            "id": "https://aki-m.hatenadiary.com/entry/2024/10/21/205113",
+            "content_html": "educational-psychology.connpass.com こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 理解不可能性 驚愕 フロイトとの結びつき 異他性と自分 全体を通した感想 理解不可能性 自分と異なった世界に属しているのかという判断基準の一つとして理解不可能性が語られていますが、「Aだ！」と思ってもBだった場合などは理解不可能性があると言えるのだろうか？という話をしました。(例えば違う種族である犬であっても、行動を勝手に解釈して「理解した」と判断することがある) 明確な答えはないものの、理解した！と思ったら勘違いというよりは、異なる場所で異なる…",
+            "url": "https://aki-m.hatenadiary.com/entry/2024/10/21/205113",
+            "title": "(オンライン読書会) これが現象学だに参加してきた | 天の月",
+            "summary": "educational-psychology.connpass.com こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 理解不可能性 驚愕 フロイトとの結びつき 異他性と自分 全体を通した感想 理解不可能性 自分と異なった世界に属しているのかという判断基準の一つとして理解不可能性が語られていますが、「Aだ！」と思ってもBだった場合などは理解不可能性があると言えるのだろ...",
+            "image": {
+                "type": null,
+                "url": "https://ogimage.blog.st-hatena.com/26006613655256878/6802418398297855125/1729511473"
+            },
+            "date_modified": "2024-10-21T11:51:13.000Z",
+            "date_published": "2024-10-21T11:51:13.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "(オンライン読書会) これが現象学だに参加してきた",
+                "blogTitle": "天の月",
+                "blogLink": "https://aki-m.hatenadiary.com/",
+                "blogLinkMd5Hash": "f18fd33ac8346d4d368fa9778015ffd8"
+            }
+        },
+        {
+            "id": "https://zenn.dev/ryoryotarosu/articles/55e5349be3ebe6",
+            "content_html": "Unable to connect: Adaptive Server is unavailable or does not exist (ホスト名) (TinyTds::Error)がrailsのコンソールででる Ruby・Rails で開発をしている時に、テスト用のDBサーバ(SQLServer)を使用していると、コンソールで上記のエラーが出たので共有します。 https://github.com/rails-sqlserver/tiny_tds/issues/218 上記のサイトでも似たようなエラーが見られますが、Azure を私は使っていないし、日本語じゃないしで全然わからなか...",
+            "url": "https://zenn.dev/ryoryotarosu/articles/55e5349be3ebe6",
+            "title": "Unable to connect: Adaptive Server is unavailable or does not exist | Zennの「Test」のフィード",
+            "summary": "Unable to connect: Adaptive Server is unavailable or does not exist (ホスト名) (TinyTds::Error)がrailsのコンソールででる Ruby・Rails で開発をしている時に、テスト用のDBサーバ(SQLServer)を使用していると、コンソールで上記のエラーが出たので共有します。 https://github.co...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--9CMoxcMA--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unable%2520to%2520connect%253A%2520Adaptive%2520Server%2520is%2520unavailable%2520or%2520does...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%258A%25E3%2582%2587%25E3%2582%258A%25E3%2582%2587%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzMxM2U1ZDM3YzIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-21T05:47:03.000Z",
+            "date_published": "2024-10-21T05:47:03.000Z",
+            "author": {
+                "name": "りょりょ"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Unable to connect: Adaptive Server is unavailable or does not exist",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08"
+            }
+        },
+        {
+            "id": "https://testradio.fm/?p=1576",
+            "content_html": "",
+            "url": "https://testradio.fm/testradio-no/1576/",
+            "title": "第257回 テストラジオ スマートウォッチの知らない機能とデグレーションの話 | テストラジオ",
+            "image": {
+                "type": "png",
+                "url": "https://testradio.fm/wp/wp-content/uploads/2024/10/80dc90421de0c4f5662bf745e20ab68a.png"
+            },
+            "date_modified": "2024-10-20T23:30:00.000Z",
+            "date_published": "2024-10-20T23:30:00.000Z",
+            "author": {
+                "name": "なそ＠さとうひろゆき"
+            },
+            "tags": [
+                "テストラジオ"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "第257回 テストラジオ スマートウォッチの知らない機能とデグレーションの話",
+                "blogTitle": "テストラジオ",
+                "blogLink": "https://testradio.fm",
+                "blogLinkMd5Hash": "8a3e971c7d1528db9e98a24a8bb08a1d"
+            }
+        },
+        {
+            "id": "https://note.com/gun_chari/n/nb14bdcb50912",
+            "content_html": "今までどんなことをしてきたかnoteに雑に残しておきたくなったので、2022年と2023年は年度単位、2024年はQ単位で雑に残しておく。 こういった雑な記事から切り取ったものを、いつかもっとしっかりした記事にしたい。 4月 続きをみる",
+            "url": "https://note.com/gun_chari/n/nb14bdcb50912",
+            "title": "2024 2Q(4-6月)の出来事や考えたこと | ぐんちゃ",
+            "summary": "今までどんなことをしてきたかnoteに雑に残しておきたくなったので、2022年と2023年は年度単位、2024年はQ単位で雑に残しておく。 こういった雑な記事から切り取ったものを、いつかもっとしっかりした記事にしたい。 4月 続きをみる",
+            "image": {
+                "type": "png",
+                "url": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/9e64304aa776fe94d1c1348e169c6457c632311a.png"
+            },
+            "date_modified": "2024-10-20T14:45:07.000Z",
+            "date_published": "2024-10-20T14:45:07.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "2024 2Q(4-6月)の出来事や考えたこと",
+                "blogTitle": "ぐんちゃ",
+                "blogLink": "https://note.com/gun_chari",
+                "blogLinkMd5Hash": "82459005322c3880f73478ac4d469c55"
+            }
+        },
+        {
+            "id": "https://aki-m.hatenadiary.com/entry/2024/10/20/233000",
+            "content_html": "forkwell.connpass.com 会の概要 会の様子 山口さんの講演 こういう本ではない 翻訳の裏話 著者の話 第一部 第二部 第三部 パネルディスカッション RoleとしてSREが存在してない組織で必要性をどのような軸で判断するのが良いのか？上層部がエンジニアリングに詳しくないなら必要性はどう伝えればいいのか？ SREに向いている人は？ SREの文化がなかった組織で始まるにあたって、プロジェクトチームに対して、SREのロールを与えられた人はプロジェクトチームに対してどのようなアプローチから始めるべきか？ SREの職種が面白いと思えるポイントは？ SREはどんな組織にも必要か？ SR…",
+            "url": "https://aki-m.hatenadiary.com/entry/2024/10/20/233000",
+            "title": "SREをはじめよう ―個人と組織による信頼性獲得への第一歩~ Forkwell Library#70に参加してきた | 天の月",
+            "summary": "forkwell.connpass.com 会の概要 会の様子 山口さんの講演 こういう本ではない 翻訳の裏話 著者の話 第一部 第二部 第三部 パネルディスカッション RoleとしてSREが存在してない組織で必要性をどのような軸で判断するのが良いのか？上層部がエンジニアリングに詳しくないなら必要性はどう伝えればいいのか？ SREに向いている人は？ SREの文化がなかった組織で始まるにあたって、プ...",
+            "image": {
+                "type": null,
+                "url": "https://ogimage.blog.st-hatena.com/26006613655256878/6802418398297645041/1729434601"
+            },
+            "date_modified": "2024-10-20T14:30:00.000Z",
+            "date_published": "2024-10-20T14:30:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "SREをはじめよう ―個人と組織による信頼性獲得への第一歩~ Forkwell Library#70に参加してきた",
+                "blogTitle": "天の月",
+                "blogLink": "https://aki-m.hatenadiary.com/",
+                "blogLinkMd5Hash": "f18fd33ac8346d4d368fa9778015ffd8"
+            }
+        },
+        {
+            "id": "https://note.com/kairiver/n/n5384d2dc7a78",
+            "content_html": "まずはじめに、この記事においては開発者に対して時々言われるような「コピー＆ペースト（以下コピペ）はするべきではない」といった趣旨のことは書きません。ただ、事実としてミス、ひいてはバグに繋がることがある行動ではあると思っているので、そのこととテストする際に気にする点がお伝えできたらいいなと思います。 少しでも参考になれば幸いです。 続きをみる",
+            "url": "https://note.com/kairiver/n/n5384d2dc7a78",
+            "title": "コピペは楽だがバグの元 | かいり",
+            "summary": "まずはじめに、この記事においては開発者に対して時々言われるような「コピー＆ペースト（以下コピペ）はするべきではない」といった趣旨のことは書きません。ただ、事実としてミス、ひいてはバグに繋がることがある行動ではあると思っているので、そのこととテストする際に気にする点がお伝えできたらいいなと思います。 少しでも参考になれば幸いです。 続きをみる",
+            "image": {
+                "type": "png",
+                "url": "https://assets.st-note.com/production/uploads/images/158640509/rectangle_large_type_2_94dc6854f91feaa5394c539ce1047ee6.png?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2024-10-20T13:45:39.000Z",
+            "date_published": "2024-10-20T13:45:39.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "コピペは楽だがバグの元",
+                "blogTitle": "かいり",
+                "blogLink": "https://note.com/kairiver",
+                "blogLinkMd5Hash": "3e825797b65364c19a126054cf71a6a4"
+            }
+        },
+        {
+            "id": "https://note.com/akiyama924/n/n237c98d5e40a",
+            "content_html": "≡ はじめに 連載「ALTAのテキストをつくろう」を1回お休みして、今週は、2024/10/18に発売したばかりの『にしさんの教え』という本の紹介をします。 続きをみる",
+            "url": "https://note.com/akiyama924/n/n237c98d5e40a",
+            "title": "第304回：　にしさんの教え | Kouichi Akiyama",
+            "summary": "≡ はじめに 連載「ALTAのテキストをつくろう」を1回お休みして、今週は、2024/10/18に発売したばかりの『にしさんの教え』という本の紹介をします。 続きをみる",
+            "image": {
+                "type": "png",
+                "url": "https://assets.st-note.com/production/uploads/images/157774720/rectangle_large_type_2_671d7bf37b0b1b4d554df0be56171a3d.png?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2024-10-19T21:40:35.000Z",
+            "date_published": "2024-10-19T21:40:35.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "第304回：　にしさんの教え",
+                "blogTitle": "Kouichi Akiyama",
+                "blogLink": "https://note.com/akiyama924",
+                "blogLinkMd5Hash": "d78afad1063505d755d008a40f9424e8"
+            }
+        },
+        {
+            "id": "https://zenn.dev/kzkk/books/5c2d2d010649f6",
+            "content_html": "公開してるけど下書きです",
+            "url": "https://zenn.dev/kzkk/books/5c2d2d010649f6",
+            "title": "下書き | Zennの「Test」のフィード",
+            "summary": "公開してるけど下書きです",
+            "image": {
+                "type": "png",
+                "url": "https://static.zenn.studio/images/logo-only-dark.png"
+            },
+            "date_modified": "2024-10-19T16:27:15.000Z",
+            "date_published": "2024-10-19T16:27:15.000Z",
+            "author": {
+                "name": "kzkk"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "下書き",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08"
+            }
+        },
+        {
+            "id": "https://aki-m.hatenadiary.com/entry/2024/10/19/223750",
+            "content_html": "タイトルの通り、RSGT2025に出していたプロポーザルが採択されて発表できることになったので、今日はその告知です。 confengine.com 発表概要 自分が外部アジャイルコーチとして現場に入るとき多く聞く要望の一つに、「チームや組織がどれくらいアジャイルになっているのかを客観的に評価してほしい」があります。(特にアジャイルチームを立ち上げてちょっと時間が経っている現場では多い印象です) しかし、評価を求めている動機によっては、評価をしても何も成果をあげられなかったり、最悪の場合はアジャイルな組織やチームから後退する可能性もあります。 例えば、以下のような動機は自分の経験上、評価をするこ…",
+            "url": "https://aki-m.hatenadiary.com/entry/2024/10/19/223750",
+            "title": "RSGT2025で発表できることになりました | 天の月",
+            "summary": "タイトルの通り、RSGT2025に出していたプロポーザルが採択されて発表できることになったので、今日はその告知です。 confengine.com 発表概要 自分が外部アジャイルコーチとして現場に入るとき多く聞く要望の一つに、「チームや組織がどれくらいアジャイルになっているのかを客観的に評価してほしい」があります。(特にアジャイルチームを立ち上げてちょっと時間が経っている現場では多い印象です) し...",
+            "image": {
+                "type": "png",
+                "url": "https://cdn.image.st-hatena.com/image/scale/58a46630382afdfc88a74cb76d31fb5897dc9e2c/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fa%2Faki_M%2F20241019%2F20241019222430.png"
+            },
+            "date_modified": "2024-10-19T13:37:50.000Z",
+            "date_published": "2024-10-19T13:37:50.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "RSGT2025で発表できることになりました",
+                "blogTitle": "天の月",
+                "blogLink": "https://aki-m.hatenadiary.com/",
+                "blogLinkMd5Hash": "f18fd33ac8346d4d368fa9778015ffd8"
+            }
+        },
+        {
+            "id": "https://zenn.dev/yuu104/articles/what-is-e2e-test",
+            "content_html": "はじめに E2E（End-to-End）自動テストは、ソフトウェア開発における重要な品質保証手法の一つです。 しかし、その導入と実践には多くの課題があります。 本記事では、E2E 自動テストの基本的な概念から実践的なテクニックまでを包括的に理解するために、私が様々な書籍や記事から学んだ内容を言語化したものです。 具体的には、以下の内容を取り上げます：  E2E テストとは何か、その特徴とメリット・デメリット E2E テスト導入の戦略と継続的テストの概念 テストコードの作成方法と注意点 信頼性の高いテストを作るためのテクニック テストコードの可読性を高めるための方法    E2E テス...",
+            "url": "https://zenn.dev/yuu104/articles/what-is-e2e-test",
+            "title": "E2E自動テストを理解したい | Zennの「Test」のフィード",
+            "summary": "はじめに E2E（End-to-End）自動テストは、ソフトウェア開発における重要な品質保証手法の一つです。 しかし、その導入と実践には多くの課題があります。 本記事では、E2E 自動テストの基本的な概念から実践的なテクニックまでを包括的に理解するために、私が様々な書籍や記事から学んだ内容を言語化したものです。 具体的には、以下の内容を取り上げます：  E2E テストとは何か、その特徴とメリット・...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--JXMsvMh0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:E2E%25E8%2587%25AA%25E5%258B%2595%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2582%2592%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2597%25E3%2581%259F%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yuu%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2RjMGVjMzFlNzUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-19T04:02:03.000Z",
+            "date_published": "2024-10-19T04:02:03.000Z",
+            "author": {
+                "name": "yuu"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "E2E自動テストを理解したい",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08"
+            }
+        },
+        {
+            "id": "https://aki-m.hatenadiary.com/entry/2024/10/18/234030",
+            "content_html": "スクラムカンファレンスの歩き方 - connpass こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 会の概要 会の様子 川口さんの講演 スライド 歩き方 RSGTという場で重視していること セッションのカテゴリ 基調講演 OST 参加者の獲得 正義さんの講演 スライド スクラムフェスの全体感 オンラインの原体験 プロポーザルを眺める オフラインとオンラインの差 無理はしない Mahoさんの講演 なぜGSGに行ったのか？ 参加する心境の変化 学んだこと おすすめの歩き方 会全体を通した感想 会の概要 以下、イベントページから引用です。 株式会社タイミーは「一人ひと…",
+            "url": "https://aki-m.hatenadiary.com/entry/2024/10/18/234030",
+            "title": "スクラムカンファレンスの歩き方に参加してきた | 天の月",
+            "summary": "スクラムカンファレンスの歩き方 - connpass こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 会の概要 会の様子 川口さんの講演 スライド 歩き方 RSGTという場で重視していること セッションのカテゴリ 基調講演 OST 参加者の獲得 正義さんの講演 スライド スクラムフェスの全体感 オンラインの原体験 プロポーザルを眺める オフラインとオンラインの差 無理...",
+            "image": {
+                "type": null,
+                "url": "https://ogimage.blog.st-hatena.com/26006613655256878/6802418398297146741/1729262430"
+            },
+            "date_modified": "2024-10-18T14:40:30.000Z",
+            "date_published": "2024-10-18T14:40:30.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "スクラムカンファレンスの歩き方に参加してきた",
+                "blogTitle": "天の月",
+                "blogLink": "https://aki-m.hatenadiary.com/",
+                "blogLinkMd5Hash": "f18fd33ac8346d4d368fa9778015ffd8"
+            }
+        },
+        {
+            "id": "https://note.com/gun_chari/n/ne95b55af379e",
+            "content_html": "今までどんなことをしてきたかnoteに雑に残しておきたくなったので、2022年と2023年は年度単位、2024年はQ単位で雑に残しておく。 こういった雑な記事から切り取ったものを、いつかもっとしっかりした記事にしたい。 1月 続きをみる",
+            "url": "https://note.com/gun_chari/n/ne95b55af379e",
+            "title": "2024 1Q(1-3月)の出来事や考えたこと | ぐんちゃ",
+            "summary": "今までどんなことをしてきたかnoteに雑に残しておきたくなったので、2022年と2023年は年度単位、2024年はQ単位で雑に残しておく。 こういった雑な記事から切り取ったものを、いつかもっとしっかりした記事にしたい。 1月 続きをみる",
+            "image": {
+                "type": "png",
+                "url": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/d67ad7e460dc524bd5f67983c5e94e43e0749d90.png"
+            },
+            "date_modified": "2024-10-18T13:14:26.000Z",
+            "date_published": "2024-10-18T13:14:26.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "2024 1Q(1-3月)の出来事や考えたこと",
+                "blogTitle": "ぐんちゃ",
+                "blogLink": "https://note.com/gun_chari",
+                "blogLinkMd5Hash": "82459005322c3880f73478ac4d469c55"
+            }
+        },
+        {
+            "id": "https://zenn.dev/christian_yh/articles/8d914794dbe26d",
+            "content_html": "アカウント削除＆退会の仕方 1.ホーム画面一番下の左側にある設定を開く 2.通常退会もしくは、アカウント削除を選択する。",
+            "url": "https://zenn.dev/christian_yh/articles/8d914794dbe26d",
+            "title": "マイパル - Q&A | Zennの「QA」のフィード",
+            "summary": "アカウント削除＆退会の仕方 1.ホーム画面一番下の左側にある設定を開く 2.通常退会もしくは、アカウント削除を選択する。",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--SyPlGI1D--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_66:%25E3%2583%259E%25E3%2582%25A4%25E3%2583%2591%25E3%2583%25AB%2520-%2520Q%2526A%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25AF%25E3%2583%25AA%25E3%2582%25B9%25E3%2583%2581%25E3%2583%25A3%25E3%2583%25B3%25E3%2580%2582YH%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQ2ODMxMWRkZWMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-18T09:24:21.000Z",
+            "date_published": "2024-10-18T09:24:21.000Z",
+            "author": {
+                "name": "クリスチャン。YH"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "マイパル - Q&A",
+                "blogTitle": "Zennの「QA」のフィード",
+                "blogLink": "https://zenn.dev/topics/qa",
+                "blogLinkMd5Hash": "31c7f35c994712b2f4c822a6de926717"
+            }
+        },
+        {
+            "id": "https://ranorex.techmatrix.jp/?p=26346",
+            "content_html": "テクマトリックスでは、Ranorex を初めてご利用いただく方に向け、無償のハンズオンセミナーを定期開催しています。2024年からは中級コースも追加され、Ranorexのより深い機能まで無償で学べるようになりました。 こ […] The post Ranorex ハンズオンセミナー オンデマンド配信が始まりました first appeared on UIテスト自動化ツール Ranorex.",
+            "url": "https://ranorex.techmatrix.jp/blog/2024/10/18/ondemand_seminar_start/",
+            "title": "Ranorex ハンズオンセミナー オンデマンド配信が始まりました | Ranorex Blog - UIテスト自動化ツール Ranorex",
+            "summary": "テクマトリックスでは、Ranorex を初めてご利用いただく方に向け、無償のハンズオンセミナーを定期開催しています。2024年からは中級コースも追加され、Ranorexのより深い機能まで無償で学べるようになりました。 こ […] The post Ranorex ハンズオンセミナー オンデマンド配信が始まりました first appeared on UIテスト自動化ツール Ranorex.",
+            "image": {
+                "type": "png",
+                "url": "https://57.180.23.150/wp-content/uploads/rx-logo-desktop-dark.png"
+            },
+            "date_modified": "2024-10-18T02:00:00.000Z",
+            "date_published": "2024-10-18T02:00:00.000Z",
+            "author": {
+                "name": "user"
+            },
+            "tags": [
+                "セミナー・お知らせ"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Ranorex ハンズオンセミナー オンデマンド配信が始まりました",
+                "blogTitle": "Ranorex Blog - UIテスト自動化ツール Ranorex",
+                "blogLink": "https://ranorex.techmatrix.jp",
+                "blogLinkMd5Hash": "e546ea5aec07f38807045009c0bc98ec"
+            }
+        },
+        {
+            "id": "https://www.veriserve.co.jp/helloqualityworld/media/20241018001",
+            "content_html": "2024.10.18 キャリア NEW 【連載】冒険者の地図:ゲーム好きが興じてQAエンジニアに、第一線で奮闘するLayerX・松山晃大さんの成長の軌跡(前編)  QAエンジニア キャリア 冒険者の地図 AI アジャイル API 品質保証 SaaS",
+            "url": "https://www.veriserve.co.jp/helloqualityworld/media/20241018001",
+            "title": "2024.10.18キャリアNEW   【連載】冒険者の地図:ゲーム好きが興じてQAエンジニアに、第一線で奮闘するLayerX・松山晃大さんの成長の軌跡(前編)    QAエンジニア  キャリア  冒... | メディア | HQW!",
+            "summary": "2024.10.18 キャリア NEW 【連載】冒険者の地図:ゲーム好きが興じてQAエンジニアに、第一線で奮闘するLayerX・松山晃大さんの成長の軌跡(前編)  QAエンジニア キャリア 冒険者の地図 AI アジャイル API 品質保証 SaaS",
+            "image": {
+                "type": "jpg",
+                "url": "https://www.veriserve.co.jp/helloqualityworld/media/06bfb1cc911a40c894ee05da52702be9/566d0a9ad8b440c3924283742471dfea/matsuyama01001.jpg"
+            },
+            "date_modified": "2024-10-18T00:00:00.000Z",
+            "date_published": "2024-10-18T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "2024.10.18キャリアNEW   【連載】冒険者の地図:ゲーム好きが興じてQAエンジニアに、第一線で奮闘するLayerX・松山晃大さんの成長の軌跡(前編)    QAエンジニア  キャリア  冒...",
+                "blogTitle": "メディア | HQW!",
+                "blogLink": "https://www.veriserve.co.jp/helloqualityworld/media/",
+                "blogLinkMd5Hash": "52d2c523003d7d044b6fc313200f6655"
+            }
+        },
+        {
+            "id": "https://note.com/gun_chari/n/n056ec874b32c",
+            "content_html": "今までどんなことをしてきたかnoteに雑に残しておきたくなったので、2022年と2023年は年度単位、2024年はQ単位で雑に残しておく。 こういった雑な記事から切り取ったものを、いつかもっとしっかりした記事にしたい。 2023 1Q(1-3月) 続きをみる",
+            "url": "https://note.com/gun_chari/n/n056ec874b32c",
+            "title": "2023年の出来事や考えたこと | ぐんちゃ",
+            "summary": "今までどんなことをしてきたかnoteに雑に残しておきたくなったので、2022年と2023年は年度単位、2024年はQ単位で雑に残しておく。 こういった雑な記事から切り取ったものを、いつかもっとしっかりした記事にしたい。 2023 1Q(1-3月) 続きをみる",
+            "image": {
+                "type": "png",
+                "url": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/099d7b00526a75abc56945ab30c37c044915a20b.png"
+            },
+            "date_modified": "2024-10-17T16:04:07.000Z",
+            "date_published": "2024-10-17T16:04:07.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "2023年の出来事や考えたこと",
+                "blogTitle": "ぐんちゃ",
+                "blogLink": "https://note.com/gun_chari",
+                "blogLinkMd5Hash": "82459005322c3880f73478ac4d469c55"
+            }
+        },
+        {
+            "id": "https://note.com/gun_chari/n/nbf4dd45d0232",
+            "content_html": "今までどんなことをしてきたかnoteに雑に残しておきたくなったので、2022年と2023年は年度単位、2024年はQ単位で雑に残しておく。 こういった雑な記事から切り取ったものを、いつかもっとしっかりした記事にしたい。 2022 1Qと2Qは割愛。2022年は半期分しか残らないけどまあいいや。 続きをみる",
+            "url": "https://note.com/gun_chari/n/nbf4dd45d0232",
+            "title": "2022年の7-12月の出来事や考えたこと | ぐんちゃ",
+            "summary": "今までどんなことをしてきたかnoteに雑に残しておきたくなったので、2022年と2023年は年度単位、2024年はQ単位で雑に残しておく。 こういった雑な記事から切り取ったものを、いつかもっとしっかりした記事にしたい。 2022 1Qと2Qは割愛。2022年は半期分しか残らないけどまあいいや。 続きをみる",
+            "image": {
+                "type": "png",
+                "url": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/20b4ede344295c93ba02d32e1277be1d499f195c.png"
+            },
+            "date_modified": "2024-10-17T15:42:46.000Z",
+            "date_published": "2024-10-17T15:42:46.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "2022年の7-12月の出来事や考えたこと",
+                "blogTitle": "ぐんちゃ",
+                "blogLink": "https://note.com/gun_chari",
+                "blogLinkMd5Hash": "82459005322c3880f73478ac4d469c55"
+            }
+        },
+        {
+            "id": "https://aki-m.hatenadiary.com/entry/2024/10/17/220712",
+            "content_html": "www.scrumfestkanazawa.org スクラムフェス金沢2025の開催に向けた準備が始まったので、今日はその内容を書いていきます。 日程を決める keynoteを考える 全体を通した感想 日程を決める 趣意書をさくっと公開するためにも、まずは日程を決めようという話をしました。(場所は第一候補が確定済み) 会場予約システムの都合で1月に入らないと正式確定はできないのですが、会場が取れるなら7/11〜7/12で開催する方向で調整しようという話をしました。 keynoteを考える 地元の方に「この人(この会社)の話を聞きたい」と思うものを挙げてもらい、その方のプロフィールや発表スライド…",
+            "url": "https://aki-m.hatenadiary.com/entry/2024/10/17/220712",
+            "title": "スクラムフェス金沢2025を開催します | 天の月",
+            "summary": "www.scrumfestkanazawa.org スクラムフェス金沢2025の開催に向けた準備が始まったので、今日はその内容を書いていきます。 日程を決める keynoteを考える 全体を通した感想 日程を決める 趣意書をさくっと公開するためにも、まずは日程を決めようという話をしました。(場所は第一候補が確定済み) 会場予約システムの都合で1月に入らないと正式確定はできないのですが、会場が取れる...",
+            "image": {
+                "type": null,
+                "url": "https://ogimage.blog.st-hatena.com/26006613655256878/6802418398296890873/1729170432"
+            },
+            "date_modified": "2024-10-17T13:07:12.000Z",
+            "date_published": "2024-10-17T13:07:12.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "スクラムフェス金沢2025を開催します",
+                "blogTitle": "天の月",
+                "blogLink": "https://aki-m.hatenadiary.com/",
+                "blogLinkMd5Hash": "f18fd33ac8346d4d368fa9778015ffd8"
+            }
+        },
+        {
+            "id": "https://tech.smarthr.jp/entry/qa_series_article_vol2",
+            "content_html": "SmartHR 品質保証部 労務ユニットAの紹介 こんにちは！QAエンジニアのkaomiです。 入社して1年3ヶ月が経ち、労務領域のプロダクトを中心にさまざまな業務に携わっています。 オーストラリアの固有種であるウォンバットが大好きで、10/20(日)に大阪府池田市で行われる「ウォンバットの日」が気になっています。 はじめに 本記事は品質保証部の連載記事第2弾です。今回のブログでは、労務ユニットAの紹介と現在取り組んでいる活動について紹介します。 労務ユニットAについて 第1弾のブログで触れたように、労務ユニットAは2024年7月の組織変更で新たに編成されたユニットです。チーフ（プレイングマネ…",
+            "url": "https://tech.smarthr.jp/entry/qa_series_article_vol2",
+            "title": "SmartHR 品質保証部 労務ユニットAの紹介 | QA - SmartHR Tech Blog",
+            "summary": "SmartHR 品質保証部 労務ユニットAの紹介 こんにちは！QAエンジニアのkaomiです。 入社して1年3ヶ月が経ち、労務領域のプロダクトを中心にさまざまな業務に携わっています。 オーストラリアの固有種であるウォンバットが大好きで、10/20(日)に大阪府池田市で行われる「ウォンバットの日」が気になっています。 はじめに 本記事は品質保証部の連載記事第2弾です。今回のブログでは、労務ユニットA...",
+            "image": {
+                "type": "png",
+                "url": "https://cdn.image.st-hatena.com/image/scale/fa3dea93fcce05ba52f670714d340fc66133afd7/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmarthr%2F20241017%2F20241017182029.png"
+            },
+            "date_modified": "2024-10-17T09:20:28.000Z",
+            "date_published": "2024-10-17T09:20:28.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "SmartHR 品質保証部 労務ユニットAの紹介",
+                "blogTitle": "QA - SmartHR Tech Blog",
+                "blogLink": "https://tech.smarthr.jp/archive/category/QA",
+                "blogLinkMd5Hash": "7ddfc7280e18f7edf84c9e4462f1cffe"
+            }
+        },
+        {
+            "id": "https://note.com/magicpod/n/n0ea2b0995965",
+            "content_html": "はじめまして！MagicPodのカスタマーサクセスエンジニア、Ishiiです。先日初めての海外出張、インドネシアに行ってまいりました。興奮冷めやらぬ内にその模様をレポートします！ 簡単に自己紹介をさせてください。私は2023年10月にMagicPodに入社しました。現在はカスタマーサクセスエンジニアとしてユーザーのテスト自動化をサポートしています。具体的には技術的なお問い合わせの調査、ヘルプページの作成、テスト自動化コンサルティングなど幅広い業務を担当しています。 続きをみる",
+            "url": "https://note.com/magicpod/n/n0ea2b0995965",
+            "title": "初めての海外出張記（インドネシア編） | AIテスト自動化プラットフォーム「MagicPod」公式note",
+            "summary": "はじめまして！MagicPodのカスタマーサクセスエンジニア、Ishiiです。先日初めての海外出張、インドネシアに行ってまいりました。興奮冷めやらぬ内にその模様をレポートします！ 簡単に自己紹介をさせてください。私は2023年10月にMagicPodに入社しました。現在はカスタマーサクセスエンジニアとしてユーザーのテスト自動化をサポートしています。具体的には技術的なお問い合わせの調査、ヘルプページ...",
+            "image": {
+                "type": "png",
+                "url": "https://assets.st-note.com/production/uploads/images/158133691/rectangle_large_type_2_6453c5c957b834ddd11048997eddedc8.png?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2024-10-17T05:57:25.000Z",
+            "date_published": "2024-10-17T05:57:25.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "初めての海外出張記（インドネシア編）",
+                "blogTitle": "AIテスト自動化プラットフォーム「MagicPod」公式note",
+                "blogLink": "https://note.com/magicpod",
+                "blogLinkMd5Hash": "c464668c51d7a32e68d331a28d7ae35e"
+            }
+        },
+        {
+            "id": "https://zenn.dev/tatsuyan/articles/golang-http-server-bufconn",
+            "content_html": "Go で HTTP サーバーを立ててインテグレーションテストを行いたい場合がありますよね。 そのまま実装すると実際に OS にポートを確保してもらい、そのポート経由で通信する経路のテストになります。 しかしこの方法にはいくつかの問題が発生する可能性があります。  OS への呼び出しが増えるため、並列でテストを実行すればするほどテストが遅くなる。 実際にポートを確保して通信するため、問題発生時にネットワークレイヤーの考慮が必要になる可能性がある。 ポートを固定で指定していた場合、並列でテストを回すのが難しい。  アプリケーションからポートの確保を行う経路のテストを確実に行いたいケースは別と...",
+            "url": "https://zenn.dev/tatsuyan/articles/golang-http-server-bufconn",
+            "title": "Goでサーバーを立ち上げてテストを実行するときはbufconnを使おう | Zennの「Test」のフィード",
+            "summary": "Go で HTTP サーバーを立ててインテグレーションテストを行いたい場合がありますよね。 そのまま実装すると実際に OS にポートを確保してもらい、そのポート経由で通信する経路のテストになります。 しかしこの方法にはいくつかの問題が発生する可能性があります。  OS への呼び出しが増えるため、並列でテストを実行すればするほどテストが遅くなる。 実際にポートを確保して通信するため、問題発生時にネッ...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--Ui5Fw6xS--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Go%25E3%2581%25A7%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25BC%25E3%2582%2592%25E7%25AB%258B%25E3%2581%25A1%25E4%25B8%258A%25E3%2581%2592%25E3%2581%25A6%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2582%2592%25E5%25AE%259F%25E8%25A1%258C%25E3%2581%2599%25E3%2582%258B%25E3%2581%25A8%25E3%2581%258D%25E3%2581%25AFbufconn%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%258A%25E3%2581%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25A4%25E3%2581%2591%25E9%25BA%25BA%25E3%2583%2586%25E3%2582%25AD%25E3%2583%25BC%25E3%2583%25A9%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzIyN2Q2ZGU5YmUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-17T05:15:28.000Z",
+            "date_published": "2024-10-17T05:15:28.000Z",
+            "author": {
+                "name": "つけ麺テキーラ"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Goでサーバーを立ち上げてテストを実行するときはbufconnを使おう",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08"
+            }
+        },
+        {
+            "id": "https://shiftevolve.connpass.com/event/334429/",
+            "content_html": "開催日時: 2024/11/13 19:30 ～ 20:50<br />開催場所: 東京都港区麻布台1-3-1<br /><br /><h2>トップエンジニアに学ぶ成功術（もっと良くなる日本のIT vol.2）</h2> <p>SHIFTの技術顧問川口耕介氏を迎えての対談企画。お相手は川口氏が自ら選出！</p> <p>アメリカで最先端の技術を開発し活躍する彼が思う、日本のITの未来とは。</p> <p>今回は、ニフティ、はてな、一休と、数々の有名企業で成功を収めてきたトップエンジニアの伊藤直也氏を迎え、その成功術を紐解きます。</p> <p>会場では、オンライン配信やアーカイブ動画に載らない限定トークをお届け予定。ここでしか聞くことのできない、伊藤さんと川口さんの貴重なお話を聞きたい方は、ぜひ会場でご参加ください！</p> <p>エンジニアとして走り続ける方々へ、勇気と希望を与えるようなトークが届けられたら嬉しいです。</p> <h2>SHIFT技術顧問 川口耕介氏よりメッセージ</h2> <p>伊藤さん個人のEngineering Leader, CTOとしての成長の過程・旅路が知り...",
+            "url": "https://shiftevolve.connpass.com/event/334429/",
+            "title": "トップエンジニアに学ぶ成功術（もっと良くなる日本のIT vol.2） | SHIFT EVOLVE グループの新着イベント",
+            "summary": "開催日時: 2024/11/13 19:30 ～ 20:50<br />開催場所: 東京都港区麻布台1-3-1<br /><br /><h2>トップエンジニアに学ぶ成功術（もっと良くなる日本のIT vol.2）</h2> <p>SHIFTの技術顧問川口耕介氏を迎えての対談企画。お相手は川口氏が自ら選出！</p> <p>アメリカで最先端の技術を開発し活躍する彼が思う、日本のITの未来とは。</p> ...",
+            "image": {
+                "type": "png",
+                "url": "https://media.connpass.com/thumbs/75/c7/75c7cdfd3f92c02834eef072e7d13768.png"
+            },
+            "date_modified": "2024-10-17T03:51:22.000Z",
+            "date_published": "2024-10-17T03:51:22.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "トップエンジニアに学ぶ成功術（もっと良くなる日本のIT vol.2）",
+                "blogTitle": "SHIFT EVOLVE グループの新着イベント",
+                "blogLink": "https://shiftevolve.connpass.com/",
+                "blogLinkMd5Hash": "50afdab7d012f3b61ddd1fb699eb25d6"
+            }
+        },
+        {
+            "id": "https://aki-m.hatenadiary.com/entry/2024/10/16/220822",
+            "content_html": "yr-camp.connpass.com 今週もこちらのイベントに参加してきたので、会の様子と感想を書いていこうと想います。 SOLIDはOOPのものではない 好きな言語 過度にISPを適用する事例はあるか？ ダックタイピングとISP 全体を通した感想 SOLIDはOOPのものではない オブジェクト指向プログラミングの中でSOLIDの話はされがちですが、そういう話ではないんだというのがClojureのコードを実例としてわかったのは良かったという話をしました。 また、関数型プログラミングのほうがLSPとかは自然と守れやすそうだという話も出ていました。 好きな言語 いろいろなプログラミング言語を触…",
+            "url": "https://aki-m.hatenadiary.com/entry/2024/10/16/220822",
+            "title": "yr-learning Vol38に参加してきた | 天の月",
+            "summary": "yr-camp.connpass.com 今週もこちらのイベントに参加してきたので、会の様子と感想を書いていこうと想います。 SOLIDはOOPのものではない 好きな言語 過度にISPを適用する事例はあるか？ ダックタイピングとISP 全体を通した感想 SOLIDはOOPのものではない オブジェクト指向プログラミングの中でSOLIDの話はされがちですが、そういう話ではないんだというのがClojur...",
+            "image": {
+                "type": null,
+                "url": "https://ogimage.blog.st-hatena.com/26006613655256878/6802418398296657522/1729084102"
+            },
+            "date_modified": "2024-10-16T13:08:22.000Z",
+            "date_published": "2024-10-16T13:08:22.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "yr-learning Vol38に参加してきた",
+                "blogTitle": "天の月",
+                "blogLink": "https://aki-m.hatenadiary.com/",
+                "blogLinkMd5Hash": "f18fd33ac8346d4d368fa9778015ffd8"
+            }
+        },
+        {
+            "id": "https://zenn.dev/i_keito/articles/120872c8-f4a6-8083-9d20-ed0eaa0b9bdc",
+            "content_html": "概要 time.Now()を使用している箇所のテストがしづらいと感じたのでその際のメモ 結論：contextにtime.Now()で生成する方法を採用   既存のコード func Hoge() {  todo := GetTodo()  if IsTimeAfter(todo.StartTime) {  ...  } }  func IsTimeAfter(startTime time.Time) {  currentDate := time.Now() // テストを実行する時刻に依存する。現在日時を固定にしたい。  return startTime.After(currentD...",
+            "url": "https://zenn.dev/i_keito/articles/120872c8-f4a6-8083-9d20-ed0eaa0b9bdc",
+            "title": "Goでtime.Now()を使用している箇所のテストについて | Zennの「Test」のフィード",
+            "summary": "概要 time.Now()を使用している箇所のテストがしづらいと感じたのでその際のメモ 結論：contextにtime.Now()で生成する方法を採用   既存のコード func Hoge() {  todo := GetTodo()  if IsTimeAfter(todo.StartTime) {  ...  } }  func IsTimeAfter(startTime time.Time)...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--Bz1mPgIi--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Go%25E3%2581%25A7time.Now%2528%2529%25E3%2582%2592%25E4%25BD%25BF%25E7%2594%25A8%25E3%2581%2597%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B%25E7%25AE%2587%25E6%2589%2580%25E3%2581%25AE%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:keito-isurugi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pudE9oSUgwTnRsbHVTT3laM0NhNWx5OGRhRUZtNE9sMWtPTF8yPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-16T01:23:47.000Z",
+            "date_published": "2024-10-16T01:23:47.000Z",
+            "author": {
+                "name": "keito-isurugi"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Goでtime.Now()を使用している箇所のテストについて",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08"
+            }
+        },
+        {
+            "id": "https://ranorex.techmatrix.jp/?p=26295",
+            "content_html": "Ranorex には、クラウドベースのCIソフトウェアである Azure DevOps との連携機能が備えられています。この機能を活用することで、Ranorex で作成したテストをAzure DevOps のビルドパイプ […] The post Azure DevOps との連携 first appeared on UIテスト自動化ツール Ranorex.",
+            "url": "https://ranorex.techmatrix.jp/blog/2024/10/16/integrating-azure-devops/",
+            "title": "Azure DevOps との連携 | Ranorex Blog - UIテスト自動化ツール Ranorex",
+            "summary": "Ranorex には、クラウドベースのCIソフトウェアである Azure DevOps との連携機能が備えられています。この機能を活用することで、Ranorex で作成したテストをAzure DevOps のビルドパイプ […] The post Azure DevOps との連携 first appeared on UIテスト自動化ツール Ranorex.",
+            "image": {
+                "type": "png",
+                "url": "https://57.180.23.150/wp-content/uploads/rx-logo-desktop-dark.png"
+            },
+            "date_modified": "2024-10-16T01:00:36.000Z",
+            "date_published": "2024-10-16T01:00:36.000Z",
+            "author": {
+                "name": "user"
+            },
+            "tags": [
+                "ツール連携"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Azure DevOps との連携",
+                "blogTitle": "Ranorex Blog - UIテスト自動化ツール Ranorex",
+                "blogLink": "https://ranorex.techmatrix.jp",
+                "blogLinkMd5Hash": "e546ea5aec07f38807045009c0bc98ec"
+            }
+        },
+        {
+            "id": "https://www.veriserve.co.jp/helloqualityworld/media/20241016001",
+            "content_html": "2024.10.16 スキルアップ 安全・安心なAIのためのマネジメントシステム「ISO/IEC 42001」  ISO/IEC 42001 AI AIMS",
+            "url": "https://www.veriserve.co.jp/helloqualityworld/media/20241016001",
+            "title": "2024.10.16スキルアップ   安全・安心なAIのためのマネジメントシステム「ISO/IEC 42001」    ISO/IEC 42001  AI  AIMS | メディア | HQW!",
+            "summary": "2024.10.16 スキルアップ 安全・安心なAIのためのマネジメントシステム「ISO/IEC 42001」  ISO/IEC 42001 AI AIMS",
+            "image": {
+                "type": "jpg",
+                "url": "https://www.veriserve.co.jp/helloqualityworld/media/06bfb1cc911a40c894ee05da52702be9/5ab78c720d6246e99b599538f8f26817/%E5%AE%89%E5%85%A8%E3%83%BB%E5%AE%89%E5%BF%83%E3%81%AAAI%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%83%9E%E3%83%8D%E3%82%B7%E3%82%99%E3%83%A1%E3%83%B3%E3%83%88%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0-ISOIEC-42001.jpg"
+            },
+            "date_modified": "2024-10-16T00:00:00.000Z",
+            "date_published": "2024-10-16T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "2024.10.16スキルアップ   安全・安心なAIのためのマネジメントシステム「ISO/IEC 42001」    ISO/IEC 42001  AI  AIMS",
+                "blogTitle": "メディア | HQW!",
+                "blogLink": "https://www.veriserve.co.jp/helloqualityworld/media/",
+                "blogLinkMd5Hash": "52d2c523003d7d044b6fc313200f6655"
+            }
+        },
+        {
+            "id": "https://aki-m.hatenadiary.com/entry/2024/10/15/230833",
+            "content_html": "ost-zatu.connpass.com 音楽 自分は音楽をまったく聞かないのですが、音楽を聞きまくった方々が多数いて、シティポップの話題で盛り上がっていました。 箱根 箱根でおおひらさんが話の中で登場していたのでその話をしていきました。おおひらさんはリトリートなどに全然来ませんが、参加するつもりがないというよりは行き方がわからない、経路をイメージできないという表現が正しいそうです。 バグ密度 confengine.com こちらのプロポーザルがどうもきになるという話をしていきました。 そもそも密度とは何なのか？という話になり、体積あたりの質量という中学生の頃の懐かしい定義が登場していました…",
+            "url": "https://aki-m.hatenadiary.com/entry/2024/10/15/230833",
+            "title": "大人のソフトウェアテスト雑談会 #234【髭】に参加してきた | 天の月",
+            "summary": "ost-zatu.connpass.com 音楽 自分は音楽をまったく聞かないのですが、音楽を聞きまくった方々が多数いて、シティポップの話題で盛り上がっていました。 箱根 箱根でおおひらさんが話の中で登場していたのでその話をしていきました。おおひらさんはリトリートなどに全然来ませんが、参加するつもりがないというよりは行き方がわからない、経路をイメージできないという表現が正しいそうです。 バグ密度 ...",
+            "image": {
+                "type": null,
+                "url": "https://ogimage.blog.st-hatena.com/26006613655256878/6802418398296410103/1729001313"
+            },
+            "date_modified": "2024-10-15T14:08:33.000Z",
+            "date_published": "2024-10-15T14:08:33.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "大人のソフトウェアテスト雑談会 #234【髭】に参加してきた",
+                "blogTitle": "天の月",
+                "blogLink": "https://aki-m.hatenadiary.com/",
+                "blogLinkMd5Hash": "f18fd33ac8346d4d368fa9778015ffd8"
+            }
+        },
+        {
+            "id": "http://testing.googleblog.com/2024/10/smurf-beyond-test-pyramid.html",
+            "content_html": "This article was adapted from a Google Testing on the Toilet (TotT) episode. You can download a printer-friendly version of this TotT episode and post it in your office.   By Adam Bender     The test pyramid is the canonical heuristic for guiding test suite evolution. It conveys a simple message - prefer more unit tests than integration tests, and prefer more integration tests than end-to-end tests. While useful, the test pyramid lacks the details you need as your test suite grows and you face c...",
+            "url": "http://testing.googleblog.com/2024/10/smurf-beyond-test-pyramid.html",
+            "title": "SMURF: Beyond the Test Pyramid | Google Testing Blog",
+            "summary": "This article was adapted from a Google Testing on the Toilet (TotT) episode. You can download a printer-friendly version of this TotT episode and post it in your office.   By Adam Bender     The test ...",
+            "image": {
+                "type": "png",
+                "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNWyw4Y5_hwMmvzu2TQN_NRQe6-nor1zoNerbGFZMkuXilBwORhKLK4Cf75dRPb_c_xrgglRKORxnGEMbEzIhylpLol-Z0DvG047859hcp2m3ZB1TXgQAbFp4rAJ7w1TsYsb7ZNw/s1600/googlelogo_color_200x200.png"
+            },
+            "date_modified": "2024-10-15T12:22:00.000Z",
+            "date_published": "2024-10-15T12:22:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "SMURF: Beyond the Test Pyramid",
+                "blogTitle": "Google Testing Blog",
+                "blogLink": "http://testing.googleblog.com/",
+                "blogLinkMd5Hash": "1da15b3aea1eb7cb7dcba68bdaf1bed1"
+            }
+        },
+        {
+            "id": "https://zenn.dev/kbwok/articles/588cb8584c99b2",
+            "content_html": "エディタ上でテストのエラーを表示することができるLSPサーバとその周辺ツールを作りました。 https://github.com/kbwo/testing-language-server   動機 数ヶ月前にこの記事を見ました。 Wallaby.jsを使ってフロントエンド開発のテストを効率化しよう - Findy Tech Blog https://tech.findy.co.jp/entry/2024/04/15/100523 エディタ上でリアルタイムにテスト結果が反映される開発体験が大変魅力的に見えます。 私は普段Neovimを使用しているので、この記事を見てすぐ、Neovimでも同...",
+            "url": "https://zenn.dev/kbwok/articles/588cb8584c99b2",
+            "title": "エディタ内でテスト結果が表示される開発体験を、エディタに依存せず実現するツールを作った | Zennの「Test」のフィード",
+            "summary": "エディタ上でテストのエラーを表示することができるLSPサーバとその周辺ツールを作りました。 https://github.com/kbwo/testing-language-server   動機 数ヶ月前にこの記事を見ました。 Wallaby.jsを使ってフロントエンド開発のテストを効率化しよう - Findy Tech Blog https://tech.findy.co.jp/entry/2...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--dLwuiUaK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25A8%25E3%2583%2587%25E3%2582%25A3%25E3%2582%25BF%25E5%2586%2585%25E3%2581%25A7%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E7%25B5%2590%25E6%259E%259C%25E3%2581%258C%25E8%25A1%25A8%25E7%25A4%25BA%25E3%2581%2595%25E3%2582%258C%25E3%2582%258B%25E9%2596%258B%25E7%2599%25BA%25E4%25BD%2593%25E9%25A8%2593%25E3%2582%2592%25E3%2580%2581%25E3%2582%25A8%25E3%2583%2587%25E3%2582%25A3%25E3%2582%25BF%25E3%2581%25AB%25E4%25BE%259D%25E5%25AD%2598%25E3%2581%259B%25E3%2581%259A%25E5%25AE%259F%25E7%258F%25BE%25E3%2581%2599%25E3%2582%258B%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kbwo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzkxMzQ1ZGZjYjguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-15T12:00:05.000Z",
+            "date_published": "2024-10-15T12:00:05.000Z",
+            "author": {
+                "name": "kbwo"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 37,
+                "originalTitle": "エディタ内でテスト結果が表示される開発体験を、エディタに依存せず実現するツールを作った",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08"
+            }
+        },
+        {
+            "id": "https://aki-m.hatenadiary.com/entry/2024/10/14/233034",
+            "content_html": "aki-m.hatenadiary.com こちらの打ち合わせを10/14にしてきたので、その内容まとめです。 XP祭りと同時開催検討結果の報告 趣意書を作る 次回に向けた作業確認 XP祭りと同時開催検討結果の報告 先週の金曜日にXP祭り代表の小井土さんと川口さんとkobaseさんとXP祭りとスクラムフェスを同時開催する方向での話し合い(飲み会)を実施したので、その内容を共有しました。 XP祭りと同時開催することに抵抗はない XP祭りの形式は変えずにその裏でスクラムフェスをやるような感じになる XP祭り向けのkeynoteが裏番組になるので、keynoteは招聘したほうがいいかもしれない もし…",
+            "url": "https://aki-m.hatenadiary.com/entry/2024/10/14/233034",
+            "title": "スクラム祭りの打ち合わせ(8回目)をしてきた | 天の月",
+            "summary": "aki-m.hatenadiary.com こちらの打ち合わせを10/14にしてきたので、その内容まとめです。 XP祭りと同時開催検討結果の報告 趣意書を作る 次回に向けた作業確認 XP祭りと同時開催検討結果の報告 先週の金曜日にXP祭り代表の小井土さんと川口さんとkobaseさんとXP祭りとスクラムフェスを同時開催する方向での話し合い(飲み会)を実施したので、その内容を共有しました。 XP祭りと...",
+            "image": {
+                "type": null,
+                "url": "https://ogimage.blog.st-hatena.com/26006613655256878/6802418398296139659/1728916234"
+            },
+            "date_modified": "2024-10-14T14:30:34.000Z",
+            "date_published": "2024-10-14T14:30:34.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "スクラム祭りの打ち合わせ(8回目)をしてきた",
+                "blogTitle": "天の月",
+                "blogLink": "https://aki-m.hatenadiary.com/",
+                "blogLinkMd5Hash": "f18fd33ac8346d4d368fa9778015ffd8"
+            }
+        },
+        {
+            "id": "https://aki-m.hatenadiary.com/entry/2024/10/13/233000",
+            "content_html": "confengine.com Women in agile Tokyo 2025にプロポーザルを出したので今日はその告知です。 概要 プロポーザルを出した経緯 チャレンジしたいこと 概要 Scrum TokyoのYoutubeチャンネルが公開されて4年以上が経ち、スクラムやアジャイルの実践者の貴重な知見が多く集積するチャンネルになっています。しかし、公開されている動画の本数は10/11現在で750本を超えており、その中から自分に適したセッションを選ぶ難度はなかなか高いです。そこで、本セッションでは、Scrum Tokyoの全動画を見ている二人が、参加者の悩みやニーズをもとにして、参加者にあった…",
+            "url": "https://aki-m.hatenadiary.com/entry/2024/10/13/233000",
+            "title": "Women in agile Tokyo 2025にプロポーザルを出した | 天の月",
+            "summary": "confengine.com Women in agile Tokyo 2025にプロポーザルを出したので今日はその告知です。 概要 プロポーザルを出した経緯 チャレンジしたいこと 概要 Scrum TokyoのYoutubeチャンネルが公開されて4年以上が経ち、スクラムやアジャイルの実践者の貴重な知見が多く集積するチャンネルになっています。しかし、公開されている動画の本数は10/11現在で750...",
+            "image": {
+                "type": null,
+                "url": "https://ogimage.blog.st-hatena.com/26006613655256878/6802418398295853236/1728829800"
+            },
+            "date_modified": "2024-10-13T14:30:00.000Z",
+            "date_published": "2024-10-13T14:30:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Women in agile Tokyo 2025にプロポーザルを出した",
+                "blogTitle": "天の月",
+                "blogLink": "https://aki-m.hatenadiary.com/",
+                "blogLinkMd5Hash": "f18fd33ac8346d4d368fa9778015ffd8"
+            }
+        },
+        {
+            "id": "https://zenn.dev/siva_dev/articles/b1c8b4c2e00579",
+            "content_html": "概要 業務でRSpecを使ってテストを実装している際に、let!(:hoge)でモデルのインスタンス生成処理を書けばいいんだな、と思いながら実装していました。すると、先輩エンジニアから「letとlet!には遅延評価の違いがある」との助言をもらいました。 その時は、「どんな場合に使い分ければいいんだ？」とすぐにはピンとこなかったので、今回しっかり調べて知識として整理してみようと思います。   letとlet!   let：実際に参照される時に評価されインスタンスが生成される。  遅延評価    let!：テストが実行される前にすぐに評価されインスタンス生成される。  即時評価     ...",
+            "url": "https://zenn.dev/siva_dev/articles/b1c8b4c2e00579",
+            "title": "【フロントエンドが初めて触る Rails 】Rspecでのletを使った遅延評価とは | Zennの「Test」のフィード",
+            "summary": "概要 業務でRSpecを使ってテストを実装している際に、let!(:hoge)でモデルのインスタンス生成処理を書けばいいんだな、と思いながら実装していました。すると、先輩エンジニアから「letとlet!には遅延評価の違いがある」との助言をもらいました。 その時は、「どんな場合に使い分ければいいんだ？」とすぐにはピンとこなかったので、今回しっかり調べて知識として整理してみようと思います。   let...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--C8KC4gV_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2581%258C%25E5%2588%259D%25E3%2582%2581%25E3%2581%25A6%25E8%25A7%25A6%25E3%2582%258B%2520Rails%2520%25E3%2580%2591Rspec%25E3%2581%25A7%25E3%2581%25AElet%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%259F%25E9%2581%2585%25E5%25BB%25B6%25E8%25A9%2595%25E4%25BE%25A1%25E3%2581%25A8%25E3%2581%25AF%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ogaru_sh%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzc3Mjk4M2UyNjcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%2520SIVA%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSkFzUWhMMlVMY0k2V2U1YTU4Y2xncVJxZVdONVktcW84aU5PaHhyS2N5T1JuamZ3PXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-13T10:36:55.000Z",
+            "date_published": "2024-10-13T10:36:55.000Z",
+            "author": {
+                "name": "ogaru_sh"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【フロントエンドが初めて触る Rails 】Rspecでのletを使った遅延評価とは",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08"
+            }
+        },
+        {
+            "id": "https://zenn.dev/kimatata/books/b0a55247706116",
+            "content_html": "多くの組み込みソフトウェア開発現場では、テストはすべて手動で行われ、デグレやリリース遅延が頻繁に発生しています。「組み込みは自動テストが難しい」と考える人が多いですが、私は担当製品に単体テストとCIを導入し、バグの早期発見と品質向上を実現しました。  本書では、組み込み特有のハードウェア依存を解消し、単体テストを導入する方法をGoogle Testを使ったサンプルコードを交えながら紹介します。手動テストから脱却し、効率的にテストを行いたい方に参考にしていただければ幸いです。  すべてのサンプルコードはGitHub上で公開しています。 https://github.com/kimatata/embeded-testing-guide",
+            "url": "https://zenn.dev/kimatata/books/b0a55247706116",
+            "title": "組み込み単体テスト実践入門 | Zennの「Test」のフィード",
+            "summary": "多くの組み込みソフトウェア開発現場では、テストはすべて手動で行われ、デグレやリリース遅延が頻繁に発生しています。「組み込みは自動テストが難しい」と考える人が多いですが、私は担当製品に単体テストとCIを導入し、バグの早期発見と品質向上を実現しました。  本書では、組み込み特有のハードウェア依存を解消し、単体テストを導入する方法をGoogle Testを使ったサンプルコードを交えながら紹介します。手動...",
+            "image": {
+                "type": "jpg",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--53EDnMnq--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci82ZDY3YWVhNWEwLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
+            },
+            "date_modified": "2024-10-13T05:01:23.000Z",
+            "date_published": "2024-10-13T05:01:23.000Z",
+            "author": {
+                "name": "matazo"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "組み込み単体テスト実践入門",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08"
+            }
+        },
+        {
+            "id": "https://note.com/akiyama924/n/n5224a0bc01d2",
+            "content_html": "◀前の記事へ 次の記事へ▶︎  ≡ はじめに 続きをみる",
+            "url": "https://note.com/akiyama924/n/n5224a0bc01d2",
+            "title": "第303回：　「ALTAのテキストをつくろう」57　（使用性の評価前編：　使用性の側面） | Kouichi Akiyama",
+            "summary": "◀前の記事へ 次の記事へ▶︎  ≡ はじめに 続きをみる",
+            "image": {
+                "type": "png",
+                "url": "https://assets.st-note.com/production/uploads/images/157186603/rectangle_large_type_2_5a92b9c58b1bbe08831f8e9fe8900372.png?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2024-10-12T21:51:13.000Z",
+            "date_published": "2024-10-12T21:51:13.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "第303回：　「ALTAのテキストをつくろう」57　（使用性の評価前編：　使用性の側面）",
+                "blogTitle": "Kouichi Akiyama",
+                "blogLink": "https://note.com/akiyama924",
+                "blogLinkMd5Hash": "d78afad1063505d755d008a40f9424e8"
+            }
+        },
+        {
+            "id": "https://aki-m.hatenadiary.com/entry/2024/10/12/233000",
+            "content_html": "www.attractor.co.jp 昨日に引き続きDay3の内容をブログに書きます。 朝ご飯 丸谷さんと青山(ktraoy)さんと話す 原田さん稲野さんに新しく立ち上げようとしているスクラムフェスの相談をする 帰宅 朝ご飯 稲野さんとを中心に、朝からこういった場でしかできないようなちょっと踏み込んだ話をしていきました。一部ぼかしたり省いしたりしながらではありますが以下のような話をしていきました。 SAFeは特に何も変えなくてもアジャイルを導入していると言えてしまうという話や、一度導入してしまうとそれがアジャイルだというイメージが染み付いてしまってなかなか変革が起こしにくいという話をしていま…",
+            "url": "https://aki-m.hatenadiary.com/entry/2024/10/12/233000",
+            "title": "アジャイルコーチとスクラムマスターの集い Day3に参加してきました | 天の月",
+            "summary": "www.attractor.co.jp 昨日に引き続きDay3の内容をブログに書きます。 朝ご飯 丸谷さんと青山(ktraoy)さんと話す 原田さん稲野さんに新しく立ち上げようとしているスクラムフェスの相談をする 帰宅 朝ご飯 稲野さんとを中心に、朝からこういった場でしかできないようなちょっと踏み込んだ話をしていきました。一部ぼかしたり省いしたりしながらではありますが以下のような話をしていきました...",
+            "image": {
+                "type": null,
+                "url": "https://ogimage.blog.st-hatena.com/26006613655256878/6802340630913546826/1728743403"
+            },
+            "date_modified": "2024-10-12T14:30:00.000Z",
+            "date_published": "2024-10-12T14:30:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "アジャイルコーチとスクラムマスターの集い Day3に参加してきました",
+                "blogTitle": "天の月",
+                "blogLink": "https://aki-m.hatenadiary.com/",
+                "blogLinkMd5Hash": "f18fd33ac8346d4d368fa9778015ffd8"
+            }
+        },
+        {
+            "id": "https://aki-m.hatenadiary.com/entry/2024/10/11/234830",
+            "content_html": "www.attractor.co.jp 昨日に引き続きDay2の内容をブログに書きます。なお、9時〜22時くらいまで仕事でライムリゾートを離れていました。(1日いるはずなのに内容が薄めに感じたらそのせいです) 及部さんと朝ご飯を食べる Kiroさんに宮ノ下駅まで送ってもらう 小泉さんに迎えに来てもらう みほらぶさん田口さん山根さん中さんと話す moriyuyaさん小泉さんかっぱさんSammyさんtrebyさんAckyさん田口さんJKさん中さんHideさんと話す 小泉さんKiroさんと話す 及部さんと朝ご飯を食べる 及部さんと朝ご飯を食べながら会話しました。今回のリトリートはお互いに忙しかったこ…",
+            "url": "https://aki-m.hatenadiary.com/entry/2024/10/11/234830",
+            "title": "アジャイルコーチとスクラムマスターの集い Day2に参加してきた | 天の月",
+            "summary": "www.attractor.co.jp 昨日に引き続きDay2の内容をブログに書きます。なお、9時〜22時くらいまで仕事でライムリゾートを離れていました。(1日いるはずなのに内容が薄めに感じたらそのせいです) 及部さんと朝ご飯を食べる Kiroさんに宮ノ下駅まで送ってもらう 小泉さんに迎えに来てもらう みほらぶさん田口さん山根さん中さんと話す moriyuyaさん小泉さんかっぱさんSammyさんt...",
+            "image": {
+                "type": null,
+                "url": "https://ogimage.blog.st-hatena.com/26006613655256878/6802340630913306573/1728660940"
+            },
+            "date_modified": "2024-10-11T14:48:30.000Z",
+            "date_published": "2024-10-11T14:48:30.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "アジャイルコーチとスクラムマスターの集い Day2に参加してきた",
+                "blogTitle": "天の月",
+                "blogLink": "https://aki-m.hatenadiary.com/",
+                "blogLinkMd5Hash": "f18fd33ac8346d4d368fa9778015ffd8"
+            }
+        },
+        {
+            "id": "https://zenn.dev/medicalforce/articles/2d196b955e45df",
+            "content_html": "はじめに 私はチームでの品質について考える時、具体的なフローや禁則だけでは難しいのではないかと感じるシーンがあります。それは項目として具体性が不足している時に効果が弱まること、文字数の制限によって局所最適化的となること、強く限定することはハックされ形骸化することを懸念しているからです。 現在ではアプローチとして、メンバーがどのように考えているかの意見交換を大事にしています。 今回取り上げる「ソフトウェアをカイゼンする50のアイデア」から私が気になった項目を取り上げ、意見交換の種となればと思います。   取り上げたアイデア群   「関係者と品質に関する全体像を定義しよう」 これを取り上...",
+            "url": "https://zenn.dev/medicalforce/articles/2d196b955e45df",
+            "title": "ソフトウェアをカイゼンする50のアイデア：読書ノート | Zennの「Test」のフィード",
+            "summary": "はじめに 私はチームでの品質について考える時、具体的なフローや禁則だけでは難しいのではないかと感じるシーンがあります。それは項目として具体性が不足している時に効果が弱まること、文字数の制限によって局所最適化的となること、強く限定することはハックされ形骸化することを懸念しているからです。 現在ではアプローチとして、メンバーがどのように考えているかの意見交換を大事にしています。 今回取り上げる「ソフト...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--RHju3gln--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25BD%25E3%2583%2595%25E3%2583%2588%25E3%2582%25A6%25E3%2582%25A7%25E3%2582%25A2%25E3%2582%2592%25E3%2582%25AB%25E3%2582%25A4%25E3%2582%25BC%25E3%2583%25B3%25E3%2581%2599%25E3%2582%258B50%25E3%2581%25AE%25E3%2582%25A2%25E3%2582%25A4%25E3%2583%2587%25E3%2582%25A2%25EF%25BC%259A%25E8%25AA%25AD%25E6%259B%25B8%25E3%2583%258E%25E3%2583%25BC%25E3%2583%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:canopu%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzkyZjY0YWIzNTQuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%25A1%25E3%2583%2587%25E3%2582%25A3%25E3%2582%25AB%25E3%2583%25AB%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25BC%25E3%2582%25B9%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2E2ZGVlYzI5NjEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-11T01:16:00.000Z",
+            "date_published": "2024-10-11T01:16:00.000Z",
+            "author": {
+                "name": "canopu"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "ソフトウェアをカイゼンする50のアイデア：読書ノート",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08"
+            }
+        }
+    ]
+}
