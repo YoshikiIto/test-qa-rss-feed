@@ -37,6 +37,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['くぼぴー / note inc.', 'https://note.com/kubopi/rss'],
   ['ぐんちゃ', 'https://note.com/gun_chari/rss'],
   ['Kouichi Akiyama', 'https://note.com/akiyama924/rss'],
+  ['Go!Go!Gomazn', 'https://zenn.dev/55_ymzn/feed'],
   ['ごまずん', 'https://note.com/usk_ymst_p/rss'],
   ['コヤマン', 'https://note.com/koyaman2/rss'],
   //さ
@@ -55,6 +56,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['ぜにのQAブログ', 'https://qaminarai.hatenablog.com/feed'],
   ['Zennの「Test」のフィード', 'https://zenn.dev/topics/test/feed'],
   ['Zennの「QA」のフィード', 'https://zenn.dev/topics/qa/feed'],
+  ['Zennの「品質」のフィード', 'https://zenn.dev/topics/%E5%93%81%E8%B3%AA/feed'],
   ['千里霧中', 'https://goyoki.hatenablog.com/feed'],
   ['Software Quality Topics.', 'https://swquality.jp/feed/'],
   ['ソフトウェアの品質を学びまくる2.0', 'https://www.kzsuzuki.com/feed'],
@@ -103,6 +105,8 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['yoya', 'https://note.com/yoya_k/rss'],
   //ら
   ['RAKUS Developers Blog | ラクス エンジニアブログ - テスト', 'https://tech-blog.rakus.co.jp/feed/category/%E3%83%86%E3%82%B9%E3%83%88'],
-  ['Ranorex Blog - UIテスト自動化ツール Ranorex', 'https://ranorex.techmatrix.jp/blog/feed/']
+  ['Ranorex Blog - UIテスト自動化ツール Ranorex', 'https://ranorex.techmatrix.jp/blog/feed/'],
+  //わ
+  ['WACATE', 'https://wacate.jp/blog/feed/'],
   //['', ''],
 ]);
