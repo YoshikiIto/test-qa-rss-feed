@@ -1,0 +1,1087 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>テスト・QA関連ブログRSS</title>
+        <link>https://yoshikiito.github.io/test-qa-rss-feed/</link>
+        <description>企テスト・QA関連ブログの更新をまとめたRSSフィード</description>
+        <lastBuildDate>Sat, 21 Dec 2024 15:05:44 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>yoshikiito/test-qa-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>テスト・QA関連ブログRSS</title>
+            <url>https://yoshikiito.github.io/test-qa-rss-feed/images/icon.png</url>
+            <link>https://yoshikiito.github.io/test-qa-rss-feed/</link>
+        </image>
+        <copyright>yoshikiito/test-qa-rss-feed</copyright>
+        <atom:link href="https://yoshikiito.github.io/test-qa-rss-feed/feeds/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[新卒QAのすゝめ  | QA - freee Developers Hub]]></title>
+            <link>https://developers.freee.co.jp/entry/freee-qa-advent-calendar2024-day22</link>
+            <guid>https://developers.freee.co.jp/entry/freee-qa-advent-calendar2024-day22</guid>
+            <pubDate>Sat, 21 Dec 2024 15:00:00 GMT</pubDate>
+            <description><![CDATA[こんにちは。QAエンジニアをしているinachanです。 フリー以外のサービスと連携するプロダクトの一員としてQAをしています。 freee QA Advent Calendar2024 22日目です。 はじめに 私はfreee初の新卒QAエンジニアとして入社しました。QAの新卒として入ってきたのは私と12月10日のアドベントカレンダーを担当しているtonchanの2人です。 そして7月にフリー以...]]></description>
+            <content:encoded><![CDATA[こんにちは。QAエンジニアをしているinachanです。 フリー以外のサービスと連携するプロダクトの一員としてQAをしています。 freee QA Advent Calendar2024 22日目です。 はじめに 私はfreee初の新卒QAエンジニアとして入社しました。QAの新卒として入ってきたのは私と12月10日のアドベントカレンダーを担当しているtonchanの2人です。 そして7月にフリー以外のサービスと連携するプロダクトにアサインされた新米QAです〜。 QAのことはもちろん、自分なりの発見をまとめていこうかなと思います。 なぜ最初のキャリアとしてQAを選んだのか そもそもQAエンジニア…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/78af2f5b77f09cbf28740e34b289f7737c162e03/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fh%2Fheikoushihenkei310%2F20241218%2F20241218193423.png"/>
+        </item>
+        <item>
+            <title><![CDATA[スクラムフェス金沢2025の打ち合わせ(3回目)に参加してきた | 天の月]]></title>
+            <link>https://aki-m.hatenadiary.com/entry/2024/12/21/221447</link>
+            <guid>https://aki-m.hatenadiary.com/entry/2024/12/21/221447</guid>
+            <pubDate>Sat, 21 Dec 2024 13:14:47 GMT</pubDate>
+            <description><![CDATA[aki-m.hatenadiary.com スクラムフェス金沢2025に向けた準備をしてきたので、会の様子と感想を書いていこうと思います。 会場決め ランチ 会場予約 開催趣意書修正 スタッフミーティングの日程 会場決め 会場はITビジネスプラザ武蔵でいいという話があったのですが、開場が10時ということだけが懸念だという話が出ました。ただ、他にいい場所があるかという話もありますし、少し後ろ倒しする...]]></description>
+            <content:encoded><![CDATA[aki-m.hatenadiary.com スクラムフェス金沢2025に向けた準備をしてきたので、会の様子と感想を書いていこうと思います。 会場決め ランチ 会場予約 開催趣意書修正 スタッフミーティングの日程 会場決め 会場はITビジネスプラザ武蔵でいいという話があったのですが、開場が10時ということだけが懸念だという話が出ました。ただ、他にいい場所があるかという話もありますし、少し後ろ倒しするくらいなら問題ないのでは？ということで、ITビジネスプラザ武蔵になりました。 ランチ 前回ごみの回収が大変だった*1という問題があったので、ランチはそれぞれが食べにいく形がいいのではないか？という話に…]]></content:encoded>
+            <enclosure length="0" url="https://ogimage.blog.st-hatena.com/26006613655256878/6802418398313479085/1734786887"/>
+        </item>
+        <item>
+            <title><![CDATA[USDM-22. 要求IDと仕様ID | Kouichi Akiyama]]></title>
+            <link>https://note.com/akiyama924/n/nb0aafb6672b0</link>
+            <guid>https://note.com/akiyama924/n/nb0aafb6672b0</guid>
+            <pubDate>Sat, 21 Dec 2024 12:56:24 GMT</pubDate>
+            <description><![CDATA[2024年のアドカレです。 前回は「カテゴリ名とは大きな要求漏れを防ために、システムの世界を機能や構成で分割して名前を付けたもの」という話を書きました。 続きをみる]]></description>
+            <content:encoded><![CDATA[2024年のアドカレです。 前回は「カテゴリ名とは大きな要求漏れを防ために、システムの世界を機能や構成で分割して名前を付けたもの」という話を書きました。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/166102234/rectangle_large_type_2_be952d8371da9459e66b18cf98eee527.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[コードの内部品質を高める動きをチームに浸透させたい | Zennの「品質」のフィード]]></title>
+            <link>https://zenn.dev/sun_asterisk/articles/code-internal-quality</link>
+            <guid>https://zenn.dev/sun_asterisk/articles/code-internal-quality</guid>
+            <pubDate>Sat, 21 Dec 2024 02:11:33 GMT</pubDate>
+            <description><![CDATA[こんにちは、モバイルエンジニアのころむにーです。 普段、モバイルアプリを通じたユーザーへの価値提供を目指すプロジェクトに、技術リードという立場で参加しています。 本記事では、コードの内部品質について、私が直近のプロジェクトで取り組んできたことをまとめました。   背景 プロダクトで継続的に価値を提供していくために、コードの内部品質を高く保つのは重要です。 内部品質は目に見えにくく定量的な成果が出に...]]></description>
+            <content:encoded><![CDATA[こんにちは、モバイルエンジニアのころむにーです。 普段、モバイルアプリを通じたユーザーへの価値提供を目指すプロジェクトに、技術リードという立場で参加しています。 本記事では、コードの内部品質について、私が直近のプロジェクトで取り組んできたことをまとめました。   背景 プロダクトで継続的に価値を提供していくために、コードの内部品質を高く保つのは重要です。 内部品質は目に見えにくく定量的な成果が出にくいものであるものの、中・長期的にビジネスの成長に大きく影響してきます。 https://mtx2s.hatenablog.com/entry/2023/04/26/230917 私がジョインし...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--Qvyq7Jjq--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2581%25AE%25E5%2586%2585%25E9%2583%25A8%25E5%2593%2581%25E8%25B3%25AA%25E3%2582%2592%25E9%25AB%2598%25E3%2582%2581%25E3%2582%258B%25E5%258B%2595%25E3%2581%258D%25E3%2582%2592%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%25E3%2581%25AB%25E6%25B5%25B8%25E9%2580%258F%25E3%2581%2595%25E3%2581%259B%25E3%2581%259F%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%2593%25E3%2582%258D%25E3%2582%2580%25E3%2581%25AB%25E3%2583%25BC%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2M1YTU0ZjZiM2MuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Sun%252A%2520Developers%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzU2NmY0MzY4MzUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[QAがスナップショットテストを書いてみた話 | QA - freee Developers Hub]]></title>
+            <link>https://developers.freee.co.jp/entry/freee-qa-advent-calendar2024-day21</link>
+            <guid>https://developers.freee.co.jp/entry/freee-qa-advent-calendar2024-day21</guid>
+            <pubDate>Sat, 21 Dec 2024 01:00:00 GMT</pubDate>
+            <description><![CDATA[こんにちは、freee人事労務でQAエンジニアをしているkairiです。freee QA Advent Calendar2024 21日目です。 今回はプロジェクトの中で実際にあった、不足しているテスト（自動テスト）をQAが書いてサポートした事例、およびそこからシステムの内部構造に踏み込んだ改善提案をした事例を紹介します。 きっかけ 複雑な表示ロジックを持つUIのリファクタに関わることになった際に...]]></description>
+            <content:encoded><![CDATA[こんにちは、freee人事労務でQAエンジニアをしているkairiです。freee QA Advent Calendar2024 21日目です。 今回はプロジェクトの中で実際にあった、不足しているテスト（自動テスト）をQAが書いてサポートした事例、およびそこからシステムの内部構造に踏み込んだ改善提案をした事例を紹介します。 きっかけ 複雑な表示ロジックを持つUIのリファクタに関わることになった際に、パターンが多すぎて目でチェックすることが非効率に感じたことがあり、なんとか楽ができないかと考えました。 実際のデシジョンテーブル。ほんの小さなコンポーネントに対してこの複雑度。 しかし該当箇所には複…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/92142f0e3622c82ed506ffe358f8bef5bbcd0dd5/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkairiver%2F20241203%2F20241203130905.png"/>
+        </item>
+        <item>
+            <title><![CDATA[オニオンアーキテクチャにおけるテストコーディングガイド | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/loglass/articles/01b786462eacca</link>
+            <guid>https://zenn.dev/loglass/articles/01b786462eacca</guid>
+            <pubDate>Fri, 20 Dec 2024 22:48:03 GMT</pubDate>
+            <description><![CDATA[! この記事は 株式会社ログラス Productチーム Advent Calendar 2024 のシリーズ 2、21日目 の記事です。    はじめに アドベントカレンダーも終盤に差し掛かってきましたね！ シリーズ2ではテストコードについて書こうと思います。 ここ2年間くらいで採用やイベントを通じて色々な会社のエンジニアとお話させてもらった中で、テストコードの書き方にはかなりブレがあるように感じ...]]></description>
+            <content:encoded><![CDATA[! この記事は 株式会社ログラス Productチーム Advent Calendar 2024 のシリーズ 2、21日目 の記事です。    はじめに アドベントカレンダーも終盤に差し掛かってきましたね！ シリーズ2ではテストコードについて書こうと思います。 ここ2年間くらいで採用やイベントを通じて色々な会社のエンジニアとお話させてもらった中で、テストコードの書き方にはかなりブレがあるように感じました。 ユニットテストについてはあまりブレがなく、どの方もドメイン層のEntityやValueObjectについて網羅的に書きましょうとなっていました。 一方で、インテグレーションテストにつ...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--jOLIHk34--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25AA%25E3%2583%258B%25E3%2582%25AA%25E3%2583%25B3%25E3%2582%25A2%25E3%2583%25BC%25E3%2582%25AD%25E3%2583%2586%25E3%2582%25AF%25E3%2583%2581%25E3%2583%25A3%25E3%2581%25AB%25E3%2581%258A%25E3%2581%2591%25E3%2582%258B%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:urmot%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzRlNWQ4ZTRjZjguanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2582%25B9%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dBUWxiNEN2ZDZBQU1CZklac3p4UnpBNFpsVVRDbE1ONFBaSXBCaHc9czI1MC1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[クラウドセキュリティを再吟味するために〜実例から学ぶ、考慮すべき観点とその対策事例〜に参加してきた | 天の月]]></title>
+            <link>https://aki-m.hatenadiary.com/entry/2024/12/20/233000</link>
+            <guid>https://aki-m.hatenadiary.com/entry/2024/12/20/233000</guid>
+            <pubDate>Fri, 20 Dec 2024 14:30:00 GMT</pubDate>
+            <description><![CDATA[https://findy.connpass.com/event/337675/ こちらのイベントに参加してきたので、会の様子と感想を書いていきます。 会の概要 会の様子 Snykで始めるセキュリティ担当者とSREと開発者が楽になる脆弱性対応 マルチプロダクト開発の現場でAWS Security Hubを1年以上運用して得た教訓 ガバメントクラウドから考えるクラウドセキュリティ 10分で学ぶKub...]]></description>
+            <content:encoded><![CDATA[https://findy.connpass.com/event/337675/ こちらのイベントに参加してきたので、会の様子と感想を書いていきます。 会の概要 会の様子 Snykで始めるセキュリティ担当者とSREと開発者が楽になる脆弱性対応 マルチプロダクト開発の現場でAWS Security Hubを1年以上運用して得た教訓 ガバメントクラウドから考えるクラウドセキュリティ 10分で学ぶKubernetesコンテナセキュリティ 会全体を通した感想 会の概要 以下、イベントページから引用です。 セキュリティインシデントが相次ぐ昨今、その対策の重要性が非常に高まっています。中でもクラウドについ…]]></content:encoded>
+            <enclosure length="0" url="https://ogimage.blog.st-hatena.com/26006613655256878/6802418398313203055/1734705002"/>
+        </item>
+        <item>
+            <title><![CDATA[USDM-21. カテゴリ名 | Kouichi Akiyama]]></title>
+            <link>https://note.com/akiyama924/n/n68ae28cb30db</link>
+            <guid>https://note.com/akiyama924/n/n68ae28cb30db</guid>
+            <pubDate>Fri, 20 Dec 2024 13:41:17 GMT</pubDate>
+            <description><![CDATA[2024年のアドカレです。 前回は「説明とは実装しない情報のこと」という話を書きました。 続きをみる]]></description>
+            <content:encoded><![CDATA[2024年のアドカレです。 前回は「説明とは実装しない情報のこと」という話を書きました。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/166100361/rectangle_large_type_2_b7fe12a245804844994f51ca5c1509d6.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[MATLABでテストを活用して手戻りを防ぐ（ソフト開発者以外も使おう！） | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/spargel/articles/20241220_matlabtest</link>
+            <guid>https://zenn.dev/spargel/articles/20241220_matlabtest</guid>
+            <pubDate>Fri, 20 Dec 2024 02:51:52 GMT</pubDate>
+            <description><![CDATA[Advent Calender 2024の12/10枠です． MATLABネタが降ってきたので書こうと思ったら枠が空いていましたので投稿します．（本記事を書いているのは12/20です） https://qiita.com/advent-calendar/2024/matlab   はじめに 最近MATLABのテスト機能を使ってみたら助けられることが多くありましたので，使い方を備忘もかねてまとめてお...]]></description>
+            <content:encoded><![CDATA[Advent Calender 2024の12/10枠です． MATLABネタが降ってきたので書こうと思ったら枠が空いていましたので投稿します．（本記事を書いているのは12/20です） https://qiita.com/advent-calendar/2024/matlab   はじめに 最近MATLABのテスト機能を使ってみたら助けられることが多くありましたので，使い方を備忘もかねてまとめておきます． 気軽にシンプルに使うためになるべく高度なことはしません．単体の関数やスクリプトを対象とするユニットテストのみです．「ソフトウェアの開発者以外」も積極的に使いましょう！！ 参考： htt...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--hozbFTTP--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:MATLAB%25E3%2581%25A7%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2582%2592%25E6%25B4%25BB%25E7%2594%25A8%25E3%2581%2597%25E3%2581%25A6%25E6%2589%258B%25E6%2588%25BB%25E3%2582%258A%25E3%2582%2592%25E9%2598%25B2%25E3%2581%2590%25EF%25BC%2588%25E3%2582%25BD%25E3%2583%2595%25E3%2583%2588%25E9%2596%258B%25E7%2599%25BA%25E8%2580%2585%25E4%25BB%25A5%25E5%25A4%2596%25E3%2582%2582%25E4%25BD%25BF%25E3%2581%258A%25E3%2581%2586%25EF%25BC%2581%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:spargel%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ZmZmVmOWE4MDYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[権限管理基盤チームのCIの仕組みと課題 | QA - freee Developers Hub]]></title>
+            <link>https://developers.freee.co.jp/entry/freee-qa-advent-calendar2024-day20</link>
+            <guid>https://developers.freee.co.jp/entry/freee-qa-advent-calendar2024-day20</guid>
+            <pubDate>Fri, 20 Dec 2024 01:00:00 GMT</pubDate>
+            <description><![CDATA[こんにちは。権限管理基盤チームでQAをしているyukkyです。 freee QA Advent Calendar2024 20日目です。 所属してるチームで運用しているCIの仕組みと課題について書こうと思います。 CI作成の背景 権限管理基盤チームでは、権限制御を担うマイクロサービスを開発しています。 このプロダクトはUIが少なく、APIテストを中心にしたテストを行っています。 機能追加のたびにテ...]]></description>
+            <content:encoded><![CDATA[こんにちは。権限管理基盤チームでQAをしているyukkyです。 freee QA Advent Calendar2024 20日目です。 所属してるチームで運用しているCIの仕組みと課題について書こうと思います。 CI作成の背景 権限管理基盤チームでは、権限制御を担うマイクロサービスを開発しています。 このプロダクトはUIが少なく、APIテストを中心にしたテストを行っています。 機能追加のたびにテストシナリオを追加し、蓄積したテストシナリオは、リグレッションテストとして再利用しています。 以前の開発フローでは、PR単位でローカル環境にてリグレッションテストを実行していましたが、 シナリオ数の増…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/8ba549e3d6403d79eacb1f82eeeaf29b57706029/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyukky_000%2F20241206%2F20241206225648.png"/>
+        </item>
+        <item>
+            <title><![CDATA[2024.12.20ナレッジNEW   【連載】概念モデリングを習得しよう: 圏I のモデルによるシミュレーション(第6回)    概念モデリング  シミュレーション  デジタルツイン  IoT  A... | メディア | HQW!]]></title>
+            <link>https://www.veriserve.co.jp/helloqualityworld/media/20241220001</link>
+            <guid>https://www.veriserve.co.jp/helloqualityworld/media/20241220001</guid>
+            <pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[2024.12.20 ナレッジ NEW 【連載】概念モデリングを習得しよう: 圏I のモデルによるシミュレーション(第6回)  概念モデリング シミュレーション デジタルツイン IoT AI]]></description>
+            <content:encoded><![CDATA[2024.12.20 ナレッジ NEW 【連載】概念モデリングを習得しよう: 圏I のモデルによるシミュレーション(第6回)  概念モデリング シミュレーション デジタルツイン IoT AI]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://www.veriserve.co.jp/helloqualityworld/media/06bfb1cc911a40c894ee05da52702be9/c37bc11527d042d3b5c9ba8b8e6517e7/%E6%A6%82%E5%BF%B5%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%92%E7%BF%92%E5%BE%97%E3%81%97%E3%82%88%E3%81%86%EF%BC%88%E7%AC%AC6%E5%9B%9E).jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Flutter×BrowserStack]：E2Eテストで実現する高品質アプリ開発 | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/renren0112/articles/8bf506a1f74137</link>
+            <guid>https://zenn.dev/renren0112/articles/8bf506a1f74137</guid>
+            <pubDate>Thu, 19 Dec 2024 22:40:01 GMT</pubDate>
+            <description><![CDATA[BrowserStack BrowserStackは、クラウド上でテスト環境や自動化環境を提供する有料サービスで、開発者から高い人気を誇るツールです。 このサービスを利用することで、様々なブラウザやオペレーティングシステム、さらに実際のデバイスでの操作やテストを簡単に行うことができます！ 特に、実機テストやE2Eテストを効率化したいFlutter開発者にとって、BrowserStackは理想的なソ...]]></description>
+            <content:encoded><![CDATA[BrowserStack BrowserStackは、クラウド上でテスト環境や自動化環境を提供する有料サービスで、開発者から高い人気を誇るツールです。 このサービスを利用することで、様々なブラウザやオペレーティングシステム、さらに実際のデバイスでの操作やテストを簡単に行うことができます！ 特に、実機テストやE2Eテストを効率化したいFlutter開発者にとって、BrowserStackは理想的なソリューションです。 今回は、このBrowserStackを使ったFlutterのE2EテストやUIテストでの活用事例を一緒に見ていきましょう！ ! モバイルアプリケーション開発者向けの記事で...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--OXaDM9Od--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255BFlutter%25C3%2597BrowserStack%255D%25EF%25BC%259AE2E%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25A7%25E5%25AE%259F%25E7%258F%25BE%25E3%2581%2599%25E3%2582%258B%25E9%25AB%2598%25E5%2593%2581%25E8%25B3%25AA%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E9%2596%258B%25E7%2599%25BA%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ren%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzIzNjE0ZGZiZTIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[USDM-20. 説明とはなにか | Kouichi Akiyama]]></title>
+            <link>https://note.com/akiyama924/n/n79905465dda6</link>
+            <guid>https://note.com/akiyama924/n/n79905465dda6</guid>
+            <pubDate>Thu, 19 Dec 2024 15:26:54 GMT</pubDate>
+            <description><![CDATA[2024年のアドカレです。 前回は「品質要求を表現するUSDMテンプレート」について書きました。 続きをみる]]></description>
+            <content:encoded><![CDATA[2024年のアドカレです。 前回は「品質要求を表現するUSDMテンプレート」について書きました。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/166097273/rectangle_large_type_2_3a361a6a85ab88f4ba2ae56489aeb9e0.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[【Flutter】Golden Test に触れてみる | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/koichi_51/articles/ea1cdfaedb4dbc</link>
+            <guid>https://zenn.dev/koichi_51/articles/ea1cdfaedb4dbc</guid>
+            <pubDate>Thu, 19 Dec 2024 14:38:18 GMT</pubDate>
+            <description><![CDATA[初めに 今回は Golden Test について簡単にまとめてみたいと思います。   記事の対象者  Flutter 学習者 Golden Test について簡単に知りたい方    目的 今回は、Flutter の Golden Test について簡単に触れて、具体的なメリットなどを見ていくことが目的です。   Golden Test とは Writing a golden file test f...]]></description>
+            <content:encoded><![CDATA[初めに 今回は Golden Test について簡単にまとめてみたいと思います。   記事の対象者  Flutter 学習者 Golden Test について簡単に知りたい方    目的 今回は、Flutter の Golden Test について簡単に触れて、具体的なメリットなどを見ていくことが目的です。   Golden Test とは Writing a golden file test for package:flutter には以下のような記述があります。  Golden file tests for package:flutter use Flutter Gold for...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--0UosLnAQ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Flutter%25E3%2580%2591Golden%2520Test%2520%25E3%2581%25AB%25E8%25A7%25A6%25E3%2582%258C%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Koichi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzU1Y2NmNjkxYjMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[yr-learning Vol48に参加してきた | 天の月]]></title>
+            <link>https://aki-m.hatenadiary.com/entry/2024/12/19/221704</link>
+            <guid>https://aki-m.hatenadiary.com/entry/2024/12/19/221704</guid>
+            <pubDate>Thu, 19 Dec 2024 13:17:04 GMT</pubDate>
+            <description><![CDATA[yr-camp.connpass.com こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 昨日の結果共有と方針決め Kotlinの環境構築 TypeScriptの環境構築 昨日の結果共有と方針決め 昨日色々イベントストーミングの知見不足で詰まることがあってうまくいかなかったことを昨日いなかった参加者に共有した後、今日以降の方針を決めました。結論、Kotlinでペアプロ...]]></description>
+            <content:encoded><![CDATA[yr-camp.connpass.com こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 昨日の結果共有と方針決め Kotlinの環境構築 TypeScriptの環境構築 昨日の結果共有と方針決め 昨日色々イベントストーミングの知見不足で詰まることがあってうまくいかなかったことを昨日いなかった参加者に共有した後、今日以降の方針を決めました。結論、Kotlinでペアプロをしていこうという話になりました。 また、スクラムフェス沖縄のDay2で自分が書いたブログを読んでくれていた人から、ブログを読んで色々気になったこと(どんな様子だったのか？イベントストーミングが重くて…]]></content:encoded>
+            <enclosure length="0" url="https://ogimage.blog.st-hatena.com/26006613655256878/6802418398312982130/1734614224"/>
+        </item>
+        <item>
+            <title><![CDATA[「品質は習慣である」はアリストテレスの言葉ではありません | 杞憂]]></title>
+            <link>https://note.com/kiyou77/n/nff6a867e612b</link>
+            <guid>https://note.com/kiyou77/n/nff6a867e612b</guid>
+            <pubDate>Thu, 19 Dec 2024 11:39:19 GMT</pubDate>
+            <description><![CDATA[ソフトウェアテストの小ネタ Advent Calendar 2024 20日目は、杞憂(@kiyou77)がお送りします。  ソフトウェアテストの小ネタ - Qiita Advent Calendar 2024 - QiitaCalendar page for Qiita Advent Calendar 2024 regarding ソフトウェアqiita.com 続きをみる]]></description>
+            <content:encoded><![CDATA[ソフトウェアテストの小ネタ Advent Calendar 2024 20日目は、杞憂(@kiyou77)がお送りします。  ソフトウェアテストの小ネタ - Qiita Advent Calendar 2024 - QiitaCalendar page for Qiita Advent Calendar 2024 regarding ソフトウェアqiita.com 続きをみる]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://assets.st-note.com/production/uploads/images/166382270/rectangle_large_type_2_2de4f4939e2fc99c1e64a96b04dbea45.jpg?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[golangのmockとテーブルテストの実装例 | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/kuwashima/articles/f4c10e3e4cf236</link>
+            <guid>https://zenn.dev/kuwashima/articles/f4c10e3e4cf236</guid>
+            <pubDate>Thu, 19 Dec 2024 10:50:02 GMT</pubDate>
+            <description><![CDATA[概要 golangのテスト用のモックとテスト実装のはなしです。答えはない。   モックとは ウェブのバックエンドアプリケーションのテストでは、外部APIなどテスト対象が依存しているリソースのモックを作る場合が多く、モックを作成するツールもたくさんあります。 golang/mock、vektra/mockery、uber-go/mockなど多くのモックツールは、Golangのインタフェースからモック...]]></description>
+            <content:encoded><![CDATA[概要 golangのテスト用のモックとテスト実装のはなしです。答えはない。   モックとは ウェブのバックエンドアプリケーションのテストでは、外部APIなどテスト対象が依存しているリソースのモックを作る場合が多く、モックを作成するツールもたくさんあります。 golang/mock、vektra/mockery、uber-go/mockなど多くのモックツールは、Golangのインタフェースからモック実装を作成するようになっています。 生成されたモックは概ね以下のような使い方になります(vektra/mockeryのドキュメントより） import (  "testing"   ...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--l8NZzO_a--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:golang%25E3%2581%25AEmock%25E3%2581%25A8%25E3%2583%2586%25E3%2583%25BC%25E3%2583%2596%25E3%2583%25AB%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AE%25E5%25AE%259F%25E8%25A3%2585%25E4%25BE%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kuwashima%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2gwRzdRZzk4ZUZ4aWtyeE4yMzVqZWlhb2JJVlRaYlJoRjZXOUl6bkE9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Swift Testingは採用するべきか | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/voicy/articles/6afaba41e4e87c</link>
+            <guid>https://zenn.dev/voicy/articles/6afaba41e4e87c</guid>
+            <pubDate>Thu, 19 Dec 2024 08:32:51 GMT</pubDate>
+            <description><![CDATA[結論採用！   Swift Testingとは Swift Testingとは、一言で表すのであれば、 WWDC 2024で発表され、Xcode 16から使えるようになった、XCTestではできなかった色々な表現を使ってTestを書けるFrameworkです。 ちなみに、UITestはSwift Testingには含まれておらず、Unit TestのためのFrameworkとなっております。   ...]]></description>
+            <content:encoded><![CDATA[結論採用！   Swift Testingとは Swift Testingとは、一言で表すのであれば、 WWDC 2024で発表され、Xcode 16から使えるようになった、XCTestではできなかった色々な表現を使ってTestを書けるFrameworkです。 ちなみに、UITestはSwift Testingには含まれておらず、Unit TestのためのFrameworkとなっております。   情報源 Swift Testingの公式からの情報源はとても豊富なので、いくつか紹介していきます。   1: GitHub Swift TestingはOpen Sourceなのでコードを見るこ...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--cD-gflO7--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Swift%2520Testing%25E3%2581%25AF%25E6%258E%25A1%25E7%2594%25A8%25E3%2581%2599%25E3%2582%258B%25E3%2581%25B9%25E3%2581%258D%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2583%25A0%25E3%2583%2583%25E3%2583%2581%25E3%2583%25A7%2520%257C%2520iOS%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzhiODU5ZTAwNWYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Voicy%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzhhYzAxYzVkYzkuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[品質保証における原則をソフトウェア開発に当てはめて考えてみる | Zennの「QA」のフィード]]></title>
+            <link>https://zenn.dev/55_ymzn/articles/principles_of_quality_assurance</link>
+            <guid>https://zenn.dev/55_ymzn/articles/principles_of_quality_assurance</guid>
+            <pubDate>Thu, 19 Dec 2024 03:39:40 GMT</pubDate>
+            <description><![CDATA[はじめに 本記事は「新版品質保証ガイドブック」に記載のある、「品質保証に関わる原則」について、ソフトウェア開発の文脈でどのように関わりがあるかを検討するものです。 私自身はQAエンジニアではありますが、JIS認証に関わっているわけでもなければ、大学で学んだりしたわけでもない市井のQAです。 ですので、読者の方は決して鵜呑みにしないでいただきたいと思っています。 原著を読んだり、専門家の先生に習って...]]></description>
+            <content:encoded><![CDATA[はじめに 本記事は「新版品質保証ガイドブック」に記載のある、「品質保証に関わる原則」について、ソフトウェア開発の文脈でどのように関わりがあるかを検討するものです。 私自身はQAエンジニアではありますが、JIS認証に関わっているわけでもなければ、大学で学んだりしたわけでもない市井のQAです。 ですので、読者の方は決して鵜呑みにしないでいただきたいと思っています。 原著を読んだり、専門家の先生に習っていただき、きちんと学習していただきたいと思っています。   そもそもの品質保証の位置付け 品質保証やTQMについて、一言で表すことを避けている文献は多い印象です。 それは品質や、品質保証の概...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--0sM7SMlM--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%2593%2581%25E8%25B3%25AA%25E4%25BF%259D%25E8%25A8%25BC%25E3%2581%25AB%25E3%2581%258A%25E3%2581%2591%25E3%2582%258B%25E5%258E%259F%25E5%2589%2587%25E3%2582%2592%25E3%2582%25BD%25E3%2583%2595%25E3%2583%2588%25E3%2582%25A6%25E3%2582%25A7%25E3%2582%25A2%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25AB%25E5%25BD%2593%25E3%2581%25A6%25E3%2581%25AF%25E3%2582%2581%25E3%2581%25A6%25E8%2580%2583%25E3%2581%2588%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Go%2521Go%2521Gomazn%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzZiODNmZDk1ZDMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[品質保証における原則をソフトウェア開発に当てはめて考えてみる | Go!Go!Gomaznさんのフィード]]></title>
+            <link>https://zenn.dev/55_ymzn/articles/principles_of_quality_assurance</link>
+            <guid>https://zenn.dev/55_ymzn/articles/principles_of_quality_assurance</guid>
+            <pubDate>Thu, 19 Dec 2024 03:39:40 GMT</pubDate>
+            <description><![CDATA[はじめに 本記事は「新版品質保証ガイドブック」に記載のある、「品質保証に関わる原則」について、ソフトウェア開発の文脈でどのように関わりがあるかを検討するものです。 私自身はQAエンジニアではありますが、JIS認証に関わっているわけでもなければ、大学で学んだりしたわけでもない市井のQAです。 ですので、読者の方は決して鵜呑みにしないでいただきたいと思っています。 原著を読んだり、専門家の先生に習って...]]></description>
+            <content:encoded><![CDATA[はじめに 本記事は「新版品質保証ガイドブック」に記載のある、「品質保証に関わる原則」について、ソフトウェア開発の文脈でどのように関わりがあるかを検討するものです。 私自身はQAエンジニアではありますが、JIS認証に関わっているわけでもなければ、大学で学んだりしたわけでもない市井のQAです。 ですので、読者の方は決して鵜呑みにしないでいただきたいと思っています。 原著を読んだり、専門家の先生に習っていただき、きちんと学習していただきたいと思っています。   そもそもの品質保証の位置付け 品質保証やTQMについて、一言で表すことを避けている文献は多い印象です。 それは品質や、品質保証の概...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--0sM7SMlM--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%2593%2581%25E8%25B3%25AA%25E4%25BF%259D%25E8%25A8%25BC%25E3%2581%25AB%25E3%2581%258A%25E3%2581%2591%25E3%2582%258B%25E5%258E%259F%25E5%2589%2587%25E3%2582%2592%25E3%2582%25BD%25E3%2583%2595%25E3%2583%2588%25E3%2582%25A6%25E3%2582%25A7%25E3%2582%25A2%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25AB%25E5%25BD%2593%25E3%2581%25A6%25E3%2581%25AF%25E3%2582%2581%25E3%2581%25A6%25E8%2580%2583%25E3%2581%2588%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Go%2521Go%2521Gomazn%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzZiODNmZDk1ZDMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[ CI/CD基盤のコスト削減とDocker Hubのレートリミットを回避するためのミラーサーバーを導入した話 | DeNA Testing Blog]]></title>
+            <link>https://swet.dena.com/entry/2024/12/19/120000</link>
+            <guid>https://swet.dena.com/entry/2024/12/19/120000</guid>
+            <pubDate>Thu, 19 Dec 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[こんにちは、SWETの川口 ( @yamoyamoto ) です。SWETではCI/CDチームの一員として、GitHub Actionsセルフホストランナー基盤の開発・運用に取り組んでいます。 今回は、私たちのチームがDocker Hubのレートリミット回避とコスト削減のためにミラーサーバーを導入した事例を共有したいと思います。 目次 はじめに 課題解決に向けた検討 既存ソリューションの検討 Go...]]></description>
+            <content:encoded><![CDATA[こんにちは、SWETの川口 ( @yamoyamoto ) です。SWETではCI/CDチームの一員として、GitHub Actionsセルフホストランナー基盤の開発・運用に取り組んでいます。 今回は、私たちのチームがDocker Hubのレートリミット回避とコスト削減のためにミラーサーバーを導入した事例を共有したいと思います。 目次 はじめに 課題解決に向けた検討 既存ソリューションの検討 Google Cloud - Artifact Registry （mirror.gcr.io） AWS - Amazon ECR Public Distribution を利用したミラーサーバーの構築 …]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/42089403296a1b82e9e9aa1eb4db62bcca0a49de/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fswet-blog%2F20241112%2F20241112181923.png"/>
+        </item>
+        <item>
+            <title><![CDATA[テスト管理ツールを移行してみた　〜ツール転生させてQA無双〜 | QA - freee Developers Hub]]></title>
+            <link>https://developers.freee.co.jp/entry/freee-qa-advent-calendar2024-day19</link>
+            <guid>https://developers.freee.co.jp/entry/freee-qa-advent-calendar2024-day19</guid>
+            <pubDate>Thu, 19 Dec 2024 01:00:00 GMT</pubDate>
+            <description><![CDATA[こんにちは。freee人事労務でQAエンジニアをしているnunです。 freee QA Advent Calendar 2024 19日目です。 昨年freee QA Advent Calender 2023にて下記テスト管理ツールの移行について投稿しました。 developers.freee.co.jp 本日はその後どうだったの？というところを投稿したいと思います。少し長いので必要に応じて後述の...]]></description>
+            <content:encoded><![CDATA[こんにちは。freee人事労務でQAエンジニアをしているnunです。 freee QA Advent Calendar 2024 19日目です。 昨年freee QA Advent Calender 2023にて下記テスト管理ツールの移行について投稿しました。 developers.freee.co.jp 本日はその後どうだったの？というところを投稿したいと思います。少し長いので必要に応じて後述の目次もご活用ください。 さて、タイトルでネタバレはしてしまっているのですが… お陰様でTestRailからZephyr Scaleへのテスト管理ツール移行は無事完了しました！！！ 結果として1年間がか…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/b9acfe47c333c60d8b548704349f267777eccc4b/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnun_chi_f%2F20241213%2F20241213183834.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Notionとspreadsheetを活用したテスト設計 | Zennの「QA」のフィード]]></title>
+            <link>https://zenn.dev/edash_tech_blog/articles/8f1877a7d934a1</link>
+            <guid>https://zenn.dev/edash_tech_blog/articles/8f1877a7d934a1</guid>
+            <pubDate>Thu, 19 Dec 2024 00:00:02 GMT</pubDate>
+            <description><![CDATA[はじめに こちらはe-dash advent calendar 2024の19日目の記事です。 2024年10月、e-dashのQAグループに参画しましたQAエンジニアのuedaです。e-dashのQAグループは2024年5月に新設されたばかりのため、現在もQAプロセスの構築を進めています。 e-dashではアジャイル開発のフレームワークとしてスクラムを採用しており、2週間のスプリントの中で、開発...]]></description>
+            <content:encoded><![CDATA[はじめに こちらはe-dash advent calendar 2024の19日目の記事です。 2024年10月、e-dashのQAグループに参画しましたQAエンジニアのuedaです。e-dashのQAグループは2024年5月に新設されたばかりのため、現在もQAプロセスの構築を進めています。 e-dashではアジャイル開発のフレームワークとしてスクラムを採用しており、2週間のスプリントの中で、開発タスクに対するテストを行いながら、品質管理の仕組みづくりにも並行して取り組んでいます。 この記事では、入社してからQAグループとして行った私の活動についてお伝えしたいと思います。   テスト...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--L5yMT0Mw--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Notion%25E3%2581%25A8spreadsheet%25E3%2582%2592%25E6%25B4%25BB%25E7%2594%25A8%25E3%2581%2597%25E3%2581%259F%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E8%25A8%25AD%25E8%25A8%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ueda%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzNkZWM5ZjExNTcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:e-dash%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTGticmJpbFlheGNFWUROZVJwNURYM05PcnBwcjRpekJHTzJVTWV1YjRTYTNwbS13PXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[GIHOZで組み合わせテスト(ペアワイズ法) | ソフトウェアテストタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/Yankaji777/items/5c320dfe937999dc9b27</link>
+            <guid>https://qiita.com/Yankaji777/items/5c320dfe937999dc9b27</guid>
+            <pubDate>Wed, 18 Dec 2024 22:09:14 GMT</pubDate>
+            <description><![CDATA[はじめに GIHOZを用いて組み合わせテストを実践していきます. 今回でソフトウェアテスト関連の記事は一区切りをつけます. 組み合わせテスト 組み合わせテストは,複数の条件を組み合わせてソフトウェア…]]></description>
+            <content:encoded><![CDATA[はじめに GIHOZを用いて組み合わせテストを実践していきます. 今回でソフトウェアテスト関連の記事は一区切りをつけます. 組み合わせテスト 組み合わせテストは,複数の条件を組み合わせてソフトウェア…]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzNTg2MjI2JTJGYjljNzNkYTk1NDcyOWIwYjFjZTc4NDg4YTE2ZjlkYzc3MjM2NTQ4NiUyRmxhcmdlLnBuZyUzRjE3MzI5NjEzMTA_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmZtPXBuZzMyJnM9MGFhYTQ2OTcyNWM0MWZmMmFiYzFhYjJhZjFmNGQ1MTU%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZhNjg5ZWRmNzFlZjRlNTgwYzA5NWEzNTRmYjc3ZDgzOWVkODYxODQxJTJGb3JpZ2luYWwuanBnJTNGMTcyNzgyNzkxMz9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZib3JkZXI9MiUyQ0ZGRkZGRiZmbT1wbmczMiZzPTBmMDViNDlmZGExMmQ4MGVlNzAyZGVkZTliMzE5YzNk%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D6c4c2057403078cc0153e9a95521fe61?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9R0lIT1olRTMlODElQTclRTclQjUlODQlRTMlODElQkYlRTUlOTAlODglRTMlODIlOEYlRTMlODElOUIlRTMlODMlODYlRTMlODIlQjklRTMlODMlODglMjglRTMlODMlOUElRTMlODIlQTIlRTMlODMlQUYlRTMlODIlQTQlRTMlODIlQkElRTYlQjMlOTUlMjkmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzNBM0MzQyZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1hYjc4YzE4YjFhZjQ2ZGI5YWYxOTM4NTgwYTUyMGI5NQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBZYW5rYWppNzc3JnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9YjlmMDM5NWIwYzJiMDYyNGVjMzVjMTBjOTk5ZTA0MTA&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=UkNDIHwg56uL5ZG96aSo44Kz44Oz44OU44Ol44O844K_44Kv44Op44OW&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%233A3C3C&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=fb7a641cfda887058c91bb362f4c5fd3"/>
+        </item>
+        <item>
+            <title><![CDATA[Playwright を使ったE2Eテストの導入 | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/babyjob/articles/1b0dcb31722f1a</link>
+            <guid>https://zenn.dev/babyjob/articles/1b0dcb31722f1a</guid>
+            <pubDate>Wed, 18 Dec 2024 15:01:05 GMT</pubDate>
+            <description><![CDATA[! この記事は BABY JOB Advent Calendar 2024 シリーズ1の19日目の記事です。    はじめに この春よりフロントエンドエンジニアとしてキャッシュレス決済サービス「誰でも決済」の開発に携わっております、benzoh です。 そしてこの夏、無事にサービスをリリースすることができました！ この記事では開発開始から今日までに取り組んだことの中で「Playwright を使っ...]]></description>
+            <content:encoded><![CDATA[! この記事は BABY JOB Advent Calendar 2024 シリーズ1の19日目の記事です。    はじめに この春よりフロントエンドエンジニアとしてキャッシュレス決済サービス「誰でも決済」の開発に携わっております、benzoh です。 そしてこの夏、無事にサービスをリリースすることができました！ この記事では開発開始から今日までに取り組んだことの中で「Playwright を使ったE2Eテストの導入」について共有したいと思います。 特に、QRコードを活用した決済フローのテスト自動化について、実践的な知見を交えながら解説していきます。 なお、本記事は Playwright...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--jDQK9f4x--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Playwright%2520%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%259FE2E%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AE%25E5%25B0%258E%25E5%2585%25A5%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:benzoh%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzNhODk4NDRkMDEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:BABY%2520JOB%2520%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pWemNsZ2JtMzFSX3hEcWJZWHVnRXkwNzNxNDE4SkUyMS1fS1dpdjU4PXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[【Flutter】Widget Test に触れてみる | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/koichi_51/articles/e0da66278ccdaf</link>
+            <guid>https://zenn.dev/koichi_51/articles/e0da66278ccdaf</guid>
+            <pubDate>Wed, 18 Dec 2024 14:47:28 GMT</pubDate>
+            <description><![CDATA[初めに 今回は Widget Test について簡単に触れてみたいと思います。 筆者自身 Widget Test を実装する機会が少なかったため、基本的な実装方法等をまとめておきたいと思います。 今回は公式のドキュメントをもとに実装を進めていきます。ユーザーの複雑な操作のシミュレーション等は行わないので、ご了承いただければと思います。   記事の対象者  Flutter 学習者 Widget Te...]]></description>
+            <content:encoded><![CDATA[初めに 今回は Widget Test について簡単に触れてみたいと思います。 筆者自身 Widget Test を実装する機会が少なかったため、基本的な実装方法等をまとめておきたいと思います。 今回は公式のドキュメントをもとに実装を進めていきます。ユーザーの複雑な操作のシミュレーション等は行わないので、ご了承いただければと思います。   記事の対象者  Flutter 学習者 Widget Test に触れてみたい方    目的 今回の目的は先述の通り、 Widget Test の基礎的な実装方法を知ることです。 公式ドキュメントとして公開されている An introduction...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--1wzRDYsY--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Flutter%25E3%2580%2591Widget%2520Test%2520%25E3%2581%25AB%25E8%25A7%25A6%25E3%2582%258C%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Koichi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzU1Y2NmNjkxYjMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[yr-learning Vol47に参加してきた | 天の月]]></title>
+            <link>https://aki-m.hatenadiary.com/entry/2024/12/18/225901</link>
+            <guid>https://aki-m.hatenadiary.com/entry/2024/12/18/225901</guid>
+            <pubDate>Wed, 18 Dec 2024 13:59:01 GMT</pubDate>
+            <description><![CDATA[https://yr-camp.connpass.com/event/339996/ こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 イベントストーミングの続きをやってみる 沖縄のOSTのふりかえり 次回やること イベントストーミングの続きをやってみる 前回やったイベントストーミングの続きをしていきました。ただ、大きな効果を実感した前回と違い、今回はいろいろなところで...]]></description>
+            <content:encoded><![CDATA[https://yr-camp.connpass.com/event/339996/ こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 イベントストーミングの続きをやってみる 沖縄のOSTのふりかえり 次回やること イベントストーミングの続きをやってみる 前回やったイベントストーミングの続きをしていきました。ただ、大きな効果を実感した前回と違い、今回はいろいろなところで詰まり、一度イベントストーミングの経験があったり知見が深い人に実演してもらったりしないといけなさそうだよねという話をしました。 具体的に詰まった所としては以下です。 イベントの後にリードモデルを書くべ…]]></content:encoded>
+            <enclosure length="0" url="https://ogimage.blog.st-hatena.com/26006613655256878/6802418398312695318/1734530341"/>
+        </item>
+        <item>
+            <title><![CDATA[USDM-19. 品質要求を表現する方法2 | Kouichi Akiyama]]></title>
+            <link>https://note.com/akiyama924/n/n38dffedb43d5</link>
+            <guid>https://note.com/akiyama924/n/n38dffedb43d5</guid>
+            <pubDate>Wed, 18 Dec 2024 13:34:00 GMT</pubDate>
+            <description><![CDATA[2024年のアドカレです。 前回は「保守性と移植性は、機能に付随していないので開発側が品質要求として仕様化し、さらにメトリクスを決める必要がある」という話を書きました。 続きをみる]]></description>
+            <content:encoded><![CDATA[2024年のアドカレです。 前回は「保守性と移植性は、機能に付随していないので開発側が品質要求として仕様化し、さらにメトリクスを決める必要がある」という話を書きました。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/166091237/rectangle_large_type_2_f8227fac3d3bd3739101dd35d010a9f3.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Test Festでお話ししてきたよ：英語がとっても苦手な私が英語で登壇するのにやったこと | テストする人。]]></title>
+            <link>https://underscore42rina.hatenablog.com/entry/2024/12/18/214635</link>
+            <guid>https://underscore42rina.hatenablog.com/entry/2024/12/18/214635</guid>
+            <pubDate>Wed, 18 Dec 2024 12:46:35 GMT</pubDate>
+            <description><![CDATA[Tokyo Test Fest - 日本で毎年開催される、ソフトウェアテストの国際カンファレンス 11月に東京テストフェストというイベントに声をかけていただいて、登壇してきました。 英語で。 今日ここで発表します。ドキドキ。 #tokyotestfest pic.twitter.com/etPF85pvsK— リナ？ (@____rina____) 2024年11月15日 私は学生時代から英語が苦...]]></description>
+            <content:encoded><![CDATA[Tokyo Test Fest - 日本で毎年開催される、ソフトウェアテストの国際カンファレンス 11月に東京テストフェストというイベントに声をかけていただいて、登壇してきました。 英語で。 今日ここで発表します。ドキドキ。 #tokyotestfest pic.twitter.com/etPF85pvsK— リナ？ (@____rina____) 2024年11月15日 私は学生時代から英語が苦手で（一番ひどい時の偏差値は３０台とか？だったと思う） 今の会社に入った当初も、英語話者とコミュニケーションがとれず、英語が話せる同僚に１００％依存しているくらい英語を話そうともしていませんでした。 …]]></content:encoded>
+            <enclosure length="0" url="https://ogimage.blog.st-hatena.com/12704830469097158543/6802418398309614511/1734526903"/>
+        </item>
+        <item>
+            <title><![CDATA[QAチームミッションのアップデート 〜進める上での工夫と学び〜 | Zennの「QA」のフィード]]></title>
+            <link>https://zenn.dev/atamaplus/articles/13982cc14247fb</link>
+            <guid>https://zenn.dev/atamaplus/articles/13982cc14247fb</guid>
+            <pubDate>Wed, 18 Dec 2024 11:39:27 GMT</pubDate>
+            <description><![CDATA[こんにちは！atama plusでQA Engineering Managerをしている池上です。 atama plus Advent Calendar 2024の12月18日の記事になります！ ミッションの策定のような抽象的なテーマを扱う際、どうやって全員を巻き込み、共通認識を形成するか悩んだことがある方もいらっしゃるのではないかと思います。 本ブログでは、QAチームがミッションをアップデートす...]]></description>
+            <content:encoded><![CDATA[こんにちは！atama plusでQA Engineering Managerをしている池上です。 atama plus Advent Calendar 2024の12月18日の記事になります！ ミッションの策定のような抽象的なテーマを扱う際、どうやって全員を巻き込み、共通認識を形成するか悩んだことがある方もいらっしゃるのではないかと思います。 本ブログでは、QAチームがミッションをアップデートするプロジェクトで実際に取り組んだプロセスと工夫を紹介します。 Engineering Managerなどチームミッション/ビジョンなどを検討する方の参考になれば幸いです。   背景：ミッションア...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--QuzlkEVT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:QA%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%25E3%2583%259F%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2581%25AE%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2597%25E3%2583%2587%25E3%2583%25BC%25E3%2583%2588%2520%25E3%2580%259C%25E9%2580%25B2%25E3%2582%2581%25E3%2582%258B%25E4%25B8%258A%25E3%2581%25A7%25E3%2581%25AE%25E5%25B7%25A5%25E5%25A4%25AB%25E3%2581%25A8%25E5%25AD%25A6%25E3%2581%25B3%25E3%2580%259C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%2584%25E3%2581%2591%25E3%2581%258C%25E3%2581%25BF%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2RjOTM3M2I1YWUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:atama%2520plus%2520techblog%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSmY0SU42cVNIYlF1QkxEbktMd1dpRngxU0JWWTIzMTBCd2pfVlNheDBVaFkxSXdTYz1zOTYtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[QAエンジニアの"やりがい" | honamin]]></title>
+            <link>https://note.com/honamin09/n/ncebb5e7fae2e</link>
+            <guid>https://note.com/honamin09/n/ncebb5e7fae2e</guid>
+            <pubDate>Wed, 18 Dec 2024 04:53:42 GMT</pubDate>
+            <description><![CDATA[この記事は、OPENLOGI Advent Calendar 2024 18日目の記事です。 前の記事は akabeさん の「ガンマ分布に基づく発注計算」でした！機械学習エンジニアの頭の中がわかる（数式がたくさん！）良アイデア記事なのでぜひ読んでみてください。  ガンマ分布に基づく発注計算zenn.dev 続きをみる]]></description>
+            <content:encoded><![CDATA[この記事は、OPENLOGI Advent Calendar 2024 18日目の記事です。 前の記事は akabeさん の「ガンマ分布に基づく発注計算」でした！機械学習エンジニアの頭の中がわかる（数式がたくさん！）良アイデア記事なのでぜひ読んでみてください。  ガンマ分布に基づく発注計算zenn.dev 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/165598988/rectangle_large_type_2_6e5ad6f39f7c0a0b24ebf9922343429a.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[AlphaテストとBetaテストの違い：ソフトウェア品質を向上させるための基礎 | ソフトウェアテストタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/takuya77088/items/e9690609803112f53b1b</link>
+            <guid>https://qiita.com/takuya77088/items/e9690609803112f53b1b</guid>
+            <pubDate>Wed, 18 Dec 2024 04:32:04 GMT</pubDate>
+            <description><![CDATA[はじめに ソフトウェア開発において、テストは製品の品質を確保するために非常に重要なプロセスです。特にアルファテストとベータテストは、開発の後期段階で行われる重要なテストです。これらのテストはそれぞれ…]]></description>
+            <content:encoded><![CDATA[はじめに ソフトウェア開発において、テストは製品の品質を確保するために非常に重要なプロセスです。特にアルファテストとベータテストは、開発の後期段階で行われる重要なテストです。これらのテストはそれぞれ…]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzODc3MTI0JTJGNjgwMjI3YTM1YzdmYTI4NmJjNzhmZjlmNWEzZjU1YTAzZmUzNjJlNCUyRmxhcmdlLnBuZyUzRjE3MzQ1OTAzMzA_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmZtPXBuZzMyJnM9ZmI4ZTZiM2ZhYTc1MTZhYjkyMWI2Zjg1ZTQ5YmE0ZDM%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3De7e15ad37aead2368f4ea122f945dbea?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9QWxwaGElRTMlODMlODYlRTMlODIlQjklRTMlODMlODglRTMlODElQThCZXRhJUUzJTgzJTg2JUUzJTgyJUI5JUUzJTgzJTg4JUUzJTgxJUFFJUU5JTgxJTk1JUUzJTgxJTg0JUVGJUJDJTlBJUUzJTgyJUJEJUUzJTgzJTk1JUUzJTgzJTg4JUUzJTgyJUE2JUUzJTgyJUE3JUUzJTgyJUEyJUU1JTkzJTgxJUU4JUIzJUFBJUUzJTgyJTkyJUU1JTkwJTkxJUU0JUI4JThBJUUzJTgxJTk1JUUzJTgxJTlCJUUzJTgyJThCJUUzJTgxJTlGJUUzJTgyJTgxJUUzJTgxJUFFJUU1JTlGJUJBJUU3JUE0JThFJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZjNjYmIwYmQxYzM4M2IzZGY2NjM5OTkxMjYwMDM5M2M&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB0YWt1eWE3NzA4OCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWFlNTI2NjQ2MDk1MDI0NzE5MmNiMjFkYTUwZDk1ZDAx&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=66757e83914642e01b09dfa3bacbe559"/>
+        </item>
+        <item>
+            <title><![CDATA[社内QAメンバーにとったアンケートをまとめたよ | QA - freee Developers Hub]]></title>
+            <link>https://developers.freee.co.jp/entry/freee-qa-advent-calendar2024-day18</link>
+            <guid>https://developers.freee.co.jp/entry/freee-qa-advent-calendar2024-day18</guid>
+            <pubDate>Wed, 18 Dec 2024 01:00:00 GMT</pubDate>
+            <description><![CDATA[こんにちは。freee人事労務でQAエンジニアをしているしほです。 freee QA Advent Calendar 2024 18日目です。 なぜこのアンケートを実施しようと思ったのか QAの仕事は多岐にわたり、普段自身が業務をしている時に今すごく楽しいなと思うことが沢山あるのですが、他のQAの方をみていたり話していると人によって楽しいなと思う所が違ったりするのでは？と思い始めました。 QA業務...]]></description>
+            <content:encoded><![CDATA[こんにちは。freee人事労務でQAエンジニアをしているしほです。 freee QA Advent Calendar 2024 18日目です。 なぜこのアンケートを実施しようと思ったのか QAの仕事は多岐にわたり、普段自身が業務をしている時に今すごく楽しいなと思うことが沢山あるのですが、他のQAの方をみていたり話していると人によって楽しいなと思う所が違ったりするのでは？と思い始めました。 QA業務の魅力についても人によって考え方が違いますし、アンケートをとってみました。 17名から回答を頂いたのでそれを発表したいと思います！ アンケートの概要 アンケート対象者フリーでQAエンジニアとして働くメ…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/e5fe681510c12059c1e53dbb8dc0e17f3973fee8/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fshi52ho96%2F20241212%2F20241212183816.png"/>
+        </item>
+        <item>
+            <title><![CDATA[チーム内で経験を積み「縁の下の力持ち」ポジションの私がチームでどう立ち回っているか | Zennの「QA」のフィード]]></title>
+            <link>https://zenn.dev/bitkey_dev/articles/20fe758e875596</link>
+            <guid>https://zenn.dev/bitkey_dev/articles/20fe758e875596</guid>
+            <pubDate>Tue, 17 Dec 2024 22:00:02 GMT</pubDate>
+            <description><![CDATA[はじめに 株式会社ビットキー Software QAアドベントカレンダーの2024年12月18日の記事は、2023年1月に入社しましたSoftware QAチーム所属 na-na が担当します。 今回は、チーム内でそれなりに経験を積み「縁の下の力持ち」ポジションとなった私が普段の業務においてどのように行動をしているか、何を心がけているかをお伝えします！   所属チームの現状 現在のビットキーにはw...]]></description>
+            <content:encoded><![CDATA[はじめに 株式会社ビットキー Software QAアドベントカレンダーの2024年12月18日の記事は、2023年1月に入社しましたSoftware QAチーム所属 na-na が担当します。 今回は、チーム内でそれなりに経験を積み「縁の下の力持ち」ポジションとなった私が普段の業務においてどのように行動をしているか、何を心がけているかをお伝えします！   所属チームの現状 現在のビットキーにはworkhub事業本部、homehub事業本部があります。 入社時の私は、現在のhomehub事業本部にあたる部門のAppチームに配属されました。 4ヶ月ほどAppチームで修行を行った後、現在...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--hPH9uFVc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%25E5%2586%2585%25E3%2581%25A7%25E7%25B5%258C%25E9%25A8%2593%25E3%2582%2592%25E7%25A9%258D%25E3%2581%25BF%25E3%2580%258C%25E7%25B8%2581%25E3%2581%25AE%25E4%25B8%258B%25E3%2581%25AE%25E5%258A%259B%25E6%258C%2581%25E3%2581%25A1%25E3%2580%258D%25E3%2583%259D%25E3%2582%25B8%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2581%25AE%25E7%25A7%2581%25E3%2581%258C%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%25E3%2581%25A7%25E3%2581%25A9%25E3%2581%2586%25E7%25AB%258B%25E3%2581%25A1%25E5%259B%259E%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:UnanaU_%25E3%2583%2593%25E3%2583%2583%25E3%2583%2588%25E3%2582%25AD%25E3%2583%25BC%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2NjNWE2NmE4ZGMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Bitkey%2520Developers%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSU1PcHVsN0RnNkNFdlp0LXVwbW9pTGNCRkUxVUFZUXd5ajZ2R2Zjc0htTjFRPXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[GIHOZで状態遷移テスト | ソフトウェアテストタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/Yankaji777/items/927ac06b551d52c17718</link>
+            <guid>https://qiita.com/Yankaji777/items/927ac06b551d52c17718</guid>
+            <pubDate>Tue, 17 Dec 2024 17:20:17 GMT</pubDate>
+            <description><![CDATA[はじめに GIHOZを用いて状態遷移テストを実践していきます. 状態遷移テスト 状態遷移テストとは,「状態遷移図を用いたテスト」や「状態遷移表を用いたテスト」の総称です. 状態遷移テストでは,ソフト…]]></description>
+            <content:encoded><![CDATA[はじめに GIHOZを用いて状態遷移テストを実践していきます. 状態遷移テスト 状態遷移テストとは,「状態遷移図を用いたテスト」や「状態遷移表を用いたテスト」の総称です. 状態遷移テストでは,ソフト…]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzNTg2MjI2JTJGYjljNzNkYTk1NDcyOWIwYjFjZTc4NDg4YTE2ZjlkYzc3MjM2NTQ4NiUyRmxhcmdlLnBuZyUzRjE3MzI5NjEzMTA_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmZtPXBuZzMyJnM9MGFhYTQ2OTcyNWM0MWZmMmFiYzFhYjJhZjFmNGQ1MTU%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZhNjg5ZWRmNzFlZjRlNTgwYzA5NWEzNTRmYjc3ZDgzOWVkODYxODQxJTJGb3JpZ2luYWwuanBnJTNGMTcyNzgyNzkxMz9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZib3JkZXI9MiUyQ0ZGRkZGRiZmbT1wbmczMiZzPTBmMDViNDlmZGExMmQ4MGVlNzAyZGVkZTliMzE5YzNk%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D6c4c2057403078cc0153e9a95521fe61?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9R0lIT1olRTMlODElQTclRTclOEElQjYlRTYlODUlOEIlRTklODElQjclRTclQTclQkIlRTMlODMlODYlRTMlODIlQjklRTMlODMlODgmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzNBM0MzQyZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0yNzE0N2YyZmRhZTM4ZGIzMWNkZGM4NWQwMzc2OGJkOA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBZYW5rYWppNzc3JnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9YjlmMDM5NWIwYzJiMDYyNGVjMzVjMTBjOTk5ZTA0MTA&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=UkNDIHwg56uL5ZG96aSo44Kz44Oz44OU44Ol44O844K_44Kv44Op44OW&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%233A3C3C&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=0932715c8c2f1a4b76f1ebf42f84f5a0"/>
+        </item>
+        <item>
+            <title><![CDATA[プロダクトとは作るのではないと、開発エンジニアが泊まり込みのソフトウェアテストワークショップで学んだこと | Zennの「QA」のフィード]]></title>
+            <link>https://zenn.dev/loglass/articles/60e5fc38049d44</link>
+            <guid>https://zenn.dev/loglass/articles/60e5fc38049d44</guid>
+            <pubDate>Tue, 17 Dec 2024 16:00:05 GMT</pubDate>
+            <description><![CDATA[! この記事は「株式会社ログラス Productチーム Advent Calendar 2024」シリーズ2、20日目の記事です🎅🎄    はじめに ちょっとだけ僕の経歴をお話させてください。 現在ソフトウェアエンジニア3年目の福土です。 前職では受託✖️オフショア開発をしており、発注元の会社のPMやテックリードの方が決めた要件をもとにフィリピンのエンジニアと開発を行っておりました。 その時 ...]]></description>
+            <content:encoded><![CDATA[! この記事は「株式会社ログラス Productチーム Advent Calendar 2024」シリーズ2、20日目の記事です🎅🎄    はじめに ちょっとだけ僕の経歴をお話させてください。 現在ソフトウェアエンジニア3年目の福土です。 前職では受託✖️オフショア開発をしており、発注元の会社のPMやテックリードの方が決めた要件をもとにフィリピンのエンジニアと開発を行っておりました。 その時  自分の作ったプロダクトが誰に使われているのか？ どんな価値が提供できているのか？ どれくらい会社への利益貢献ができているのか？  が見えずこのまま見えないコスト構造とお客様の顔と向き合いながらエ...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--BB79ixQF--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2580%25E3%2582%25AF%25E3%2583%2588%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%259C%25E3%2582%258B%25E3%2581%25AE%25E3%2581%25A7%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25A8%25E3%2580%2581%25E9%2596%258B%25E7%2599%25BA%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2581%258C%25E6%25B3%258A%25E3%2581%25BE%25E3%2582%258A%25E8%25BE%25BC%25E3%2581%25BF%25E3%2581%25AE%25E3%2582%25BD%25E3%2583%2595%25E3%2583%2588%25E3%2582%25A6%25E3%2582%25A7%25E3%2582%25A2%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%2583%25E3%2583%2597%25E3%2581%25A7%25E5%25AD%25A6%25E3%2582%2593%25E3%2581%25A0%25E3%2581%2593%25E3%2581%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Ryoya%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzRlNWQ4ZTRjZjguanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2582%25B9%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzA5NTQ0ODkwMDguanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Vitest の mockClear / mockReset / mockRestore の違いについて | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/38koo/articles/9fab1852ef4058</link>
+            <guid>https://zenn.dev/38koo/articles/9fab1852ef4058</guid>
+            <pubDate>Tue, 17 Dec 2024 15:00:02 GMT</pubDate>
+            <description><![CDATA[はじめに こんにちは！レバウェル開発部アドベントカレンダー18日目です。 普段、スカウトチームではテストランナーに Vitest を使っています。今回は、Vitestのモックをクリアする方法について紹介します！   Vitest のモッククリア 公式ドキュメントを読むと、モックをクリアする方法は一見下記の 3 通りあるように見えます。  mockClear mockReset mockRestor...]]></description>
+            <content:encoded><![CDATA[はじめに こんにちは！レバウェル開発部アドベントカレンダー18日目です。 普段、スカウトチームではテストランナーに Vitest を使っています。今回は、Vitestのモックをクリアする方法について紹介します！   Vitest のモッククリア 公式ドキュメントを読むと、モックをクリアする方法は一見下記の 3 通りあるように見えます。  mockClear mockReset mockRestore  しかし、一度読んだだけでは、それぞれのメソッドをどの用途で呼び出せばいいのかわからなかったので調べてみました。   この記事で扱うサンプルプログラム 説明に入る前にこの記事で扱うサンプ...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--1LCqmdlE--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Vitest%2520%25E3%2581%25AE%2520mockClear%2520%252F%2520mockReset%2520%252F%2520mockRestore%2520%25E3%2581%25AE%25E9%2581%2595%25E3%2581%2584%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:38Koo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzE2MGUzMWIzMDcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[スクラム祭りの打ち合わせ(17.5回目)をしてきた | 天の月]]></title>
+            <link>https://aki-m.hatenadiary.com/entry/2024/12/17/234808</link>
+            <guid>https://aki-m.hatenadiary.com/entry/2024/12/17/234808</guid>
+            <pubDate>Tue, 17 Dec 2024 14:48:08 GMT</pubDate>
+            <description><![CDATA[aki-m.hatenadiary.com 前回出た話を踏まえて、スクラム祭りのkeynoteに関する打ち合わせをしてきたので、話したことをまとめます。 今回は自分が前回の運営の話も踏まえて、keynoteを依頼したいと思っていた人に直接話しをしてきました。 keynoteで話してもらいたいことや期待している行動変容を伝える keynoteで話せそうな内容 Next Action keynoteで...]]></description>
+            <content:encoded><![CDATA[aki-m.hatenadiary.com 前回出た話を踏まえて、スクラム祭りのkeynoteに関する打ち合わせをしてきたので、話したことをまとめます。 今回は自分が前回の運営の話も踏まえて、keynoteを依頼したいと思っていた人に直接話しをしてきました。 keynoteで話してもらいたいことや期待している行動変容を伝える keynoteで話せそうな内容 Next Action keynoteで話してもらいたいことや期待している行動変容を伝える 昨今コロナも徐々に落ち着いてオンサイトでの大規模*1なカンファレンスやオンラインで数100人が集まるような大規模なイベントが増えてきた一方で、小さく…]]></content:encoded>
+            <enclosure length="0" url="https://ogimage.blog.st-hatena.com/26006613655256878/6802418398312434643/1734446888"/>
+        </item>
+        <item>
+            <title><![CDATA[USDM-18. 品質要求を表現する方法1 | Kouichi Akiyama]]></title>
+            <link>https://note.com/akiyama924/n/n10f2e46f5d89</link>
+            <guid>https://note.com/akiyama924/n/n10f2e46f5d89</guid>
+            <pubDate>Tue, 17 Dec 2024 13:46:23 GMT</pubDate>
+            <description><![CDATA[2024年のアドカレです。 前回は「要求は2階層までの階層化を使い、仕様は階層化せずに仕様グループを使うことで分解する」という話を書きました。 続きをみる]]></description>
+            <content:encoded><![CDATA[2024年のアドカレです。 前回は「要求は2階層までの階層化を使い、仕様は階層化せずに仕様グループを使うことで分解する」という話を書きました。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/165839860/rectangle_large_type_2_b9dd91bbe0454f7e57e8909ab451403f.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[インシデント対応の最適解ってなんだろう (AWSぶっちゃけ討論会 vol.2) | SHIFT EVOLVE グループの新着イベント]]></title>
+            <link>https://shiftevolve.connpass.com/event/340317/</link>
+            <guid>https://shiftevolve.connpass.com/event/340317/</guid>
+            <pubDate>Tue, 17 Dec 2024 03:01:14 GMT</pubDate>
+            <description><![CDATA[開催日時: 2025/01/15 19:30 ～ 20:50<br />開催場所: オンライン<br /><br /><h2>インシデント対応の最適解ってなんだろう (AWSぶっちゃけ討論会 vol.2)</h2> <p>AWSを長年利用してきた人にしかわからない、セキュリティのリアルな問題と対策法をざっくばらんにディスカッション。</p> <p>AWS All Certifications En...]]></description>
+            <content:encoded><![CDATA[開催日時: 2025/01/15 19:30 ～ 20:50<br />開催場所: オンライン<br /><br /><h2>インシデント対応の最適解ってなんだろう (AWSぶっちゃけ討論会 vol.2)</h2> <p>AWSを長年利用してきた人にしかわからない、セキュリティのリアルな問題と対策法をざっくばらんにディスカッション。</p> <p>AWS All Certifications Engineerで、SHIFTのCCoEをリードする大瀧が、外部からエキスパートを招いて質問をぶつけ、教科書に載っていない、検索しても出てこない、AWSセキュリティのリアルな現実を掘り下げます。</p> <p>今回のお相手はPagerDutyのProduct Evangelist 草間一人(jacopen)氏と、大規模障害訓練が有名なフリー株式会社の執行役員CIO 土佐鉄平氏。 いざインシデントが起こったときの対応法や体験談、具体的な避難訓練や未然防止策、監視方法などを掘り下げます。とはいえインシデントって起きてしまうもの…、では起きてしまったときに大丈夫な状態にしておくには、どうすればいいだろう...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://media.connpass.com/thumbs/f3/5d/f35d82d54fa77c34f7196545576d4d89.png"/>
+        </item>
+        <item>
+            <title><![CDATA[bun testが速いのでvitestから置き換えたらめちゃ高速化された | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/studio/articles/c5207260e90e8c</link>
+            <guid>https://zenn.dev/studio/articles/c5207260e90e8c</guid>
+            <pubDate>Tue, 17 Dec 2024 01:15:58 GMT</pubDate>
+            <description><![CDATA[きっかけ  ユニットテストはvitestを使ってます まあ十分速い でもCIで全testを回すとけっこう時間がかかる bunのtestが速いらしい。置き換えよう    置き換えた結果   before (vitest)   1000弱のtestを回すのに2分44秒かかってた    after (bun + vitest)   9割方のtestをbunで実行して2秒。速すぎる    bunに移行が難...]]></description>
+            <content:encoded><![CDATA[きっかけ  ユニットテストはvitestを使ってます まあ十分速い でもCIで全testを回すとけっこう時間がかかる bunのtestが速いらしい。置き換えよう    置き換えた結果   before (vitest)   1000弱のtestを回すのに2分44秒かかってた    after (bun + vitest)   9割方のtestをbunで実行して2秒。速すぎる    bunに移行が難しかった一部だけvitestで実行して7秒    bunってどうなの？ https://bun.sh/  どうなんですかね？  State of JavaScript 2024: Testi...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--3tX5vM0s--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:bun%2520test%25E3%2581%258C%25E9%2580%259F%25E3%2581%2584%25E3%2581%25AE%25E3%2581%25A7vitest%25E3%2581%258B%25E3%2582%2589%25E7%25BD%25AE%25E3%2581%258D%25E6%258F%259B%25E3%2581%2588%25E3%2581%259F%25E3%2582%2589%25E3%2582%2581%25E3%2581%25A1%25E3%2582%2583%25E9%25AB%2598%25E9%2580%259F%25E5%258C%2596%25E3%2581%2595%25E3%2582%258C%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:miyaoka%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2UwYmNhNWZkODEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Studio%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2FlYTU4ZTc5ZDAuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[障害に立ち向かう！QAエンジニアの1年間のアクション | QA - freee Developers Hub]]></title>
+            <link>https://developers.freee.co.jp/entry/freee-qa-advent-calendar2024-day17</link>
+            <guid>https://developers.freee.co.jp/entry/freee-qa-advent-calendar2024-day17</guid>
+            <pubDate>Tue, 17 Dec 2024 01:00:00 GMT</pubDate>
+            <description><![CDATA[こんにちは。QAエンジニアをしているtoyopiです。 フリー以外のサービスと連携するプロダクトの一員としてQAをしています。 freee QA Advent Calendar2024 17日目です。 去年に引き続きアドベントカレンダーを執筆しております!! developers.freee.co.jp はじめに 約1年前、私は今の開発チームに配属されました。 悲しいことに、このチームは社内で1、...]]></description>
+            <content:encoded><![CDATA[こんにちは。QAエンジニアをしているtoyopiです。 フリー以外のサービスと連携するプロダクトの一員としてQAをしています。 freee QA Advent Calendar2024 17日目です。 去年に引き続きアドベントカレンダーを執筆しております!! developers.freee.co.jp はじめに 約1年前、私は今の開発チームに配属されました。 悲しいことに、このチームは社内で1、2位を争うほど障害（※）が多いチームです…。 このチームが開発するプロダクトで起きる障害の中には、外部連携先に依存する原因もありなかなか一筋縄ではいかない現状です。 そうは言っても、ユーザーにとっては…]]></content:encoded>
+            <enclosure length="0" url="https://ogimage.blog.st-hatena.com/10328749687206057058/6802418398308663821/1734397202"/>
+        </item>
+        <item>
+            <title><![CDATA[GIHOZで同値分割テスト・境界値分析 | ソフトウェアテストタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/Yankaji777/items/276132c0f08feabd2ec2</link>
+            <guid>https://qiita.com/Yankaji777/items/276132c0f08feabd2ec2</guid>
+            <pubDate>Mon, 16 Dec 2024 16:08:00 GMT</pubDate>
+            <description><![CDATA[はじめに GIHOZを用いて同値分割テスト・境界値分析を実践していきます. 同値分割 同値分割テストとは,各同値パーティションから最低一つの代表値を選んで行うテストです. その代表値には,範囲の中間…]]></description>
+            <content:encoded><![CDATA[はじめに GIHOZを用いて同値分割テスト・境界値分析を実践していきます. 同値分割 同値分割テストとは,各同値パーティションから最低一つの代表値を選んで行うテストです. その代表値には,範囲の中間…]]></content:encoded>
+            <enclosure length="0" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzNTg2MjI2JTJGYjljNzNkYTk1NDcyOWIwYjFjZTc4NDg4YTE2ZjlkYzc3MjM2NTQ4NiUyRmxhcmdlLnBuZyUzRjE3MzI5NjEzMTA_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmZtPXBuZzMyJnM9MGFhYTQ2OTcyNWM0MWZmMmFiYzFhYjJhZjFmNGQ1MTU%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZhNjg5ZWRmNzFlZjRlNTgwYzA5NWEzNTRmYjc3ZDgzOWVkODYxODQxJTJGb3JpZ2luYWwuanBnJTNGMTcyNzgyNzkxMz9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZib3JkZXI9MiUyQ0ZGRkZGRiZmbT1wbmczMiZzPTBmMDViNDlmZGExMmQ4MGVlNzAyZGVkZTliMzE5YzNk%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D6c4c2057403078cc0153e9a95521fe61?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9R0lIT1olRTMlODElQTclRTUlOTAlOEMlRTUlODAlQTQlRTUlODglODYlRTUlODklQjIlRTMlODMlODYlRTMlODIlQjklRTMlODMlODglRTMlODMlQkIlRTUlQTIlODMlRTclOTUlOEMlRTUlODAlQTQlRTUlODglODYlRTYlOUUlOTAmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzNBM0MzQyZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz04M2Q2NmIzMmM1ZTlkMzQ1ODM2MDkwZGI2ZGU3ZjhmZQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBZYW5rYWppNzc3JnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9YjlmMDM5NWIwYzJiMDYyNGVjMzVjMTBjOTk5ZTA0MTA&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=UkNDIHwg56uL5ZG96aSo44Kz44Oz44OU44Ol44O844K_44Kv44Op44OW&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%233A3C3C&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=9eae1995ca6a03fc8d25744263ab8f7e"/>
+        </item>
+        <item>
+            <title><![CDATA[昨日の正解は今日の正解ではないかもしれない | CAT GETTING OUT OF A BAG]]></title>
+            <link>https://miwa719.hatenablog.com/entry/daily20241217</link>
+            <guid>https://miwa719.hatenablog.com/entry/daily20241217</guid>
+            <pubDate>Mon, 16 Dec 2024 15:00:00 GMT</pubDate>
+            <description><![CDATA[ソフトウェアテストの小ネタ - Qiita Advent Calendar 2024 - Qiita 17日目の記事です。 製品開発、特にテスト（checkingではなくtesting）*1で難しいのは、自分の中での正解を持つ一方で「自分は間違っているかもしれない」と疑わなくてはならないところです。これは、だから自分は間違っていない＝正しい、を証明するために証拠を集めたり、製品や開発やテストに必要...]]></description>
+            <content:encoded><![CDATA[ソフトウェアテストの小ネタ - Qiita Advent Calendar 2024 - Qiita 17日目の記事です。 製品開発、特にテスト（checkingではなくtesting）*1で難しいのは、自分の中での正解を持つ一方で「自分は間違っているかもしれない」と疑わなくてはならないところです。これは、だから自分は間違っていない＝正しい、を証明するために証拠を集めたり、製品や開発やテストに必要な、ありとあらゆる知識や技術を身につけましょう、という話ではなく、たとえ証拠を集めたとしても、たくさんの知識や技術を身につけたとしても、本当にそれが正解かはわからないぞ！という態度で臨まないと、テスト…]]></content:encoded>
+            <enclosure length="0" url="https://ogimage.blog.st-hatena.com/12704346814674094552/6802418398309748233/1734238680"/>
+        </item>
+        <item>
+            <title><![CDATA[スクラム祭りの打ち合わせ(17回目)をしてきた | 天の月]]></title>
+            <link>https://aki-m.hatenadiary.com/entry/2024/12/16/232312</link>
+            <guid>https://aki-m.hatenadiary.com/entry/2024/12/16/232312</guid>
+            <pubDate>Mon, 16 Dec 2024 14:23:12 GMT</pubDate>
+            <description><![CDATA[aki-m.hatenadiary.com こちらの打ち合わせをしてきたので、会の様子と感想を書いていこうと思います。 今日はひたすらkeynoteでどんな話をしてほしいか、誰にしてほしいか、という話をしていました。 keynoteで聞きたい話の言語化 地域カンファレンスとの差別化 keynoteで聞きたい話の言語化 そもそもスクラム祭りを立ち上げている経緯にも重なるのですが、ここ数年間コミュニテ...]]></description>
+            <content:encoded><![CDATA[aki-m.hatenadiary.com こちらの打ち合わせをしてきたので、会の様子と感想を書いていこうと思います。 今日はひたすらkeynoteでどんな話をしてほしいか、誰にしてほしいか、という話をしていました。 keynoteで聞きたい話の言語化 地域カンファレンスとの差別化 keynoteで聞きたい話の言語化 そもそもスクラム祭りを立ち上げている経緯にも重なるのですが、ここ数年間コミュニティで得た知識や経験を活用して仕事で活躍したりしている人を個人的に何人も見ていて、その人たちの特徴として、「小さめな(少人数の)特に強いつながりを持っている」というのがある気がしていて、こういったつなが…]]></content:encoded>
+            <enclosure length="0" url="https://ogimage.blog.st-hatena.com/26006613655256878/6802418398312174668/1734358992"/>
+        </item>
+        <item>
+            <title><![CDATA[WACATE 2024 冬 招待講演の内容を咀嚼する | Zennの「QA」のフィード]]></title>
+            <link>https://zenn.dev/cazzenn/articles/0ad03766ef0ee8</link>
+            <guid>https://zenn.dev/cazzenn/articles/0ad03766ef0ee8</guid>
+            <pubDate>Mon, 16 Dec 2024 12:25:51 GMT</pubDate>
+            <description><![CDATA[鈴木さんの発表、当日のお話だけでは消化しきれず（というか飲み込むところでつまづいている）、咀嚼の時間を確保しました。 ちなみに、消化しきれないのは私のベース知識が乏しいからなのと、処理速度の問題なので、構成がどうとかそういう意図は全くありません。 とりあえず、発表スライドを改めて読み直そうと思います。 そして、思ったことを書き留めていき、その過程で飲み込めるものは飲み込んでいけるといいなと思ってい...]]></description>
+            <content:encoded><![CDATA[鈴木さんの発表、当日のお話だけでは消化しきれず（というか飲み込むところでつまづいている）、咀嚼の時間を確保しました。 ちなみに、消化しきれないのは私のベース知識が乏しいからなのと、処理速度の問題なので、構成がどうとかそういう意図は全くありません。 とりあえず、発表スライドを改めて読み直そうと思います。 そして、思ったことを書き留めていき、その過程で飲み込めるものは飲み込んでいけるといいなと思っています。 https://speakerdeck.com/kzsuzuki/20241214-wacatedong-tesutoshe-ji-ji-fa-wotiyotutofu-kan-site...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--GaiNxEbz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:WACATE%25202024%2520%25E5%2586%25AC%2520%25E6%258B%259B%25E5%25BE%2585%25E8%25AC%259B%25E6%25BC%2594%25E3%2581%25AE%25E5%2586%2585%25E5%25AE%25B9%25E3%2582%2592%25E5%2592%2580%25E5%259A%25BC%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:caz%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ZiYmZjZmU3NjAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[WACATE 2024 冬 招待講演の内容を咀嚼する | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/cazzenn/articles/0ad03766ef0ee8</link>
+            <guid>https://zenn.dev/cazzenn/articles/0ad03766ef0ee8</guid>
+            <pubDate>Mon, 16 Dec 2024 12:25:51 GMT</pubDate>
+            <description><![CDATA[鈴木さんの発表、当日のお話だけでは消化しきれず（というか飲み込むところでつまづいている）、咀嚼の時間を確保しました。 ちなみに、消化しきれないのは私のベース知識が乏しいからなのと、処理速度の問題なので、構成がどうとかそういう意図は全くありません。 とりあえず、発表スライドを改めて読み直そうと思います。 そして、思ったことを書き留めていき、その過程で飲み込めるものは飲み込んでいけるといいなと思ってい...]]></description>
+            <content:encoded><![CDATA[鈴木さんの発表、当日のお話だけでは消化しきれず（というか飲み込むところでつまづいている）、咀嚼の時間を確保しました。 ちなみに、消化しきれないのは私のベース知識が乏しいからなのと、処理速度の問題なので、構成がどうとかそういう意図は全くありません。 とりあえず、発表スライドを改めて読み直そうと思います。 そして、思ったことを書き留めていき、その過程で飲み込めるものは飲み込んでいけるといいなと思っています。 https://speakerdeck.com/kzsuzuki/20241214-wacatedong-tesutoshe-ji-ji-fa-wotiyotutofu-kan-site...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--GaiNxEbz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:WACATE%25202024%2520%25E5%2586%25AC%2520%25E6%258B%259B%25E5%25BE%2585%25E8%25AC%259B%25E6%25BC%2594%25E3%2581%25AE%25E5%2586%2585%25E5%25AE%25B9%25E3%2582%2592%25E5%2592%2580%25E5%259A%25BC%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:caz%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ZiYmZjZmU3NjAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[USDM-17. 仕様グループ | Kouichi Akiyama]]></title>
+            <link>https://note.com/akiyama924/n/n6ae55a8d996b</link>
+            <guid>https://note.com/akiyama924/n/n6ae55a8d996b</guid>
+            <pubDate>Mon, 16 Dec 2024 12:24:10 GMT</pubDate>
+            <description><![CDATA[2024年のアドカレです。 前回はV&amp;Vとの関係を確認し、「USDMで仕様を明らかにしておくとテスタビリティがあがる」という話を書きました。 続きをみる]]></description>
+            <content:encoded><![CDATA[2024年のアドカレです。 前回はV&amp;Vとの関係を確認し、「USDMで仕様を明らかにしておくとテスタビリティがあがる」という話を書きました。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/165835548/rectangle_large_type_2_37ee540d35edf0e885d2f562138f78ac.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[WACATE2024冬：景品の本の紹介 | ブログ - WACATE]]></title>
+            <link>https://wacate.jp/2024/12/16/wacate2024%e5%86%ac%ef%bc%9a%e6%99%af%e5%93%81%e3%81%ae%e6%9c%ac%e3%81%ae%e7%b4%b9%e4%bb%8b/</link>
+            <guid>https://wacate.jp/?p=4344</guid>
+            <pubDate>Mon, 16 Dec 2024 05:41:47 GMT</pubDate>
+            <description><![CDATA[今回のWACATE2024冬でも3賞の景品と抽選で本をプレゼントさせていただきました。 この本は、以下のような理由で選んだ本です。 ・招待講演者の方に選んでいただいた本 ・WACATE2024冬のセッションを作るにあたり 続きを読む 投稿 WACATE2024冬：景品の本の紹介 は WACATE に最初に表示されました。]]></description>
+            <content:encoded><![CDATA[今回のWACATE2024冬でも3賞の景品と抽選で本をプレゼントさせていただきました。 この本は、以下のような理由で選んだ本です。 ・招待講演者の方に選んでいただいた本 ・WACATE2024冬のセッションを作るにあたり 続きを読む 投稿 WACATE2024冬：景品の本の紹介 は WACATE に最初に表示されました。]]></content:encoded>
+            <category>実行委員のつぶやき</category>
+            <category>WACATE2024冬</category>
+        </item>
+        <item>
+            <title><![CDATA[WACATE2024冬：無事終了。ご参加ありがとうございました！ | ブログ - WACATE]]></title>
+            <link>https://wacate.jp/2024/12/16/wacate2024%e5%86%ac%ef%bc%9a%e7%84%a1%e4%ba%8b%e7%b5%82%e4%ba%86/</link>
+            <guid>https://wacate.jp/?p=4341</guid>
+            <pubDate>Mon, 16 Dec 2024 04:46:49 GMT</pubDate>
+            <description><![CDATA[2024年12月14日(土), 15日(日）にトーセイホテル＆セミナー幕張（新習志野駅近く）にて、 47名参加いただきWACATE2024冬を開催し無事終了しました。 参加者の皆様、ご講演いただいた鈴木一裕様、応援いただ 続きを読む 投稿 WACATE2024冬：無事終了。ご参加ありがとうございました！ は WACATE に最初に表示されました。]]></description>
+            <content:encoded><![CDATA[2024年12月14日(土), 15日(日）にトーセイホテル＆セミナー幕張（新習志野駅近く）にて、 47名参加いただきWACATE2024冬を開催し無事終了しました。 参加者の皆様、ご講演いただいた鈴木一裕様、応援いただ 続きを読む 投稿 WACATE2024冬：無事終了。ご参加ありがとうございました！ は WACATE に最初に表示されました。]]></content:encoded>
+            <category>実行委員のつぶやき</category>
+            <category>WACATE2024冬</category>
+        </item>
+        <item>
+            <title><![CDATA[React Native アプリのテスト経験を通じて得た知見 | Zennの「QA」のフィード]]></title>
+            <link>https://zenn.dev/ubie_dev/articles/e8e32dc08c1ff6</link>
+            <guid>https://zenn.dev/ubie_dev/articles/e8e32dc08c1ff6</guid>
+            <pubDate>Mon, 16 Dec 2024 04:25:46 GMT</pubDate>
+            <description><![CDATA[こんにちは、QAエンジニアのEnnです。 今年に入ってからReact Nativeで開発したアプリのテストに携わる機会がいくつかありましたが、10月から本格的にアジャイル開発でReact NativeアプリのQAを担当することになりました。チームのスプリントは2.5日で回しており、基本的には1スプリント内で開発からQAまで完結し、長くても2スプリントで開発からQAを完了するようにしています。何回か...]]></description>
+            <content:encoded><![CDATA[こんにちは、QAエンジニアのEnnです。 今年に入ってからReact Nativeで開発したアプリのテストに携わる機会がいくつかありましたが、10月から本格的にアジャイル開発でReact NativeアプリのQAを担当することになりました。チームのスプリントは2.5日で回しており、基本的には1スプリント内で開発からQAまで完結し、長くても2スプリントで開発からQAを完了するようにしています。何回かリリースサイクルを経験する中で、これまでのモバイルアプリのQA経験とは異なる点を感じることがありました。 今所属しているチームで新しい機能については手動テストで対応し、リリース後にはMagicP...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--oQLdVk0O--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:React%2520Native%2520%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2581%25AE%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E7%25B5%258C%25E9%25A8%2593%25E3%2582%2592%25E9%2580%259A%25E3%2581%2598%25E3%2581%25A6%25E5%25BE%2597%25E3%2581%259F%25E7%259F%25A5%25E8%25A6%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:enn%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2VlOWMzMWRhODMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Ubie%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzJjYjI2ZmExY2YuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[React Native アプリのテスト経験を通じて得た知見 | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/ubie_dev/articles/e8e32dc08c1ff6</link>
+            <guid>https://zenn.dev/ubie_dev/articles/e8e32dc08c1ff6</guid>
+            <pubDate>Mon, 16 Dec 2024 04:25:46 GMT</pubDate>
+            <description><![CDATA[こんにちは、QAエンジニアのEnnです。 今年に入ってからReact Nativeで開発したアプリのテストに携わる機会がいくつかありましたが、10月から本格的にアジャイル開発でReact NativeアプリのQAを担当することになりました。チームのスプリントは2.5日で回しており、基本的には1スプリント内で開発からQAまで完結し、長くても2スプリントで開発からQAを完了するようにしています。何回か...]]></description>
+            <content:encoded><![CDATA[こんにちは、QAエンジニアのEnnです。 今年に入ってからReact Nativeで開発したアプリのテストに携わる機会がいくつかありましたが、10月から本格的にアジャイル開発でReact NativeアプリのQAを担当することになりました。チームのスプリントは2.5日で回しており、基本的には1スプリント内で開発からQAまで完結し、長くても2スプリントで開発からQAを完了するようにしています。何回かリリースサイクルを経験する中で、これまでのモバイルアプリのQA経験とは異なる点を感じることがありました。 今所属しているチームで新しい機能については手動テストで対応し、リリース後にはMagicP...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--oQLdVk0O--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:React%2520Native%2520%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2581%25AE%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E7%25B5%258C%25E9%25A8%2593%25E3%2582%2592%25E9%2580%259A%25E3%2581%2598%25E3%2581%25A6%25E5%25BE%2597%25E3%2581%259F%25E7%259F%25A5%25E8%25A6%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:enn%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2VlOWMzMWRhODMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Ubie%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzJjYjI2ZmExY2YuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[【Streamlit】Streamlitのテスト用モジュール入門 | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/gussan_a/articles/475956c712167d</link>
+            <guid>https://zenn.dev/gussan_a/articles/475956c712167d</guid>
+            <pubDate>Mon, 16 Dec 2024 03:36:34 GMT</pubDate>
+            <description><![CDATA[こんにちは。データエンジニアの山口歩夢です！ Streamlitにはたくさんの便利な関数が用意されていて、簡単にアプリケーションの開発ができますが、AppTestというテスト用にも便利なモジュールも用意されています。 こちらを活用することで、テストコードを非常に手軽に書くことができます。 テストコードを書くことで、ユーザーがウィジェットに入力した内容や出力値などを検証することができ、アプリケーショ...]]></description>
+            <content:encoded><![CDATA[こんにちは。データエンジニアの山口歩夢です！ Streamlitにはたくさんの便利な関数が用意されていて、簡単にアプリケーションの開発ができますが、AppTestというテスト用にも便利なモジュールも用意されています。 こちらを活用することで、テストコードを非常に手軽に書くことができます。 テストコードを書くことで、ユーザーがウィジェットに入力した内容や出力値などを検証することができ、アプリケーションの保守性を高めることができます。 本記事ではpytestとAppTestを組み合わせてテストを行いますが、pytestに限らず、様々なテストツールを使用できるようです。 https://doc...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--zJ3bMO-v--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Streamlit%25E3%2580%2591Streamlit%25E3%2581%25AE%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E7%2594%25A8%25E3%2583%25A2%25E3%2582%25B8%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%25AB%25E5%2585%25A5%25E9%2596%2580%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E5%25B1%25B1%25E5%258F%25A3%25E6%25AD%25A9%25E5%25A4%25A2%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2IzZWQyMjkxYjAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[QAのバグトラッキングで大切なこと | ソフトウェアテスト - Gunosy Tech Blog]]></title>
+            <link>https://tech.gunosy.io/entry/bug_tracking</link>
+            <guid>https://tech.gunosy.io/entry/bug_tracking</guid>
+            <pubDate>Mon, 16 Dec 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[こんにちは。QA チームの miyagi です。 この記事は Gunosy Advent Calendar 2024 の 16 日目の記事です。 昨日の記事は igtm さんの「LLM を用いた PDF を元にした回答と、該当箇所のハイライト」でした。 今回は開発と QA におけるバグトラッキングについての記事となります。 はじめに Gunosy のバグトラッキングについて バグのワークフローと ...]]></description>
+            <content:encoded><![CDATA[こんにちは。QA チームの miyagi です。 この記事は Gunosy Advent Calendar 2024 の 16 日目の記事です。 昨日の記事は igtm さんの「LLM を用いた PDF を元にした回答と、該当箇所のハイライト」でした。 今回は開発と QA におけるバグトラッキングについての記事となります。 はじめに Gunosy のバグトラッキングについて バグのワークフローと JIRA を利用した管理 ワークフローの詳細 バグトラッキングで重要なポイント まとめ はじめに Gunosy ではバグトラッキングシステム (BTS) として JIRA を活用しています。 今回は …]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/869141a4f1a2ccc49aa0fb102bba9d2ab0a35fab/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fgn_myg%2F20241211%2F20241211164642.png"/>
+        </item>
+        <item>
+            <title><![CDATA[【Go】LocalStack活用メモ：ローカル開発環境からテストまで | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/foxtail88/articles/develop-with-localstack</link>
+            <guid>https://zenn.dev/foxtail88/articles/develop-with-localstack</guid>
+            <pubDate>Mon, 16 Dec 2024 01:53:59 GMT</pubDate>
+            <description><![CDATA[この記事は何 ローカル環境でAWSサービスをエミュレートできるLocalStack、便利ですよね。 本当のAWS環境を使わないようにすることで、セキュリティの担保(詳細は後述)やうっかりとした事故の防止を実現しつつ、アプリケーションのコード内で無用なモックを用意する必要もなくなります。 LocalStackの活用方法の様々な記事がありますが、Go言語での開発において、1:ローカル開発環境用途、2:...]]></description>
+            <content:encoded><![CDATA[この記事は何 ローカル環境でAWSサービスをエミュレートできるLocalStack、便利ですよね。 本当のAWS環境を使わないようにすることで、セキュリティの担保(詳細は後述)やうっかりとした事故の防止を実現しつつ、アプリケーションのコード内で無用なモックを用意する必要もなくなります。 LocalStackの活用方法の様々な記事がありますが、Go言語での開発において、1:ローカル開発環境用途、2:テスト時の使い捨て用途の両方をまとめて整理した記事は見かけませんでした。本記事では両者を整理して、スッとLocalStackを活用できることを目的とします。 具体的に取り扱う内容は以下の通り...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--pHc_Bpa6--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Go%25E3%2580%2591LocalStack%25E6%25B4%25BB%25E7%2594%25A8%25E3%2583%25A1%25E3%2583%25A2%25EF%25BC%259A%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25AB%25E9%2596%258B%25E7%2599%25BA%25E7%2592%25B0%25E5%25A2%2583%25E3%2581%258B%25E3%2582%2589%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25BE%25E3%2581%25A7%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:tenkoh%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzkxZjIzZDE4NGMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[e-dash QAってどんな感じ？2024の振り返り | Zennの「QA」のフィード]]></title>
+            <link>https://zenn.dev/edash_tech_blog/articles/552e14bfb37242</link>
+            <guid>https://zenn.dev/edash_tech_blog/articles/552e14bfb37242</guid>
+            <pubDate>Mon, 16 Dec 2024 00:00:02 GMT</pubDate>
+            <description><![CDATA[はじめに こちらはe-dash advent calendar 2024の16日目の記事です。 こんにちは！e-dashでQAエンジニアをしている10mo8です。 この記事では、e-dash QAグループを0から作り上げた2024年を振り返り、今日までの取り組みをご紹介したいと思います。   e-dash QAって？ e-dashのQAグループは、2024年5月に1人目、10月に2人目がジョインし...]]></description>
+            <content:encoded><![CDATA[はじめに こちらはe-dash advent calendar 2024の16日目の記事です。 こんにちは！e-dashでQAエンジニアをしている10mo8です。 この記事では、e-dash QAグループを0から作り上げた2024年を振り返り、今日までの取り組みをご紹介したいと思います。   e-dash QAって？ e-dashのQAグループは、2024年5月に1人目、10月に2人目がジョインし、現在は2名体制で横断的に複数の機能開発チームの一員として、Dev、Designer、PMと連携しながら、品質向上に取り組んでいます。   QAグループのコンピテンシーは？ e-dashのQ...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--AItwAKB0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:e-dash%2520QA%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25A9%25E3%2582%2593%25E3%2581%25AA%25E6%2584%259F%25E3%2581%2598%25EF%25BC%259F2024%25E3%2581%25AE%25E6%258C%25AF%25E3%2582%258A%25E8%25BF%2594%25E3%2582%258A%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:10mo8%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzNkZWM5ZjExNTcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:e-dash%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2E1MzgyY2QwMDMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[bug bashの型化と工夫 | Zennの「QA」のフィード]]></title>
+            <link>https://zenn.dev/atamaplus/articles/e4db0f53a2fd64</link>
+            <guid>https://zenn.dev/atamaplus/articles/e4db0f53a2fd64</guid>
+            <pubDate>Mon, 16 Dec 2024 00:00:02 GMT</pubDate>
+            <description><![CDATA[こんにちは！atama plusでQAをしている吉原です。 「atama plus Advent Calendar 2024」12月16日の記事になります。   はじめに atama plusでは、大きな新機能開発がある度にQA主導でbug bash(バグバッシュ)というイベントを開催してきました。回数を重ねるごとに知見が溜まり、遂には型化され、結果誰でも開催できる仕組みになってきました！今回そん...]]></description>
+            <content:encoded><![CDATA[こんにちは！atama plusでQAをしている吉原です。 「atama plus Advent Calendar 2024」12月16日の記事になります。   はじめに atama plusでは、大きな新機能開発がある度にQA主導でbug bash(バグバッシュ)というイベントを開催してきました。回数を重ねるごとに知見が溜まり、遂には型化され、結果誰でも開催できる仕組みになってきました！今回そんな型化されたbug bashについて紹介したいと思います。この記事は、bug bashに興味がある方や、これから開催を考えている方の参考になれば幸いです。   bug bashとは bug ba...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--szgMe8PX--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:bug%2520bash%25E3%2581%25AE%25E5%259E%258B%25E5%258C%2596%25E3%2581%25A8%25E5%25B7%25A5%25E5%25A4%25AB%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:piyo_pipipi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2RjOTM3M2I1YWUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:atama%2520plus%2520techblog%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSmROM2NPTWVQQW5ocEZpcGpWSldJYVhsRHp5Uk9saVBIV2RWSmxoSjhBSG5ITUlFd2s9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[産休とってみた | QA - freee Developers Hub]]></title>
+            <link>https://developers.freee.co.jp/entry/qa-maternity-leave</link>
+            <guid>https://developers.freee.co.jp/entry/qa-maternity-leave</guid>
+            <pubDate>Mon, 16 Dec 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[こんにちは、freee会計でQAエンジニアをしている kana です。 freee QA Advent Calendar2024 16日目です。 私は2023年7月に産休に入り、2024年4月に職場復帰をしました。 今回の記事では、出産と育休中の生活と復帰後の働き方について書いてみようと思います。 生後2日目の手の写真 産休を取るまでのこと QAで初めての産休 社内では産休・育休を取るメンバーはい...]]></description>
+            <content:encoded><![CDATA[こんにちは、freee会計でQAエンジニアをしている kana です。 freee QA Advent Calendar2024 16日目です。 私は2023年7月に産休に入り、2024年4月に職場復帰をしました。 今回の記事では、出産と育休中の生活と復帰後の働き方について書いてみようと思います。 生後2日目の手の写真 産休を取るまでのこと QAで初めての産休 社内では産休・育休を取るメンバーはいたものの、QAエンジニアで産休を取得する人は私が初めてでした。部署では前例がなかったので色々とジャーマネ※と手探りしながら進めたところもありましたが、社内では産育休に対するフォロー体制が整っており、安…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/1e3b5fba84ed85ea75c01b19cab104ba7e583990/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkana_freee%2F20241213%2F20241213113732.png"/>
+        </item>
+        <item>
+            <title><![CDATA[箸休め『日々を楽しむコツ』 | テスターちゃん【4コマ漫画】]]></title>
+            <link>https://testerchan.hatenadiary.com/entry/2024/12/16/082616</link>
+            <guid>https://testerchan.hatenadiary.com/entry/2024/12/16/082616</guid>
+            <pubDate>Sun, 15 Dec 2024 23:26:16 GMT</pubDate>
+            <description><![CDATA[箸休め『日々を楽しむコツ』 仕事では「目的は何か？」を意識することはとても大切です。 そこがフワッとしてしまうと、やっていることがブレブレになってしまうからです。 けれど、プライベートなことまで目的を考え始めてしまうと大変です。 プライベートのことまでそんなことを考えている人はいるの？と思うかもしれませんが成長を意識している人ほど多いように感じています。 コスパ・タイパを考え始めたら注意 当たり前...]]></description>
+            <content:encoded><![CDATA[箸休め『日々を楽しむコツ』 仕事では「目的は何か？」を意識することはとても大切です。 そこがフワッとしてしまうと、やっていることがブレブレになってしまうからです。 けれど、プライベートなことまで目的を考え始めてしまうと大変です。 プライベートのことまでそんなことを考えている人はいるの？と思うかもしれませんが成長を意識している人ほど多いように感じています。 コスパ・タイパを考え始めたら注意 当たり前のことですが、好きなことは好きなようにやればいいのです。 けれど時間やコスパ・タイパのことを意識しだすとそうなりません。 作者の場合です。 僕は絵を描くことが好きです。昔はジョジョの落書きを描いたりし…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/307642ff61a9e928e9660fdb304e01f884617d02/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm_training%2F20241216%2F20241216072333.png"/>
+        </item>
+        <item>
+            <title><![CDATA[第261回 テストラジオ アドベントカレンダー書いた話と今年のふりかえり | テストラジオ]]></title>
+            <link>https://testradio.fm/testradio-no/1610/</link>
+            <guid>https://testradio.fm/?p=1610</guid>
+            <pubDate>Sun, 15 Dec 2024 23:00:00 GMT</pubDate>
+            <category>テストラジオ</category>
+            <category>なそ回</category>
+            <category>よしたけ回</category>
+            <enclosure length="0" type="png" url="https://testradio.fm/wp/wp-content/uploads/2024/12/bd479957923a44a2c8c190eb2f0be3df.png"/>
+        </item>
+        <item>
+            <title><![CDATA[スクラムフェス沖縄Day2に参加してきた | 天の月]]></title>
+            <link>https://aki-m.hatenadiary.com/entry/2024/12/15/234432</link>
+            <guid>https://aki-m.hatenadiary.com/entry/2024/12/15/234432</guid>
+            <pubDate>Sun, 15 Dec 2024 14:44:32 GMT</pubDate>
+            <description><![CDATA[www.scrumfestokinawa.org Day1に引き続きスクラムフェス沖縄に参加してきたので、会の様子と感想を書いていこうと思います。 Kiroさんにペアプロしてもらう カレーを食べに行く 川口さんKiroさんOgasawaraさん佐野さん頭取Akiさんたちと雑談する えわさん稲野さんと話す Hisaさんと話す ワークショップ開催 クロージング&amp;写真撮影 全体を通した感想 Kiroさん...]]></description>
+            <content:encoded><![CDATA[www.scrumfestokinawa.org Day1に引き続きスクラムフェス沖縄に参加してきたので、会の様子と感想を書いていこうと思います。 Kiroさんにペアプロしてもらう カレーを食べに行く 川口さんKiroさんOgasawaraさん佐野さん頭取Akiさんたちと雑談する えわさん稲野さんと話す Hisaさんと話す ワークショップ開催 クロージング&amp;写真撮影 全体を通した感想 Kiroさんにペアプロしてもらう OSTのテーマで川口さんがTDD(ただだべる)を出していたところ、Kiroさんが本当のTDDの話をしだしており、それならもう「真・TDD」というテーマでOSTのテーマとしてやった…]]></content:encoded>
+            <enclosure length="0" url="https://ogimage.blog.st-hatena.com/26006613655256878/6802418398311706590/1734276225"/>
+        </item>
+        <item>
+            <title><![CDATA[USDM-16. USDMとV&amp;V | Kouichi Akiyama]]></title>
+            <link>https://note.com/akiyama924/n/n59e09325f349</link>
+            <guid>https://note.com/akiyama924/n/n59e09325f349</guid>
+            <pubDate>Sun, 15 Dec 2024 12:35:56 GMT</pubDate>
+            <description><![CDATA[2024年のアドカレです。 前回は「仕様漏れや仕様の衝突が起きる最大の原因は、「要求」が表現されないことにあるので、仕様の衝突は早い段階で全体の仕様化を進めることで防ぐ」という話を書きました。 続きをみる]]></description>
+            <content:encoded><![CDATA[2024年のアドカレです。 前回は「仕様漏れや仕様の衝突が起きる最大の原因は、「要求」が表現されないことにあるので、仕様の衝突は早い段階で全体の仕様化を進めることで防ぐ」という話を書きました。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/165822464/rectangle_large_type_2_e8172b5d1cbe0daa1f662aaa6184ebb7.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[Haskellでの実例ベーステストとプロパティベーステストの実装 | 千里霧中]]></title>
+            <link>https://goyoki.hatenablog.com/entry/2024/12/15/193406</link>
+            <guid>https://goyoki.hatenablog.com/entry/2024/12/15/193406</guid>
+            <pubDate>Sun, 15 Dec 2024 10:34:06 GMT</pubDate>
+            <description><![CDATA[ここ最近話題になることが多いプロパティベーステストはHaskellのQuickCheckを源流としています。そこで今回はHaskellでの実装を通して、実例ベーステストとプロパティベーステストのコードを例示します。 テスト対象 今回はテスト対象として一般的なFizzBuzzを使います。FizzBuzzは15で割り切れるならFizzBuzz、それ以外で、F3で割り切れるならばFizz、5で割り切れる...]]></description>
+            <content:encoded><![CDATA[ここ最近話題になることが多いプロパティベーステストはHaskellのQuickCheckを源流としています。そこで今回はHaskellでの実装を通して、実例ベーステストとプロパティベーステストのコードを例示します。 テスト対象 今回はテスト対象として一般的なFizzBuzzを使います。FizzBuzzは15で割り切れるならFizzBuzz、それ以外で、F3で割り切れるならばFizz、5で割り切れるならBuzzを表示するというプログラム課題です。 テスト対象のコードを以下に示します。 fizzbuzz :: Int -> String fizzbuzz n | n `mod` 15 == 0 =…]]></content:encoded>
+            <enclosure length="0" url="https://ogimage.blog.st-hatena.com/12704538227038514066/6802418398311825382/1734317217"/>
+        </item>
+        <item>
+            <title><![CDATA[テストの sharding を効率化する Tenbin というツールを作った | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/cybozu_frontend/articles/create-tenbin</link>
+            <guid>https://zenn.dev/cybozu_frontend/articles/create-tenbin</guid>
+            <pubDate>Sun, 15 Dec 2024 02:05:05 GMT</pubDate>
+            <description><![CDATA[! この記事は ソフトウェアテスト Advent Calendar 2024 の 15 日目の記事になります。  過去のテストの実行時間を利用してテストの sharding を効率化する Tenbin というツールを作りました。 https://github.com/nissy-dev/tenbin この記事では Tenbin が解決する課題と内部実装の詳細について解説します。ツールの使い方などは...]]></description>
+            <content:encoded><![CDATA[! この記事は ソフトウェアテスト Advent Calendar 2024 の 15 日目の記事になります。  過去のテストの実行時間を利用してテストの sharding を効率化する Tenbin というツールを作りました。 https://github.com/nissy-dev/tenbin この記事では Tenbin が解決する課題と内部実装の詳細について解説します。ツールの使い方などは、リポジトリの README をぜひ読んでもらえればと思います。   Tenbin が解決する課題 テストの実行時間を削減するために、CI などではテストを sharding (分割) して実行...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--azDbAE7D--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AE%2520sharding%2520%25E3%2582%2592%25E5%258A%25B9%25E7%258E%2587%25E5%258C%2596%25E3%2581%2599%25E3%2582%258B%2520Tenbin%2520%25E3%2581%25A8%25E3%2581%2584%25E3%2581%2586%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:nissy-dev%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2VjOTA1OThlNjEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25B5%25E3%2582%25A4%25E3%2583%259C%25E3%2582%25A6%25E3%2582%25BA%2520%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzJjMzg3ZjYwNjMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[runnを用いたバックエンドテストの試行錯誤の変遷とこれから | QA - freee Developers Hub]]></title>
+            <link>https://developers.freee.co.jp/entry/freee-qa-advent-calendar2024-day15</link>
+            <guid>https://developers.freee.co.jp/entry/freee-qa-advent-calendar2024-day15</guid>
+            <pubDate>Sun, 15 Dec 2024 01:00:00 GMT</pubDate>
+            <description><![CDATA[こんにちは。2023年のQA Advent Calendarを見てfreeeのQAに興味を持ち、転職。そして本年のAdvent Calendarの内の1日を担当することになりました。決済プロダクトのQAエンジニアのsunnyです。 チームではアジャイルQAのスタイルを採用しており、要求・要件定義からユーザーストーリーを作成し、開発者とやりとりしながら仕様の理解を深めつつ、テスト分析・設計を行ってい...]]></description>
+            <content:encoded><![CDATA[こんにちは。2023年のQA Advent Calendarを見てfreeeのQAに興味を持ち、転職。そして本年のAdvent Calendarの内の1日を担当することになりました。決済プロダクトのQAエンジニアのsunnyです。 チームではアジャイルQAのスタイルを採用しており、要求・要件定義からユーザーストーリーを作成し、開発者とやりとりしながら仕様の理解を深めつつ、テスト分析・設計を行っています。 本記事はバックエンドQAで実践してきた、runnというツールを用いた変遷と、その先の展望についてのお話です。 この記事はfreee QA Advent Calendar 2024 - Adve…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/76f5ed920936a52278969050c398df1b5e8ec508/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsnyk510%2F20241210%2F20241210183332.png"/>
+        </item>
+        <item>
+            <title><![CDATA[第312回：　「ALTAのテキストをつくろう」65　（テストツールの種類（後編）） | Kouichi Akiyama]]></title>
+            <link>https://note.com/akiyama924/n/n8be7ddf86bb8</link>
+            <guid>https://note.com/akiyama924/n/n8be7ddf86bb8</guid>
+            <pubDate>Sat, 14 Dec 2024 21:51:20 GMT</pubDate>
+            <description><![CDATA[◀前の記事へ 次の記事へ▶︎  ≡ はじめに 続きをみる]]></description>
+            <content:encoded><![CDATA[◀前の記事へ 次の記事へ▶︎  ≡ はじめに 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/165717078/rectangle_large_type_2_26c4f51d0fd31beb32dadfa5e50cb830.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[難しく考えず、自動化始めてみませんか？ | つーつー]]></title>
+            <link>https://note.com/ms_tsu_tsu/n/naf2d684121cf</link>
+            <guid>https://note.com/ms_tsu_tsu/n/naf2d684121cf</guid>
+            <pubDate>Sat, 14 Dec 2024 13:58:42 GMT</pubDate>
+            <description><![CDATA[QAエンジニアのつーつーです！ 約3カ月ぶり投稿です😅 今回はMagicPodについてお話したいと思います！ 「E2Eテストの自動化したいけど悩んでいる人」や「自動化しているけどなんかうまくいかないという人」のお役に立てればと🙏 続きをみる]]></description>
+            <content:encoded><![CDATA[QAエンジニアのつーつーです！ 約3カ月ぶり投稿です😅 今回はMagicPodについてお話したいと思います！ 「E2Eテストの自動化したいけど悩んでいる人」や「自動化しているけどなんかうまくいかないという人」のお役に立てればと🙏 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/165707748/rectangle_large_type_2_d35f1218284d8298c32a37458c62f908.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[USDM-15. 仕様の衝突を防ぐ | Kouichi Akiyama]]></title>
+            <link>https://note.com/akiyama924/n/n7c347d2cc9e7</link>
+            <guid>https://note.com/akiyama924/n/n7c347d2cc9e7</guid>
+            <pubDate>Sat, 14 Dec 2024 13:29:19 GMT</pubDate>
+            <description><![CDATA[2024年のアドカレです。 前回は「要求仕様書の作成手順」と題しながら、「行きつ戻りつして作成することの大切さと、テストエンジニアと顧客にレビューしてもらおう」いう話を書きました。 続きをみる]]></description>
+            <content:encoded><![CDATA[2024年のアドカレです。 前回は「要求仕様書の作成手順」と題しながら、「行きつ戻りつして作成することの大切さと、テストエンジニアと顧客にレビューしてもらおう」いう話を書きました。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/165586029/rectangle_large_type_2_822f4a3487d085b6dfac066b0ecb9fef.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[スクラムフェス沖縄2024の登壇ふりかえり | 天の月]]></title>
+            <link>https://aki-m.hatenadiary.com/entry/2024/12/14/194201</link>
+            <guid>https://aki-m.hatenadiary.com/entry/2024/12/14/194201</guid>
+            <pubDate>Sat, 14 Dec 2024 10:42:01 GMT</pubDate>
+            <description><![CDATA[スクラムフェス沖縄2024で登壇してきたのでそのふりかえりです。 スライド 準備編 実施当日 全体を通した感想 スライド speakerdeck.com 準備編 今回は2024年に運良く継続的に登壇してきたスクラム系カンファレンスたちの締めくくりということで、気合を入れていました。 ただ、プロポーザルの段階で一通りシュミレーション&amp;ちょっとした実験はしていたこととワークショップということもあり、ス...]]></description>
+            <content:encoded><![CDATA[スクラムフェス沖縄2024で登壇してきたのでそのふりかえりです。 スライド 準備編 実施当日 全体を通した感想 スライド speakerdeck.com 準備編 今回は2024年に運良く継続的に登壇してきたスクラム系カンファレンスたちの締めくくりということで、気合を入れていました。 ただ、プロポーザルの段階で一通りシュミレーション&amp;ちょっとした実験はしていたこととワークショップということもあり、スライドの準備という意味ではすぐに終わっていたので、あとはどの手法をワークショップに取り入れるかという部分だけがネックになっていました。 ここは結果的に非常に悩み、色々時間をかけることになったのですが、…]]></content:encoded>
+            <enclosure length="0" url="https://ogimage.blog.st-hatena.com/26006613655256878/6802418398311563268/1734172921"/>
+        </item>
+        <item>
+            <title><![CDATA[カバレッジによってわかることとわからないこと | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/choimake/articles/54faa2b8482c49</link>
+            <guid>https://zenn.dev/choimake/articles/54faa2b8482c49</guid>
+            <pubDate>Sat, 14 Dec 2024 03:33:06 GMT</pubDate>
+            <description><![CDATA[はじめに テストコードを書く際、よく話題に上がるのが「カバレッジ率」です。 「カバレッジ率100%を目指すべき」という意見もあれば、「カバレッジ率にこだわりすぎるのは良くない」という意見もあります。 この記事では、カバレッジ率から何がわかって、何がわからないのかを整理し、カバレッジ率との付き合い方について考えます。   カバレッジ率とは カバレッジ率（コードカバレッジ）とは、テストコードによって実...]]></description>
+            <content:encoded><![CDATA[はじめに テストコードを書く際、よく話題に上がるのが「カバレッジ率」です。 「カバレッジ率100%を目指すべき」という意見もあれば、「カバレッジ率にこだわりすぎるのは良くない」という意見もあります。 この記事では、カバレッジ率から何がわかって、何がわからないのかを整理し、カバレッジ率との付き合い方について考えます。   カバレッジ率とは カバレッジ率（コードカバレッジ）とは、テストコードによって実行されたコードの割合を示す指標です。 例えば、カバレッジ率80%であれば、全体のコードのうち80%がテストによって実行されたことを意味します。 一般的なカバレッジの種類としては以下があります...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--k7IA8YQN--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25AB%25E3%2583%2590%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25B8%25E3%2581%25AB%25E3%2582%2588%25E3%2581%25A3%25E3%2581%25A6%25E3%2582%258F%25E3%2581%258B%25E3%2582%258B%25E3%2581%2593%25E3%2581%25A8%25E3%2581%25A8%25E3%2582%258F%25E3%2581%258B%25E3%2582%2589%25E3%2581%25AA%25E3%2581%2584%25E3%2581%2593%25E3%2581%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:choimake%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2MwYTQzYjhhZjUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[「runn」で API のリプレースを安全におこなう | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/levtech/articles/ebcbf7884b72c0</link>
+            <guid>https://zenn.dev/levtech/articles/ebcbf7884b72c0</guid>
+            <pubDate>Sat, 14 Dec 2024 03:00:01 GMT</pubDate>
+            <description><![CDATA[この記事は「レバテック開発部 Advent Calendar 2024」の 14 日目の記事です！ 昨日の記事は、dema96さんの「E2Eテストのテスト範囲と優先順位を考えてみた」でした。   TL;DR  API のリプレースを計画しているが、更新系の API の同等性検証をどうやるか悩んでいた API シナリオテストツール「runn」の「HTTP の API を実行する機能」と「データベース...]]></description>
+            <content:encoded><![CDATA[この記事は「レバテック開発部 Advent Calendar 2024」の 14 日目の記事です！ 昨日の記事は、dema96さんの「E2Eテストのテスト範囲と優先順位を考えてみた」でした。   TL;DR  API のリプレースを計画しているが、更新系の API の同等性検証をどうやるか悩んでいた API シナリオテストツール「runn」の「HTTP の API を実行する機能」と「データベースへのクエリを実行する機能」を使って、更新系 API の同等性検証をやってみた 実務で活用に向けてより詳細な検証が必要だが、API 実行後のデータベースの状態の検証やデータ駆動テストなど、API ...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--6tD3XA7A--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258Crunn%25E3%2580%258D%25E3%2581%25A7%2520API%2520%25E3%2581%25AE%25E3%2583%25AA%25E3%2583%2597%25E3%2583%25AC%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%2592%25E5%25AE%2589%25E5%2585%25A8%25E3%2581%25AB%25E3%2581%258A%25E3%2581%2593%25E3%2581%25AA%25E3%2581%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%258B%25E3%2581%25AB%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzY1YzcxZDY5NDkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%25AC%25E3%2583%2590%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E9%2596%258B%25E7%2599%25BA%25E9%2583%25A8%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2VmYTUyNzA5MDcuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Go自動テスト - Testcontainersとrunn を用いたAPIテストの実践- | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/finatext/articles/go-advent-calendar-2024</link>
+            <guid>https://zenn.dev/finatext/articles/go-advent-calendar-2024</guid>
+            <pubDate>Sat, 14 Dec 2024 01:10:08 GMT</pubDate>
+            <description><![CDATA[この記事はGo Advent Calendar 2024の 14 日目の記事です🎄   はじめに 先日、専用コンテナを利用したユニットテストのアプローチとして、Testcontainers for Goを利用した具体例を紹介させていただきました！ https://zenn.dev/finatext/articles/finatext-advent-calendar-2024-testcontai...]]></description>
+            <content:encoded><![CDATA[この記事はGo Advent Calendar 2024の 14 日目の記事です🎄   はじめに 先日、専用コンテナを利用したユニットテストのアプローチとして、Testcontainers for Goを利用した具体例を紹介させていただきました！ https://zenn.dev/finatext/articles/finatext-advent-calendar-2024-testcontainers-go まだ読んでない人は、ぜひチェックといいねをよろしくお願いします 👍 本記事では、Testcontainers と合わせて、runn を用いた API テスト基盤について詳しく解説し...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--UtZ-yuiQ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Go%25E8%2587%25AA%25E5%258B%2595%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%2520-%2520Testcontainers%25E3%2581%25A8runn%2520%25E3%2582%2592%25E7%2594%25A8%25E3%2581%2584%25E3%2581%259FAPI%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AE%25E5%25AE%259F%25E8%25B7%25B5-%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Reo%2520Uehara%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2NjOTE1NmJhMjEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Finatext%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3OGZlZjFjM2QuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[【番外編】テストについて - React Ariaの実装読むぞ | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/mehm8128/articles/adv2024-react-aria-test</link>
+            <guid>https://zenn.dev/mehm8128/articles/adv2024-react-aria-test</guid>
+            <pubDate>Fri, 13 Dec 2024 15:00:12 GMT</pubDate>
+            <description><![CDATA[! この記事は React Aria の実装読むぞ - Qiita Advent Calendar 2024 の 14 日目の記事です。  こんにちは、フロントエンドエンジニアの mehm8128 です。 今日は 枠稼ぎ番外編として、React Aria で行われているテストについて書いていきます。   React Aria に導入されているテスト React Aria では主に 3 種類のテスト...]]></description>
+            <content:encoded><![CDATA[! この記事は React Aria の実装読むぞ - Qiita Advent Calendar 2024 の 14 日目の記事です。  こんにちは、フロントエンドエンジニアの mehm8128 です。 今日は 枠稼ぎ番外編として、React Aria で行われているテストについて書いていきます。   React Aria に導入されているテスト React Aria では主に 3 種類のテストが導入されています。 1 つ目は Storybook です。 開発中に使うのはもちろん、おそらく Chromatic も利用されています。CI で回しているようなコードが見当たらなかったのですが...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--GrdV_qj5--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E7%2595%25AA%25E5%25A4%2596%25E7%25B7%25A8%25E3%2580%2591%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6%2520-%2520React%2520Aria%25E3%2581%25AE%25E5%25AE%259F%25E8%25A3%2585%25E8%25AA%25AD%25E3%2582%2580%25E3%2581%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mehm8128%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzNjNzNlNGI0Y2EuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Spring Boot における結合テスト環境のカイゼン〜トランザクション管理とデータの後始末〜 | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/babyjob/articles/40e06ad34b7aa1</link>
+            <guid>https://zenn.dev/babyjob/articles/40e06ad34b7aa1</guid>
+            <pubDate>Fri, 13 Dec 2024 15:00:02 GMT</pubDate>
+            <description><![CDATA[! この記事は BABY JOB Advent Calendar 2024 の 14 日目の記事です。    はじめに 2 日目に引き続き、結合テストのカイゼンについての話です。 https://zenn.dev/babyjob/articles/b155f1f8bcb6db 今回は、データベースのトランザクション管理とデータの後始末についてカイゼンしたことをご紹介します！   環境  Java ...]]></description>
+            <content:encoded><![CDATA[! この記事は BABY JOB Advent Calendar 2024 の 14 日目の記事です。    はじめに 2 日目に引き続き、結合テストのカイゼンについての話です。 https://zenn.dev/babyjob/articles/b155f1f8bcb6db 今回は、データベースのトランザクション管理とデータの後始末についてカイゼンしたことをご紹介します！   環境  Java 17 Spring Boot 3.3.6 Spring Boot Starter Data JPA 3.3.6 MariaDB 10.6.14    背景   カイゼン前の結合テスト 次のような...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--IytrfHdM--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Spring%2520Boot%2520%25E3%2581%25AB%25E3%2581%258A%25E3%2581%2591%25E3%2582%258B%25E7%25B5%2590%25E5%2590%2588%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E7%2592%25B0%25E5%25A2%2583%25E3%2581%25AE%25E3%2582%25AB%25E3%2582%25A4%25E3%2582%25BC%25E3%2583%25B3%25E3%2580%259C%25E3%2583%2588%25E3%2583%25A9%25E3%2583%25B3%25E3%2582%25B6%25E3%2582%25AF%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E7%25AE%25A1%25E7%2590%2586%25E3%2581%25A8%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2581%25AE%25E5%25BE%258C%25E5%25A7%258B%25E6%259C%25AB%25E3%2580%259C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:yukana%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzNhODk4NDRkMDEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:BABY%2520JOB%2520%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I2YTA4NjQ2MGYuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[スクラムフェス沖縄 Day1に参加してきた | 天の月]]></title>
+            <link>https://aki-m.hatenadiary.com/entry/2024/12/13/234558</link>
+            <guid>https://aki-m.hatenadiary.com/entry/2024/12/13/234558</guid>
+            <pubDate>Fri, 13 Dec 2024 14:45:58 GMT</pubDate>
+            <description><![CDATA[www.scrumfestokinawa.org 今日からスクラムフェス沖縄に参加しているので、会の様子と感想を書いていこうと思います。 会場到着まで 荒井さんとお話する ogasawaraさんとお話する 玉子寿司さんとお話する isseiさんとお話する 一次会 帰宅まで 会場到着まで 今回諸情による会場から20kmほどの場所に宿泊していて、一応バスで一本(40分弱)ということだったので16時くら...]]></description>
+            <content:encoded><![CDATA[www.scrumfestokinawa.org 今日からスクラムフェス沖縄に参加しているので、会の様子と感想を書いていこうと思います。 会場到着まで 荒井さんとお話する ogasawaraさんとお話する 玉子寿司さんとお話する isseiさんとお話する 一次会 帰宅まで 会場到着まで 今回諸情による会場から20kmほどの場所に宿泊していて、一応バスで一本(40分弱)ということだったので16時くらいに宿を出たのですが、到着予定のバスが来るまで30分待ち、会場に到着するまでは100分かかるという沖縄の洗礼を浴び、18時すぎに会場に到着しました笑 荒井さんとお話する 会場に入ってまずは荒井さんとお…]]></content:encoded>
+            <enclosure length="0" url="https://ogimage.blog.st-hatena.com/26006613655256878/6802418398311391619/1734101158"/>
+        </item>
+        <item>
+            <title><![CDATA[USDM-14. 要求仕様書の作成手順 | Kouichi Akiyama]]></title>
+            <link>https://note.com/akiyama924/n/ncb2d9ede102a</link>
+            <guid>https://note.com/akiyama924/n/ncb2d9ede102a</guid>
+            <pubDate>Fri, 13 Dec 2024 13:17:26 GMT</pubDate>
+            <description><![CDATA[2024年のアドカレです。 前回は「USDMのテンプレート」について書きました。 続きをみる]]></description>
+            <content:encoded><![CDATA[2024年のアドカレです。 前回は「USDMのテンプレート」について書きました。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/165209119/rectangle_large_type_2_54810dd1b24b20e3828fb0f5f2e7eeed.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[GIHOZアップデート情報：テスト観点ツリーでCSVダウンロードができない不具合を修正、アカウント削除時に警告ダイアログを表示するよう修正 | GIHOZ’s blog]]></title>
+            <link>https://gihoz.hatenablog.com/entry/2024/12/13/141501</link>
+            <guid>https://gihoz.hatenablog.com/entry/2024/12/13/141501</guid>
+            <pubDate>Fri, 13 Dec 2024 05:15:01 GMT</pubDate>
+            <description><![CDATA[日頃からテスト技法ツールGIHOZをご利用いただき誠にありがとうございます。 また、ご感想やフィードバックをいただき誠にありがとうございます。 最新のアップデート情報をお知らせします。 テスト観点ツリーでCSVダウンロードができない不具合を修正しました テスト観点ツリーの編集中に、UNDOやREDOを行うと透明の図形や線が作成され、これが原因でテスト観点ツリーのCSVダウンロードができない場合があ...]]></description>
+            <content:encoded><![CDATA[日頃からテスト技法ツールGIHOZをご利用いただき誠にありがとうございます。 また、ご感想やフィードバックをいただき誠にありがとうございます。 最新のアップデート情報をお知らせします。 テスト観点ツリーでCSVダウンロードができない不具合を修正しました テスト観点ツリーの編集中に、UNDOやREDOを行うと透明の図形や線が作成され、これが原因でテスト観点ツリーのCSVダウンロードができない場合がある不具合を修正しました。今回の修正により、上記の原因でCSVダウンロードができなかったテスト観点ツリーでも、CSVダウンロードが正常に行えるようになりました。 アカウント削除時に警告ダイアログを表示す…]]></content:encoded>
+            <enclosure length="0" url="https://cdn.image.st-hatena.com/image/scale/62107ff26d380bb771e7a44fbbf41c8e2ff6caa0/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F157860548%2F1613452374462641"/>
+        </item>
+        <item>
+            <title><![CDATA[【Python】コード品質を保ための環境構築@Vscode | Zennの「品質」のフィード]]></title>
+            <link>https://zenn.dev/tobiuo/articles/786767bd137444</link>
+            <guid>https://zenn.dev/tobiuo/articles/786767bd137444</guid>
+            <pubDate>Fri, 13 Dec 2024 04:41:29 GMT</pubDate>
+            <description><![CDATA[はじめに pythonでの開発時していると、「関数の入力の型が合っているかわからない」「いつの間にか不要なimportがある」などコードが煩雑になっていくことがあると思います。 気をつけたいと思う一方で、そこまで考えていると開発が進まなかったりします。 そこで、簡単な設定でvscodeが自動的に品質を保てる方法を紹介します！   対象読者  pythonで開発をしている人 コード品質を考えていた人...]]></description>
+            <content:encoded><![CDATA[はじめに pythonでの開発時していると、「関数の入力の型が合っているかわからない」「いつの間にか不要なimportがある」などコードが煩雑になっていくことがあると思います。 気をつけたいと思う一方で、そこまで考えていると開発が進まなかったりします。 そこで、簡単な設定でvscodeが自動的に品質を保てる方法を紹介します！   対象読者  pythonで開発をしている人 コード品質を考えていた人 複数人で開発する必要がある人    記事を読むメリット  一定の品質を保ったコードを書ける    結論  簡単な設定でVscodeにコードチェックをしてもらえる！  ! uvを利用すること...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--Wq0qxcwF--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Python%25E3%2580%2591%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E5%2593%2581%25E8%25B3%25AA%25E3%2582%2592%25E4%25BF%259D%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AE%25E7%2592%25B0%25E5%25A2%2583%25E6%25A7%258B%25E7%25AF%2589%2540Vscode%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:tobiuo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzAzYTkwNjkzOWYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[手動テストと自動テストの使い分け | Ranorex Blog - UIテスト自動化ツール Ranorex]]></title>
+            <link>https://ranorex.techmatrix.jp/blog/2024/12/13/manual-testing-vs-automation-testing/</link>
+            <guid>https://ranorex.techmatrix.jp/?p=26547</guid>
+            <pubDate>Fri, 13 Dec 2024 02:00:00 GMT</pubDate>
+            <description><![CDATA[テスト自動化は、人によるユーザーテストと同様の品質保証を再現できるでしょうか ? テスト実行を最適化するテクノロジーの進歩は目覚しいものがあります。このため、多くのソフトウェア開発者が自動テストの有効性を調査し、自社の業 […] The post 手動テストと自動テストの使い分け first appeared on UIテスト自動化ツール Ranorex.]]></description>
+            <content:encoded><![CDATA[テスト自動化は、人によるユーザーテストと同様の品質保証を再現できるでしょうか ? テスト実行を最適化するテクノロジーの進歩は目覚しいものがあります。このため、多くのソフトウェア開発者が自動テストの有効性を調査し、自社の業 […] The post 手動テストと自動テストの使い分け first appeared on UIテスト自動化ツール Ranorex.]]></content:encoded>
+            <category>事例・ソリューション</category>
+            <enclosure length="0" type="png" url="https://57.180.23.150/wp-content/uploads/rx-logo-desktop-dark.png"/>
+        </item>
+        <item>
+            <title><![CDATA[From SQL Developer to QA Engineer: Shifting from Database Development to API Testing | QA - freee Developers Hub]]></title>
+            <link>https://developers.freee.co.jp/entry/from-sql-developer-to-qa-engineer</link>
+            <guid>https://developers.freee.co.jp/entry/from-sql-developer-to-qa-engineer</guid>
+            <pubDate>Fri, 13 Dec 2024 01:00:00 GMT</pubDate>
+            <description><![CDATA[Hello, mina-san! I'm Kim, a QA engineer from EMP Growth Team. Our team is tasked to prevent user’s churn due to incomplete functionality of freee-payroll and we generate cross-selling from freee-payro...]]></description>
+            <content:encoded><![CDATA[Hello, mina-san! I'm Kim, a QA engineer from EMP Growth Team. Our team is tasked to prevent user’s churn due to incomplete functionality of freee-payroll and we generate cross-selling from freee-payroll to other products. This is the thirteenth day of the freee QA Advent Calendar 2024. Getting Start…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/6b56326a7bc2c79024e08c95587c72f46d0418dc/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkimberly-pabilona%2F20241210%2F20241210205705.png"/>
+        </item>
+        <item>
+            <title><![CDATA[2024.12.13ナレッジ   ブラックボックステストとは?種類やホワイトボックステストとの違いを解説  この人に聞きました: 株式会社ベリサーブ 広報・マーケティング部 テスティング・エバンジェリ... | メディア | HQW!]]></title>
+            <link>https://www.veriserve.co.jp/helloqualityworld/media/20241213001</link>
+            <guid>https://www.veriserve.co.jp/helloqualityworld/media/20241213001</guid>
+            <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[2024.12.13 ナレッジ ブラックボックステストとは?種類やホワイトボックステストとの違いを解説  この人に聞きました: 株式会社ベリサーブ 広報・マーケティング部 テスティング・エバンジェリスト 大西建児  ブラックボックステスト ホワイトボックステスト グレーボックステスト テストタイプ テスト技法 同値分割法 境界値分析 デシジョンテーブル 状態遷移テスト]]></description>
+            <content:encoded><![CDATA[2024.12.13 ナレッジ ブラックボックステストとは?種類やホワイトボックステストとの違いを解説  この人に聞きました: 株式会社ベリサーブ 広報・マーケティング部 テスティング・エバンジェリスト 大西建児  ブラックボックステスト ホワイトボックステスト グレーボックステスト テストタイプ テスト技法 同値分割法 境界値分析 デシジョンテーブル 状態遷移テスト]]></content:encoded>
+            <enclosure length="0" type="png" url="https://www.veriserve.co.jp/helloqualityworld/media/06bfb1cc911a40c894ee05da52702be9/cdc19a2aca0046598552bf557347c717/black-box-testing.png"/>
+        </item>
+        <item>
+            <title><![CDATA[アジャイルカフェ@オンライン 第64回に参加してきた | 天の月]]></title>
+            <link>https://aki-m.hatenadiary.com/entry/2024/12/12/233000</link>
+            <guid>https://aki-m.hatenadiary.com/entry/2024/12/12/233000</guid>
+            <pubDate>Thu, 12 Dec 2024 14:30:00 GMT</pubDate>
+            <description><![CDATA[https://agile-studio.connpass.com/event/338444/ こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 会の概要 会の様子 自律的である状態とは？ 自律的でない状態とは？ 自律的な振る舞いを増やすためにやることは？(スクラムマスターへの依存編) 自律的な振る舞いを増やすためにやることは？(ゴール設定に無関心編) 「ステークホルダ...]]></description>
+            <content:encoded><![CDATA[https://agile-studio.connpass.com/event/338444/ こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 会の概要 会の様子 自律的である状態とは？ 自律的でない状態とは？ 自律的な振る舞いを増やすためにやることは？(スクラムマスターへの依存編) 自律的な振る舞いを増やすためにやることは？(ゴール設定に無関心編) 「ステークホルダーを呼んで欲しい」とお願いしたときに呼んでくれたなら自律的か？逆にPOの強い想いがあって呼ばないと判断したら自律的か？ 会全体を通した感想 会の概要 アジャイル実践者からのお悩みに対して、アジャイルコ…]]></content:encoded>
+            <enclosure length="0" url="https://ogimage.blog.st-hatena.com/26006613655256878/6802418398311135096/1734013801"/>
+        </item>
+        <item>
+            <title><![CDATA[USDM-13. USDMテンプレート | Kouichi Akiyama]]></title>
+            <link>https://note.com/akiyama924/n/nbf3b4bafdb19</link>
+            <guid>https://note.com/akiyama924/n/nbf3b4bafdb19</guid>
+            <pubDate>Thu, 12 Dec 2024 13:11:09 GMT</pubDate>
+            <description><![CDATA[2024年のアドカレです。 前回は「USDMは、“システムを作るための文書”と定義する」という話を書きました。 続きをみる]]></description>
+            <content:encoded><![CDATA[2024年のアドカレです。 前回は「USDMは、“システムを作るための文書”と定義する」という話を書きました。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/165329768/rectangle_large_type_2_a5941237f9a8de3341bdc4df0d1241d9.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[ビジュアルリグレッションテスト導入での学び | Zennの「QA」のフィード]]></title>
+            <link>https://zenn.dev/atamaplus/articles/c0a1e889857272</link>
+            <guid>https://zenn.dev/atamaplus/articles/c0a1e889857272</guid>
+            <pubDate>Thu, 12 Dec 2024 01:00:05 GMT</pubDate>
+            <description><![CDATA[はじめに こんにちは、atama plusでQAをしているAchanです。 atama plus Advent Calendar 2024の12月12日の記事です。 昨年弊社QA @ikegagagamiが紹介しました「開発プロセスでPlaywrightを活用して自動化を進めている話」でチャレンジ中でしたビジュアルリグレッションテストでの失敗や成果などをご紹介出来ればと思います。 Playwrig...]]></description>
+            <content:encoded><![CDATA[はじめに こんにちは、atama plusでQAをしているAchanです。 atama plus Advent Calendar 2024の12月12日の記事です。 昨年弊社QA @ikegagagamiが紹介しました「開発プロセスでPlaywrightを活用して自動化を進めている話」でチャレンジ中でしたビジュアルリグレッションテストでの失敗や成果などをご紹介出来ればと思います。 Playwrightでビジュアルリグレッションテストを導入してみたいといった方の参考になれば幸いです。 本記事では以下の構成でご紹介していきます！  ビジュアルリグレッションテスト導入の経緯 検出すべき不具...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--ozd7Yxo4--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2593%25E3%2582%25B8%25E3%2583%25A5%25E3%2582%25A2%25E3%2583%25AB%25E3%2583%25AA%25E3%2582%25B0%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E5%25B0%258E%25E5%2585%25A5%25E3%2581%25A7%25E3%2581%25AE%25E5%25AD%25A6%25E3%2581%25B3%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Achan%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2RjOTM3M2I1YWUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:atama%2520plus%2520techblog%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzY1ZWIyZmNhNDkuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Accessibility Matters: A QA Engineer’s Journey to Inclusive Testing | QA - freee Developers Hub]]></title>
+            <link>https://developers.freee.co.jp/entry/freee-qa-advent-calendar-day12</link>
+            <guid>https://developers.freee.co.jp/entry/freee-qa-advent-calendar-day12</guid>
+            <pubDate>Thu, 12 Dec 2024 01:00:00 GMT</pubDate>
+            <description><![CDATA[Hi everyone! I'm Aireen, a QA engineer from the Employee Portal team. We're the ones behind the web application that connects administrators and employees seamlessly across all freee products. Can you...]]></description>
+            <content:encoded><![CDATA[Hi everyone! I'm Aireen, a QA engineer from the Employee Portal team. We're the ones behind the web application that connects administrators and employees seamlessly across all freee products. Can you believe it? We're already on the twelfth day of the freee QA Advent Calendar 2024—almost halfway th…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/8d485d7054e791e3082b7904e0c21253dbc57a5d/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fa%2Faireen-doliente%2F20241205%2F20241205165936.png"/>
+        </item>
+        <item>
+            <title><![CDATA[GIHOZアップデート情報：AIによる状態遷移図の自動生成機能をリリースしました | GIHOZ’s blog]]></title>
+            <link>https://gihoz.hatenablog.com/entry/2024/12/12/094703</link>
+            <guid>https://gihoz.hatenablog.com/entry/2024/12/12/094703</guid>
+            <pubDate>Thu, 12 Dec 2024 00:47:03 GMT</pubDate>
+            <description><![CDATA[日頃からテスト技法ツールGIHOZをご利用いただき誠にありがとうございます。 また、ご感想やフィードバックをいただき誠にありがとうございます。 最新のアップデート情報をお知らせします。 仕様書などの文章を入力することで、AIが状態遷移図を自動生成可能に 状態遷移テストで、仕様書などの文章を入力するだけで、AIが自動的に状態遷移図を生成する機能をベータ版としてリリースしました。これまではユーザ自身で...]]></description>
+            <content:encoded><![CDATA[日頃からテスト技法ツールGIHOZをご利用いただき誠にありがとうございます。 また、ご感想やフィードバックをいただき誠にありがとうございます。 最新のアップデート情報をお知らせします。 仕様書などの文章を入力することで、AIが状態遷移図を自動生成可能に 状態遷移テストで、仕様書などの文章を入力するだけで、AIが自動的に状態遷移図を生成する機能をベータ版としてリリースしました。これまではユーザ自身で一から状態遷移図を作成する必要があり、慣れていないユーザにとっては作成に時間がかかるという課題がありました。この機能を利用することで、状態遷移図の作成をより簡単に行うことができます。 仕様書などの自然…]]></content:encoded>
+            <enclosure length="0" url="https://cdn.image.st-hatena.com/image/scale/62107ff26d380bb771e7a44fbbf41c8e2ff6caa0/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F157860548%2F1613452374462641"/>
+        </item>
+        <item>
+            <title><![CDATA[【playwright】PageObjectModelという実装パターン | Zennの「QA」のフィード]]></title>
+            <link>https://zenn.dev/sdb_blog/articles/test-blog-kyoya-005</link>
+            <guid>https://zenn.dev/sdb_blog/articles/test-blog-kyoya-005</guid>
+            <pubDate>Wed, 11 Dec 2024 22:00:06 GMT</pubDate>
+            <description><![CDATA[Social Databank Advent Calendar 2024 の 11 日目です。 前回の記事 https://zenn.dev/sdb_blog/articles/test-blog-kyoya-004   🙃はじめに ! playwrightのPageObjectModelについて考える  皆さんおはこんばんにちは！（死語 充実したplaywright人生歩んでいますか！？ 今回...]]></description>
+            <content:encoded><![CDATA[Social Databank Advent Calendar 2024 の 11 日目です。 前回の記事 https://zenn.dev/sdb_blog/articles/test-blog-kyoya-004   🙃はじめに ! playwrightのPageObjectModelについて考える  皆さんおはこんばんにちは！（死語 充実したplaywright人生歩んでいますか！？ 今回はplaywrightの実装パターンであるPageObjectModel についてお話ししていこうと思います！   🗒️Page Object Modelって？ 皆さんはPageObjectMod...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--r9igQw5l--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590playwright%25E3%2580%2591PageObjectModel%25E3%2581%25A8%25E3%2581%2584%25E3%2581%2586%25E5%25AE%259F%25E8%25A3%2585%25E3%2583%2591%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%25B3%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:pulasQ%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzMyODFjNDczOTguanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25BD%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25AB%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%2590%25E3%2583%25B3%25E3%2582%25AF%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzY5NDNlNWE1MDIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[ソフトウェアテストのケーススタディ～あなたがこのプロジェクトにジョインしたら何をしますか？ver1.0.0  #テスタディ | テストラジオ]]></title>
+            <link>https://testradio.fm/testradio-no/1595/</link>
+            <guid>https://testradio.fm/?p=1595</guid>
+            <pubDate>Wed, 11 Dec 2024 21:40:00 GMT</pubDate>
+            <description><![CDATA[どうも。テストラジオのメインパーソナリティのなそです！ この記事はソフ …]]></description>
+            <content:encoded><![CDATA[どうも。テストラジオのメインパーソナリティのなそです！ この記事はソフ …]]></content:encoded>
+            <category>AdventCalendar</category>
+            <category>テスタディ</category>
+            <enclosure length="0" type="png" url="https://testradio.fm/wp/wp-content/uploads/2024/12/0ff8a5e55c20c428f9cb07fb54544725.png"/>
+        </item>
+        <item>
+            <title><![CDATA[yr-learning Vol46に参加してきた | 天の月]]></title>
+            <link>https://aki-m.hatenadiary.com/entry/2024/12/11/224039</link>
+            <guid>https://aki-m.hatenadiary.com/entry/2024/12/11/224039</guid>
+            <pubDate>Wed, 11 Dec 2024 13:40:39 GMT</pubDate>
+            <description><![CDATA[yr-camp.connpass.com こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 今日はTrading Card Game Kataのモデリングをやっていきました。 先週の取り組みの簡単な共有 イベント洗い出し アクター/コマンド/ポリシー/集約の追加 全体を通した感想 先週の取り組みの簡単な共有 先週の取り組みを簡単に共有し、今回は前回よりは少し難しめのお題...]]></description>
+            <content:encoded><![CDATA[yr-camp.connpass.com こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 今日はTrading Card Game Kataのモデリングをやっていきました。 先週の取り組みの簡単な共有 イベント洗い出し アクター/コマンド/ポリシー/集約の追加 全体を通した感想 先週の取り組みの簡単な共有 先週の取り組みを簡単に共有し、今回は前回よりは少し難しめのお題でイベントストーミングをやってみようという話をしました。 イベント洗い出し イベントを洗い出しながらハッピーパスをフローで表現してみました。最初にブレスト形式でイベントを洗い出した後、みんなで出したも…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/8669339c9c4ba7e4fc677dad579a52df0449652d/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fa%2Faki_M%2F20241211%2F20241211222847.png"/>
+        </item>
+        <item>
+            <title><![CDATA[USDM-12. 要求仕様書を“作るための文書”と定義する | Kouichi Akiyama]]></title>
+            <link>https://note.com/akiyama924/n/n70168184949f</link>
+            <guid>https://note.com/akiyama924/n/n70168184949f</guid>
+            <pubDate>Wed, 11 Dec 2024 12:39:18 GMT</pubDate>
+            <description><![CDATA[2024年のアドカレです。 前回は「要求仕様書は、まず書いてみる。上手くいかなかった個所に気が付く。間違えた個所に戻って直していくといったツールである」という話を書きました。 続きをみる]]></description>
+            <content:encoded><![CDATA[2024年のアドカレです。 前回は「要求仕様書は、まず書いてみる。上手くいかなかった個所に気が付く。間違えた個所に戻って直していくといったツールである」という話を書きました。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/164937926/rectangle_large_type_2_dbed5eb6ea81d06ae8c7772c1274de2d.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[Issueに添付する画像や動画を作るときに気にしていること | yoshitake_1201’s diary]]></title>
+            <link>https://yoshitake-1201.hatenablog.com/entry/2024/12/09/690000</link>
+            <guid>https://yoshitake-1201.hatenablog.com/entry/2024/12/09/690000</guid>
+            <pubDate>Wed, 11 Dec 2024 12:12:08 GMT</pubDate>
+            <description><![CDATA[この記事は、ソフトウェアテストの小ネタ Advent Calendarの9日目の記事です。 はじめに 今年、Issueを書くときに気にしていることなどについて話す機会が定期的にありました。 その中で、画像や動画を作るとき何も考えていないつもりだったんだけど意外と色々と考えていたみたいだぞ！と思ったので、Issueに添付する画像や動画を作るときに、気にしていることを書くことにしました。 Issue ...]]></description>
+            <content:encoded><![CDATA[この記事は、ソフトウェアテストの小ネタ Advent Calendarの9日目の記事です。 はじめに 今年、Issueを書くときに気にしていることなどについて話す機会が定期的にありました。 その中で、画像や動画を作るとき何も考えていないつもりだったんだけど意外と色々と考えていたみたいだぞ！と思ったので、Issueに添付する画像や動画を作るときに、気にしていることを書くことにしました。 Issue バグ票/不具合票/バグチケット/課題などなどという、テスト中に見つけた不具合が書かれたものを、業務ではIssueと呼んでおり、1事象1件で管理しています *1。 自分がIssueを登録するときは、見つ…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/f7675cad2e068781cd1363e68335f34bffe7e73f/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn.blog.st-hatena.com%2Fimages%2Ftheme%2Fog-image-1500.png"/>
+        </item>
+        <item>
+            <title><![CDATA[ページオブジェクトモデルを採用しているE2Eテスト基盤の実装Tips | QA - freee Developers Hub]]></title>
+            <link>https://developers.freee.co.jp/entry/freee-qa-advent-calendar2024-day11</link>
+            <guid>https://developers.freee.co.jp/entry/freee-qa-advent-calendar2024-day11</guid>
+            <pubDate>Wed, 11 Dec 2024 01:00:00 GMT</pubDate>
+            <description><![CDATA[こんにちは。SEQ (Software Engineering in Quality)のnakamuです。 freee QA Advent Calendar2024 11日目です。 これまで、freeeのE2EテストツールはSelenium+RSpec+Capybara+SitePrismをベースにした独自基盤を利用してきました。 この基盤は、2016年からページオブジェクトモデルを採用し、今日に...]]></description>
+            <content:encoded><![CDATA[こんにちは。SEQ (Software Engineering in Quality)のnakamuです。 freee QA Advent Calendar2024 11日目です。 これまで、freeeのE2EテストツールはSelenium+RSpec+Capybara+SitePrismをベースにした独自基盤を利用してきました。 この基盤は、2016年からページオブジェクトモデルを採用し、今日に至るまでE2Eテストの保守および運用を支えてきました。 今年度からは、Playwrightを基盤にした新しいE2Eテスト環境への移行を推進しており、新基盤でも引き続きページオブジェクトモデルを使用して…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/313ceed99dd2c18fa4d363314a105cba49c7bf15/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsouchan2000%2F20241204%2F20241204162754.png"/>
+        </item>
+        <item>
+            <title><![CDATA[2024.12.11ビジネス   【連載】QAの変遷を語る:ベリサーブ・江澤宏和さん「何をもってテストを終わりとすべきか」を問い続ける  株式会社ベリサーブ 中部モビリティ第一事業部 技術部長 江澤宏... | メディア | HQW!]]></title>
+            <link>https://www.veriserve.co.jp/helloqualityworld/media/20241211001</link>
+            <guid>3e75796c.0100N09y01kg5800mS80k01r0wJ00502mP80801r0wIg0502avNMk3Zrgt0gP_2g.https://www.veriserve.co.jp/helloqualityworld/media/</guid>
+            <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[2024.12.11 ビジネス 【連載】QAの変遷を語る:ベリサーブ・江澤宏和さん「何をもってテストを終わりとすべきか」を問い続ける  株式会社ベリサーブ 中部モビリティ第一事業部 技術部長 江澤宏和  QAの変遷を語る QA ソフトウェアテスト IoT テストエンジニア 終了理論]]></description>
+            <content:encoded><![CDATA[2024.12.11 ビジネス 【連載】QAの変遷を語る:ベリサーブ・江澤宏和さん「何をもってテストを終わりとすべきか」を問い続ける  株式会社ベリサーブ 中部モビリティ第一事業部 技術部長 江澤宏和  QAの変遷を語る QA ソフトウェアテスト IoT テストエンジニア 終了理論]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://www.veriserve.co.jp/helloqualityworld/media/06bfb1cc911a40c894ee05da52702be9/7bd9c55f13f7453facee03194300e6a7/QA%E3%81%AE%E5%A4%89%E9%81%B7%E3%82%92%E8%AA%9E%E3%82%8B-%E6%B1%9F%E6%BE%A4%E5%AE%8F%E5%92%8C.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[10   2024.12.11ビジネス   【連載】QAの変遷を語る:ベリサーブ・江澤宏和さん「何をもってテストを終わりとすべきか」を問い続ける  株式会社ベリサーブ 中部モビリティ第一事業部 技術部... | メディア | HQW!]]></title>
+            <link>https://www.veriserve.co.jp/helloqualityworld/media/20241211001</link>
+            <guid>76e46862.0100N09y01kg5800mS80k01r0wJ00502mP80801r0wIg0502avNMk3Zrgt0gP_2g.https://www.veriserve.co.jp/helloqualityworld/media/</guid>
+            <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[10 2024.12.11 ビジネス 【連載】QAの変遷を語る:ベリサーブ・江澤宏和さん「何をもってテストを終わりとすべきか」を問い続ける  株式会社ベリサーブ 中部モビリティ第一事業部 技術部長 江澤宏和  QAの変遷を語る QA ソフトウェアテスト IoT テストエンジニア 終了理論]]></description>
+            <content:encoded><![CDATA[10 2024.12.11 ビジネス 【連載】QAの変遷を語る:ベリサーブ・江澤宏和さん「何をもってテストを終わりとすべきか」を問い続ける  株式会社ベリサーブ 中部モビリティ第一事業部 技術部長 江澤宏和  QAの変遷を語る QA ソフトウェアテスト IoT テストエンジニア 終了理論]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://www.veriserve.co.jp/helloqualityworld/media/06bfb1cc911a40c894ee05da52702be9/7bd9c55f13f7453facee03194300e6a7/QA%E3%81%AE%E5%A4%89%E9%81%B7%E3%82%92%E8%AA%9E%E3%82%8B-%E6%B1%9F%E6%BE%A4%E5%AE%8F%E5%92%8C.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[テスト実行者というロールについて語ろう | Zennの「QA」のフィード]]></title>
+            <link>https://zenn.dev/55_ymzn/articles/value_of_test_execution</link>
+            <guid>https://zenn.dev/55_ymzn/articles/value_of_test_execution</guid>
+            <pubDate>Tue, 10 Dec 2024 15:00:06 GMT</pubDate>
+            <description><![CDATA[はじめに 本記事はテスト実行フェーズを主に担っている「テスト実行者」というロールに焦点を当て、その技術的な専門性について記載します。 また、「テスト実行者」は専門性の高さにかかわらず、低単価で扱われることが多いです。 その点についても考察します。 本記事の趣旨は「テスト実行者はそれはそれで高いスキルが必要なんだよ」ということを記載する記事です。 また、「低単価で扱われること」に理由付けすることが目...]]></description>
+            <content:encoded><![CDATA[はじめに 本記事はテスト実行フェーズを主に担っている「テスト実行者」というロールに焦点を当て、その技術的な専門性について記載します。 また、「テスト実行者」は専門性の高さにかかわらず、低単価で扱われることが多いです。 その点についても考察します。 本記事の趣旨は「テスト実行者はそれはそれで高いスキルが必要なんだよ」ということを記載する記事です。 また、「低単価で扱われること」に理由付けすることが目的ではありません。 そのため、最後に「テスト実行者というロールが低単価を脱するには」についても考察します。   テスト実行とテスト実行者   テスト実行とは 本記事おけるテスト実行とは、以下...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--3ZSro9OP--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E5%25AE%259F%25E8%25A1%258C%25E8%2580%2585%25E3%2581%25A8%25E3%2581%2584%25E3%2581%2586%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%25AB%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6%25E8%25AA%259E%25E3%2582%258D%25E3%2581%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Go%2521Go%2521Gomazn%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzZiODNmZDk1ZDMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[テスト実行者というロールについて語ろう | Go!Go!Gomaznさんのフィード]]></title>
+            <link>https://zenn.dev/55_ymzn/articles/value_of_test_execution</link>
+            <guid>https://zenn.dev/55_ymzn/articles/value_of_test_execution</guid>
+            <pubDate>Tue, 10 Dec 2024 15:00:06 GMT</pubDate>
+            <description><![CDATA[はじめに 本記事はテスト実行フェーズを主に担っている「テスト実行者」というロールに焦点を当て、その技術的な専門性について記載します。 また、「テスト実行者」は専門性の高さにかかわらず、低単価で扱われることが多いです。 その点についても考察します。 本記事の趣旨は「テスト実行者はそれはそれで高いスキルが必要なんだよ」ということを記載する記事です。 また、「低単価で扱われること」に理由付けすることが目...]]></description>
+            <content:encoded><![CDATA[はじめに 本記事はテスト実行フェーズを主に担っている「テスト実行者」というロールに焦点を当て、その技術的な専門性について記載します。 また、「テスト実行者」は専門性の高さにかかわらず、低単価で扱われることが多いです。 その点についても考察します。 本記事の趣旨は「テスト実行者はそれはそれで高いスキルが必要なんだよ」ということを記載する記事です。 また、「低単価で扱われること」に理由付けすることが目的ではありません。 そのため、最後に「テスト実行者というロールが低単価を脱するには」についても考察します。   テスト実行とテスト実行者   テスト実行とは 本記事おけるテスト実行とは、以下...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--3ZSro9OP--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E5%25AE%259F%25E8%25A1%258C%25E8%2580%2585%25E3%2581%25A8%25E3%2581%2584%25E3%2581%2586%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%25AB%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6%25E8%25AA%259E%25E3%2582%258D%25E3%2581%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Go%2521Go%2521Gomazn%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzZiODNmZDk1ZDMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Webアプリケーションのテスト&amp;ドキュメンテーションツールと戯れる | かいり]]></title>
+            <link>https://note.com/kairiver/n/n3b839ab9ba9a</link>
+            <guid>https://note.com/kairiver/n/n3b839ab9ba9a</guid>
+            <pubDate>Tue, 10 Dec 2024 15:00:03 GMT</pubDate>
+            <description><![CDATA[この記事はソフトウェアテスト Advent Calendar 2024 11日目の記事です。  ソフトウェアテスト - Qiita Advent Calendar 2024 - QiitaCalendar page for Qiita Advent Calendar 2024 regarding ソフトウェアqiita.com 続きをみる]]></description>
+            <content:encoded><![CDATA[この記事はソフトウェアテスト Advent Calendar 2024 11日目の記事です。  ソフトウェアテスト - Qiita Advent Calendar 2024 - QiitaCalendar page for Qiita Advent Calendar 2024 regarding ソフトウェアqiita.com 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/161250391/rectangle_large_type_2_bbae67ea8ebfdc71ec2f5726de06f6e9.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[大人のソフトウェアテスト雑談会 #242【囲碁】に参加してきた | 天の月]]></title>
+            <link>https://aki-m.hatenadiary.com/entry/2024/12/10/225149</link>
+            <guid>https://aki-m.hatenadiary.com/entry/2024/12/10/225149</guid>
+            <pubDate>Tue, 10 Dec 2024 13:51:49 GMT</pubDate>
+            <description><![CDATA[https://ost-zatu.connpass.com/event/339611/ 葛飾例大祭 テスト系のイベント オンライン勉強会 JSTQB デシジョンテーブル 状態遷移テスト 全体を通した感想 葛飾例大祭 いよいよ葛飾例大祭が開催されるということでその話をしていきました。 実は一番長いオンライン区長のお言葉 keynote4本立て 昼休憩なし Youtube？で中継される可能性あり が見...]]></description>
+            <content:encoded><![CDATA[https://ost-zatu.connpass.com/event/339611/ 葛飾例大祭 テスト系のイベント オンライン勉強会 JSTQB デシジョンテーブル 状態遷移テスト 全体を通した感想 葛飾例大祭 いよいよ葛飾例大祭が開催されるということでその話をしていきました。 実は一番長いオンライン区長のお言葉 keynote4本立て 昼休憩なし Youtube？で中継される可能性あり が見どころだということです。 テスト系のイベント やまずんさんが主催しているものを中心に、テスト系のイベントがいくつか紹介されていました。 warai.connpass.com over-30-start…]]></content:encoded>
+            <enclosure length="0" url="https://ogimage.blog.st-hatena.com/26006613655256878/6802418398310587796/1733838709"/>
+        </item>
+        <item>
+            <title><![CDATA[USDM-11. 要求仕様書は仕様を決定する過程を表現したもの | Kouichi Akiyama]]></title>
+            <link>https://note.com/akiyama924/n/n504ae40eb6fe</link>
+            <guid>https://note.com/akiyama924/n/n504ae40eb6fe</guid>
+            <pubDate>Tue, 10 Dec 2024 12:49:23 GMT</pubDate>
+            <description><![CDATA[2024年のアドカレです。 前回は「不完全な仕様が与えられたときには要求を想像して、要求を立ててから、立てた要求の正しさを確認する」という話について書きました。 続きをみる]]></description>
+            <content:encoded><![CDATA[2024年のアドカレです。 前回は「不完全な仕様が与えられたときには要求を想像して、要求を立ててから、立てた要求の正しさを確認する」という話について書きました。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/164935594/rectangle_large_type_2_f3c9a7d718a5daa75bb5e70451c23b82.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[内部品質と外部品質のバランス戦略：市場投入後の改善サイクルを回すために | Zennの「品質」のフィード]]></title>
+            <link>https://zenn.dev/yoshiyoshifujii/articles/7aafde5cbc3cce</link>
+            <guid>https://zenn.dev/yoshiyoshifujii/articles/7aafde5cbc3cce</guid>
+            <pubDate>Tue, 10 Dec 2024 02:59:01 GMT</pubDate>
+            <description><![CDATA[内部品質と外部品質のバランス戦略：市場投入後の改善サイクルを回すために 新規サービスや製品開発では、品質向上と市場投入スピードの両立が常に課題となります。 その品質には大きく分けて、 内部品質（Internal Quality） と 外部品質（External Quality） があります。   内部品質：開発者視点の品質（コードの可読性・保守性・拡張性・テスト容易性、アーキテクチャの整合性など）...]]></description>
+            <content:encoded><![CDATA[内部品質と外部品質のバランス戦略：市場投入後の改善サイクルを回すために 新規サービスや製品開発では、品質向上と市場投入スピードの両立が常に課題となります。 その品質には大きく分けて、 内部品質（Internal Quality） と 外部品質（External Quality） があります。   内部品質：開発者視点の品質（コードの可読性・保守性・拡張性・テスト容易性、アーキテクチャの整合性など）。  外部品質：ユーザー視点の品質（使いやすさ、パフォーマンス、信頼性、セキュリティなど）。顧客満足度に直結します。    過度な内部品質追求は市場投入の遅れを招く 内部品質を最高水準に引き...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--MdHjz_9P--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%2586%2585%25E9%2583%25A8%25E5%2593%2581%25E8%25B3%25AA%25E3%2581%25A8%25E5%25A4%2596%25E9%2583%25A8%25E5%2593%2581%25E8%25B3%25AA%25E3%2581%25AE%25E3%2583%2590%25E3%2583%25A9%25E3%2583%25B3%25E3%2582%25B9%25E6%2588%25A6%25E7%2595%25A5%25EF%25BC%259A%25E5%25B8%2582%25E5%25A0%25B4%25E6%258A%2595%25E5%2585%25A5%25E5%25BE%258C%25E3%2581%25AE%25E6%2594%25B9%25E5%2596%2584%25E3%2582%25B5%25E3%2582%25A4%25E3%2582%25AF%25E3%2583%25AB%25E3%2582%2592%25E5%259B%259E%25E3%2581%2599%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AB%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:FUJII%2520Yoshitaka%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Y0MzIyNjMwZWUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[新卒QA奮闘記：ひとりでQAプロセスを完走して見えたもの | QA - freee Developers Hub]]></title>
+            <link>https://developers.freee.co.jp/entry/freee-qa-advent-calendar2024-day10</link>
+            <guid>https://developers.freee.co.jp/entry/freee-qa-advent-calendar2024-day10</guid>
+            <pubDate>Tue, 10 Dec 2024 01:00:00 GMT</pubDate>
+            <description><![CDATA[こんにちは。決済プロダクトでQAエンジニアをしているtonchanです。 freee QA Advent Calendar 2024 - Adventarの10日目です。 はじめに 私はfreee初の新卒QAエンジニアの１人として入社しました。7月に決済プロダクトにアサインされ、2024/12/10 時点で5ヶ月目の新米QAです。 今回の記事ではfreee新卒QAの一部業務をお伝えできればと思いま...]]></description>
+            <content:encoded><![CDATA[こんにちは。決済プロダクトでQAエンジニアをしているtonchanです。 freee QA Advent Calendar 2024 - Adventarの10日目です。 はじめに 私はfreee初の新卒QAエンジニアの１人として入社しました。7月に決済プロダクトにアサインされ、2024/12/10 時点で5ヶ月目の新米QAです。 今回の記事ではfreee新卒QAの一部業務をお伝えできればと思います。 QAエンジニアの仕事とか実際何するんだろうと想像しづらい面もあると思いますので、就活中の方にもぜひ参考の１つにしていただけると幸いです。 なぜ最初のキャリアとしてQAを選んだのか 新卒でいきなり…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/40a7bd6f0f4c85ae86c0eee85dc4c2c83948a997/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FQ%2FQA_tonchan%2F20241206%2F20241206082436.png"/>
+        </item>
+        <item>
+            <title><![CDATA[UbieにおけるLLMを活用した不具合分析とテスト戦略立案プロセス | Zennの「QA」のフィード]]></title>
+            <link>https://zenn.dev/ubie_dev/articles/6b73f18420861f</link>
+            <guid>https://zenn.dev/ubie_dev/articles/6b73f18420861f</guid>
+            <pubDate>Mon, 09 Dec 2024 23:13:18 GMT</pubDate>
+            <description><![CDATA[こんにちは、UbieでQAエンジニアをしている ackey です。 今年の10月からアプリチームのスクラムマスターとQAエンジニアを兼務していましたが、12月からアプリのテスト戦略&amp;推進を進めるため、QAエンジニアに専念しています。 本記事では、LLMを活用した不具合分析とそれに基づくテスト戦略の立案プロセスについて紹介します。LLMを活用した新しいQAアプローチに興味のあるQAエンジニアやスター...]]></description>
+            <content:encoded><![CDATA[こんにちは、UbieでQAエンジニアをしている ackey です。 今年の10月からアプリチームのスクラムマスターとQAエンジニアを兼務していましたが、12月からアプリのテスト戦略&amp;推進を進めるため、QAエンジニアに専念しています。 本記事では、LLMを活用した不具合分析とそれに基づくテスト戦略の立案プロセスについて紹介します。LLMを活用した新しいQAアプローチに興味のあるQAエンジニアやスタートアップでの迅速な意思決定プロセスに関心のある方々にとって参考になる記事となれば幸いです。   1. 背景 Ubieでは、React Native（with Expo）を採用したアプリ開...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--4hFlT_Xu--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Ubie%25E3%2581%25AB%25E3%2581%258A%25E3%2581%2591%25E3%2582%258BLLM%25E3%2582%2592%25E6%25B4%25BB%25E7%2594%25A8%25E3%2581%2597%25E3%2581%259F%25E4%25B8%258D%25E5%2585%25B7%25E5%2590%2588%25E5%2588%2586%25E6%259E%2590%25E3%2581%25A8%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E6%2588%25A6%25E7%2595%25A5%25E7%25AB%258B%25E6%25A1%2588%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25BB%25E3%2582%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ackey%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2VlOWMzMWRhODMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Ubie%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzZmOWUyMWMyZWUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[テストタイプってなんなの？ | Zennの「QA」のフィード]]></title>
+            <link>https://zenn.dev/55_ymzn/articles/what_is_test_type</link>
+            <guid>https://zenn.dev/55_ymzn/articles/what_is_test_type</guid>
+            <pubDate>Mon, 09 Dec 2024 15:00:02 GMT</pubDate>
+            <description><![CDATA[はじめに 本記事は以下の記事からインスパイアされています。 https://nihonbuson.hatenadiary.jp/entry/2019/12/03/003000 これらについて考えるにあたり、「テストレベル」「テストタイプ」それぞれについて語るべきところがあると思いました。 こちらに記載する記事は「オレオレ定義」であり、「正しい定義」を知りたい場合は規格等を参照してください。 一方で...]]></description>
+            <content:encoded><![CDATA[はじめに 本記事は以下の記事からインスパイアされています。 https://nihonbuson.hatenadiary.jp/entry/2019/12/03/003000 これらについて考えるにあたり、「テストレベル」「テストタイプ」それぞれについて語るべきところがあると思いました。 こちらに記載する記事は「オレオレ定義」であり、「正しい定義」を知りたい場合は規格等を参照してください。 一方で、私はそれでもzennで書く意味はあると考えています。 読者の方がこの記事を読むことによって「テストタイプ」に対する理解や思考が深まることを期待するからです。 この記事を元に自分はどうだろう...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--yx594PR2--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25BF%25E3%2582%25A4%25E3%2583%2597%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25AA%25E3%2582%2593%25E3%2581%25AA%25E3%2581%25AE%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Go%2521Go%2521Gomazn%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzZiODNmZDk1ZDMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[テストタイプってなんなの？ | Go!Go!Gomaznさんのフィード]]></title>
+            <link>https://zenn.dev/55_ymzn/articles/what_is_test_type</link>
+            <guid>https://zenn.dev/55_ymzn/articles/what_is_test_type</guid>
+            <pubDate>Mon, 09 Dec 2024 15:00:02 GMT</pubDate>
+            <description><![CDATA[はじめに 本記事は以下の記事からインスパイアされています。 https://nihonbuson.hatenadiary.jp/entry/2019/12/03/003000 これらについて考えるにあたり、「テストレベル」「テストタイプ」それぞれについて語るべきところがあると思いました。 こちらに記載する記事は「オレオレ定義」であり、「正しい定義」を知りたい場合は規格等を参照してください。 一方で...]]></description>
+            <content:encoded><![CDATA[はじめに 本記事は以下の記事からインスパイアされています。 https://nihonbuson.hatenadiary.jp/entry/2019/12/03/003000 これらについて考えるにあたり、「テストレベル」「テストタイプ」それぞれについて語るべきところがあると思いました。 こちらに記載する記事は「オレオレ定義」であり、「正しい定義」を知りたい場合は規格等を参照してください。 一方で、私はそれでもzennで書く意味はあると考えています。 読者の方がこの記事を読むことによって「テストタイプ」に対する理解や思考が深まることを期待するからです。 この記事を元に自分はどうだろう...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--yx594PR2--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25BF%25E3%2582%25A4%25E3%2583%2597%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25AA%25E3%2582%2593%25E3%2581%25AA%25E3%2581%25AE%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Go%2521Go%2521Gomazn%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzZiODNmZDk1ZDMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[スクラム祭りの打ち合わせ(16回目)をしてきた | 天の月]]></title>
+            <link>https://aki-m.hatenadiary.com/entry/2024/12/09/230918</link>
+            <guid>https://aki-m.hatenadiary.com/entry/2024/12/09/230918</guid>
+            <pubDate>Mon, 09 Dec 2024 14:09:18 GMT</pubDate>
+            <description><![CDATA[aki-m.hatenadiary.com こちらの打ち合わせをしてきたので、会の様子と感想を書いていこうと思います。 HPを直す keynote検討 HPを直す 今日は最初二人しか参加者がいなかったので、もともとやる予定だったふりかえりはやめて、XP祭り運営の直近の様子(ちょうど今日忘年会だったらしいです)をゆるゆる話しながらHPを直していました。 VenueのところにScheduleが記載され...]]></description>
+            <content:encoded><![CDATA[aki-m.hatenadiary.com こちらの打ち合わせをしてきたので、会の様子と感想を書いていこうと思います。 HPを直す keynote検討 HPを直す 今日は最初二人しか参加者がいなかったので、もともとやる予定だったふりかえりはやめて、XP祭り運営の直近の様子(ちょうど今日忘年会だったらしいです)をゆるゆる話しながらHPを直していました。 VenueのところにScheduleが記載されているのがよくわからなかったので場所を移動しました sessionに関して言及されているセクションが複数あったので一つのセクションにしぼり、他のセクションからはSessionの言及を消しました Ses…]]></content:encoded>
+            <enclosure length="0" url="https://ogimage.blog.st-hatena.com/26006613655256878/6802418398310346630/1733753358"/>
+        </item>
+        <item>
+            <title><![CDATA[USDM-10. 仕様から要求を立てる | Kouichi Akiyama]]></title>
+            <link>https://note.com/akiyama924/n/ncb8f6fc0bf75</link>
+            <guid>https://note.com/akiyama924/n/ncb8f6fc0bf75</guid>
+            <pubDate>Mon, 09 Dec 2024 12:57:26 GMT</pubDate>
+            <description><![CDATA[2024年のアドカレです。 前回は「要求から目的語＋動詞を抜き出して具体化することにより、要求の仕様化をおこなう」という話について書きました。 続きをみる]]></description>
+            <content:encoded><![CDATA[2024年のアドカレです。 前回は「要求から目的語＋動詞を抜き出して具体化することにより、要求の仕様化をおこなう」という話について書きました。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/164925939/rectangle_large_type_2_690077ec733036791bdb0f1bb21a1f62.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[テストの抽象レベルの設計や、テストの戦略立てでアジャイルを支えるアプローチについて講演 | 千里霧中]]></title>
+            <link>https://goyoki.hatenablog.com/entry/2024/12/09/213912</link>
+            <guid>https://goyoki.hatenablog.com/entry/2024/12/09/213912</guid>
+            <pubDate>Mon, 09 Dec 2024 12:39:12 GMT</pubDate>
+            <description><![CDATA[先日、企業様にて「アジャイルを支えるテストアーキテクチャ設計」と題して、テストの抽象レベルの設計や、テストの戦略立てでアジャイルを支えるアプローチについて講演させていただきました。アジャイルを支えるテストアーキテクチャ設計/Test Architecting for Agile - Speaker Deck内容は以前講演させていただいた「ソフトウェア開発での高品質と高スピードを両立させるテストアプ...]]></description>
+            <content:encoded><![CDATA[先日、企業様にて「アジャイルを支えるテストアーキテクチャ設計」と題して、テストの抽象レベルの設計や、テストの戦略立てでアジャイルを支えるアプローチについて講演させていただきました。アジャイルを支えるテストアーキテクチャ設計/Test Architecting for Agile - Speaker Deck内容は以前講演させていただいた「ソフトウェア開発での高品質と高スピードを両立させるテストアプローチ」の中の1トピックにテーマを絞り、さらに依頼で指定いただいたアジャイルに方向性を特化して、深掘りしたものになります。 機会をいただいた永田さん、参加者の方々、大変ありがとうございました。]]></content:encoded>
+            <enclosure length="0" url="https://ogimage.blog.st-hatena.com/12704538227038514066/6802418398310320360/1733748020"/>
+        </item>
+        <item>
+            <title><![CDATA[GIHOZアップデート情報：ペアワイズテストのパラメータと値の表で縦横入れ替えて表示可能に、状態遷移テストの不具合を修正 | GIHOZ’s blog]]></title>
+            <link>https://gihoz.hatenablog.com/entry/2024/12/09/130552</link>
+            <guid>https://gihoz.hatenablog.com/entry/2024/12/09/130552</guid>
+            <pubDate>Mon, 09 Dec 2024 04:05:52 GMT</pubDate>
+            <description><![CDATA[日頃からテスト技法ツールGIHOZをご利用いただき誠にありがとうございます。 また、ご感想やフィードバックをいただき誠にありがとうございます。 最新のアップデート情報をお知らせします。 ペアワイズテストのパラメータと値の表で縦横入れ替えて表示可能になりました これまでは、パラメータと値の表で値の数が多かったり文字数が多い場合、横スクロールしなければすべての値を確認できず、編集やレビューがしづらいと...]]></description>
+            <content:encoded><![CDATA[日頃からテスト技法ツールGIHOZをご利用いただき誠にありがとうございます。 また、ご感想やフィードバックをいただき誠にありがとうございます。 最新のアップデート情報をお知らせします。 ペアワイズテストのパラメータと値の表で縦横入れ替えて表示可能になりました これまでは、パラメータと値の表で値の数が多かったり文字数が多い場合、横スクロールしなければすべての値を確認できず、編集やレビューがしづらいという課題がありました。 今回の改善により、パラメータと値の表を縦横入れ替えた形式で表示できるようになったことで、値が多い場合でも横スクロールせずに表全体を確認できるため、編集やレビューがより効率的に行…]]></content:encoded>
+            <enclosure length="0" url="https://cdn.image.st-hatena.com/image/scale/62107ff26d380bb771e7a44fbbf41c8e2ff6caa0/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F157860548%2F1613452374462641"/>
+        </item>
+        <item>
+            <title><![CDATA[リグレッションテストを見直す | QA - freee Developers Hub]]></title>
+            <link>https://developers.freee.co.jp/entry/improve-regression-test</link>
+            <guid>https://developers.freee.co.jp/entry/improve-regression-test</guid>
+            <pubDate>Mon, 09 Dec 2024 01:00:00 GMT</pubDate>
+            <description><![CDATA[こんにちは。freee会計のQAエンジニアをしているbabaです。 freee QA Advent Calendar 2024 - Adventar 9日目です。 freeeでは、AppStoreとGooglePlay向けにモバイルネイティブアプリを展開しています。私は、その中でfreee会計アプリを含むいくつかのアプリを担当しています。 リグレッションテストの課題 モバイルアプリではリリース前に...]]></description>
+            <content:encoded><![CDATA[こんにちは。freee会計のQAエンジニアをしているbabaです。 freee QA Advent Calendar 2024 - Adventar 9日目です。 freeeでは、AppStoreとGooglePlay向けにモバイルネイティブアプリを展開しています。私は、その中でfreee会計アプリを含むいくつかのアプリを担当しています。 リグレッションテストの課題 モバイルアプリではリリース前に各ストアの審査が必要で、本番障害が起きた時に修正までのリードタイムがWebアプリより長くなってしまいます。そのためにバグを流出させたときのユーザ影響が大きくなりがちで、流出前にバグを検出するためのリグ…]]></content:encoded>
+            <enclosure length="0" url="https://cdn.image.st-hatena.com/image/scale/d15e7ebbb4cfdec38e3bad9323f4c78890c8286e/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F4298643%2F1645418964512170"/>
+        </item>
+        <item>
+            <title><![CDATA[10Xに入って1年半でやったこと・感じたこと | ブロッコリーのブログ]]></title>
+            <link>https://nihonbuson.hatenadiary.jp/entry/retrospective-2024-company</link>
+            <guid>https://nihonbuson.hatenadiary.jp/entry/retrospective-2024-company</guid>
+            <pubDate>Mon, 09 Dec 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[はじめに 10X 2年目のブロッコリーです。この記事は10X アドベントカレンダー 2024の9日目の記事です。 昨日はAnalytics Engineerのtenajimaさんが「入社エントリからの差分、入社1年9ヶ月目の現在地」という記事を公開しています。 10Xの推しポイントは、案件受注前の状況から問い合わせ内容まで、なんでもSlack上で見える状態になっていることです。 本記事では、202...]]></description>
+            <content:encoded><![CDATA[はじめに 10X 2年目のブロッコリーです。この記事は10X アドベントカレンダー 2024の9日目の記事です。 昨日はAnalytics Engineerのtenajimaさんが「入社エントリからの差分、入社1年9ヶ月目の現在地」という記事を公開しています。 10Xの推しポイントは、案件受注前の状況から問い合わせ内容まで、なんでもSlack上で見える状態になっていることです。 本記事では、2023年5月に入社して1年半経った私が、今までどんなことをやってきたのか書いていきます。いわゆる在職エントリーです。自分にとっても良いふりかえりになるかなーと思っています。 目次 はじめに 目次 在職して…]]></content:encoded>
+            <enclosure length="0" url="https://ogimage.blog.st-hatena.com/8454420450066521739/6802418398305309769/1734574709"/>
+        </item>
+        <item>
+            <title><![CDATA[第260回 テストラジオ アドベントカレンダーの話とGPTで開発してみた話 | テストラジオ]]></title>
+            <link>https://testradio.fm/testradio-no/1590/</link>
+            <guid>https://testradio.fm/?p=1590</guid>
+            <pubDate>Sun, 08 Dec 2024 23:00:00 GMT</pubDate>
+            <category>なそ回</category>
+            <category>よしたけ回</category>
+            <enclosure length="0" type="png" url="https://testradio.fm/wp/wp-content/uploads/2024/12/0cfc63e19cb02fb488bee6247fcf38de.png"/>
+        </item>
+        <item>
+            <title><![CDATA[テスト分析のススメ | Zennの「QA」のフィード]]></title>
+            <link>https://zenn.dev/bitkey_dev/articles/586b6cc2dc8eb2</link>
+            <guid>https://zenn.dev/bitkey_dev/articles/586b6cc2dc8eb2</guid>
+            <pubDate>Sun, 08 Dec 2024 22:00:01 GMT</pubDate>
+            <description><![CDATA[はじめに 株式会社ビットキー Software QAアドベントカレンダーの2024年12月9日の記事は、2023年3月に入社しましたSoftware QAチーム所属 takumi_sakao が担当します。 私は、弊社が提供するworkhubやhomehubといったサービスのソフトウェアテストに従事し、テスト計画〜テスト完了までを担当しています。 https://www.workhub.site/...]]></description>
+            <content:encoded><![CDATA[はじめに 株式会社ビットキー Software QAアドベントカレンダーの2024年12月9日の記事は、2023年3月に入社しましたSoftware QAチーム所属 takumi_sakao が担当します。 私は、弊社が提供するworkhubやhomehubといったサービスのソフトウェアテストに従事し、テスト計画〜テスト完了までを担当しています。 https://www.workhub.site/ https://www.homehub.site/   対象読者 本記事のテーマは「テスト分析」です。 テスト分析は、テスト活動の中でプロダクトの品質担保の根幹となるプロセスです。 本記事...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--3VGP308Y--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E5%2588%2586%25E6%259E%2590%25E3%2581%25AE%25E3%2582%25B9%25E3%2582%25B9%25E3%2583%25A1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E6%25B5%25B7_%25E3%2583%2593%25E3%2583%2583%25E3%2583%2588%25E3%2582%25AD%25E3%2583%25BC%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2NjNWE2NmE4ZGMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Bitkey%2520Developers%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzRkMGFkOTliMWEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[子育て1年半のふりかえり | 天の月]]></title>
+            <link>https://aki-m.hatenadiary.com/entry/2024/12/08/233000</link>
+            <guid>https://aki-m.hatenadiary.com/entry/2024/12/08/233000</guid>
+            <pubDate>Sun, 08 Dec 2024 14:30:00 GMT</pubDate>
+            <description><![CDATA[子育てエンジニア Advent Calendar2024に投稿しようと思っていたら登録ミスっていてできていなかったので、投稿予定だった記事の供養です。 adventar.org 子育てして１年半くらいした現断面でのふりかえりとして、子供ができる前の生活と比べて、続けていること/減らしたこと/やめたこと/始めたこと/増やしたことをそれぞれ書いてみます。 続けていること ブログ Writing cod...]]></description>
+            <content:encoded><![CDATA[子育てエンジニア Advent Calendar2024に投稿しようと思っていたら登録ミスっていてできていなかったので、投稿予定だった記事の供養です。 adventar.org 子育てして１年半くらいした現断面でのふりかえりとして、子供ができる前の生活と比べて、続けていること/減らしたこと/やめたこと/始めたこと/増やしたことをそれぞれ書いてみます。 続けていること ブログ Writing code every day 減らしたこと コミュニティ活動(参加) 読書する時間 やめたこと 毎日のふりかえり パーソナルコーチング 始めたこと 運動 コミュニティ活動(運営) 増やしたこと 家族と過ごす…]]></content:encoded>
+            <enclosure length="0" url="https://ogimage.blog.st-hatena.com/26006613655256878/6802418398310069100/1733668203"/>
+        </item>
+        <item>
+            <title><![CDATA[USDM-9. 要求から仕様を導く | Kouichi Akiyama]]></title>
+            <link>https://note.com/akiyama924/n/n9e5d9ecec1f2</link>
+            <guid>https://note.com/akiyama924/n/n9e5d9ecec1f2</guid>
+            <pubDate>Sun, 08 Dec 2024 12:44:21 GMT</pubDate>
+            <description><![CDATA[2024年のアドカレです。 前回は「要求を名詞で書くのをやめて目的語＋動詞で書くことで振る舞う範囲を狭く、かつ、明確にすると、要求を仕様化し易くなる」という話について書きました。 続きをみる]]></description>
+            <content:encoded><![CDATA[2024年のアドカレです。 前回は「要求を名詞で書くのをやめて目的語＋動詞で書くことで振る舞う範囲を狭く、かつ、明確にすると、要求を仕様化し易くなる」という話について書きました。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/164919617/rectangle_large_type_2_b08de2d45ca0b0ecb9057a63f6c8ad04.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[ハッピーの重篤度でみんなで品質の目線合わせをするぞ！ | QA - freee Developers Hub]]></title>
+            <link>https://developers.freee.co.jp/entry/freee-qa-advent-calendar2024-day8</link>
+            <guid>https://developers.freee.co.jp/entry/freee-qa-advent-calendar2024-day8</guid>
+            <pubDate>Sun, 08 Dec 2024 01:00:00 GMT</pubDate>
+            <description><![CDATA[こんにちは。freeeのQAで品質企画を担当しているymtyです。 freee QA Advent Calendar2024 8日目です。 今回のテーマである、ハッピー（不具合のこと）の重篤度でみんなの品質に対する目線合わせをしていることについては、2024年のfreee技術の日でも同様のタイトルでプレゼンを行いました。その時のスライドや動画も公開されています。 speakerdeck.com w...]]></description>
+            <content:encoded><![CDATA[こんにちは。freeeのQAで品質企画を担当しているymtyです。 freee QA Advent Calendar2024 8日目です。 今回のテーマである、ハッピー（不具合のこと）の重篤度でみんなの品質に対する目線合わせをしていることについては、2024年のfreee技術の日でも同様のタイトルでプレゼンを行いました。その時のスライドや動画も公開されています。 speakerdeck.com www.youtube.com このプレゼンの内容を元にしながらも、そもそも重篤度（Severity）ってどういうものか？ということと、freeeでは重篤度についてどんな取り組みをしてるのか？がわかるよ…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/073a7386804a7f59b3b54e273a982e195f0ce7c6/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyumotsuyo_freee%2F20241130%2F20241130191605.png"/>
+        </item>
+        <item>
+            <title><![CDATA[不具合報告書のタイトルに使わないようにしている表現について | テストするアシカ]]></title>
+            <link>https://tyngw.hatenablog.com/entry/2024/12/08/070000</link>
+            <guid>https://tyngw.hatenablog.com/entry/2024/12/08/070000</guid>
+            <pubDate>Sat, 07 Dec 2024 22:00:00 GMT</pubDate>
+            <description><![CDATA[これは ソフトウェアテストの小ネタ - Qiita Advent Calendar 2024 - Qiita 8日目の記事です。 「がっつり記事を書くほどではないけれど・・・」 と書いてくださっているので、小ネタでハードルを下げてみます。 不具合報告書のタイトル(サマリ)に使わない表現についてです。 組織で受け継がれているルール、各個人が良いと思って運用しているルールがあると思うので、それらを否定...]]></description>
+            <content:encoded><![CDATA[これは ソフトウェアテストの小ネタ - Qiita Advent Calendar 2024 - Qiita 8日目の記事です。 「がっつり記事を書くほどではないけれど・・・」 と書いてくださっているので、小ネタでハードルを下げてみます。 不具合報告書のタイトル(サマリ)に使わない表現についてです。 組織で受け継がれているルール、各個人が良いと思って運用しているルールがあると思うので、それらを否定するものではなく、 あくまで私基準のマイルールであることを前提に読んでいただけると嬉しいです。 不具合報告書のタイトルは限られた文字数で、簡潔に事象を伝えることが重要です。 句読点(。 、)はできるだ…]]></content:encoded>
+            <enclosure length="0" url="https://ogimage.blog.st-hatena.com/820878482941555694/6802418398308802669/1733608808"/>
+        </item>
+        <item>
+            <title><![CDATA[テスト自動化の前に大切にしていることについて発表してきた | ブロッコリーのブログ]]></title>
+            <link>https://nihonbuson.hatenadiary.jp/entry/bdd-formulation</link>
+            <guid>https://nihonbuson.hatenadiary.jp/entry/bdd-formulation</guid>
+            <pubDate>Sat, 07 Dec 2024 22:00:00 GMT</pubDate>
+            <description><![CDATA[はじめに この記事はソフトウェアテスト Advent Calendar 2024の8日目の記事です。 昨日、登壇してきました 昨日、ソフトウェアテスト自動化カンファレンス2024というイベントで登壇してきました。 登壇資料はこちらです。 speakerdeck.com 「振る舞い駆動開発（BDD）におけるテスト自動化の前に大切にしていること」と題して、BDDにおける大切な「発見(Discovery...]]></description>
+            <content:encoded><![CDATA[はじめに この記事はソフトウェアテスト Advent Calendar 2024の8日目の記事です。 昨日、登壇してきました 昨日、ソフトウェアテスト自動化カンファレンス2024というイベントで登壇してきました。 登壇資料はこちらです。 speakerdeck.com 「振る舞い駆動開発（BDD）におけるテスト自動化の前に大切にしていること」と題して、BDDにおける大切な「発見(Discovery)」と「定式化(Formulation)」について発表してきました。 今回の発表を行ったきっかけ 今回このような発表を行った理由は、BDDについて考えている人たちが訴えているBDDの3つの要素が、あま…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/122c9042441ddc67f614fa945ca5943c23b6c862/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnihonbuson%2F20241120%2F20241120185929.png"/>
+        </item>
+        <item>
+            <title><![CDATA[第311回：　「ALTAのテキストをつくろう」64　（テストツールの種類（前編）） | Kouichi Akiyama]]></title>
+            <link>https://note.com/akiyama924/n/ndabba4a80dbe</link>
+            <guid>https://note.com/akiyama924/n/ndabba4a80dbe</guid>
+            <pubDate>Sat, 07 Dec 2024 21:52:23 GMT</pubDate>
+            <description><![CDATA[◀前の記事へ 次の記事へ▶︎  ≡ はじめに 続きをみる]]></description>
+            <content:encoded><![CDATA[◀前の記事へ 次の記事へ▶︎  ≡ はじめに 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/164800067/rectangle_large_type_2_099e2bc45ebfe569dadd9bc8070a01d1.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+    </channel>
+</rss>
