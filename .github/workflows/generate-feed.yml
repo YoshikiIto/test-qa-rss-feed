@@ -2,7 +2,7 @@ name: Generate feeds and site
 
 on:
   push:
-    branches: [ main ]
+    branches: [main]
   schedule:
     # NOTE: UTCなので9時間引く
     # 平日 8~24時の1時間おき
@@ -40,7 +40,7 @@ jobs:
         shell: bash
 
       - name: Cache feed images
-        uses: actions/cache@v2
+        uses: actions/cache@v4
         with:
           path: .cache
           key: ${{ runner.os }}-feed-images-${{ steps.get-date.outputs.date }}
@@ -58,5 +58,5 @@ jobs:
           publish_dir: ./public
           # NOTE: 変更履歴が必要な場合は false に変更
           force_orphan: true
-          user_name: 'github-actions[bot]'
-          user_email: 'github-actions[bot]@users.noreply.github.com'
+          user_name: "github-actions[bot]"
+          user_email: "github-actions[bot]@users.noreply.github.com"
