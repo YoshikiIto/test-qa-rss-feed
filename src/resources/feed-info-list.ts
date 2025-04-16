@@ -1,18 +1,26 @@
-export type FeedInfo = {
-  label: string;
-  url: string;
-};
+type ValidUrl = `${'http' | 'https'}://${string}.${string}`;
 
-const createFeedInfoList = (feedInfoTuples: [label: string, url: string][]) => {
+type FeedInfoTuple = [label: string, url: ValidUrl];
+
+export interface FeedInfo {
+  label: string;
+  url: ValidUrl;
+}
+
+const createFeedInfoList = (feedInfoTuples: FeedInfoTuple[]) => {
   const feedInfoList: FeedInfo[] = [];
 
   for (const [label, url] of feedInfoTuples) {
-    feedInfoList.push({ label, url });
+    feedInfoList.push({
+      label,
+      url,
+    });
   }
 
   return feedInfoList;
 };
 
+// prettier-ignore
 // フィード情報一覧。ふんいき日本語順
 export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   // ['企業名・製品名など', 'RSS/AtomフィードのURL'],
@@ -27,7 +35,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['かいり', 'https://note.com/kairiver/rss'],
   ['カカクコムTechBlog', 'https://kakaku-techblog.com/feed/category/QA'],
   ['記録用ブログ', 'https://mejiro8.hatenablog.com/feed'],
-  ['GIHOZ’s blog', 'https://gihoz.hatenablog.com/feed'],
+  ['GIHOZ\'s blog', 'https://gihoz.hatenablog.com/feed'],
   ['CAT GETTING OUT OF A BAG', 'https://miwa719.hatenablog.com/feed'],
   ['杞憂', 'https://note.com/kiyou77/rss'],
   ['Ques', 'https://quesqa.com/feed/'],
@@ -71,7 +79,6 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['つーつー', 'https://note.com/ms_tsu_tsu/rss'],
   ['Tsuyoshi Yumoto', 'https://note.com/yumotsuyo/rss'],
   ['特定非営利活動法人ソフトウェアテスト技術振興協会【プレスリリース】 by PR TIMES', 'https://prtimes.jp/companyrdf.php?company_id=54604'],
-  //['テスト自動化タグが付けられた新着記事 - Qiita', 'https://qiita.com/tags/%e3%83%86%e3%82%b9%e3%83%88%e8%87%aa%e5%8b%95%e5%8c%96/feed'],
   ['DeNA Testing Blog', 'https://swet.dena.com/feed'],
   ['テスターちゃん【4コマ漫画】', 'https://testerchan.hatenadiary.com/feed'],
   ['Testan4818', 'https://note.com/testan4771/rss'],
@@ -101,7 +108,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['マネーフォワード エンジニアブログ - テスト', 'https://moneyforward.com/engineers_blog/feed/?s=%E3%83%86%E3%82%B9%E3%83%88&submit=%E6%A4%9C%E7%B4%A2'],
   //や
   ['ゆふてっく。', 'https://yufutech.hatenablog.com/feed'],
-  ['yoshitake_1201’s diary', 'https://yoshitake-1201.hatenablog.com/feed'],
+  ['yoshitake_1201\'s diary', 'https://yoshitake-1201.hatenablog.com/feed'],
   ['yoya', 'https://note.com/yoya_k/rss'],
   //ら
   ['RAKUS Developers Blog | ラクス エンジニアブログ - テスト', 'https://tech-blog.rakus.co.jp/feed/category/%E3%83%86%E3%82%B9%E3%83%88'],

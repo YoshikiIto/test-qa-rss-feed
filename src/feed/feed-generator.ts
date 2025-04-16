@@ -1,20 +1,57 @@
-import RssParser from 'rss-parser';
-import { Feed, FeedOptions } from 'feed';
-import { CustomRssParserItem, FeedItemHatenaCountMap, OgsResultMap } from './feed-crawler';
-import { escapeTextForXml, textToMd5Hash, textTruncate } from './common-util';
+import { Feed, type FeedOptions } from 'feed';
+import constants from '../common/constants.js';
+import { textToMd5Hash, textTruncate } from './common-util';
+import type { CustomRssParserItem, FeedItemHatenaCountMap, OgObjectMap } from './feed-crawler';
 import { logger } from './logger';
-import * as constants from '../../common/constants';
 
-export interface OutputFeedSet {
+export interface FeedDistributionSet {
   atom: string;
   rss: string;
   json: string;
 }
 
+export interface GenerateFeedResult {
+  aggregatedFeed: Feed;
+  feedDistributionSet: FeedDistributionSet;
+}
+const escapeTextForXml = (text: string) => {
+  return text.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+};
+
+const escapeAmpersand = (text: string) => {
+  return text.replace(/&/g, '&amp;');
+};
+
 export class FeedGenerator {
-  createFeed(
+  public generateFeeds(
     feedItems: CustomRssParserItem[],
-    feedItemOgsResultMap: OgsResultMap,
+    feedItemOgObjectMap: OgObjectMap,
+    allFeedItemHatenaCountMap: FeedItemHatenaCountMap,
+    maxFeedDescriptionLength: number,
+    maxFeedContentLength: number,
+  ): GenerateFeedResult {
+    const aggregatedFeed = this.generateAggregatedFeed(
+      feedItems,
+      feedItemOgObjectMap,
+      allFeedItemHatenaCountMap,
+      maxFeedDescriptionLength,
+      maxFeedContentLength,
+    );
+
+    return {
+      aggregatedFeed,
+      feedDistributionSet: {
+        // 出力されているXMLで & がエスケープされていないのでパッチ対応
+        atom: escapeAmpersand(aggregatedFeed.atom1()),
+        rss: escapeAmpersand(aggregatedFeed.rss2()),
+        json: aggregatedFeed.json1(),
+      },
+    };
+  }
+
+  private generateAggregatedFeed(
+    feedItems: CustomRssParserItem[],
+    feedItemOgObjectMap: OgObjectMap,
     allFeedItemHatenaCountMap: FeedItemHatenaCountMap,
     maxFeedDescriptionLength: number,
     maxFeedContentLength: number,
@@ -39,8 +76,12 @@ export class FeedGenerator {
       const feedItemId = feedItem.guid || feedItem.link;
       const feedItemContent = (feedItem.summary || feedItem.contentSnippet || '').replace(/(\n|\t+|\s+)/g, ' ');
 
-      const ogsResult = feedItemOgsResultMap.get(feedItem.link);
-      const ogImage = ogsResult?.ogImage;
+      const ogObject = feedItemOgObjectMap.get(feedItem.link);
+      const ogImage = ogObject?.customOgImage;
+
+      if (ogImage?.alt) {
+        ogImage.alt = escapeTextForXml(ogImage.alt);
+      }
 
       // 日付がないものは入れない
       if (!feedItem.isoDate) {
@@ -52,30 +93,24 @@ export class FeedGenerator {
         id: feedItemId,
         guid: feedItemId,
         // 「記事タイトル | ブログ名」の形にする。タイトルだけでどの企業かわかるように
-        title: `${feedItem.title} | ${feedItem.blogTitle}`,
-        description: textTruncate(feedItemContent, maxFeedDescriptionLength, '...'),
-        content: textTruncate(feedItemContent, maxFeedContentLength, '...'),
+        title: escapeTextForXml(`${feedItem.title} | ${feedItem.blogTitle}`),
+        description: escapeTextForXml(textTruncate(feedItemContent, maxFeedDescriptionLength)),
+        content: escapeTextForXml(textTruncate(feedItemContent, maxFeedContentLength)),
         link: feedItem.link,
         category: (feedItem.categories || []).map((category) => {
           return {
-            name: category,
+            name: escapeTextForXml(category),
           };
         }),
         author:
           feedItem.creator && typeof feedItem.creator === 'string'
             ? [
                 {
-                  name: feedItem.creator,
+                  name: escapeTextForXml(feedItem.creator),
                 },
               ]
             : undefined,
-        image:
-          ogImage && ogImage.url
-            ? {
-                type: ogImage.type,
-                url: ogImage.url,
-              }
-            : undefined,
+        image: ogImage?.url ? ogImage : undefined,
         published: new Date(feedItem.isoDate),
         date: new Date(feedItem.isoDate),
         extensions: [
@@ -83,10 +118,11 @@ export class FeedGenerator {
             name: '_custom',
             objects: {
               hatenaCount: allFeedItemHatenaCountMap.get(feedItem.link) || 0,
-              originalTitle: feedItem.title,
-              blogTitle: feedItem.blogTitle,
+              originalTitle: escapeTextForXml(feedItem.title ?? ''),
+              blogTitle: escapeTextForXml(feedItem.blogTitle),
               blogLink: feedItem.blogLink,
               blogLinkMd5Hash: textToMd5Hash(feedItem.blogLink),
+              favicon: ogObject?.favicon,
             },
           },
         ],
@@ -96,34 +132,5 @@ export class FeedGenerator {
     logger.info('[create-feed] finished');
 
     return outputFeed;
-  }
-
-  public generateOutputFeedSet(feed: Feed): OutputFeedSet {
-    return {
-      // 出力されているXMLで & がエスケープされていないのでパッチ対応
-      atom: escapeTextForXml(feed.atom1()),
-      rss: escapeTextForXml(feed.rss2()),
-      json: feed.json1(),
-    };
-  }
-
-  /**
-   * rss-parser で変換してみてエラーが出ないか確認
-   */
-  public async validateOutputFeedSet(outputFeedSet: OutputFeedSet): Promise<boolean> {
-    const rssParser = new RssParser();
-
-    let isValid = true;
-
-    await rssParser.parseString(outputFeedSet.atom).catch((error) => {
-      isValid = false;
-      logger.error('[feed-generator] validate feed atom error', error);
-    });
-    await rssParser.parseString(outputFeedSet.rss).catch((error) => {
-      isValid = false;
-      logger.error('[feed-generator] validate feed rss error', error);
-    });
-
-    return isValid;
   }
 }
