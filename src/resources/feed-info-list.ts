@@ -87,7 +87,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['テストする人。', 'https://underscore42rina.hatenablog.com/feed'],
   ['TestonoBlog', 'https://tonono.hatenablog.com/feed'],
   ['テストラジオ', 'https://testradio.fm/feed'],
-  ['天の月', 'https://aki-m.hatenablog.com/feed'],
+  ['天の月', 'https://aki-m.hatenadiary.com/feed'],
   ['toshimana\'s diary', 'https://toshimana.hatenablog.com/feed'],
   ['Dreamland-夢と想いと小さな工夫', 'https://shiozi.hatenablog.com/feed'],
   //な
@@ -104,8 +104,8 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['honamin', 'https://note.com/honamin09/rss'],
   ['Hello, Quality World!', 'https://www.happyou.info/fs/gen.php?u=-18888665&p=860923639'],
   //ま
-  // ['まこっちゃん', 'https://note.com/mark_hillfield/'],
-  // ['マネーフォワード エンジニアブログ - テスト', 'https://moneyforward.com/engineers_blog/feed/?s=%E3%83%86%E3%82%B9%E3%83%88&submit=%E6%A4%9C%E7%B4%A2'],
+  ['まこっちゃん', 'https://note.com/mark_hillfield/rss'],
+  //['マネーフォワード エンジニアブログ - テスト', 'https://moneyforward.com/engineers_blog/feed/?s=%E3%83%86%E3%82%B9%E3%83%88&submit=%E6%A4%9C%E7%B4%A2'],
   //や
   ['ゆふてっく。', 'https://yufutech.hatenablog.com/feed'],
   ['yoshitake_1201\'s diary', 'https://yoshitake-1201.hatenablog.com/feed'],
