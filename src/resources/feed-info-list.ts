@@ -25,7 +25,7 @@ const createFeedInfoList = (feedInfoTuples: FeedInfoTuple[]) => {
 export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   // ['企業名・製品名など', 'RSS/AtomフィードのURL'],
   //あ
-  ['AGEST Engineers Blog', 'https://engineers-blog.agest.co.jp/feed'],
+  // ['AGEST Engineers Blog', 'https://engineers-blog.agest.co.jp/feed'],
   ['飴ブロ(仮', 'https://pineapplecandy.hatenadiary.jp/feed'],
   ['ANDPAD Tech Blog', 'https://tech.andpad.co.jp/feed/category/%E8%87%AA%E5%8B%95%E3%83%86%E3%82%B9%E3%83%88'],
   ['156', 'https://note.com/156musik_test/rss'],
@@ -46,13 +46,13 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['ぐんちゃ', 'https://note.com/gun_chari/rss'],
   ['Kouichi Akiyama', 'https://note.com/akiyama924/rss'],
   ['Go!Go!Gomazn', 'https://zenn.dev/55_ymzn/feed'],
-  ['ごまずん', 'https://note.com/usk_ymst_p/rss'],
+  // ['ごまずん', 'https://note.com/usk_ymst_p/rss'],
   ['コヤマン', 'https://note.com/koyaman2/rss'],
   //さ
   ['sae\'s blog', 'https://ito128.hatenablog.com/feed'],
-  ['Cちゃん', 'https://note.com/shinobear01/rss'],
+  // ['Cちゃん', 'https://note.com/shinobear01/rss'],
   ['次世代ゲームテスト研究所', 'https://blog.aiqveone.co.jp/feed'],
-  ['柴田 芳樹 (Yoshiki Shibata)', 'https://yshibata.blog.ss-blog.jp/index.xml'],
+  // ['柴田 芳樹 (Yoshiki Shibata)', 'https://yshibata.blog.ss-blog.jp/index.xml'],
   ['SHIFT EVOLVE', 'https://shiftevolve.connpass.com/ja.atom'],
   ['a_shirami', 'https://note.com/a_shirami/rss'],
   ['shiro庵 - カテゴリ：ソフトウェアテスト', 'https://yuki-shiro.hatenablog.com/feed/category/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%86%E3%82%B9%E3%83%88'],
@@ -66,7 +66,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['Zennの「QA」のフィード', 'https://zenn.dev/topics/qa/feed'],
   ['Zennの「品質」のフィード', 'https://zenn.dev/topics/%E5%93%81%E8%B3%AA/feed'],
   ['千里霧中', 'https://goyoki.hatenablog.com/feed'],
-  ['Software Quality Topics.', 'https://swquality.jp/feed/'],
+  // ['Software Quality Topics.', 'https://swquality.jp/feed/'],
   ['ソフトウェアの品質を学びまくる2.0', 'https://www.kzsuzuki.com/feed'],
   ['ソフトウェアテストタグが付けられた新着記事 - Qiita', 'https://qiita.com/tags/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%86%E3%82%B9%E3%83%88/feed'],
   //た
@@ -87,7 +87,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['テストする人。', 'https://underscore42rina.hatenablog.com/feed'],
   ['TestonoBlog', 'https://tonono.hatenablog.com/feed'],
   ['テストラジオ', 'https://testradio.fm/feed'],
-  ['天の月', 'https://aki-m.hatenadiary.com/feed'],
+  ['天の月', 'https://aki-m.hatenablog.com/feed'],
   ['toshimana\'s diary', 'https://toshimana.hatenablog.com/feed'],
   ['Dreamland-夢と想いと小さな工夫', 'https://shiozi.hatenablog.com/feed'],
   //な
@@ -104,8 +104,8 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['honamin', 'https://note.com/honamin09/rss'],
   ['Hello, Quality World!', 'https://www.happyou.info/fs/gen.php?u=-18888665&p=860923639'],
   //ま
-  ['まこっちゃん', 'https://note.com/mark_hillfield/'],
-  ['マネーフォワード エンジニアブログ - テスト', 'https://moneyforward.com/engineers_blog/feed/?s=%E3%83%86%E3%82%B9%E3%83%88&submit=%E6%A4%9C%E7%B4%A2'],
+  // ['まこっちゃん', 'https://note.com/mark_hillfield/'],
+  // ['マネーフォワード エンジニアブログ - テスト', 'https://moneyforward.com/engineers_blog/feed/?s=%E3%83%86%E3%82%B9%E3%83%88&submit=%E6%A4%9C%E7%B4%A2'],
   //や
   ['ゆふてっく。', 'https://yufutech.hatenablog.com/feed'],
   ['yoshitake_1201\'s diary', 'https://yoshitake-1201.hatenablog.com/feed'],
