@@ -113,6 +113,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   //ら
   ['RAKUS Developers Blog | ラクス エンジニアブログ - テスト', 'https://tech-blog.rakus.co.jp/feed/category/%E3%83%86%E3%82%B9%E3%83%88'],
   ['Ranorex Blog - UIテスト自動化ツール Ranorex', 'https://ranorex.techmatrix.jp/blog/feed/'],
+  ['LayerX エンジニアブログ - 品質', 'https://tech.layerx.co.jp/feed/category/%E5%93%81%E8%B3%AA'],
   //わ
   ['WACATE', 'https://wacate.jp/blog/feed/'],
   //['', ''],
