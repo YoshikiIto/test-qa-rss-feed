@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>テスト・QA関連ブログRSS</title>
+        <link>https://yoshikiito.github.io/test-qa-rss-feed/</link>
+        <description>企テスト・QA関連ブログの更新をまとめたRSSフィード</description>
+        <lastBuildDate>Sat, 10 May 2025 15:05:40 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>yoshikiito/test-qa-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>テスト・QA関連ブログRSS</title>
+            <url>https://yoshikiito.github.io/test-qa-rss-feed/images/icon.png</url>
+            <link>https://yoshikiito.github.io/test-qa-rss-feed/</link>
+        </image>
+        <copyright>yoshikiito/test-qa-rss-feed</copyright>
+        <atom:link href="https://yoshikiito.github.io/test-qa-rss-feed/feeds/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[AI for Testingについてぼんやりと考えていること(答えはまだない) | テストするアシカ]]></title>
+            <link>https://tyngw.hatenablog.com/entry/2025/05/10/233310</link>
+            <guid>https://tyngw.hatenablog.com/entry/2025/05/10/233310</guid>
+            <pubDate>Sat, 10 May 2025 14:33:10 GMT</pubDate>
+            <description><![CDATA[はじめに AIすごい。 すごいのですが、AIを活用したソフトウェアテストの生成事例というのは、まだそれほど多くは見かけない気がします。 なお、ここで言うソフトウェアテストとは、リリースにおける判断材料として用いたり、よりユーザに近い視点で要件との適合性を確認するためのテストを指します。(ブラックボックステストが中心になると思います) この記事を書くに至った経緯としては、Kazuさんの以下の投稿を拝]]></description>
+            <content:encoded><![CDATA[はじめに AIすごい。 すごいのですが、AIを活用したソフトウェアテストの生成事例というのは、まだそれほど多くは見かけない気がします。 なお、ここで言うソフトウェアテストとは、リリースにおける判断材料として用いたり、よりユーザに近い視点で要件との適合性を確認するためのテストを指します。(ブラックボックステストが中心になると思います) この記事を書くに至った経緯としては、Kazuさんの以下の投稿を拝見したことがきっかけでした。 生成AIによるテストの生成、➊仕様を与えたら、生成AIは直接テストケースを出す。人間はそれをレビュー・手直し・フィードバックする➋仕様を与えたら、生成AIはテスト分析・設…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/9a3636aad57dfafc69970627a00d9af6af6d9723/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftyngw%2F20250510%2F20250510233119.png" alt="AI for Testingについてぼんやりと考えていること(答えはまだない) - テストするアシカ"/>
+        </item>
+        <item>
+            <title><![CDATA[QAエンジニアが身につけるスキルとマインドセット | Tsuyoshi Yumoto]]></title>
+            <link>https://note.com/yumotsuyo/n/n121145096805</link>
+            <guid>https://note.com/yumotsuyo/n/n121145096805</guid>
+            <pubDate>Sat, 10 May 2025 09:43:03 GMT</pubDate>
+            <description><![CDATA[今回はVoicyでやまげんさんのチャンネルで対談させてもらったものの文字起こしです。その中でQAエンジニアとして成長するためのスキルとマインドセットの３ステップの話をしたのですが、この話をいろいろ話したくなる場面が多くあるのでまた文字起こししました。まずは、AIに３ステップをサマリーしてもらいました。続きをみる]]></description>
+            <content:encoded><![CDATA[今回はVoicyでやまげんさんのチャンネルで対談させてもらったものの文字起こしです。その中でQAエンジニアとして成長するためのスキルとマインドセットの３ステップの話をしたのですが、この話をいろいろ話したくなる場面が多くあるのでまた文字起こししました。まずは、AIに３ステップをサマリーしてもらいました。続きをみる]]></content:encoded>
+            <enclosure length="0" type="jpeg" url="https://assets.st-note.com/production/uploads/images/189219405/rectangle_large_type_2_e78e502531870cc363cc15e2451ea73e.jpeg?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[Jestで非同期のテスト方法について | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/tsubasa0509/articles/779ff3382bade6</link>
+            <guid>https://zenn.dev/tsubasa0509/articles/779ff3382bade6</guid>
+            <pubDate>Sat, 10 May 2025 08:34:03 GMT</pubDate>
+            <description><![CDATA[はじめにJestの基礎はざっくり理解したので、非同期テスト方法の方法ついて学びたいと思いました。Jestの基礎がある程度分かっている方が対象になります。 この記事で学べることasync/awaitを使用した非同期の場合や、コールバック関数を使用した場合のテストケースの作成方法について学べます。 動作環境OS：macOS Sequoia 15.1.1Node.js：22.6.0npm：10.8.2J]]></description>
+            <content:encoded><![CDATA[はじめにJestの基礎はざっくり理解したので、非同期テスト方法の方法ついて学びたいと思いました。Jestの基礎がある程度分かっている方が対象になります。 この記事で学べることasync/awaitを使用した非同期の場合や、コールバック関数を使用した場合のテストケースの作成方法について学べます。 動作環境OS：macOS Sequoia 15.1.1Node.js：22.6.0npm：10.8.2Jest：29.7.0 インストール方法Jestの環境構築についてはこちらをご確認ください。 基本的な使い方非同期のテストの場合はtest関数にasync...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--sPwftl6X--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Jest%25E3%2581%25A7%25E9%259D%259E%25E5%2590%258C%25E6%259C%259F%25E3%2581%25AE%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E6%2596%25B9%25E6%25B3%2595%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:TSUBASA_KK%2Cx_90%2Cy_121/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[test | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/kleondev/articles/0f5bce6d5bc7bf</link>
+            <guid>https://zenn.dev/kleondev/articles/0f5bce6d5bc7bf</guid>
+            <pubDate>Sat, 10 May 2025 06:20:22 GMT</pubDate>
+            <description><![CDATA[test]]></description>
+            <content:encoded><![CDATA[test]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--gIHJpcCD--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_80:test%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:KLEON%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTGVnbTNMUWxzdjA1OHlKRkZEXzkweXE3ek9UUVRxbWZVTzY2aWhuT1ZyZXJ3Tj1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Jestでモックの作成方法について | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/tsubasa0509/articles/f090f9ad0984f8</link>
+            <guid>https://zenn.dev/tsubasa0509/articles/f090f9ad0984f8</guid>
+            <pubDate>Sat, 10 May 2025 05:55:32 GMT</pubDate>
+            <description><![CDATA[はじめにJestの基礎はざっくり理解したので、公式ドキュメントに沿って次はモックについて学びたいと思いました。Jestの基礎がある程度分かっている方が対象になります。 この記事で学べることStripeのテストやAPIを実行できない場合、テスト環境の用意に時間が掛かってしまうなどでテストデータが用意できない場合にモックでテストデータを作成する方法について学べます。 動作環境OS：macOS Sequ]]></description>
+            <content:encoded><![CDATA[はじめにJestの基礎はざっくり理解したので、公式ドキュメントに沿って次はモックについて学びたいと思いました。Jestの基礎がある程度分かっている方が対象になります。 この記事で学べることStripeのテストやAPIを実行できない場合、テスト環境の用意に時間が掛かってしまうなどでテストデータが用意できない場合にモックでテストデータを作成する方法について学べます。 動作環境OS：macOS Sequoia 15.1.1Node.js：22.6.0npm：10.8.2Jest：29.7.0 インストール方法Jestの環境構築についてはこちらをご確認ください...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--y8i9sdKz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Jest%25E3%2581%25A7%25E3%2583%25A2%25E3%2583%2583%25E3%2582%25AF%25E3%2581%25AE%25E4%25BD%259C%25E6%2588%2590%25E6%2596%25B9%25E6%25B3%2595%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:TSUBASA_KK%2Cx_90%2Cy_121/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[test | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/kleondev/articles/8709dd89ccc599</link>
+            <guid>https://zenn.dev/kleondev/articles/8709dd89ccc599</guid>
+            <pubDate>Sat, 10 May 2025 02:42:12 GMT</pubDate>
+            <description><![CDATA[test]]></description>
+            <content:encoded><![CDATA[test]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--gIHJpcCD--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_80:test%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:KLEON%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTGVnbTNMUWxzdjA1OHlKRkZEXzkweXE3ek9UUVRxbWZVTzY2aWhuT1ZyZXJ3Tj1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[test | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/kleondev/articles/f4e92fc04824c5</link>
+            <guid>https://zenn.dev/kleondev/articles/f4e92fc04824c5</guid>
+            <pubDate>Sat, 10 May 2025 02:24:59 GMT</pubDate>
+            <description><![CDATA[test]]></description>
+            <content:encoded><![CDATA[test]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--gIHJpcCD--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_80:test%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:KLEON%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTGVnbTNMUWxzdjA1OHlKRkZEXzkweXE3ek9UUVRxbWZVTzY2aWhuT1ZyZXJ3Tj1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[スクラムフェス新潟2025 Day1に参加してきた | 天の月]]></title>
+            <link>https://aki-m.hatenadiary.com/entry/2025/05/09/231809</link>
+            <guid>https://aki-m.hatenadiary.com/entry/2025/05/09/231809</guid>
+            <pubDate>Fri, 09 May 2025 14:18:09 GMT</pubDate>
+            <description><![CDATA[www.scrumfestniigata.org スクラムフェス新潟Day1に参加してきたので会の様子と感想を書いていこうと思います。 到着 リハーサル いくおさんが現れる やまずんさんと初対面する リハーサル のりっくさんマッシャーさんと話す じょーさんと話す ささおさんと話す KuroさんほそたにさんHIROさんと話す びばさんと話す じゅんぺーさんと話す えわさんと話す オープニング スポン]]></description>
+            <content:encoded><![CDATA[www.scrumfestniigata.org スクラムフェス新潟Day1に参加してきたので会の様子と感想を書いていこうと思います。 到着 リハーサル いくおさんが現れる やまずんさんと初対面する リハーサル のりっくさんマッシャーさんと話す じょーさんと話す ささおさんと話す KuroさんほそたにさんHIROさんと話す びばさんと話す じゅんぺーさんと話す えわさんと話す オープニング スポンサーセッション おおひらさんとnacoさんのセッションを聞く keynote ばっさーさんと会ってグッズをもらう かっぱさんとお話する かっぱさんきょんさんHIROさんとお話する KAZUKINGさん…]]></content:encoded>
+            <enclosure length="0" type="image//26006613655256878/6802418398419653143/1746830028" url="https://ogimage.blog.st-hatena.com/26006613655256878/6802418398419653143/1746830028" alt="スクラムフェス新潟2025 Day1に参加してきた - 天の月"/>
+        </item>
+        <item>
+            <title><![CDATA[QAとテストの勉強のとっかかりにISTQBのシラバスとNotebookLMを使うのが今の最適解かもしれない | テストする人。]]></title>
+            <link>https://underscore42rina.hatenablog.com/entry/2025/05/09/095021</link>
+            <guid>https://underscore42rina.hatenablog.com/entry/2025/05/09/095021</guid>
+            <pubDate>Fri, 09 May 2025 00:50:21 GMT</pubDate>
+            <description><![CDATA[AgileテストとかQAエンジニアが学ぶのにおすすめな本とかありますか？の最適解が NotebookLMにシラバス突っ込んで音声を聴く！になりそう（ちゃんと正しさはシラバス読んで）無料でできる最適解で最強解になりそう— リナ？ (@____rina____) 2025年5月8日 もうブログ書いている人もたくさんいると思うけど、やっぱり感動したので書いておく。 NotebookLMってなに？ htt]]></description>
+            <content:encoded><![CDATA[AgileテストとかQAエンジニアが学ぶのにおすすめな本とかありますか？の最適解が NotebookLMにシラバス突っ込んで音声を聴く！になりそう（ちゃんと正しさはシラバス読んで）無料でできる最適解で最強解になりそう— リナ？ (@____rina____) 2025年5月8日 もうブログ書いている人もたくさんいると思うけど、やっぱり感動したので書いておく。 NotebookLMってなに？ https://notebooklm.google.com/ NotebookLM ってGeminiに聞いたら、最終的にこうなった↓ GoogleのNotebookLMは無料AI秘書！ 大量の資料を放り込む…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/c8d77cdfa3f6b670f5b1e9e84b174f9ff09b9b6b/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fu%2Funderscore42rina%2F20250509%2F20250509093922.png" alt="QAとテストの勉強のとっかかりにISTQBのシラバスとNotebookLMを使うのが今の最適解かもしれない - テストする人。"/>
+        </item>
+        <item>
+            <title><![CDATA[テストする人 | テストする人。]]></title>
+            <link>https://underscore42rina.hatenablog.com/entry/2025/05/09/092356</link>
+            <guid>https://underscore42rina.hatenablog.com/entry/2025/05/09/092356</guid>
+            <pubDate>Fri, 09 May 2025 00:23:56 GMT</pubDate>
+            <description><![CDATA[“リナさんの「テストする人」もすてきな呼称ですよね。”テスターはなんと名乗る？｜Kouichi Akiyama https://t.co/6QKi89uXWmやったー褒められてたー（当時も同じこと言ってたかもしれん— リナ？ (@____rina____) 2025年5月6日 underscore42rina.hatenablog.com 私のテストするって、根本はテスト実行（Test execu]]></description>
+            <content:encoded><![CDATA[“リナさんの「テストする人」もすてきな呼称ですよね。”テスターはなんと名乗る？｜Kouichi Akiyama https://t.co/6QKi89uXWmやったー褒められてたー（当時も同じこと言ってたかもしれん— リナ？ (@____rina____) 2025年5月6日 underscore42rina.hatenablog.com 私のテストするって、根本はテスト実行（Test execution）なんですよね。 でも私の Test executionは探索的テストということになっちゃうので やっぱり広義のテストする人になりそう。 そしてテストする人って言葉自体は テストを超広義に考え…]]></content:encoded>
+            <enclosure length="0" type="image//12704830469097158543/6802418398416412279/1746750236" url="https://ogimage.blog.st-hatena.com/12704830469097158543/6802418398416412279/1746750236" alt="テストする人 - テストする人。"/>
+        </item>
+        <item>
+            <title><![CDATA[2025.05.09ビジネスNEW   識者が断言、プログラミング学習に年齢制限がないワケ(後編)    Dragons Out!  ユウと魔法のプログラミングノート  プログラミング教育  IT教育... | メディア | HQW!]]></title>
+            <link>https://www.veriserve.co.jp/helloqualityworld/media/20250509001</link>
+            <guid>https://www.veriserve.co.jp/helloqualityworld/media/20250509001</guid>
+            <pubDate>Fri, 09 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[2025.05.09 ビジネス NEW 識者が断言、プログラミング学習に年齢制限がないワケ(後編) Dragons Out! ユウと魔法のプログラミングノート プログラミング教育 IT教育 フィンランド教育 日本教育 NPO活動 プログラミング学習 多様性 生成AI キャリアチェンジ]]></description>
+            <content:encoded><![CDATA[2025.05.09 ビジネス NEW 識者が断言、プログラミング学習に年齢制限がないワケ(後編) Dragons Out! ユウと魔法のプログラミングノート プログラミング教育 IT教育 フィンランド教育 日本教育 NPO活動 プログラミング学習 多様性 生成AI キャリアチェンジ]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://www.veriserve.co.jp/helloqualityworld/media/06bfb1cc911a40c894ee05da52702be9/eafdee48361f486a811955def270b027/%E8%AD%98%E8%80%85%E3%81%8C%E6%96%AD%E8%A8%80%E3%80%81%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E5%AD%A6%E7%BF%92%E3%81%AB%E5%B9%B4%E9%BD%A2%E5%88%B6%E9%99%90%E3%81%8C%E3%81%AA%E3%81%84%E3%83%AF%E3%82%B1%EF%BC%88%E5%BE%8C%E7%B7%A8%EF%BC%89.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GWのふりかえり | 天の月]]></title>
+            <link>https://aki-m.hatenadiary.com/entry/2025/05/08/235900</link>
+            <guid>https://aki-m.hatenadiary.com/entry/2025/05/08/235900</guid>
+            <pubDate>Thu, 08 May 2025 14:59:00 GMT</pubDate>
+            <description><![CDATA[自分はまだGWは終わっていないのですが、明日からはスクラムフェス新潟に参加するということもあり、今年は14日くらい取得したGWにやっていたことをふりかえろうと思います。 読書 旅行 運動 コーディング 登壇資料作成 睡眠 読書 ここ最近読書のペースが落ちていたので、読みたかった本をばーっと色々読んでいきました。 クリティカルチェーン ストリートコーダー つくりながら学ぶ！LLM 自作入門 ダイナミ]]></description>
+            <content:encoded><![CDATA[自分はまだGWは終わっていないのですが、明日からはスクラムフェス新潟に参加するということもあり、今年は14日くらい取得したGWにやっていたことをふりかえろうと思います。 読書 旅行 運動 コーディング 登壇資料作成 睡眠 読書 ここ最近読書のペースが落ちていたので、読みたかった本をばーっと色々読んでいきました。 クリティカルチェーン ストリートコーダー つくりながら学ぶ！LLM 自作入門 ダイナミックリチーミング 第2版 ―5つのパターンによる効果的なチーム編成 アジャイルデータモデリング 組織にデータ分析を広めるためのテーブル設計ガイド Good Code, Bad Code ～持続可能な開…]]></content:encoded>
+            <enclosure length="0" type="image//26006613655256878/6802418398417796945/1746716341" url="https://ogimage.blog.st-hatena.com/26006613655256878/6802418398417796945/1746716341" alt="GWのふりかえり - 天の月"/>
+        </item>
+        <item>
+            <title><![CDATA[2025年おすすめパフォーマンステストツール比較と選び方 | Zennの「QA」のフィード]]></title>
+            <link>https://zenn.dev/takuya77088/articles/7d2f4a2f117aaf</link>
+            <guid>https://zenn.dev/takuya77088/articles/7d2f4a2f117aaf</guid>
+            <pubDate>Thu, 08 May 2025 07:19:18 GMT</pubDate>
+            <description><![CDATA[最近、自分が担当しているプロジェクトでパフォーマンス問題が発生して、めちゃくちゃ焦りました（汗）。上司から「負荷テストやってなかったの？」って言われて、正直パフォーマンステストの重要性を痛感しましたね。そこで今回は、2025年に使える最強のパフォーマンステストツール5選を紹介します！これからパフォーマンステストを始める初心者の方も、すでに経験がある方も、ぜひ参考にしてください！ パフォーマンステス]]></description>
+            <content:encoded><![CDATA[最近、自分が担当しているプロジェクトでパフォーマンス問題が発生して、めちゃくちゃ焦りました（汗）。上司から「負荷テストやってなかったの？」って言われて、正直パフォーマンステストの重要性を痛感しましたね。そこで今回は、2025年に使える最強のパフォーマンステストツール5選を紹介します！これからパフォーマンステストを始める初心者の方も、すでに経験がある方も、ぜひ参考にしてください！ パフォーマンステストって何？なぜ必要なの？パフォーマンステストは、ソフトウェアやシステムの性能を評価するテスト方法です。機能テストとは違って、「動くかどうか」ではなく「高負荷時にどれだけ安定して動くか」を...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--rlfEvWoB--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:2025%25E5%25B9%25B4%25E3%2581%258A%25E3%2581%2599%25E3%2581%2599%25E3%2582%2581%25E3%2583%2591%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25BC%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25B9%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E6%25AF%2594%25E8%25BC%2583%25E3%2581%25A8%25E9%2581%25B8%25E3%2581%25B3%25E6%2596%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:takuya%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzI1ZDMyODgxOTMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[2025年おすすめパフォーマンステストツール比較と選び方 | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/takuya77088/articles/7d2f4a2f117aaf</link>
+            <guid>https://zenn.dev/takuya77088/articles/7d2f4a2f117aaf</guid>
+            <pubDate>Thu, 08 May 2025 07:19:18 GMT</pubDate>
+            <description><![CDATA[最近、自分が担当しているプロジェクトでパフォーマンス問題が発生して、めちゃくちゃ焦りました（汗）。上司から「負荷テストやってなかったの？」って言われて、正直パフォーマンステストの重要性を痛感しましたね。そこで今回は、2025年に使える最強のパフォーマンステストツール5選を紹介します！これからパフォーマンステストを始める初心者の方も、すでに経験がある方も、ぜひ参考にしてください！ パフォーマンステス]]></description>
+            <content:encoded><![CDATA[最近、自分が担当しているプロジェクトでパフォーマンス問題が発生して、めちゃくちゃ焦りました（汗）。上司から「負荷テストやってなかったの？」って言われて、正直パフォーマンステストの重要性を痛感しましたね。そこで今回は、2025年に使える最強のパフォーマンステストツール5選を紹介します！これからパフォーマンステストを始める初心者の方も、すでに経験がある方も、ぜひ参考にしてください！ パフォーマンステストって何？なぜ必要なの？パフォーマンステストは、ソフトウェアやシステムの性能を評価するテスト方法です。機能テストとは違って、「動くかどうか」ではなく「高負荷時にどれだけ安定して動くか」を...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--rlfEvWoB--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:2025%25E5%25B9%25B4%25E3%2581%258A%25E3%2581%2599%25E3%2581%2599%25E3%2582%2581%25E3%2583%2591%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25BC%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25B9%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E6%25AF%2594%25E8%25BC%2583%25E3%2581%25A8%25E9%2581%25B8%25E3%2581%25B3%25E6%2596%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:takuya%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzI1ZDMyODgxOTMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[gomock の InOrder に挫折！？1回目と2回目の返り値を変える方法とその裏技 | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/exmedia/articles/gomock-tricks</link>
+            <guid>https://zenn.dev/exmedia/articles/gomock-tricks</guid>
+            <pubDate>Wed, 07 May 2025 13:57:08 GMT</pubDate>
+            <description><![CDATA[1. gomock で実行順序を制御する方法 1-1. gomock.InOrder() の基本GoMockには、メソッド呼び出し順序を厳密にテストしたいときのために InOrder(...) という関数が用意されています。具体的には、gomock.InOrder( mockObj.EXPECT().MethodA().Return(...), mockObj.EXPECT().MethodB()]]></description>
+            <content:encoded><![CDATA[1. gomock で実行順序を制御する方法 1-1. gomock.InOrder() の基本GoMockには、メソッド呼び出し順序を厳密にテストしたいときのために InOrder(...) という関数が用意されています。具体的には、gomock.InOrder( mockObj.EXPECT().MethodA().Return(...), mockObj.EXPECT().MethodB().Return(...),)という形で宣言すると、「MethodA → MethodB の順番で呼ばれる」ことを担保できるわけです。この記述を行わない場合は、Me...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--8aj8N2tG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:gomock%2520%25E3%2581%25AE%2520InOrder%2520%25E3%2581%25AB%25E6%258C%25AB%25E6%258A%2598%25EF%25BC%2581%25EF%25BC%259F1%25E5%259B%259E%25E7%259B%25AE%25E3%2581%25A82%25E5%259B%259E%25E7%259B%25AE%25E3%2581%25AE%25E8%25BF%2594%25E3%2582%258A%25E5%2580%25A4%25E3%2582%2592%25E5%25A4%2589%25E3%2581%2588%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%25E3%2581%25A8%25E3%2581%259D%25E3%2581%25AE%25E8%25A3%258F%25E6%258A%2580%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:exMedia%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzdjNzZmZjNmMmMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[yr-learning Vol66に参加してきた | 天の月]]></title>
+            <link>https://aki-m.hatenadiary.com/entry/2025/05/07/221048</link>
+            <guid>https://aki-m.hatenadiary.com/entry/2025/05/07/221048</guid>
+            <pubDate>Wed, 07 May 2025 13:10:48 GMT</pubDate>
+            <description><![CDATA[yr-camp.connpass.com こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 環境構築 関数型プログラミングをTSでやっていく場合の雰囲気を掴む 最初のテストケースを書く 小さな歩幅で進める 環境構築 github.com 今日からは関数型プログラミングで開発をしてみようという話をしていたので、早速環境構築から取り掛かっていきました。 リポジトリはこれまで]]></description>
+            <content:encoded><![CDATA[yr-camp.connpass.com こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 環境構築 関数型プログラミングをTSでやっていく場合の雰囲気を掴む 最初のテストケースを書く 小さな歩幅で進める 環境構築 github.com 今日からは関数型プログラミングで開発をしてみようという話をしていたので、早速環境構築から取り掛かっていきました。 リポジトリはこれまでのものを流用しようということで、ディレクトリだけ切ってworkspaceFolderを作ったりindex.tsやtsconfig.jsonを作っていきました。(Bunでほとんどは自動化されていたのでだ…]]></content:encoded>
+            <enclosure length="0" type="image//26006613655256878/6802418398415431863/1746623448" url="https://ogimage.blog.st-hatena.com/26006613655256878/6802418398415431863/1746623448" alt="yr-learning Vol66に参加してきた - 天の月"/>
+        </item>
+        <item>
+            <title><![CDATA[RSSTEST | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/mijucation/articles/2073ca40e4dd98</link>
+            <guid>https://zenn.dev/mijucation/articles/2073ca40e4dd98</guid>
+            <pubDate>Wed, 07 May 2025 08:16:41 GMT</pubDate>
+            <description><![CDATA[寿限無 寿限無 五劫のすり切れ 海砂利水魚の 水行末、雲来末、風来末 食う寝るところに住むところ やぶらこうじのぶらこうじ パイポパイポパイポのシューリンガン シューリンガンのグーリンダイ グーリンダイのポンポコピーのポンポコナーの長久命の長助]]></description>
+            <content:encoded><![CDATA[寿限無 寿限無 五劫のすり切れ 海砂利水魚の 水行末、雲来末、風来末 食う寝るところに住むところ やぶらこうじのぶらこうじ パイポパイポパイポのシューリンガン シューリンガンのグーリンダイ グーリンダイのポンポコピーのポンポコナーの長久命の長助]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--h82OuMLa--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_80:RSSTEST%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25BF%25E5%25A1%25BE%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQxZjEwNTM0OWQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[フロントエンドのテスト、もう全部 Storybook でよくない？→よくなかったけどちょうどいい落とし所が見つかった | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/m10maeda/articles/storybook-only-testing-dream</link>
+            <guid>https://zenn.dev/m10maeda/articles/storybook-only-testing-dream</guid>
+            <pubDate>Wed, 07 May 2025 01:45:11 GMT</pubDate>
+            <description><![CDATA[「このフロントエンドのテスト、全部 Storybook でいいんじゃない？」そんな考えから始まった試行錯誤の記録をご紹介します。 モチベーション私が担当しているプロジェクトでは Jest + Storybook + MSW を使用していて、テスト方法としては次のような構成を採用していました。Storybook で Arrange と Act までを定義（UI 状態とユーザー操作を Story とし]]></description>
+            <content:encoded><![CDATA[「このフロントエンドのテスト、全部 Storybook でいいんじゃない？」そんな考えから始まった試行錯誤の記録をご紹介します。 モチベーション私が担当しているプロジェクトでは Jest + Storybook + MSW を使用していて、テスト方法としては次のような構成を採用していました。Storybook で Arrange と Act までを定義（UI 状態とユーザー操作を Story として表現）Jest でその Story をレンダリングし、play 関数を実行、結果をアサーションimport { composeStories } from '@storybo...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--oJc2W1tG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2581%25AE%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2580%2581%25E3%2582%2582%25E3%2581%2586%25E5%2585%25A8%25E9%2583%25A8%2520Storybook%2520%25E3%2581%25A7%25E3%2582%2588%25E3%2581%258F%25E3%2581%25AA%25E3%2581%2584%25EF%25BC%259F%25E2%2586%2592%25E3%2582%2588%25E3%2581%258F%25E3%2581%25AA%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%25E3%2581%2591%25E3%2581%25A9%25E3%2581%25A1%25E3%2582%2587%25E3%2581%2586%25E3%2581%25A9%25E3%2581%2584%25E3%2581%2584%25E8%2590%25BD%25E3%2581%25A8%25E3%2581%2597%25E6%2589%2580%25E3%2581%258C%25E8%25A6%258B%25E3%2581%25A4%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E5%2589%258D%25E7%2594%25B0%25E3%2581%25BF%25E3%2581%258A%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ZlMWY3YjBkZjIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[データサイエンティストのための確率的挙動を含むソフトウェアテスト | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/green_tea/articles/58d8ad7bf7d03f</link>
+            <guid>https://zenn.dev/green_tea/articles/58d8ad7bf7d03f</guid>
+            <pubDate>Wed, 07 May 2025 01:00:05 GMT</pubDate>
+            <description><![CDATA[はじめに最近 Zenn に記事を書くことをライフワークにしたいと思っている redtea です。本業として所属する組織が変わりましたので、当面の間は個人で Zenn 記事を書いていく予定です。機械学習や数理最適化の実務を担当していると、そのソフトウェアに含まれる確率的挙動によりデバッグやテストに苦労することがあるかもしれません。多くの場合でシード値[1]を固定することでデバッグやテストができますが]]></description>
+            <content:encoded><![CDATA[はじめに最近 Zenn に記事を書くことをライフワークにしたいと思っている redtea です。本業として所属する組織が変わりましたので、当面の間は個人で Zenn 記事を書いていく予定です。機械学習や数理最適化の実務を担当していると、そのソフトウェアに含まれる確率的挙動によりデバッグやテストに苦労することがあるかもしれません。多くの場合でシード値[1]を固定することでデバッグやテストができますが、それだけでは不十分なこともあります。本記事では、確率的挙動を含むソフトウェア、特に機械学習・数理最適化分野のシステムに対するテスト戦略に焦点を当て、私なりの考え方と具体的な実践方法を...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--Xzd8sFxS--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2582%25B5%25E3%2582%25A4%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2586%25E3%2582%25A3%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AE%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AE%25E7%25A2%25BA%25E7%258E%2587%25E7%259A%2584%25E6%258C%2599%25E5%258B%2595%25E3%2582%2592%25E5%2590%25AB%25E3%2582%2580%25E3%2582%25BD%25E3%2583%2595%25E3%2583%2588%25E3%2582%25A6%25E3%2582%25A7%25E3%2582%25A2%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:redtea%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzIzM2I4MmRkNzEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Playwrightに関するメモ④更に勉強方法を模索中 | 156]]></title>
+            <link>https://note.com/156musik_test/n/nbc919b15cec2</link>
+            <guid>https://note.com/156musik_test/n/nbc919b15cec2</guid>
+            <pubDate>Wed, 07 May 2025 00:58:15 GMT</pubDate>
+            <description><![CDATA[SNSで知人からGeminiが改善されたらしいことを聞いたので、Geminiにもテスト自動化の勉強方法を聞いてみた続きをみる]]></description>
+            <content:encoded><![CDATA[SNSで知人からGeminiが改善されたらしいことを聞いたので、Geminiにもテスト自動化の勉強方法を聞いてみた続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/188504112/rectangle_large_type_2_b6de1efc8af1fee2f18da01d0772e313.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[2025.05.07ビジネスNEW   【連載】QAの変遷を語る: NARAコンサルティング・奈良隆正氏「日本のソフトウェアテストの幕開けとなった大阪万博の記憶」  NARAコンサルティング 代表 奈... | メディア | HQW!]]></title>
+            <link>https://www.veriserve.co.jp/helloqualityworld/media/20250507001</link>
+            <guid>https://www.veriserve.co.jp/helloqualityworld/media/20250507001</guid>
+            <pubDate>Wed, 07 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[2025.05.07 ビジネス NEW 【連載】QAの変遷を語る: NARAコンサルティング・奈良隆正氏「日本のソフトウェアテストの幕開けとなった大阪万博の記憶」 NARAコンサルティング 代表 奈良隆正 QAの変遷を語る ソフトウェアテスト 品質保証 大阪万博 コンピュータの歴史 第三者検証 ソフトウェアプロセス改善 プロジェクトマネジメント ソフトウェア工場 技術伝承]]></description>
+            <content:encoded><![CDATA[2025.05.07 ビジネス NEW 【連載】QAの変遷を語る: NARAコンサルティング・奈良隆正氏「日本のソフトウェアテストの幕開けとなった大阪万博の記憶」 NARAコンサルティング 代表 奈良隆正 QAの変遷を語る ソフトウェアテスト 品質保証 大阪万博 コンピュータの歴史 第三者検証 ソフトウェアプロセス改善 プロジェクトマネジメント ソフトウェア工場 技術伝承]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://www.veriserve.co.jp/helloqualityworld/media/06bfb1cc911a40c894ee05da52702be9/518e9643948d4d08ad2bfe51638bb0dd/%E3%80%90%E9%80%A3%E8%BC%89%E3%80%91QA%E3%81%AE%E5%A4%89%E9%81%B7%E3%82%92%E8%AA%9E%E3%82%8B%EF%BC%9ANARA%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E4%BB%A3%E8%A1%A8%E3%80%80%E5%A5%88%E8%89%AF%E9%9A%86%E6%AD%A3%E3%81%95%E3%82%93.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[大人のソフトウェアテスト雑談会 #268【休日】に参加してきた | 天の月]]></title>
+            <link>https://aki-m.hatenadiary.com/entry/2025/05/06/230012</link>
+            <guid>https://aki-m.hatenadiary.com/entry/2025/05/06/230012</guid>
+            <pubDate>Tue, 06 May 2025 14:00:12 GMT</pubDate>
+            <description><![CDATA[大人のソフトウェアテスト雑談会 #268【休日】 - connpass 今週もテストの街葛飾に行ってきたので、会の様子と感想を書いていこうと思います。 スクラムフェス新潟 イラスト 生成AIが出てからのプロポーザル変化 テスト観点 全体を通した感想 スクラムフェス新潟 いよいよ今週に迫ってきたスクラムフェス新潟の話をしていきました。 おおひらさんが急遽オープニング登壇をすることになったためおおひら]]></description>
+            <content:encoded><![CDATA[大人のソフトウェアテスト雑談会 #268【休日】 - connpass 今週もテストの街葛飾に行ってきたので、会の様子と感想を書いていこうと思います。 スクラムフェス新潟 イラスト 生成AIが出てからのプロポーザル変化 テスト観点 全体を通した感想 スクラムフェス新潟 いよいよ今週に迫ってきたスクラムフェス新潟の話をしていきました。 おおひらさんが急遽オープニング登壇をすることになったためおおひらさん自身の登壇もある中で準備が大変だという話をしたり、今年のスクラムフェス新潟にはのりっくさんも来るという話をしたり、発表準備をお互いにどのようにやってきているのか？といった話をしたりしていました。 …]]></content:encoded>
+            <enclosure length="0" type="image//26006613655256878/6802418398413272603/1746540012" url="https://ogimage.blog.st-hatena.com/26006613655256878/6802418398413272603/1746540012" alt="大人のソフトウェアテスト雑談会 #268【休日】に参加してきた - 天の月"/>
+        </item>
+        <item>
+            <title><![CDATA[ISO/IEC 25010:2023 と ISO/IEC 25019:2023 の日本語勝手対訳 | ソフトウェアの品質を学びまくる]]></title>
+            <link>https://www.kzsuzuki.com/entry/2025/05/06/183645</link>
+            <guid>https://www.kzsuzuki.com/entry/2025/05/06/183645</guid>
+            <pubDate>Tue, 06 May 2025 09:36:45 GMT</pubDate>
+            <description><![CDATA[ISO/IEC 25010 は、ソフトウェアの品質モデルに関する規格です。SQuARE（Systems and software Quality Requirements and Evaluation）とも呼ばれています。 旧版の ISO/IEC 25010:2011 は、JIS X 25010:2013 として日本語化されているのですが、最新版である ISO/IEC 25010:2023 Pro]]></description>
+            <content:encoded><![CDATA[ISO/IEC 25010 は、ソフトウェアの品質モデルに関する規格です。SQuARE（Systems and software Quality Requirements and Evaluation）とも呼ばれています。 旧版の ISO/IEC 25010:2011 は、JIS X 25010:2013 として日本語化されているのですが、最新版である ISO/IEC 25010:2023 Product quality model ISO/IEC 25019:2023 Quality-in-use model の2つはJIS化されておらず、定訳がありません。そこで、「こんな感じかなー」という…]]></content:encoded>
+            <enclosure length="0" type="image//10328537792364693059/6802418398412642985/1746524205" url="https://ogimage.blog.st-hatena.com/10328537792364693059/6802418398412642985/1746524205" alt="ISO/IEC 25010:2023 と ISO/IEC 25019:2023 の日本語勝手対訳 - ソフトウェアの品質を学びまくる"/>
+        </item>
+        <item>
+            <title><![CDATA[Flutterのアプリにゴールデンテストを導入 | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/ken1flan/articles/d410f1e06eebc0</link>
+            <guid>https://zenn.dev/ken1flan/articles/d410f1e06eebc0</guid>
+            <pubDate>Tue, 06 May 2025 06:08:30 GMT</pubDate>
+            <description><![CDATA[はじめにアプリを作ろうと思ったんですが、いろいろ始める前に、なにかするとすぐ画面が崩れるので、知らないところでそうならないよう、画面の差分があったときにはちゃんと来づけるようにしたい…と思い、ゴールデンテストを導入することにしました。…というわけで設定作業を始めたのですが…ちゃんとアプリの画面が取れるようになるまでに苦労があったので、そこをシェアしようかな、と思った次第です。 結論alchemis]]></description>
+            <content:encoded><![CDATA[はじめにアプリを作ろうと思ったんですが、いろいろ始める前に、なにかするとすぐ画面が崩れるので、知らないところでそうならないよう、画面の差分があったときにはちゃんと来づけるようにしたい…と思い、ゴールデンテストを導入することにしました。…というわけで設定作業を始めたのですが…ちゃんとアプリの画面が取れるようになるまでに苦労があったので、そこをシェアしようかな、と思った次第です。 結論alchemistのサンプルには、ListTileのテストが書かれていまして…そのままアプリのページのMyApp（flutter create直後にできるヤツ）を置き換えても、ものすごい大量の例...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--R6d9jKjU--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Flutter%25E3%2581%25AE%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2581%25AB%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2587%25E3%2583%25B3%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2582%2592%25E5%25B0%258E%25E5%2585%25A5%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ken1flan%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pnVV9tX09OZ1pwUnp2T1ZGSFMzSkJxN1BXNk1ieEFxT1pBM1dPRmc9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[生成AIによって変わる世界線 | つーつー]]></title>
+            <link>https://note.com/ms_tsu_tsu/n/n17032e735394</link>
+            <guid>https://note.com/ms_tsu_tsu/n/n17032e735394</guid>
+            <pubDate>Tue, 06 May 2025 03:12:50 GMT</pubDate>
+            <description><![CDATA[QAエンジニアのつーつーです！みなさん、生成AIの活用進んでいますか？日々、新しいサービスが出てきており、キャッチアップをしているのですが、圧倒されています😂便利だな、すごいな！と思う反面、このペースで色々とサービス化が進むと、我々の仕事無くなるんじゃないの😱リスキリングして、pivotしないとまずいのでは🧐と思うことが多いと思います。続きをみる]]></description>
+            <content:encoded><![CDATA[QAエンジニアのつーつーです！みなさん、生成AIの活用進んでいますか？日々、新しいサービスが出てきており、キャッチアップをしているのですが、圧倒されています😂便利だな、すごいな！と思う反面、このペースで色々とサービス化が進むと、我々の仕事無くなるんじゃないの😱リスキリングして、pivotしないとまずいのでは🧐と思うことが多いと思います。続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/188348764/rectangle_large_type_2_72bf2e7b4113f3f9962f25063d9390db.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[Pythonによるデータプロファイリング | Zennの「品質」のフィード]]></title>
+            <link>https://zenn.dev/kkk555/articles/fd733ea6325911</link>
+            <guid>https://zenn.dev/kkk555/articles/fd733ea6325911</guid>
+            <pubDate>Tue, 06 May 2025 00:15:03 GMT</pubDate>
+            <description><![CDATA[データ品質の概念実装に入る前にデータ品質の概念から整理していきたいと思います。参考にしたのは以下の記事です。https://note.com/zono_data/n/n620b48d2b49f 10ステッププロセスデータ品質の改善は、一度行えば終わりというものではなく、継続的に取り組むべき活動です。データ品質実践ガイドには、以下の10のステップに分解して説明されています。 データ品質評価の14タス]]></description>
+            <content:encoded><![CDATA[データ品質の概念実装に入る前にデータ品質の概念から整理していきたいと思います。参考にしたのは以下の記事です。https://note.com/zono_data/n/n620b48d2b49f 10ステッププロセスデータ品質の改善は、一度行えば終わりというものではなく、継続的に取り組むべき活動です。データ品質実践ガイドには、以下の10のステップに分解して説明されています。 データ品質評価の14タスク10ステッププロセスのStep3「データ品質の評価」では、データの品質を一面的な見方ではなく、多角的に捉えることが重要です。ガイドブックでは、そのための評価軸として以...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--FJBdeC47--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Python%25E3%2581%25AB%25E3%2582%2588%25E3%2582%258B%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25A4%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kkk%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JhNTczYTI3ZTAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[スクラム祭りの打ち合わせ(36回目)をしてきた | 天の月]]></title>
+            <link>https://aki-m.hatenadiary.com/entry/2025/05/05/224031</link>
+            <guid>https://aki-m.hatenadiary.com/entry/2025/05/05/224031</guid>
+            <pubDate>Mon, 05 May 2025 13:40:31 GMT</pubDate>
+            <description><![CDATA[aki-m.hatenadiary.com こちらの打ち合わせをしてきたので、会の様子と感想を書いていこうと思います。 雑談 Confengineのupdate キャッシュ・フローのupdate 公式Xでの告知 雑談 秋田→仙台→新潟という独特？なルートで旅をしている中で、なぜ仙台に寄ろうと思ったのか？という話から仙台で楽天とオイシックス新潟の1戦を見たいと思ったのとバスケの試合を見に行きたかった]]></description>
+            <content:encoded><![CDATA[aki-m.hatenadiary.com こちらの打ち合わせをしてきたので、会の様子と感想を書いていこうと思います。 雑談 Confengineのupdate キャッシュ・フローのupdate 公式Xでの告知 雑談 秋田→仙台→新潟という独特？なルートで旅をしている中で、なぜ仙台に寄ろうと思ったのか？という話から仙台で楽天とオイシックス新潟の1戦を見たいと思ったのとバスケの試合を見に行きたかったのが理由だという話をしていました。 選手一覧を見ると知っている選手が多数いて驚きでしたが、これでもなかなか勝てないというのはプロ野球のレベルの高さを思いしりました。 Confengineのupdate…]]></content:encoded>
+            <enclosure length="0" type="image//26006613655256878/6802418398410271971/1746452431" url="https://ogimage.blog.st-hatena.com/26006613655256878/6802418398410271971/1746452431" alt="スクラム祭りの打ち合わせ(36回目)をしてきた - 天の月"/>
+        </item>
+        <item>
+            <title><![CDATA[ビジネスを守る武器：E2Eテストとは何か？ | Zennの「QA」のフィード]]></title>
+            <link>https://zenn.dev/amanotakeshi/articles/af8d1696f43223</link>
+            <guid>https://zenn.dev/amanotakeshi/articles/af8d1696f43223</guid>
+            <pubDate>Mon, 05 May 2025 07:18:17 GMT</pubDate>
+            <description><![CDATA[E2Eテストという言葉は聞いたことがあるけれど、実際の現場ではまだ活用できていない、そんな方も多いのではないでしょうか。本記事では、E2Eテストの基本と、その重要性を非エンジニアの方にもわかりやすく解説します。特に、バグによる見えない損失がどれほど大きいか、実例とともにご紹介しながら、小さく始めて大きな効果を出すE2E導入の現実的なステップまで掘り下げていきます。 📘 この記事を読んで分かることE]]></description>
+            <content:encoded><![CDATA[E2Eテストという言葉は聞いたことがあるけれど、実際の現場ではまだ活用できていない、そんな方も多いのではないでしょうか。本記事では、E2Eテストの基本と、その重要性を非エンジニアの方にもわかりやすく解説します。特に、バグによる見えない損失がどれほど大きいか、実例とともにご紹介しながら、小さく始めて大きな効果を出すE2E導入の現実的なステップまで掘り下げていきます。 📘 この記事を読んで分かることE2Eテストとは何か？ を非エンジニアでも理解できる形で解説売上や信頼を守る ために、なぜE2Eが“コスト”ではなく“投資”なのかバグによって起きる損失の具体例と、最小限の導入...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--aTAawx_8--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2593%25E3%2582%25B8%25E3%2583%258D%25E3%2582%25B9%25E3%2582%2592%25E5%25AE%2588%25E3%2582%258B%25E6%25AD%25A6%25E5%2599%25A8%25EF%25BC%259AE2E%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E5%25A4%25A9%25E9%2587%258E%25E3%2581%259F%25E3%2581%2591%25E3%2581%2597%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzE1MWVkNzc2ZDAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Jestの基本をざっくりと理解する | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/tsubasa0509/articles/9b68d5c821374c</link>
+            <guid>https://zenn.dev/tsubasa0509/articles/9b68d5c821374c</guid>
+            <pubDate>Mon, 05 May 2025 07:10:38 GMT</pubDate>
+            <description><![CDATA[はじめにPHPUnitの学習はしましたがJestも使う機会があったので、同じタイミングで学習しました。その学習の過程をまとめたのが本記事です。 Jestとは？Jestは、Facebook（現Meta）が開発した、JavaScript・TypeScript向けのテスティングフレームワークです。主に フロントエンドアプリケーション（Reactなど） の単体テストやスナップショットテストに使われます。 ]]></description>
+            <content:encoded><![CDATA[はじめにPHPUnitの学習はしましたがJestも使う機会があったので、同じタイミングで学習しました。その学習の過程をまとめたのが本記事です。 Jestとは？Jestは、Facebook（現Meta）が開発した、JavaScript・TypeScript向けのテスティングフレームワークです。主に フロントエンドアプリケーション（Reactなど） の単体テストやスナップショットテストに使われます。 この記事で学べることJestの基本的な書き方や、ユニットテストの方法が学べます。実際のテストの具体例を見てテストとはどういうものなのか？をざっくりと把握できます。 動作...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--UcK1yIlz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Jest%25E3%2581%25AE%25E5%259F%25BA%25E6%259C%25AC%25E3%2582%2592%25E3%2581%2596%25E3%2581%25A3%25E3%2581%258F%25E3%2582%258A%25E3%2581%25A8%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:TSUBASA_KK%2Cx_90%2Cy_121/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[ゆもつよメソッドを使った実践例の記事をNotebookLMで音声配信に変換してみた | Tsuyoshi Yumoto]]></title>
+            <link>https://note.com/yumotsuyo/n/n7cdd16de2bb1</link>
+            <guid>https://note.com/yumotsuyo/n/n7cdd16de2bb1</guid>
+            <pubDate>Mon, 05 May 2025 00:57:16 GMT</pubDate>
+            <description><![CDATA[最近はVoicyのQAゼミチャンネルの配信を始めたよ！ってことは、別の記事で書きましたが、QAゼミ内のSlackにてこのnoteの内容をNotebookLMにてAudio Overviewっていうので音声配信のようにしてくれるってことをまこっちゃんに教えてもらいました。なんかすごい機能だと思い、自分でも試してみました。元ネタはfreeeのブログにて公開した、ゆもつよメソッドをfreeeで使う時には]]></description>
+            <content:encoded><![CDATA[最近はVoicyのQAゼミチャンネルの配信を始めたよ！ってことは、別の記事で書きましたが、QAゼミ内のSlackにてこのnoteの内容をNotebookLMにてAudio Overviewっていうので音声配信のようにしてくれるってことをまこっちゃんに教えてもらいました。なんかすごい機能だと思い、自分でも試してみました。元ネタはfreeeのブログにて公開した、ゆもつよメソッドをfreeeで使う時にはこんな感じに応用して使ってますって内容の記事です。続きをみる]]></content:encoded>
+            <enclosure length="0" type="jpeg" url="https://assets.st-note.com/production/uploads/images/188127627/rectangle_large_type_2_d5ccf1d986796f6177819896792920f1.jpeg?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[フリー式テストチャーター実践法 | Tsuyoshi Yumoto]]></title>
+            <link>https://note.com/yumotsuyo/n/n8361b571cee6</link>
+            <guid>https://note.com/yumotsuyo/n/n8361b571cee6</guid>
+            <pubDate>Mon, 05 May 2025 00:33:07 GMT</pubDate>
+            <description><![CDATA[音声配信ファイルですサウンドをひらく]]></description>
+            <content:encoded><![CDATA[音声配信ファイルですサウンドをひらく]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://assets.st-note.com/production/uploads/images/188124501/66f380adb8dfb290b9b415240d5d5bec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[第269回 テストラジオソフトウェアテスト練習帳の勉強会の話 | テストラジオ]]></title>
+            <link>https://testradio.fm/testradio-no/1644/</link>
+            <guid>https://testradio.fm/?p=1644</guid>
+            <pubDate>Sun, 04 May 2025 23:00:00 GMT</pubDate>
+            <category>テストラジオ</category>
+            <enclosure length="0" type="png" height="576" url="https://testradio.fm/wp/wp-content/uploads/2025/05/3a22d708c630e406587ddcc88598d612.png" width="576"/>
+        </item>
+        <item>
+            <title><![CDATA[PHPUnitのモックとスタブの使い方 | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/tsubasa0509/articles/ffd9f96a90d865</link>
+            <guid>https://zenn.dev/tsubasa0509/articles/ffd9f96a90d865</guid>
+            <pubDate>Sun, 04 May 2025 14:01:52 GMT</pubDate>
+            <description><![CDATA[はじめにPHPUnitのモックとスタブ学習したので、備忘録としてまとめておく記事です。PHPUnitのインストールや詳細な使い方については、こちらの記事を参考にしていただければと思います。 この記事で学べること他のコンポーネントに依存するメソッドやクラスをテストする際、実際のデータや外部環境を使わずに、モックやスタブを使ってテスト用のデータや挙動を再現する方法を学べます。 動作環境OS：macOS]]></description>
+            <content:encoded><![CDATA[はじめにPHPUnitのモックとスタブ学習したので、備忘録としてまとめておく記事です。PHPUnitのインストールや詳細な使い方については、こちらの記事を参考にしていただければと思います。 この記事で学べること他のコンポーネントに依存するメソッドやクラスをテストする際、実際のデータや外部環境を使わずに、モックやスタブを使ってテスト用のデータや挙動を再現する方法を学べます。 動作環境OS：macOS Sequoia 15.1.1PHP：8.4.4PHPUnit：12.1.4Composer：2.5.1 テストダブルとは？偽物のオブジェクトを使ってテストす...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--FXOeIhT6--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:PHPUnit%25E3%2581%25AE%25E3%2583%25A2%25E3%2583%2583%25E3%2582%25AF%25E3%2581%25A8%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%2596%25E3%2581%25AE%25E4%25BD%25BF%25E3%2581%2584%25E6%2596%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:TSUBASA_KK%2Cx_90%2Cy_121/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[なぜイノベーションは起こらないのかを読んだ | 天の月]]></title>
+            <link>https://aki-m.hatenadiary.com/entry/2025/05/04/221856</link>
+            <guid>https://aki-m.hatenadiary.com/entry/2025/05/04/221856</guid>
+            <pubDate>Sun, 04 May 2025 13:18:56 GMT</pubDate>
+            <description><![CDATA[www.maruzen-publishing.co.jp 献本いただいたこちらの本を読んだので、印象に残った部分や感想を書いていこうと思います。(読書感想ブログを書くときは自分はいつもこのスタンスですが)ぜひ実際に手にとって読んでほしいので、書籍の中身にはあまり触れないように意図的にしていますが、記載していない部分も含めて示唆に富む箇所が多く、素晴らしい本でした。 本書を特におすすめしたい人 本書]]></description>
+            <content:encoded><![CDATA[www.maruzen-publishing.co.jp 献本いただいたこちらの本を読んだので、印象に残った部分や感想を書いていこうと思います。(読書感想ブログを書くときは自分はいつもこのスタンスですが)ぜひ実際に手にとって読んでほしいので、書籍の中身にはあまり触れないように意図的にしていますが、記載していない部分も含めて示唆に富む箇所が多く、素晴らしい本でした。 本書を特におすすめしたい人 本書で特に印象に残ったトピック 3タイプのイノベーションとリーダーシップ 書いてしまいがちなよくないビジネスモデルキャンバス 読んでいて個人的に好感がもてたポイント すっきりした翻訳 おまけ(誤字発見) …]]></content:encoded>
+            <enclosure length="0" type="image//26006613655256878/6802418398407774270/1746364736" url="https://ogimage.blog.st-hatena.com/26006613655256878/6802418398407774270/1746364736" alt="なぜイノベーションは起こらないのかを読んだ - 天の月"/>
+        </item>
+        <item>
+            <title><![CDATA[PHPUnitのDataProviderの使い方 | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/tsubasa0509/articles/2dc613624a07fc</link>
+            <guid>https://zenn.dev/tsubasa0509/articles/2dc613624a07fc</guid>
+            <pubDate>Sun, 04 May 2025 09:13:00 GMT</pubDate>
+            <description><![CDATA[はじめにPHPUnitを学習する機会があったので、備忘録としてまとめておく記事です。PHPUnitのインストールや詳細な使い方については、こちらの記事を参考にしていただければと思います。 この記事で学べることデータプロバイダーを使用して、1つのメソッドを複数のデータセットでテストする方法がわかります。 動作環境OS：macOS Sequoia 15.1.1PHP：8.4.4PHPUnit：12.1]]></description>
+            <content:encoded><![CDATA[はじめにPHPUnitを学習する機会があったので、備忘録としてまとめておく記事です。PHPUnitのインストールや詳細な使い方については、こちらの記事を参考にしていただければと思います。 この記事で学べることデータプロバイダーを使用して、1つのメソッドを複数のデータセットでテストする方法がわかります。 動作環境OS：macOS Sequoia 15.1.1PHP：8.4.4PHPUnit：12.1.4Composer：2.5.1 DataProvidersを使用しない場合引数の値を足し算した結果を返すクラスをテストします。src/Calculato...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--0VwIE1-r--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:PHPUnit%25E3%2581%25AEDataProvider%25E3%2581%25AE%25E4%25BD%25BF%25E3%2581%2584%25E6%2596%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:TSUBASA_KK%2Cx_90%2Cy_121/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[PHPUnitの基本をざっくり理解する | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/tsubasa0509/articles/afedc1b66461ef</link>
+            <guid>https://zenn.dev/tsubasa0509/articles/afedc1b66461ef</guid>
+            <pubDate>Sun, 04 May 2025 06:18:02 GMT</pubDate>
+            <description><![CDATA[はじめにこれまでテストコードに触れたことがなかったのですが、今回実務で扱う機会があったため、初めて勉強してみる事にしました。その学習の過程をまとめたのが本記事です。 PHPUnitとは？PHPUnitは、PHPで単体テスト（ユニットテスト）を実行するためのフレームワークです。ユニットテストは、個々の関数やメソッドが意図した通りに動作するかを確認するためのテストです。PHPUnitを使うことで、バグ]]></description>
+            <content:encoded><![CDATA[はじめにこれまでテストコードに触れたことがなかったのですが、今回実務で扱う機会があったため、初めて勉強してみる事にしました。その学習の過程をまとめたのが本記事です。 PHPUnitとは？PHPUnitは、PHPで単体テスト（ユニットテスト）を実行するためのフレームワークです。ユニットテストは、個々の関数やメソッドが意図した通りに動作するかを確認するためのテストです。PHPUnitを使うことで、バグの発見やコードのリファクタリングをより安全に行うことができます。 この記事で学べることPHPUnitの基本的な書き方や、ユニットテストの方法が学べます。実際のテストの具体例を...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--hwslm77z--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:PHPUnit%25E3%2581%25AE%25E5%259F%25BA%25E6%259C%25AC%25E3%2582%2592%25E3%2581%2596%25E3%2581%25A3%25E3%2581%258F%25E3%2582%258A%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:TSUBASA_KK%2Cx_90%2Cy_121/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[第332回：　「ALTTAのテキストをつくろう」17　（ホワイトボックステスト技法の選択　後編） | Kouichi Akiyama]]></title>
+            <link>https://note.com/akiyama924/n/n095d211d44b7</link>
+            <guid>https://note.com/akiyama924/n/n095d211d44b7</guid>
+            <pubDate>Sat, 03 May 2025 21:26:50 GMT</pubDate>
+            <description><![CDATA[◀前の記事へ 次の記事へ▶︎≡ はじめに続きをみる]]></description>
+            <content:encoded><![CDATA[◀前の記事へ 次の記事へ▶︎≡ はじめに続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/187799941/rectangle_large_type_2_2e99b553147019ead74a0882fa39f247.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[スクラムフェス金沢2025の打ち合わせ(20回目)に参加してきた | 天の月]]></title>
+            <link>https://aki-m.hatenadiary.com/entry/2025/05/03/222348</link>
+            <guid>https://aki-m.hatenadiary.com/entry/2025/05/03/222348</guid>
+            <pubDate>Sat, 03 May 2025 13:23:48 GMT</pubDate>
+            <description><![CDATA[aki-m.hatenadiary.com スクラムフェス金沢2025に向けた準備をしてきたので、会の様子を書いていこうと思います。 諸々の発注確認 プロジェクター 基調講演のConfengine HPの更新 追加チケット ノベルティ 諸々の発注確認 スピーカーチケットの発行状況の確認と弁当や飲み物の発注の確認、ステッカーの発注確認、Xバナーの入稿確認、ポスターの入稿確認をしていきました。 弁当や]]></description>
+            <content:encoded><![CDATA[aki-m.hatenadiary.com スクラムフェス金沢2025に向けた準備をしてきたので、会の様子を書いていこうと思います。 諸々の発注確認 プロジェクター 基調講演のConfengine HPの更新 追加チケット ノベルティ 諸々の発注確認 スピーカーチケットの発行状況の確認と弁当や飲み物の発注の確認、ステッカーの発注確認、Xバナーの入稿確認、ポスターの入稿確認をしていきました。 弁当や飲み物に関しては使える値段が一定決まっているので、昨年よりは少し豪華なものが頼めるんじゃないか？という話をした後に、とりあえず今人数が確定している分に関しては先んじて発注をしてしまおうという結論になり…]]></content:encoded>
+            <enclosure length="0" type="image//26006613655256878/6802418398405251551/1746278628" url="https://ogimage.blog.st-hatena.com/26006613655256878/6802418398405251551/1746278628" alt="スクラムフェス金沢2025の打ち合わせ(20回目)に参加してきた - 天の月"/>
+        </item>
+        <item>
+            <title><![CDATA[CursorとPlaywright MCPでE2Eの仕組みを作ったが、活用には至らなかった理由 | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/kudotaka0421/articles/a2e1dbc8f4ec99</link>
+            <guid>https://zenn.dev/kudotaka0421/articles/a2e1dbc8f4ec99</guid>
+            <pubDate>Sat, 03 May 2025 08:06:09 GMT</pubDate>
+            <description><![CDATA[はじめに初めまして。私は現在都内のスタートアップでプロダクト開発をしております。私が所属するチームでは現在十数人程度のフルサイクル・フルスタックエンジニアがプロダクト開発を行なっていますが、専属のQAメンバーがいないためプロダクトの品質保証が課題になっていました。加えて開発チームとしてはAIを積極活用することで生産性やプロダクトの品質の向上を積極的にしていこうということになっていました。Autif]]></description>
+            <content:encoded><![CDATA[はじめに初めまして。私は現在都内のスタートアップでプロダクト開発をしております。私が所属するチームでは現在十数人程度のフルサイクル・フルスタックエンジニアがプロダクト開発を行なっていますが、専属のQAメンバーがいないためプロダクトの品質保証が課題になっていました。加えて開発チームとしてはAIを積極活用することで生産性やプロダクトの品質の向上を積極的にしていこうということになっていました。AutifyなどのE2Eツールの導入も検討しましたが、費用や保守面でのコスト負担が大きく、難しい状況でした。そんな状況のなか、先日Playwright MCPが公開されたのでこれをうまく使え...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s---6VVlQzr--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Cursor%25E3%2581%25A8Playwright%2520MCP%25E3%2581%25A7E2E%25E3%2581%25AE%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%25E3%2581%258C%25E3%2580%2581%25E6%25B4%25BB%25E7%2594%25A8%25E3%2581%25AB%25E3%2581%25AF%25E8%2587%25B3%25E3%2582%2589%25E3%2581%25AA%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%25E7%2590%2586%25E7%2594%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258F%25E3%2581%25A9%25E3%2581%259F%25E3%2581%258B%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQ0NjU2N2Q3ZTguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[実装系問題のためにTypeScriptのテスト環境を構築する | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/pkmiya/articles/cb6812cf516b65</link>
+            <guid>https://zenn.dev/pkmiya/articles/cb6812cf516b65</guid>
+            <pubDate>Sat, 03 May 2025 07:10:29 GMT</pubDate>
+            <description><![CDATA[こんにちは，みーやです！初夏の候，この季節はエンジニア学生向けサマーインターンの選考が各所で行われているかと思います．実際に私も複数社の選考を受けている最中でして，特に最初の壁となるのはコーディングテストかと思います．コーディングテストの中には複雑な仕様が与えられる問題があり，問題の規模や複雑さから，理解に時間がかかったりケアレスミスでコードに間違いがあるなどして，時間がかかるケースがよくあると思]]></description>
+            <content:encoded><![CDATA[こんにちは，みーやです！初夏の候，この季節はエンジニア学生向けサマーインターンの選考が各所で行われているかと思います．実際に私も複数社の選考を受けている最中でして，特に最初の壁となるのはコーディングテストかと思います．コーディングテストの中には複雑な仕様が与えられる問題があり，問題の規模や複雑さから，理解に時間がかかったりケアレスミスでコードに間違いがあるなどして，時間がかかるケースがよくあると思います．そのような場合にローカル PC で効率的にテストするための環境構築の方法をご紹介します！（背景として，このテスト環境構築に時間がかかったのと，この環境がもたらすメリットがい...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--ybCb-OXY--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25AE%259F%25E8%25A3%2585%25E7%25B3%25BB%25E5%2595%258F%25E9%25A1%258C%25E3%2581%25AE%25E3%2581%259F%25E3%2582%2581%25E3%2581%25ABTypeScript%25E3%2581%25AE%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E7%2592%25B0%25E5%25A2%2583%25E3%2582%2592%25E6%25A7%258B%25E7%25AF%2589%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25BF%25E3%2583%25BC%25E3%2582%2584%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2l2cXptRUFRdXM0bnN4MHR0TThCaVNtcGNTaEZENkJkU3Q4SE4tTXc9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+    </channel>
+</rss>
