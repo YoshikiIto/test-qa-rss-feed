@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yoshikiito.github.io/test-qa-rss-feed/</id>
+    <title>テスト・QA関連ブログRSS</title>
+    <updated>2025-05-17T15:05:53.251Z</updated>
+    <generator>yoshikiito/test-qa-rss-feed</generator>
+    <link rel="alternate" href="https://yoshikiito.github.io/test-qa-rss-feed/"/>
+    <link rel="self" href="https://yoshikiito.github.io/test-qa-rss-feed/feeds/atom.xml"/>
+    <subtitle>企テスト・QA関連ブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://yoshikiito.github.io/test-qa-rss-feed/images/icon.png</logo>
+    <icon>https://yoshikiito.github.io/test-qa-rss-feed/images/favicon.ico</icon>
+    <rights>yoshikiito/test-qa-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[スクラムフェス金沢2025の打ち合わせ(22回目)に参加してきた | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2025/05/17/225104</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2025/05/17/225104"/>
+        <updated>2025-05-17T13:51:04.000Z</updated>
+        <summary type="html"><![CDATA[aki-m.hatenadiary.com スクラムフェス金沢2025に向けた準備をしてきたので、会の様子を書いていこうと思います。 香盤表確認 セッション調整 スポンサーブース設営 キャッシュ・フロー確認&amp;amp;更新 香盤表確認 自分をはじめとしたスクラムフェス新潟に参加していたメンバーが前回の運営MTGに参加することができていなかったので、そのときに作った香盤表を確認しました。 結論、特に問題もなく]]></summary>
+        <content type="html"><![CDATA[aki-m.hatenadiary.com スクラムフェス金沢2025に向けた準備をしてきたので、会の様子を書いていこうと思います。 香盤表確認 セッション調整 スポンサーブース設営 キャッシュ・フロー確認&amp;amp;更新 香盤表確認 自分をはじめとしたスクラムフェス新潟に参加していたメンバーが前回の運営MTGに参加することができていなかったので、そのときに作った香盤表を確認しました。 結論、特に問題もなく、調整しなくても良さそうだという話になりました。 セッション調整 採択している中さんのセッションを延長したいという話がご本人からあったのですが、それができるのか？という話をまずしていきました。 結論、…]]></content>
+        <published>2025-05-17T13:51:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソフトウェアテストの代表的な手法とテスト工程まとめ | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/1day1knowledge/articles/b228b80e843313</id>
+        <link href="https://zenn.dev/1day1knowledge/articles/b228b80e843313"/>
+        <updated>2025-05-17T07:36:36.000Z</updated>
+        <summary type="html"><![CDATA[ソフトウェアテストの代表的な手法とテスト工程まとめソフトウェア開発において「テスト」は、品質を確保しバグを防ぐために欠かせない工程です。本記事では、よく使われるテスト手法とテスト工程の違い・特徴を、初心者にも分かりやすく整理します。 📝 主要用語の簡単な説明テスト手法テストをどのような観点や方法で行うか（例：ホワイトボックステスト、ブラックボックステストなど）テスト工程開発のどの段階・粒度でテスト]]></summary>
+        <content type="html"><![CDATA[ソフトウェアテストの代表的な手法とテスト工程まとめソフトウェア開発において「テスト」は、品質を確保しバグを防ぐために欠かせない工程です。本記事では、よく使われるテスト手法とテスト工程の違い・特徴を、初心者にも分かりやすく整理します。 📝 主要用語の簡単な説明テスト手法テストをどのような観点や方法で行うか（例：ホワイトボックステスト、ブラックボックステストなど）テスト工程開発のどの段階・粒度でテストを行うか（例：単体テスト、結合テスト、システムテスト） 🛠 テスト工程の概要 テスト工程の流れ🟦 単体テスト（ユニットテスト）小さい単位（...]]></content>
+        <author>
+            <name>デベロくん</name>
+        </author>
+        <published>2025-05-17T07:36:36.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ベース選出カバレッジ（Base Choice Coverage：BCC）とは | 千里霧中]]></title>
+        <id>https://goyoki.hatenablog.com/entry/2025/05/17/144804</id>
+        <link href="https://goyoki.hatenablog.com/entry/2025/05/17/144804"/>
+        <updated>2025-05-17T05:48:04.000Z</updated>
+        <summary type="html"><![CDATA[ベース選出カバレッジ（ベースチョイスカバレッジ、Base Choice Coverage、BCC）は、組み合わせテストのカバレッジの一種です。有用なカバレッジ基準ですが、執筆時点で日本語情報が少なかったため、情報をまとめます。 ベース選出カバレッジとは ベース選出カバレッジは、組み合わせテストにおいて、パラメータにベースとなる重要な値がある場合に適用します。このベースとなる値は、最も重要な値、ハッ]]></summary>
+        <content type="html"><![CDATA[ベース選出カバレッジ（ベースチョイスカバレッジ、Base Choice Coverage、BCC）は、組み合わせテストのカバレッジの一種です。有用なカバレッジ基準ですが、執筆時点で日本語情報が少なかったため、情報をまとめます。 ベース選出カバレッジとは ベース選出カバレッジは、組み合わせテストにおいて、パラメータにベースとなる重要な値がある場合に適用します。このベースとなる値は、最も重要な値、ハッピーパスの値、デフォルトとして選ぶべき値が該当します。 ベース選出カバレッジ100%の組み合わせは、このベースの値を基準に、次のように作成します。 各パラメータからベースを選出した組み合わせを作る。こ…]]></content>
+        <published>2025-05-17T05:48:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『テストの7つの原則』 〜 パート① 〜 | ソフトウェアテストタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/fujihara_hideyuki/items/bfe626f67c5a00dc52e3</id>
+        <link href="https://qiita.com/fujihara_hideyuki/items/bfe626f67c5a00dc52e3"/>
+        <updated>2025-05-17T03:32:56.000Z</updated>
+        <summary type="html"><![CDATA[はじめに現在、アプリ開発者としてプロダクトの持続的な成長やユーザーへのコミットに寄与するためにも、SDLC全体を見渡して開発をすること、および、それにはテストに関する体系的な知識が必要だと考…]]></summary>
+        <content type="html"><![CDATA[はじめに現在、アプリ開発者としてプロダクトの持続的な成長やユーザーへのコミットに寄与するためにも、SDLC全体を見渡して開発をすること、および、それにはテストに関する体系的な知識が必要だと考…]]></content>
+        <published>2025-05-17T03:32:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プログラミング初心者ほど趣味のVibe codingをしよう | テスターちゃん【4コマ漫画】]]></title>
+        <id>https://testerchan.hatenadiary.com/entry/2025/05/16/230008</id>
+        <link href="https://testerchan.hatenadiary.com/entry/2025/05/16/230008"/>
+        <updated>2025-05-16T14:00:08.000Z</updated>
+        <summary type="html"><![CDATA[現在、趣味で横シューティングゲームを作っています。 これはVibe codingという手法……もといノリで作っていますので、今日はその辺の話をします。 Vibe codingとは 妄想したことを伝えるとそれ通り動くものができる世の中になった プログラミング初心者ほど趣味のVibe codingをしてみるといい 以下はおまけ。思い浮かぶままに。 バグの直し方 それでもうまく直せないバグは一からやり直]]></summary>
+        <content type="html"><![CDATA[現在、趣味で横シューティングゲームを作っています。 これはVibe codingという手法……もといノリで作っていますので、今日はその辺の話をします。 Vibe codingとは 妄想したことを伝えるとそれ通り動くものができる世の中になった プログラミング初心者ほど趣味のVibe codingをしてみるといい 以下はおまけ。思い浮かぶままに。 バグの直し方 それでもうまく直せないバグは一からやり直す 即興で作っているのでテストコードが書きにくい 慣れているつもりでも「え、そんな書き方があったの」が出てきて学べる レビューやテストの重要性が増す Vibe codingとは Vive coding…]]></content>
+        <published>2025-05-16T14:00:08.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hey Say アジャCITYの読書会(5回目)に参加してきた | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2025/05/16/221311</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2025/05/16/221311"/>
+        <updated>2025-05-16T13:13:11.000Z</updated>
+        <summary type="html"><![CDATA[表題のイベントに参加してきたので、会の様子を書いていきます。今回もホンダ流のワイガヤのすすめを読んでいって今回が最後でした。 テーマのバランス 批判と個人攻撃を区別する 大企業体質×わいがや わいがやに参加している年齢層の広さ 無駄話から本題へ切り替わるタイミングの早さ 複雑なことを単純な認知にしていきたくなる理由 テーマのバランス テーマはかなり抽象的なところからスタートしていましたが、突拍子も]]></summary>
+        <content type="html"><![CDATA[表題のイベントに参加してきたので、会の様子を書いていきます。今回もホンダ流のワイガヤのすすめを読んでいって今回が最後でした。 テーマのバランス 批判と個人攻撃を区別する 大企業体質×わいがや わいがやに参加している年齢層の広さ 無駄話から本題へ切り替わるタイミングの早さ 複雑なことを単純な認知にしていきたくなる理由 テーマのバランス テーマはかなり抽象的なところからスタートしていましたが、突拍子もないテーマだとも思いそうだし、途中で収束を挟んでいたところからも一定はテーマのスコープを定めてあげるような取り組みが必要なんだろうという話をしていきました。 批判と個人攻撃を区別する 例えば若者のこと…]]></content>
+        <published>2025-05-16T13:13:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[本当に必要なセキュリティ対策の勘所（AWSぶっちゃけ討論会vol.3 ） | SHIFT EVOLVE グループの新着イベント]]></title>
+        <id>https://shiftevolve.connpass.com/event/354921/</id>
+        <link href="https://shiftevolve.connpass.com/event/354921/"/>
+        <updated>2025-05-16T07:22:43.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2025/06/05 19:30 ～ 20:50&amp;lt;br /&amp;gt;開催場所: オンライン&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;h2&amp;gt;本当に必要なセキュリティ対策の勘所（AWSぶっちゃけ討論会vol.3 ）&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;AWSにおけるセキュリティ運用について、ベンダー、エンドユーザーの有識者を招いて本音ベースで最適解をディスカッション&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;AWS All Certifications Engin]]></summary>
+        <content type="html"><![CDATA[開催日時: 2025/06/05 19:30 ～ 20:50&amp;lt;br /&amp;gt;開催場所: オンライン&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;h2&amp;gt;本当に必要なセキュリティ対策の勘所（AWSぶっちゃけ討論会vol.3 ）&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;AWSにおけるセキュリティ運用について、ベンダー、エンドユーザーの有識者を招いて本音ベースで最適解をディスカッション&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;AWS All Certifications Engineersで、SHIFTのCCoEをリードする大瀧が、外部からエキスパートを招いて質問をぶつけ、教科書に載っていない、検索しても出てこない、AWSセキュリティのリアルな現実を掘り下げます。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;今回のお相手は株式会社サイバーセキュリティクラウド 山本 純氏と、三井住友ファイナンス&amp;amp;amp;リース株式会社 森本 悠太氏。 「本当に必要なセキュリティ対策の勘所」をテーマに「本当に必要な対策をどう見極めるか？」「サードパーティ製品の必要性はなにか？」「セキュリティ人材をどう社内に育成していくか？内製化はどこまですべきか？」などなど、AWSにおけるセキュリティ運用について、ベンダー、エンドユーザ]]></content>
+        <published>2025-05-16T07:22:43.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アジャイルカフェ@オンライン 第72回に参加してきた | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2025/05/15/233000</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2025/05/15/233000"/>
+        <updated>2025-05-15T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[agile-studio.connpass.com こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 agile-studio.connpass.com 会の概要 会の様子 前提 見積もりの目的 見積もりのやり方 No Estimate Q&amp;amp;A タスクも相対見積もりするのが人気か？ 実装を始めてから見積もりよりも大変なことが分かったらどうする？その逆は？ プロダクトリリ]]></summary>
+        <content type="html"><![CDATA[agile-studio.connpass.com こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 agile-studio.connpass.com 会の概要 会の様子 前提 見積もりの目的 見積もりのやり方 No Estimate Q&amp;amp;A タスクも相対見積もりするのが人気か？ 実装を始めてから見積もりよりも大変なことが分かったらどうする？その逆は？ プロダクトリリースまでの見積もりに対して進捗状況を知る方法はバーンダウンチャート以外にあるか？ 会全体を通した感想 会の概要 家永さん天野さんじょうさんの3人のアジャイルコーチが、アジャイル実践者から寄せられた質問…]]></content>
+        <published>2025-05-15T14:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[てす | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/mijucation/articles/f29397576be462</id>
+        <link href="https://zenn.dev/mijucation/articles/f29397576be462"/>
+        <updated>2025-05-14T13:56:04.000Z</updated>
+        <summary type="html"><![CDATA[てす]]></summary>
+        <content type="html"><![CDATA[てす]]></content>
+        <author>
+            <name>み塾</name>
+        </author>
+        <published>2025-05-14T13:56:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[yr-learning Vol67に参加してきた | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2025/05/14/224926</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2025/05/14/224926"/>
+        <updated>2025-05-14T13:49:26.000Z</updated>
+        <summary type="html"><![CDATA[yr-learning Vol67 - connpass こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 BuilderパターンでGameStatusをBuildしてみる 次回以降の予定決め BuilderパターンでGameStatusをBuildしてみる Builderパターンを使って、GameStatusをBuildしてみるようにしました。Typescriptで書]]></summary>
+        <content type="html"><![CDATA[yr-learning Vol67 - connpass こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 BuilderパターンでGameStatusをBuildしてみる 次回以降の予定決め BuilderパターンでGameStatusをBuildしてみる Builderパターンを使って、GameStatusをBuildしてみるようにしました。Typescriptで書いていましたが、どちらかというとOOPチックに書いてみて、こんなものかなというのを途中途中で議論しながら作りました。 そもそも今のタイミングでBuilderパターンを書く必要があるのかという話や、Bu…]]></content>
+        <published>2025-05-14T13:49:26.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Angularのspecファイルを再生成するSTEP BY STEP | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/rdlabo/articles/08891227c7a233</id>
+        <link href="https://zenn.dev/rdlabo/articles/08891227c7a233"/>
+        <updated>2025-05-14T08:09:26.000Z</updated>
+        <summary type="html"><![CDATA[Angularでは、 ng コマンドで作成したコンポーネントやサービス、Pipeには（特に設定しない限り）テスト設定用にspecファイルが自動生成されます。 ただ、長くランニングしてるプロジェクトだと、テストが通らないというのはまぁいいとはして、無理やり通すためにspecファイルを削除してしまっているというのがあったりなかったり。私が持ってる昔からのプロジェクトでもあったりなかったり。生成AIで初]]></summary>
+        <content type="html"><![CDATA[Angularでは、 ng コマンドで作成したコンポーネントやサービス、Pipeには（特に設定しない限り）テスト設定用にspecファイルが自動生成されます。 ただ、長くランニングしてるプロジェクトだと、テストが通らないというのはまぁいいとはして、無理やり通すためにspecファイルを削除してしまっているというのがあったりなかったり。私が持ってる昔からのプロジェクトでもあったりなかったり。生成AIで初期ファイルは自動生成したいと思ったので、再生成するためのガイドラインを（主に私が生成AIに情報を食わせるために）まとめておきます。 STEP BY STEP 1. specファイルがな...]]></content>
+        <author>
+            <name>榊原昌彦</name>
+        </author>
+        <published>2025-05-14T08:09:26.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flutter開発中でのSQFLite（ローカルDB）のテスト方法 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/psytousan/articles/ef74ceed5dc3f2</id>
+        <link href="https://zenn.dev/psytousan/articles/ef74ceed5dc3f2"/>
+        <updated>2025-05-14T05:09:30.000Z</updated>
+        <summary type="html"><![CDATA[私は、Flutterにおけるローカルデータの保存には、SQFLiteパッケージを使用してデータベース操作を行う場合が殆どです。https://pub.dev/packages/sqfliteクエリの実行内容や、トランザクション処理に変更を加えた時などに、いちいち実機を立ち上げてテストするのは非常に面倒ですので、一括でテストが回せたら非常に便利です。私の備忘録として残しておきます。 サンプルコードテ]]></summary>
+        <content type="html"><![CDATA[私は、Flutterにおけるローカルデータの保存には、SQFLiteパッケージを使用してデータベース操作を行う場合が殆どです。https://pub.dev/packages/sqfliteクエリの実行内容や、トランザクション処理に変更を加えた時などに、いちいち実機を立ち上げてテストするのは非常に面倒ですので、一括でテストが回せたら非常に便利です。私の備忘録として残しておきます。 サンプルコードテストには、sqfliteに加えて以下のパッケージが必要ですので、インストールしてください。https://pub.dev/packages/sqflite_common_ffi...]]></content>
+        <author>
+            <name>PsyTouSan</name>
+        </author>
+        <published>2025-05-14T05:09:30.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テスト分析：文書の情報の見落としや誤解を防ぐコツ | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/dev_commune/articles/90e611e7e13777</id>
+        <link href="https://zenn.dev/dev_commune/articles/90e611e7e13777"/>
+        <updated>2025-05-13T23:00:02.000Z</updated>
+        <summary type="html"><![CDATA[はじめに以前こちらの記事で言及した通り、プロジェクトの内容（テスト対象の情報）を正しく理解できていないことはテスト漏れの原因になります。読みやすいドキュメントを準備するなどして関係者の認識齟齬を防げるのが理想ですが、リソースやスキル不足など何らかの原因で読みやすいドキュメントを準備するのが難しい場合もあります。そこで本記事では、ドキュメントの記載内容に対して見落としや誤解を防ぐためのコツをいくつか]]></summary>
+        <content type="html"><![CDATA[はじめに以前こちらの記事で言及した通り、プロジェクトの内容（テスト対象の情報）を正しく理解できていないことはテスト漏れの原因になります。読みやすいドキュメントを準備するなどして関係者の認識齟齬を防げるのが理想ですが、リソースやスキル不足など何らかの原因で読みやすいドキュメントを準備するのが難しい場合もあります。そこで本記事では、ドキュメントの記載内容に対して見落としや誤解を防ぐためのコツをいくつかご紹介します。なお、実際の業務ではドキュメントに記載のない情報を追加で集めたり、ドキュメントを読んで仕様の問題点を指摘できる必要がありますが、本記事の対象外となります。 読んだ内...]]></content>
+        <author>
+            <name>Yasuyuki Suga</name>
+        </author>
+        <published>2025-05-13T23:00:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テストのカバレッジを楽して増やす検討 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/yam776/articles/2355639aed03cc</id>
+        <link href="https://zenn.dev/yam776/articles/2355639aed03cc"/>
+        <updated>2025-05-13T15:11:35.000Z</updated>
+        <summary type="html"><![CDATA[カバレッジを増やすにはテストを増やすのが一般的でしょうか。テストを増やさずにカバレッジを増やせないか検討してみました。（既にこのような考えがあれば、すでにあるよ！って言ってください）今回考えた事：コードにちょっとした仕掛けを入れて、if文の分岐を無理やり曲げて、C0カバレッジの％を増やしたい。 同じ実行だけど違う分岐ができないかC++のコード、１～９までを全部通したい#include &amp;lt;stdio]]></summary>
+        <content type="html"><![CDATA[カバレッジを増やすにはテストを増やすのが一般的でしょうか。テストを増やさずにカバレッジを増やせないか検討してみました。（既にこのような考えがあれば、すでにあるよ！って言ってください）今回考えた事：コードにちょっとした仕掛けを入れて、if文の分岐を無理やり曲げて、C0カバレッジの％を増やしたい。 同じ実行だけど違う分岐ができないかC++のコード、１～９までを全部通したい#include &amp;lt;stdio.h&amp;gt;/* ここに仕掛けを入れる予定 */int func(int i){ printf("func %d passed\n",i); return ...]]></content>
+        <author>
+            <name>やまだ</name>
+        </author>
+        <published>2025-05-13T15:11:35.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大人のソフトウェアテスト雑談会 #269【笹団子】に参加してきた | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2025/05/13/231754</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2025/05/13/231754"/>
+        <updated>2025-05-13T14:17:54.000Z</updated>
+        <summary type="html"><![CDATA[https://ost-zatu.connpass.com/event/354733/ 今週もテストの街葛飾に行ってきたので、会の様子と感想を書いていこうと思います。 スクラムフェス新潟 おおひらさんの声品質 全体を通した感想 スクラムフェス新潟 色々な人が登壇していたので、印象的だったセッションの話をしていきました。やましたさんのセッションや自分のセッションの話が挙がっていて、自分のセッションは]]></summary>
+        <content type="html"><![CDATA[https://ost-zatu.connpass.com/event/354733/ 今週もテストの街葛飾に行ってきたので、会の様子と感想を書いていこうと思います。 スクラムフェス新潟 おおひらさんの声品質 全体を通した感想 スクラムフェス新潟 色々な人が登壇していたので、印象的だったセッションの話をしていきました。やましたさんのセッションや自分のセッションの話が挙がっていて、自分のセッションはここで挙げてくれると思っていなかったのでとても光栄でした。(ただしやましたさんは自分のようにはなりたいとは思わなかったそうです笑) また、各々が楽しかった思い出話だったり、葛飾にゆかりがある人の近況に…]]></content>
+        <published>2025-05-13T14:17:54.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Enablement Workshop for QA Engineers #4」開催レポート | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/knowledgework/articles/d39abb316dcb7b</id>
+        <link href="https://zenn.dev/knowledgework/articles/d39abb316dcb7b"/>
+        <updated>2025-05-13T03:00:02.000Z</updated>
+        <summary type="html"><![CDATA[株式会社ナレッジワークのQAエンジニア Katoazです。本記事では2025年4月22日に開催した勉強会 Enablement Workshop for QA Engineers #4~QAのスキルアセスメント・キャリアラダー~ の開催レポートをお届けいたします。 ワークショップの趣旨Encraft（エンクラフト）は株式会社ナレッジワークが提供する、 「Enablement」と「Craftsman]]></summary>
+        <content type="html"><![CDATA[株式会社ナレッジワークのQAエンジニア Katoazです。本記事では2025年4月22日に開催した勉強会 Enablement Workshop for QA Engineers #4~QAのスキルアセスメント・キャリアラダー~ の開催レポートをお届けいたします。 ワークショップの趣旨Encraft（エンクラフト）は株式会社ナレッジワークが提供する、 「Enablement」と「Craftsmanship」をテーマにした勉強会です。技術にこだわりを持つ人々が集まって互いに知見を交換し、できることを増やしていく場を提供します。そして、Enablement Workshop for...]]></content>
+        <author>
+            <name>かとあず</name>
+        </author>
+        <published>2025-05-13T03:00:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スクラム祭りの打ち合わせ(37回目)をしてきた | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2025/05/12/231038</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2025/05/12/231038"/>
+        <updated>2025-05-12T14:10:38.000Z</updated>
+        <summary type="html"><![CDATA[aki-m.hatenadiary.com こちらの打ち合わせをしてきたので、会の様子と感想を書いていこうと思います。 キャッシュ・フロー更新 趣意書の更新箇所説明 バックログのリファインメント Keynote Speakerを確定する 売り出すチケットの種類を決める&amp;amp;Eventbrightでチケット販売開始 サテライトの地域を確定させる スポンサー申し込んでもらっている方々からロゴをもらう&amp;amp;HP]]></summary>
+        <content type="html"><![CDATA[aki-m.hatenadiary.com こちらの打ち合わせをしてきたので、会の様子と感想を書いていこうと思います。 キャッシュ・フロー更新 趣意書の更新箇所説明 バックログのリファインメント Keynote Speakerを確定する 売り出すチケットの種類を決める&amp;amp;Eventbrightでチケット販売開始 サテライトの地域を確定させる スポンサー申し込んでもらっている方々からロゴをもらう&amp;amp;HPに反映させる ドラフト会議の日程や段取りを確定する Discordのチャンネル設計を決める HPの更新箇所を洗い出す キャッシュ・フロー更新 ありがたいことにスポンサーが増えていたのでキャッシュ・フロ…]]></content>
+        <published>2025-05-12T14:10:38.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Str::uuid()をモックする(固定値を返すようにする) | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/tanakam/articles/7beb4066b81511</id>
+        <link href="https://zenn.dev/tanakam/articles/7beb4066b81511"/>
+        <updated>2025-05-12T13:43:00.000Z</updated>
+        <summary type="html"><![CDATA[結論モックは難しいので以下で対応するStr::createUuidsUsing(function () { return Uuid::fromString('eadbfeac-5258-45c2-bab7-ccb9b5ef74f9');});引用元: https://readouble.com/laravel/11.x/ja/strings.html]]></summary>
+        <content type="html"><![CDATA[結論モックは難しいので以下で対応するStr::createUuidsUsing(function () { return Uuid::fromString('eadbfeac-5258-45c2-bab7-ccb9b5ef74f9');});引用元: https://readouble.com/laravel/11.x/ja/strings.html]]></content>
+        <author>
+            <name>MK</name>
+        </author>
+        <published>2025-05-12T13:43:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[時短・フレックス・子育て──SmartHRのQAエンジニアの実践録 | QA - SmartHR Tech Blog]]></title>
+        <id>https://tech.smarthr.jp/entry/2025/05/12/174558</id>
+        <link href="https://tech.smarthr.jp/entry/2025/05/12/174558"/>
+        <updated>2025-05-12T08:45:58.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！QAエンジニアのhigesawaです。 今回は普段のQA文脈の発信とは趣を変えて、自身の最近の経験を踏まえたワーク・ライフ・バランスについて書いてみようと思います。 はじめに 私は現在品質保証部の中で労務ユニットAに所属しています。 以前当テックブログの品質保証部連載にて記載した SmartHR 品質保証部 労務ユニットAの紹介 にもある通り、労務ユニットAのメンバーの多くは開発チーム]]></summary>
+        <content type="html"><![CDATA[こんにちは！QAエンジニアのhigesawaです。 今回は普段のQA文脈の発信とは趣を変えて、自身の最近の経験を踏まえたワーク・ライフ・バランスについて書いてみようと思います。 はじめに 私は現在品質保証部の中で労務ユニットAに所属しています。 以前当テックブログの品質保証部連載にて記載した SmartHR 品質保証部 労務ユニットAの紹介 にもある通り、労務ユニットAのメンバーの多くは開発チームに所属せずプロダクト横断的に、濃淡をつけた品質保証活動をしています。その中で私は、今年に入ってからは年末調整機能の開発チームに濃度高めで関わっている状況です。 プライベートでは3人家族の一児の父で、こ…]]></content>
+        <published>2025-05-12T08:45:58.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JaSST’25 Tokyoでの発表資料を公開しました！ | ブログ - WACATE]]></title>
+        <id>https://wacate.jp/?p=4479</id>
+        <link href="https://wacate.jp/2025/05/12/jasst25-tokyo%e3%81%a7%e3%81%ae%e7%99%ba%e8%a1%a8%e8%b3%87%e6%96%99%e3%82%92%e5%85%ac%e9%96%8b%e3%81%97%e3%81%be%e3%81%97%e3%81%9f%ef%bc%81/"/>
+        <updated>2025-05-12T08:30:15.000Z</updated>
+        <summary type="html"><![CDATA[先日開催されたJaSST’25 TokyoでWACATE実行委員会が発表した資料を公開しました！ この資料は、元々公開する予定ではありませんでした。 しかし今度のWACATE 2025 夏を開催するにあたって続きを読む投稿 JaSST’25 Tokyoでの発表資料を公開しました！ は WACATE に最初に表示されました。]]></summary>
+        <content type="html"><![CDATA[先日開催されたJaSST’25 TokyoでWACATE実行委員会が発表した資料を公開しました！ この資料は、元々公開する予定ではありませんでした。 しかし今度のWACATE 2025 夏を開催するにあたって続きを読む投稿 JaSST’25 Tokyoでの発表資料を公開しました！ は WACATE に最初に表示されました。]]></content>
+        <author>
+            <name>ブロッコリー</name>
+        </author>
+        <category label="実行委員のつぶやき"/>
+        <published>2025-05-12T08:30:15.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIと進めるテスト設計・リファクタリングの実践 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/chiilog/articles/2fab90fe67e94e</id>
+        <link href="https://zenn.dev/chiilog/articles/2fab90fe67e94e"/>
+        <updated>2025-05-12T07:58:44.000Z</updated>
+        <summary type="html"><![CDATA[以前作成した冷蔵庫マネージャー、レビューとリファクタリングをしようしようと思いながら後回しになっていたのですが、つい先日参加したイベントでAIとのリファクタリングのコツを教えてもらったので、教えてもらったことをもとにやってみることにしました。前提（例：あなたは〜です）目的（例：これから〜を実装します）前準備（例：まず〜を把握してください）タスク（例：調査結果をマークダウンファイルにしてください）制]]></summary>
+        <content type="html"><![CDATA[以前作成した冷蔵庫マネージャー、レビューとリファクタリングをしようしようと思いながら後回しになっていたのですが、つい先日参加したイベントでAIとのリファクタリングのコツを教えてもらったので、教えてもらったことをもとにやってみることにしました。前提（例：あなたは〜です）目的（例：これから〜を実装します）前準備（例：まず〜を把握してください）タスク（例：調査結果をマークダウンファイルにしてください）制約（例：コードの変更を禁止する など）これを意識してリファクタリングをしていきます。ちなみに今回もCursorとペアプロ形式で進めています。 1. ドキュメントを作る生成...]]></content>
+        <author>
+            <name>ちあき</name>
+        </author>
+        <published>2025-05-12T07:58:44.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【イベントレポート】Scrum Fest Niigata 2025に参加してきました！ | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/reiwatravel/articles/f926cc1226e73b</id>
+        <link href="https://zenn.dev/reiwatravel/articles/f926cc1226e73b"/>
+        <updated>2025-05-12T03:13:56.000Z</updated>
+        <summary type="html"><![CDATA[はじめにこんにちは。令和トラベルのエンジニアリングマネージャー、QAグループマネージャーの miisan です！2025年5月9日（金）〜10日（土）に新潟で開催された「Scrum Fest Niigata 2025」に初めて参加してきました！現地でお話しさせていただいた皆様、運営の皆様、ありがとうございました！この記事では、今回のカンファレンスにおいて印象に残った内容や、会場での様子を交えてイベ]]></summary>
+        <content type="html"><![CDATA[はじめにこんにちは。令和トラベルのエンジニアリングマネージャー、QAグループマネージャーの miisan です！2025年5月9日（金）〜10日（土）に新潟で開催された「Scrum Fest Niigata 2025」に初めて参加してきました！現地でお話しさせていただいた皆様、運営の皆様、ありがとうございました！この記事では、今回のカンファレンスにおいて印象に残った内容や、会場での様子を交えてイベント内容を振り返りたいと思います。 Scrum Fest Niigata 2025 カンファレンス概要!Scrum Fest Niigataとはスクラムフェス新潟はア...]]></content>
+        <author>
+            <name>miisan</name>
+        </author>
+        <published>2025-05-12T03:13:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スクフェス新潟2025に参加した。 | pikazakipika]]></title>
+        <id>https://note.com/pika123/n/n082912ca883e</id>
+        <link href="https://note.com/pika123/n/n082912ca883e"/>
+        <updated>2025-05-12T00:28:35.000Z</updated>
+        <summary type="html"><![CDATA[スクフェス新潟2025にオンライン参加した。www.scrumfestniigata.org濃かった、いろいろ学べたし伸びしろを感じた。また参加したい、そしてできれば現地に行きたい。日本酒飲みたい。続きをみる]]></summary>
+        <content type="html"><![CDATA[スクフェス新潟2025にオンライン参加した。www.scrumfestniigata.org濃かった、いろいろ学べたし伸びしろを感じた。また参加したい、そしてできれば現地に行きたい。日本酒飲みたい。続きをみる]]></content>
+        <published>2025-05-12T00:28:35.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第270回 テストラジオTest Planを語る夕べ(勉強会の話) | テストラジオ]]></title>
+        <id>https://testradio.fm/?p=1651</id>
+        <link href="https://testradio.fm/testradio-no/1651/"/>
+        <updated>2025-05-11T23:00:00.000Z</updated>
+        <author>
+            <name>なそ＠さとうひろゆき</name>
+        </author>
+        <category label="なそ回"/>
+        <category label="よしたけ回"/>
+        <published>2025-05-11T23:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スクラムフェス新潟Day2に参加してきた | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2025/05/11/230116</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2025/05/11/230116"/>
+        <updated>2025-05-11T14:01:16.000Z</updated>
+        <summary type="html"><![CDATA[www.scrumfestniigata.org スクラムフェス新潟Day2に参加してきたので会の様子と感想を書いていこうと思います。(WIP) Ryoさんと話す moriyuyaさんと話す moriyuyaさん川口さんHiroさんと話す いくおさんびばさんと話す 登壇 Ryoさんと話す 裏番組だったRyoさんと話をしていきました。Ryoさんはスライド作成の型の完成系に近づいたと今回の発表で感じて]]></summary>
+        <content type="html"><![CDATA[www.scrumfestniigata.org スクラムフェス新潟Day2に参加してきたので会の様子と感想を書いていこうと思います。(WIP) Ryoさんと話す moriyuyaさんと話す moriyuyaさん川口さんHiroさんと話す いくおさんびばさんと話す 登壇 Ryoさんと話す 裏番組だったRyoさんと話をしていきました。Ryoさんはスライド作成の型の完成系に近づいたと今回の発表で感じてたそうですが、スライドが20枚ちょいと少なかったので、1ページあたりどれくらい話すつもりか聞いた所、話そうと思えばいくらでも話せると思っているということで、むしろこれ以上スライドを増やすと時間オーバー…]]></content>
+        <published>2025-05-11T14:01:16.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Playwrightに関するメモ⑤現時点での学習内容をGitHubにまとめ中 | 156]]></title>
+        <id>https://note.com/156musik_test/n/n7797ce3b7ae9</id>
+        <link href="https://note.com/156musik_test/n/n7797ce3b7ae9"/>
+        <updated>2025-05-11T09:43:56.000Z</updated>
+        <summary type="html"><![CDATA[GitHub自体も今まで業務も含めて使用したことがないため、GitHubの使い方自体もChatGPTに聞きつつまとめている続きをみる]]></summary>
+        <content type="html"><![CDATA[GitHub自体も今まで業務も含めて使用したことがないため、GitHubの使い方自体もChatGPTに聞きつつまとめている続きをみる]]></content>
+        <published>2025-05-11T09:43:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[お知らせ：申込み締め切り変更（6/8まで） | ブログ - WACATE]]></title>
+        <id>https://wacate.jp/?p=4460</id>
+        <link href="https://wacate.jp/2025/05/11/%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b%ef%bc%9a%e7%94%b3%e8%be%bc%e3%81%bf%e7%b7%a0%e3%82%81%e5%88%87%e3%82%8a%e5%a4%89%e6%9b%b4%ef%bc%886-8%e3%81%be%e3%81%a7%ef%bc%89/"/>
+        <updated>2025-05-11T08:27:42.000Z</updated>
+        <summary type="html"><![CDATA[WACATE2025夏の申込み締め切りの変更をお知らせします。参加の申し込み締め切りは6/8(日)とさせていただきます。 当初の申込み締め切りよりも前倒しとなり申し訳ございません。 WACATEは宿泊型のワークショップで続きを読む投稿 お知らせ：申込み締め切り変更（6/8まで） は WACATE に最初に表示されました。]]></summary>
+        <content type="html"><![CDATA[WACATE2025夏の申込み締め切りの変更をお知らせします。参加の申し込み締め切りは6/8(日)とさせていただきます。 当初の申込み締め切りよりも前倒しとなり申し訳ございません。 WACATEは宿泊型のワークショップで続きを読む投稿 お知らせ：申込み締め切り変更（6/8まで） は WACATE に最初に表示されました。]]></content>
+        <author>
+            <name>なみき</name>
+        </author>
+        <category label="その他イベント"/>
+        <published>2025-05-11T08:27:42.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[モノづくりは"良いものにしよう"という会話のキャッチボール | CAT GETTING OUT OF A BAG]]></title>
+        <id>https://miwa719.hatenablog.com/entry/daily20250511</id>
+        <link href="https://miwa719.hatenablog.com/entry/daily20250511"/>
+        <updated>2025-05-11T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[この記事は、システムのある機能（機能a）のふるまいを変更したときに「テストが足りないかも？」と思ったテスターが、実装者のプログラマーMさんと会話したときの記録です。一部ハイコンテクストで非常にわかりづらいので、まずはじめに会話の概要とこの記事で伝えたいことを書いておきます。 開発現場での会話が、miwaのシステムの内部設計の理解を助け、お客さまの現場での製品の使われ方をMさんが深く知るきっかけにな]]></summary>
+        <content type="html"><![CDATA[この記事は、システムのある機能（機能a）のふるまいを変更したときに「テストが足りないかも？」と思ったテスターが、実装者のプログラマーMさんと会話したときの記録です。一部ハイコンテクストで非常にわかりづらいので、まずはじめに会話の概要とこの記事で伝えたいことを書いておきます。 開発現場での会話が、miwaのシステムの内部設計の理解を助け、お客さまの現場での製品の使われ方をMさんが深く知るきっかけになった。miwaが知りたいと示した内容から、Mさんは自分が当たり前に知っていることを自認し、同時に相手（miwa）が知り得ないことに気づく。心配性のmiwaは気がかりをMさんに伝える。その心配はMさんに…]]></content>
+        <published>2025-05-11T06:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第333回：　手抜きをして年商3500万円のパン屋さんになったYouTube動画の感想 | Kouichi Akiyama]]></title>
+        <id>https://note.com/akiyama924/n/nba0f34ac1bd5</id>
+        <link href="https://note.com/akiyama924/n/nba0f34ac1bd5"/>
+        <updated>2025-05-10T21:37:40.000Z</updated>
+        <summary type="html"><![CDATA[◀前の記事へ 次の記事へ▶︎≡ はじめに続きをみる]]></summary>
+        <content type="html"><![CDATA[◀前の記事へ 次の記事へ▶︎≡ はじめに続きをみる]]></content>
+        <published>2025-05-10T21:37:40.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI for Testingについてぼんやりと考えていること(答えはまだない) | テストするアシカ]]></title>
+        <id>https://tyngw.hatenablog.com/entry/2025/05/10/233310</id>
+        <link href="https://tyngw.hatenablog.com/entry/2025/05/10/233310"/>
+        <updated>2025-05-10T14:33:10.000Z</updated>
+        <summary type="html"><![CDATA[はじめに AIすごい。 すごいのですが、AIを活用したソフトウェアテストの生成事例というのは、まだそれほど多くは見かけない気がします。 なお、ここで言うソフトウェアテストとは、リリースにおける判断材料として用いたり、よりユーザに近い視点で要件との適合性を確認するためのテストを指します。(ブラックボックステストが中心になると思います) この記事を書くに至った経緯としては、Kazuさんの以下の投稿を拝]]></summary>
+        <content type="html"><![CDATA[はじめに AIすごい。 すごいのですが、AIを活用したソフトウェアテストの生成事例というのは、まだそれほど多くは見かけない気がします。 なお、ここで言うソフトウェアテストとは、リリースにおける判断材料として用いたり、よりユーザに近い視点で要件との適合性を確認するためのテストを指します。(ブラックボックステストが中心になると思います) この記事を書くに至った経緯としては、Kazuさんの以下の投稿を拝見したことがきっかけでした。 生成AIによるテストの生成、➊仕様を与えたら、生成AIは直接テストケースを出す。人間はそれをレビュー・手直し・フィードバックする➋仕様を与えたら、生成AIはテスト分析・設…]]></content>
+        <published>2025-05-10T14:33:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スクラムフェス新潟2025で登壇してきた | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2025/05/10/233000</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2025/05/10/233000"/>
+        <updated>2025-05-10T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[www.scrumfestniigata.org スクラムフェス新潟2025で登壇してきたのでそのふりかえりです。 登壇準備 登壇中 登壇後 登壇準備 以前少し書いたのですが今回はこれがAcceptされるとはびっくりという感じで、テストとはいえスクラムフェス新潟の人たちに受けるのかな？(だいぶマニアックなテーマではないかな...?)という感じがしたので、驚きからのスタートでした。まずどういう風にす]]></summary>
+        <content type="html"><![CDATA[www.scrumfestniigata.org スクラムフェス新潟2025で登壇してきたのでそのふりかえりです。 登壇準備 登壇中 登壇後 登壇準備 以前少し書いたのですが今回はこれがAcceptされるとはびっくりという感じで、テストとはいえスクラムフェス新潟の人たちに受けるのかな？(だいぶマニアックなテーマではないかな...?)という感じがしたので、驚きからのスタートでした。まずどういう風にすると面白い話になるかな、というのを考えていきました。言ってしまえば結構特殊なコンテキスト環境下におけるN=1の事例発表ですし正解とかベストプラクティスとか体系的な話はまるでできないので、自分自身あんま…]]></content>
+        <published>2025-05-10T14:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QAエンジニアが身につけるスキルとマインドセット | Tsuyoshi Yumoto]]></title>
+        <id>https://note.com/yumotsuyo/n/n121145096805</id>
+        <link href="https://note.com/yumotsuyo/n/n121145096805"/>
+        <updated>2025-05-10T09:43:03.000Z</updated>
+        <summary type="html"><![CDATA[今回はVoicyでやまげんさんのチャンネルで対談させてもらったものの文字起こしです。その中でQAエンジニアとして成長するためのスキルとマインドセットの３ステップの話をしたのですが、この話をいろいろ話したくなる場面が多くあるのでまた文字起こししました。まずは、AIに３ステップをサマリーしてもらいました。続きをみる]]></summary>
+        <content type="html"><![CDATA[今回はVoicyでやまげんさんのチャンネルで対談させてもらったものの文字起こしです。その中でQAエンジニアとして成長するためのスキルとマインドセットの３ステップの話をしたのですが、この話をいろいろ話したくなる場面が多くあるのでまた文字起こししました。まずは、AIに３ステップをサマリーしてもらいました。続きをみる]]></content>
+        <published>2025-05-10T09:43:03.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jestで非同期のテスト方法について | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/tsubasa0509/articles/779ff3382bade6</id>
+        <link href="https://zenn.dev/tsubasa0509/articles/779ff3382bade6"/>
+        <updated>2025-05-10T08:34:03.000Z</updated>
+        <summary type="html"><![CDATA[はじめにJestの基礎はざっくり理解したので、非同期テスト方法の方法ついて学びたいと思いました。Jestの基礎がある程度分かっている方が対象になります。 この記事で学べることasync/awaitを使用した非同期の場合や、コールバック関数を使用した場合のテストケースの作成方法について学べます。 動作環境OS：macOS Sequoia 15.1.1Node.js：22.6.0npm：10.8.2J]]></summary>
+        <content type="html"><![CDATA[はじめにJestの基礎はざっくり理解したので、非同期テスト方法の方法ついて学びたいと思いました。Jestの基礎がある程度分かっている方が対象になります。 この記事で学べることasync/awaitを使用した非同期の場合や、コールバック関数を使用した場合のテストケースの作成方法について学べます。 動作環境OS：macOS Sequoia 15.1.1Node.js：22.6.0npm：10.8.2Jest：29.7.0 インストール方法Jestの環境構築についてはこちらをご確認ください。 基本的な使い方非同期のテストの場合はtest関数にasync...]]></content>
+        <author>
+            <name>TSUBASA_KK</name>
+        </author>
+        <published>2025-05-10T08:34:03.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jestでモックの作成方法について | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/tsubasa0509/articles/f090f9ad0984f8</id>
+        <link href="https://zenn.dev/tsubasa0509/articles/f090f9ad0984f8"/>
+        <updated>2025-05-10T05:55:32.000Z</updated>
+        <summary type="html"><![CDATA[はじめにJestの基礎はざっくり理解したので、公式ドキュメントに沿って次はモックについて学びたいと思いました。Jestの基礎がある程度分かっている方が対象になります。 この記事で学べることStripeのテストやAPIを実行できない場合、テスト環境の用意に時間が掛かってしまうなどでテストデータが用意できない場合にモックでテストデータを作成する方法について学べます。 動作環境OS：macOS Sequ]]></summary>
+        <content type="html"><![CDATA[はじめにJestの基礎はざっくり理解したので、公式ドキュメントに沿って次はモックについて学びたいと思いました。Jestの基礎がある程度分かっている方が対象になります。 この記事で学べることStripeのテストやAPIを実行できない場合、テスト環境の用意に時間が掛かってしまうなどでテストデータが用意できない場合にモックでテストデータを作成する方法について学べます。 動作環境OS：macOS Sequoia 15.1.1Node.js：22.6.0npm：10.8.2Jest：29.7.0 インストール方法Jestの環境構築についてはこちらをご確認ください...]]></content>
+        <author>
+            <name>TSUBASA_KK</name>
+        </author>
+        <published>2025-05-10T05:55:32.000Z</published>
+    </entry>
+</feed>
