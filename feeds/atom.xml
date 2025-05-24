@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yoshikiito.github.io/test-qa-rss-feed/</id>
+    <title>テスト・QA関連ブログRSS</title>
+    <updated>2025-05-24T23:06:21.840Z</updated>
+    <generator>yoshikiito/test-qa-rss-feed</generator>
+    <link rel="alternate" href="https://yoshikiito.github.io/test-qa-rss-feed/"/>
+    <link rel="self" href="https://yoshikiito.github.io/test-qa-rss-feed/feeds/atom.xml"/>
+    <subtitle>企テスト・QA関連ブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://yoshikiito.github.io/test-qa-rss-feed/images/icon.png</logo>
+    <icon>https://yoshikiito.github.io/test-qa-rss-feed/images/favicon.ico</icon>
+    <rights>yoshikiito/test-qa-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[第335回：　「ALTTAのテキストをつくろう」19　（静的解析　前編（制御フロー解析）） | Kouichi Akiyama]]></title>
+        <id>https://note.com/akiyama924/n/na1e799ec3f3c</id>
+        <link href="https://note.com/akiyama924/n/na1e799ec3f3c"/>
+        <updated>2025-05-24T21:31:07.000Z</updated>
+        <summary type="html"><![CDATA[◀前の記事へ 次の記事へ▶︎≡ はじめに続きをみる]]></summary>
+        <content type="html"><![CDATA[◀前の記事へ 次の記事へ▶︎≡ はじめに続きをみる]]></content>
+        <published>2025-05-24T21:31:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[testingOsaka #2 に行ってきた話 | ハシカズ]]></title>
+        <id>https://note.com/hashi_kazu/n/n3463ea42ab06</id>
+        <link href="https://note.com/hashi_kazu/n/n3463ea42ab06"/>
+        <updated>2025-05-24T13:41:38.000Z</updated>
+        <summary type="html"><![CDATA[はじめに続きをみる]]></summary>
+        <content type="html"><![CDATA[はじめに続きをみる]]></content>
+        <published>2025-05-24T13:41:38.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スクラムフェス金沢2025の打ち合わせ(23回目)に参加してきた | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2025/05/24/220449</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2025/05/24/220449"/>
+        <updated>2025-05-24T13:04:49.000Z</updated>
+        <summary type="html"><![CDATA[aki-m.hatenadiary.com スクラムフェス金沢2025に向けた準備をしてきたので、会の様子を書いていこうと思います。 Keynoteの状況共有 WSのセッション調整 キャッシュ・フロー更新 ネットワーキング ノベルティ タスクの棚卸し Keynoteの状況共有 依頼いただいていた事項が完了して、事前に打ち合わせすることもできそうだという話の共有がありました。(意外と日がないので運営]]></summary>
+        <content type="html"><![CDATA[aki-m.hatenadiary.com スクラムフェス金沢2025に向けた準備をしてきたので、会の様子を書いていこうと思います。 Keynoteの状況共有 WSのセッション調整 キャッシュ・フロー更新 ネットワーキング ノベルティ タスクの棚卸し Keynoteの状況共有 依頼いただいていた事項が完了して、事前に打ち合わせすることもできそうだという話の共有がありました。(意外と日がないので運営MTGが始まる前に動いてくれて話が共有されました) WSのセッション調整 WSの枠を伸ばしたいという要望がWS実施者からあったので、その要望を反映させるためにどういう案があるか？という話をしていきまし…]]></content>
+        <published>2025-05-24T13:04:49.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cline&amp;amp;CursorによるAIコーディング徹底活用―Live Vibe Coding付きに参加してきた | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2025/05/23/233000</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2025/05/23/233000"/>
+        <updated>2025-05-23T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Cline&amp;amp;CursorによるAIコーディング徹底活用―Live Vibe Coding付き - connpass こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。(冒頭の解説とライブコーディング部分のみ視聴しました) 会の概要 会の様子 AIツールの使い分け Roo Codeのデモ&amp;amp;解説 会全体を通した感想 会の概要 以下、イベントページから共有です。 Cursor・]]></summary>
+        <content type="html"><![CDATA[Cline&amp;amp;CursorによるAIコーディング徹底活用―Live Vibe Coding付き - connpass こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。(冒頭の解説とライブコーディング部分のみ視聴しました) 会の概要 会の様子 AIツールの使い分け Roo Codeのデモ&amp;amp;解説 会全体を通した感想 会の概要 以下、イベントページから共有です。 Cursor・Clineなどのソフトウェア開発支援のAIツールの進化は目覚ましく、開発者の生産性に大きく影響を与えています。 一方、進化が早すぎるがゆえにあまり使いこなせていない、使いこなせている自信がないという方…]]></content>
+        <published>2025-05-23T14:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自分で作ったプログラムを自分でテストするって合ってるの？ | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/btc/articles/250523_self_test</id>
+        <link href="https://zenn.dev/btc/articles/250523_self_test"/>
+        <updated>2025-05-23T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[自分で作ったプログラムを自分でテストすることは、ソフトウェア開発の現場でも一般的であり、むしろ推奨されるプロセスです。主な理由は以下の通りです：単体テストは開発者自身が行うべきプログラムのテストには「単体テスト」「結合テスト」「総合テスト」などがありますが、このうち単体テスト（自分が書いたコードが仕様通りに動くかの確認）は、開発者自身が行うのが基本です。自分の実装の正しさを保証できる自分でテストす]]></summary>
+        <content type="html"><![CDATA[自分で作ったプログラムを自分でテストすることは、ソフトウェア開発の現場でも一般的であり、むしろ推奨されるプロセスです。主な理由は以下の通りです：単体テストは開発者自身が行うべきプログラムのテストには「単体テスト」「結合テスト」「総合テスト」などがありますが、このうち単体テスト（自分が書いたコードが仕様通りに動くかの確認）は、開発者自身が行うのが基本です。自分の実装の正しさを保証できる自分でテストすることで、実装が仕様通りに動作しているかを確認でき、バグやミスを早期に発見できます。テストコードの自動化で品質向上・効率化テストコードを書くことで、動作確認の自動化や将...]]></content>
+        <author>
+            <name>my log</name>
+        </author>
+        <published>2025-05-23T04:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソフトウェアテストでよくある10の問題を回避する | Ranorex Blog - UIテスト自動化ツール Ranorex]]></title>
+        <id>https://ranorex.techmatrix.jp/?p=27971</id>
+        <link href="https://ranorex.techmatrix.jp/blog/2025/05/23/avoid-these-10-common-software-testing-problems/"/>
+        <updated>2025-05-23T02:11:35.000Z</updated>
+        <summary type="html"><![CDATA[DevOpsチームのスキルがどれだけ優れていても、ソフトウェア開発では必ずと言っていいほど競合やエラーが発生します。機能、機能性、統合によって1つの問題が解決される一方で、別の問題が生じることもあります。もっとも熟練した […]The post ソフトウェアテストでよくある10の問題を回避する first appeared on UIテスト自動化ツール Ranorex.]]></summary>
+        <content type="html"><![CDATA[DevOpsチームのスキルがどれだけ優れていても、ソフトウェア開発では必ずと言っていいほど競合やエラーが発生します。機能、機能性、統合によって1つの問題が解決される一方で、別の問題が生じることもあります。もっとも熟練した […]The post ソフトウェアテストでよくある10の問題を回避する first appeared on UIテスト自動化ツール Ranorex.]]></content>
+        <author>
+            <name>user</name>
+        </author>
+        <category label="事例・ソリューション"/>
+        <published>2025-05-23T02:11:35.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スクラム祭りの打ち合わせ(38.5回目)をしてきた | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2025/05/22/235428</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2025/05/22/235428"/>
+        <updated>2025-05-22T14:54:28.000Z</updated>
+        <summary type="html"><![CDATA[aki-m.hatenadiary.com こちらの打ち合わせ(番外編)をしてきたので、会の様子と感想を書いていこうと思います。 Keynote カンファレンス設計 オンラインの盛り上げ 忘れるスキル OST Keynote Keynoteとしてどういうセッションを求めたいのか？という話をしていきました。傾向とパターンを掴むために、スクラム祭りでは過去にあった講演であのKeynoteをして欲しいと]]></summary>
+        <content type="html"><![CDATA[aki-m.hatenadiary.com こちらの打ち合わせ(番外編)をしてきたので、会の様子と感想を書いていこうと思います。 Keynote カンファレンス設計 オンラインの盛り上げ 忘れるスキル OST Keynote Keynoteとしてどういうセッションを求めたいのか？という話をしていきました。傾向とパターンを掴むために、スクラム祭りでは過去にあった講演であのKeynoteをして欲しいという話や、逆にあのKeynoteは(普通のセッションとしては全然いいんだけど)Keynoteとしてはして欲しくないという話をしました。 軸として、場を盛り上げてカンファレンスのこの後の体験に対してワク…]]></content>
+        <published>2025-05-22T14:54:28.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Playwright で Clerk をテストするガイド【Next.js】 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/b13o/articles/testing-clerk-playwright</id>
+        <link href="https://zenn.dev/b13o/articles/testing-clerk-playwright"/>
+        <updated>2025-05-22T13:25:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに先日、Next.js の勉強会で、Clerk による認証サービスの活用を取り上げました 🔐認証は、Web アプリケーション開発において、特に重要な要素の一つでありながら、テストが複雑な部分でもあります。とはいえ、複数のページにまたがる認証フローは、手動テストだけでは不十分になりがちです。今回は、Clerk の認証機能を Playwright でテストする方法について調査したので、基礎的な内]]></summary>
+        <content type="html"><![CDATA[はじめに先日、Next.js の勉強会で、Clerk による認証サービスの活用を取り上げました 🔐認証は、Web アプリケーション開発において、特に重要な要素の一つでありながら、テストが複雑な部分でもあります。とはいえ、複数のページにまたがる認証フローは、手動テストだけでは不十分になりがちです。今回は、Clerk の認証機能を Playwright でテストする方法について調査したので、基礎的な内容をまとめました！時間の節約になれば、嬉しいです 🙌 Clerk とは？https://zenn.dev/b13o/articles/tutorial-clerkもし、C...]]></content>
+        <author>
+            <name>kazzyfrog</name>
+        </author>
+        <published>2025-05-22T13:25:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年最新！初心者QAエンジニアが選ぶ自動化テストツール10選 | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/nakamurakaito/articles/8fae919671f477</id>
+        <link href="https://zenn.dev/nakamurakaito/articles/8fae919671f477"/>
+        <updated>2025-05-22T06:05:34.000Z</updated>
+        <summary type="html"><![CDATA[はじめにこんにちは！kaitoです。正直、テストって最初は「ひたすらポチポチする作業でしょ？」って思ってたんですよ。でも、プロジェクトが進むにつれて、手動テストの限界を痛感しまして...。特に、ちょっとコードを修正するたびに、何十、何百ものテストケースを全部手で確認するなんて、もう無理！時間もかかるし、ミスも出るし、何より心が折れそうになるんです（笑）。そんな時に出会ったのが、「自動化テストツール]]></summary>
+        <content type="html"><![CDATA[はじめにこんにちは！kaitoです。正直、テストって最初は「ひたすらポチポチする作業でしょ？」って思ってたんですよ。でも、プロジェクトが進むにつれて、手動テストの限界を痛感しまして...。特に、ちょっとコードを修正するたびに、何十、何百ものテストケースを全部手で確認するなんて、もう無理！時間もかかるし、ミスも出るし、何より心が折れそうになるんです（笑）。そんな時に出会ったのが、「自動化テストツール」でした。最初は「難しそう...」ってビビってたんですけど、実際に使ってみたら、これがもう革命的で！一度設定すれば、あとはツールが勝手にテストしてくれるんですから。おかげで、テストにか...]]></content>
+        <author>
+            <name>nakamura-kaito</name>
+        </author>
+        <published>2025-05-22T06:05:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年最新！初心者QAエンジニアが選ぶ自動化テストツール10選 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/nakamurakaito/articles/8fae919671f477</id>
+        <link href="https://zenn.dev/nakamurakaito/articles/8fae919671f477"/>
+        <updated>2025-05-22T06:05:34.000Z</updated>
+        <summary type="html"><![CDATA[はじめにこんにちは！kaitoです。正直、テストって最初は「ひたすらポチポチする作業でしょ？」って思ってたんですよ。でも、プロジェクトが進むにつれて、手動テストの限界を痛感しまして...。特に、ちょっとコードを修正するたびに、何十、何百ものテストケースを全部手で確認するなんて、もう無理！時間もかかるし、ミスも出るし、何より心が折れそうになるんです（笑）。そんな時に出会ったのが、「自動化テストツール]]></summary>
+        <content type="html"><![CDATA[はじめにこんにちは！kaitoです。正直、テストって最初は「ひたすらポチポチする作業でしょ？」って思ってたんですよ。でも、プロジェクトが進むにつれて、手動テストの限界を痛感しまして...。特に、ちょっとコードを修正するたびに、何十、何百ものテストケースを全部手で確認するなんて、もう無理！時間もかかるし、ミスも出るし、何より心が折れそうになるんです（笑）。そんな時に出会ったのが、「自動化テストツール」でした。最初は「難しそう...」ってビビってたんですけど、実際に使ってみたら、これがもう革命的で！一度設定すれば、あとはツールが勝手にテストしてくれるんですから。おかげで、テストにか...]]></content>
+        <author>
+            <name>nakamura-kaito</name>
+        </author>
+        <published>2025-05-22T06:05:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大人のソフトウェアテスト雑談会 #270【ハチ】に参加してきた | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2025/05/20/225822</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2025/05/20/225822"/>
+        <updated>2025-05-21T13:58:22.000Z</updated>
+        <summary type="html"><![CDATA[ost-zatu.connpass.com 今週もテストの街葛飾に行ってきたので、会の様子と感想を書いていこうと思います。 ビブリオバトル スクラムフェス ファシリテーション本 鎌倉 ファシリテーター ビブリオバトル XP祭りの名物にビブリオバトルがありますが、スクラム祭りが同時開催ならスクラム祭りでもビブリオバトルをやって、頂上決戦を最後にやるみたいなコンテンツやったら面白そうだという話が出てい]]></summary>
+        <content type="html"><![CDATA[ost-zatu.connpass.com 今週もテストの街葛飾に行ってきたので、会の様子と感想を書いていこうと思います。 ビブリオバトル スクラムフェス ファシリテーション本 鎌倉 ファシリテーター ビブリオバトル XP祭りの名物にビブリオバトルがありますが、スクラム祭りが同時開催ならスクラム祭りでもビブリオバトルをやって、頂上決戦を最後にやるみたいなコンテンツやったら面白そうだという話が出ていました。 ちなみに、XP祭りにおけるビブリオバトルのコンテンツは、バトルの応募はされないんだけれども視聴者はたくさんいるコンテンツになっているそうです。 スクラムフェス スクラムフェスが毎月ありますが…]]></content>
+        <published>2025-05-21T13:58:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[モデルは磨く。レビューは学び合い。 | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/enjapan/articles/f279dcd691b862</id>
+        <link href="https://zenn.dev/enjapan/articles/f279dcd691b862"/>
+        <updated>2025-05-20T09:30:20.000Z</updated>
+        <summary type="html"><![CDATA[モデルをレビューするということレビューの場面では、つい細部に目を凝らしてしまうことがあります。テストケースであれコードであれ、「あれも、これも」とパターンや分岐を一つずつ確認していくうちに、気づけばレビュワー自身が設計をやり直しているような状態に陥る──これは多くの人にとって馴染みのある経験ではないでしょうか。私自身、テストケースや探索的テストのチャーターをレビューする際、意図せず細部に立ち入りす]]></summary>
+        <content type="html"><![CDATA[モデルをレビューするということレビューの場面では、つい細部に目を凝らしてしまうことがあります。テストケースであれコードであれ、「あれも、これも」とパターンや分岐を一つずつ確認していくうちに、気づけばレビュワー自身が設計をやり直しているような状態に陥る──これは多くの人にとって馴染みのある経験ではないでしょうか。私自身、テストケースや探索的テストのチャーターをレビューする際、意図せず細部に立ち入りすぎてしまったことが何度もあります。その結果、レビューに非常に時間がかかるだけでなく、深いドメイン知識や仕様の理解が求められるため、他チームや新人が入り込みづらくなるという課題も感じてい...]]></content>
+        <author>
+            <name>MAX</name>
+        </author>
+        <published>2025-05-20T09:30:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[モデルは磨く。レビューは学び合い。 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/enjapan/articles/f279dcd691b862</id>
+        <link href="https://zenn.dev/enjapan/articles/f279dcd691b862"/>
+        <updated>2025-05-20T09:30:20.000Z</updated>
+        <summary type="html"><![CDATA[モデルをレビューするということレビューの場面では、つい細部に目を凝らしてしまうことがあります。テストケースであれコードであれ、「あれも、これも」とパターンや分岐を一つずつ確認していくうちに、気づけばレビュワー自身が設計をやり直しているような状態に陥る──これは多くの人にとって馴染みのある経験ではないでしょうか。私自身、テストケースや探索的テストのチャーターをレビューする際、意図せず細部に立ち入りす]]></summary>
+        <content type="html"><![CDATA[モデルをレビューするということレビューの場面では、つい細部に目を凝らしてしまうことがあります。テストケースであれコードであれ、「あれも、これも」とパターンや分岐を一つずつ確認していくうちに、気づけばレビュワー自身が設計をやり直しているような状態に陥る──これは多くの人にとって馴染みのある経験ではないでしょうか。私自身、テストケースや探索的テストのチャーターをレビューする際、意図せず細部に立ち入りすぎてしまったことが何度もあります。その結果、レビューに非常に時間がかかるだけでなく、深いドメイン知識や仕様の理解が求められるため、他チームや新人が入り込みづらくなるという課題も感じてい...]]></content>
+        <author>
+            <name>MAX</name>
+        </author>
+        <published>2025-05-20T09:30:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Selenium/Appium Conf 2025 参加記 | AIテスト自動化プラットフォーム「MagicPod」公式note]]></title>
+        <id>https://note.com/magicpod/n/n7a89aefc9aca</id>
+        <link href="https://note.com/magicpod/n/n7a89aefc9aca"/>
+        <updated>2025-05-20T05:30:58.000Z</updated>
+        <summary type="html"><![CDATA[みなさんこんにちは。MagicPodエンジニアリングマネージャーのわきざかです。3月末にバレンシアで行われたSelenium/Appium Conference 2025に行ってきました。今までオンラインで開催されていたAppium Conferenceは何度か観ているのですが、オフライン開催というのはかなり久しぶりでした(Appium Confは2019年以来、Selenium Confは202]]></summary>
+        <content type="html"><![CDATA[みなさんこんにちは。MagicPodエンジニアリングマネージャーのわきざかです。3月末にバレンシアで行われたSelenium/Appium Conference 2025に行ってきました。今までオンラインで開催されていたAppium Conferenceは何度か観ているのですが、オフライン開催というのはかなり久しぶりでした(Appium Confは2019年以来、Selenium Confは2023年)。私個人は現地入りするのは東京のSelenium Conference 2019以来です。JaSST'25 Tokyoと日程が奇跡的なモロ被りだったからか、日本人は皆無でした。プロポーザルを出してみましたが、応募が200以上あったらしく、惜しくも落ちました。その代わり、pre-webinarシリーズとして発表の機会を頂けることになり、頑張ったものはこちら(英語)にあります。続きをみる]]></content>
+        <published>2025-05-20T05:30:58.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テストコード内のコメントに絵文字を使うとちょっと見やすい✅️ | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/tenkei/articles/6ef20af9db045b</id>
+        <link href="https://zenn.dev/tenkei/articles/6ef20af9db045b"/>
+        <updated>2025-05-19T22:11:20.000Z</updated>
+        <summary type="html"><![CDATA[小ネタです。ちょっと複雑なテストの挙動を説明するために、コメントをつけることがあると思います。そのコメント内に絵文字をつけるとちょっと見やすい、という話です。こちらが絵文字なし。import { UserService } from 'path/to/service'import { createMockUser } from 'path/to/testUtils'describe("UserSe]]></summary>
+        <content type="html"><![CDATA[小ネタです。ちょっと複雑なテストの挙動を説明するために、コメントをつけることがあると思います。そのコメント内に絵文字をつけるとちょっと見やすい、という話です。こちらが絵文字なし。import { UserService } from 'path/to/service'import { createMockUser } from 'path/to/testUtils'describe("UserService", () =&amp;gt; { it("getSomeone", () =&amp;gt; { // 論理削除されているので無視される crea...]]></content>
+        <author>
+            <name>tenkei</name>
+        </author>
+        <published>2025-05-19T22:11:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スクラム祭りの打ち合わせ(38回目)をしてきた | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2025/05/20/000106</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2025/05/20/000106"/>
+        <updated>2025-05-19T15:01:06.000Z</updated>
+        <summary type="html"><![CDATA[aki-m.hatenadiary.com こちらの打ち合わせをしてきたので、会の様子と感想を書いていこうと思います。 キャッシュ・フロー更新 メール返信 浅草地域トラックの追加 地域トラックの確認 趣意書のupdate Confengineのupdate キャッシュ・フロー更新 先週に引き続き、ありがたいことにスポンサーが増えていたのでキャッシュ・フローを更新しました。 Goldスポンサーという]]></summary>
+        <content type="html"><![CDATA[aki-m.hatenadiary.com こちらの打ち合わせをしてきたので、会の様子と感想を書いていこうと思います。 キャッシュ・フロー更新 メール返信 浅草地域トラックの追加 地域トラックの確認 趣意書のupdate Confengineのupdate キャッシュ・フロー更新 先週に引き続き、ありがたいことにスポンサーが増えていたのでキャッシュ・フローを更新しました。 Goldスポンサーということもありだいぶ黒字化したので、感謝しかないです。 メール返信 スポンサーの方からメールをいただけたので、それに対してお礼の返信をしました。 浅草地域トラックの追加 地域トラックがすでに多数ある状況で…]]></content>
+        <published>2025-05-19T15:01:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XP祭り2025の運営MTG(4回目)に参加してきた | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2025/05/19/230609</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2025/05/19/230609"/>
+        <updated>2025-05-19T14:06:09.000Z</updated>
+        <summary type="html"><![CDATA[XP祭りの運営MTG(4回目)に参加してきたので、会の様子を書いていこうと思います。 Confengineのアップデート 次回日程決め Confengineのアップデート confengine.com スクラム祭りでConfengineはアップデートしたのですが、まだXP祭りの運営でこういうところをアップデートしたいみたいなのは話すことができていなかったので、そこのアップデートをどうしましょうか？]]></summary>
+        <content type="html"><![CDATA[XP祭りの運営MTG(4回目)に参加してきたので、会の様子を書いていこうと思います。 Confengineのアップデート 次回日程決め Confengineのアップデート confengine.com スクラム祭りでConfengineはアップデートしたのですが、まだXP祭りの運営でこういうところをアップデートしたいみたいなのは話すことができていなかったので、そこのアップデートをどうしましょうか？という話をしていきました。 具体的には以下を直していきました。 XP祭りのHPに記載されているConfengineのリンクを、スクラム祭りのConfengineのリンクに修正しました XP祭りに登壇し…]]></content>
+        <published>2025-05-19T14:06:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Webアプリの期待結果をHTTPレスポンスステータスコードで考える | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/kairiver/articles/9c9aa509acbee4</id>
+        <link href="https://zenn.dev/kairiver/articles/9c9aa509acbee4"/>
+        <updated>2025-05-19T13:31:06.000Z</updated>
+        <summary type="html"><![CDATA[テストケースの分類というと「正常系」「準正常系」「異常系」といったものがあると思いますが、私は細かい機能のテストにおいてはこれらの言葉はあまり使わずにHTTPのレスポンスステータスコードで結果を分類してテストケースを考えることが多いです。利点としては、HTTPレスポンスステータスコードは定義がはっきりしており 「何をもって"正常系"とするか？」といった解釈の食い違いが発生しないことが挙げられます。]]></summary>
+        <content type="html"><![CDATA[テストケースの分類というと「正常系」「準正常系」「異常系」といったものがあると思いますが、私は細かい機能のテストにおいてはこれらの言葉はあまり使わずにHTTPのレスポンスステータスコードで結果を分類してテストケースを考えることが多いです。利点としては、HTTPレスポンスステータスコードは定義がはっきりしており 「何をもって"正常系"とするか？」といった解釈の食い違いが発生しないことが挙げられます。 有名どころのHTTPレスポンスステータスコードご存知の方も多いとは思いますが、主にWebアプリケーションを開発する上で比較的登場頻度の高いHTTPレスポンスステータスコードを挙げます。...]]></content>
+        <author>
+            <name>かいり</name>
+        </author>
+        <published>2025-05-19T13:31:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Webアプリの期待結果をHTTPレスポンスステータスコードで考える | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/kairiver/articles/9c9aa509acbee4</id>
+        <link href="https://zenn.dev/kairiver/articles/9c9aa509acbee4"/>
+        <updated>2025-05-19T13:31:06.000Z</updated>
+        <summary type="html"><![CDATA[テストケースの分類というと「正常系」「準正常系」「異常系」といったものがあると思いますが、私は細かい機能のテストにおいてはこれらの言葉はあまり使わずにHTTPのレスポンスステータスコードで結果を分類してテストケースを考えることが多いです。利点としては、HTTPレスポンスステータスコードは定義がはっきりしており 「何をもって"正常系"とするか？」といった解釈の食い違いが発生しないことが挙げられます。]]></summary>
+        <content type="html"><![CDATA[テストケースの分類というと「正常系」「準正常系」「異常系」といったものがあると思いますが、私は細かい機能のテストにおいてはこれらの言葉はあまり使わずにHTTPのレスポンスステータスコードで結果を分類してテストケースを考えることが多いです。利点としては、HTTPレスポンスステータスコードは定義がはっきりしており 「何をもって"正常系"とするか？」といった解釈の食い違いが発生しないことが挙げられます。 有名どころのHTTPレスポンスステータスコードご存知の方も多いとは思いますが、主にWebアプリケーションを開発する上で比較的登場頻度の高いHTTPレスポンスステータスコードを挙げます。...]]></content>
+        <author>
+            <name>かいり</name>
+        </author>
+        <published>2025-05-19T13:31:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jest で test 間でオブジェクトを共有する | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/sabiuyack/articles/340bd6ce7daec2</id>
+        <link href="https://zenn.dev/sabiuyack/articles/340bd6ce7daec2"/>
+        <updated>2025-05-19T04:40:13.000Z</updated>
+        <summary type="html"><![CDATA[jest で global-setup をいい感じに使って backend にアクセスするための client を複数の .test ファイルで共有するjestで、テストのファイルを複数に分割してシナリオを記述したい。その際、beforeAll() などで全てのファイルで同じようなオブジェクト（例えば、ネットワークリクエストを行うクライアントなど）初期化をしている。そんな経験はないでしょうか。私は]]></summary>
+        <content type="html"><![CDATA[jest で global-setup をいい感じに使って backend にアクセスするための client を複数の .test ファイルで共有するjestで、テストのファイルを複数に分割してシナリオを記述したい。その際、beforeAll() などで全てのファイルで同じようなオブジェクト（例えば、ネットワークリクエストを行うクライアントなど）初期化をしている。そんな経験はないでしょうか。私は以下の方法によってそれを解決しました。まず、テストが子ワーカープロセスを生成して並列実行されないようにします。 "scripts": { "test:in-b...]]></content>
+        <author>
+            <name>soya-miyoshi</name>
+        </author>
+        <published>2025-05-19T04:40:13.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ISTQB® Test Analyst v4.0                       リリースされました 〜 Voicy 連動記事   （おまけ付き）   | まこっちゃん]]></title>
+        <id>https://note.com/mark_hillfield/n/nfffbc3da10ad</id>
+        <link href="https://note.com/mark_hillfield/n/nfffbc3da10ad"/>
+        <updated>2025-05-19T03:19:31.000Z</updated>
+        <summary type="html"><![CDATA[ISTQB®テストアナリストシラバスVer.4.0の主な変更点について本投稿は、下記 Voicyの放送を文字起こししたものを記事化したものです。最後に、おまけとして、version1(2007年版シラバス）から最新版までカバーされていたテスト技法をまとめたものを追記してあります。続きをみる]]></summary>
+        <content type="html"><![CDATA[ISTQB®テストアナリストシラバスVer.4.0の主な変更点について本投稿は、下記 Voicyの放送を文字起こししたものを記事化したものです。最後に、おまけとして、version1(2007年版シラバス）から最新版までカバーされていたテスト技法をまとめたものを追記してあります。続きをみる]]></content>
+        <published>2025-05-19T03:19:31.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【新人向け】テストリストを最初に作成してレビューしてもらおう | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/tomo_ya/articles/8ee681f2b49f2d</id>
+        <link href="https://zenn.dev/tomo_ya/articles/8ee681f2b49f2d"/>
+        <updated>2025-05-19T03:00:02.000Z</updated>
+        <summary type="html"><![CDATA[私は実務歴約1年の新人エンジニアです．1年ほど経つと，規模の大きい開発タスクを任されるようになってくるかと思います．本記事では，中規模以上の開発タスクを進めていく中で，「最初にテストリストの作成とレビューをしてもらったら開発がスムーズに進んだ」という体験談をまとめました． 対象読者実務経験1年未満〜3年程度開発の手戻りを防ぎたい相談する際のコミュニケーションコストを削減したい 最初にテストリストの]]></summary>
+        <content type="html"><![CDATA[私は実務歴約1年の新人エンジニアです．1年ほど経つと，規模の大きい開発タスクを任されるようになってくるかと思います．本記事では，中規模以上の開発タスクを進めていく中で，「最初にテストリストの作成とレビューをしてもらったら開発がスムーズに進んだ」という体験談をまとめました． 対象読者実務経験1年未満〜3年程度開発の手戻りを防ぎたい相談する際のコミュニケーションコストを削減したい 最初にテストリストの作成とレビューをする 設定説明を簡単にするため，ECサイトの機能全般の開発を任されたと仮定しましょう．主な機能は以下とします．商品一覧機能商品追加機能商品編...]]></content>
+        <author>
+            <name>totti</name>
+        </author>
+        <published>2025-05-19T03:00:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伝わるコードレビュー 開発チームの生産性を高める「上手な伝え方」の教科書 - FL#93に参加してきた | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2025/05/18/233000</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2025/05/18/233000"/>
+        <updated>2025-05-18T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[伝わるコードレビュー 開発チームの生産性を高める「上手な伝え方」の教科書 - FL#93 - connpass こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 会の概要 会の様子 講演 本を書いたきっかけ 本を書く際に気をつけたこと 印象的だったこと 本書に込めた想い レビュアーに伝わるPRの準備 Q&amp;amp;Aパネルトーク レビューコメントで必ず修正してほしい、参考情報、み]]></summary>
+        <content type="html"><![CDATA[伝わるコードレビュー 開発チームの生産性を高める「上手な伝え方」の教科書 - FL#93 - connpass こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 会の概要 会の様子 講演 本を書いたきっかけ 本を書く際に気をつけたこと 印象的だったこと 本書に込めた想い レビュアーに伝わるPRの準備 Q&amp;amp;Aパネルトーク レビューコメントで必ず修正してほしい、参考情報、みたいなレベル感をどのように調整しているか？ レビューのタイミングで基本設計やアーキテクチャの問題を話す際に苦慮しているのだが伝え方で改善できる部分はあるか？ レビュアーとレビュイーで意見が分かれた場合…]]></content>
+        <published>2025-05-18T14:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第334回：　「ALTTAのテキストをつくろう」18　（静的解析と動的解析　はじめに） | Kouichi Akiyama]]></title>
+        <id>https://note.com/akiyama924/n/nb85b5e44e82d</id>
+        <link href="https://note.com/akiyama924/n/nb85b5e44e82d"/>
+        <updated>2025-05-17T22:03:18.000Z</updated>
+        <summary type="html"><![CDATA[◀前の記事へ 次の記事へ▶︎≡ はじめに続きをみる]]></summary>
+        <content type="html"><![CDATA[◀前の記事へ 次の記事へ▶︎≡ はじめに続きをみる]]></content>
+        <published>2025-05-17T22:03:18.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スクラムフェス金沢2025の打ち合わせ(22回目)に参加してきた | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2025/05/17/225104</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2025/05/17/225104"/>
+        <updated>2025-05-17T13:51:04.000Z</updated>
+        <summary type="html"><![CDATA[aki-m.hatenadiary.com スクラムフェス金沢2025に向けた準備をしてきたので、会の様子を書いていこうと思います。 香盤表確認 セッション調整 スポンサーブース設営 キャッシュ・フロー確認&amp;amp;更新 香盤表確認 自分をはじめとしたスクラムフェス新潟に参加していたメンバーが前回の運営MTGに参加することができていなかったので、そのときに作った香盤表を確認しました。 結論、特に問題もなく]]></summary>
+        <content type="html"><![CDATA[aki-m.hatenadiary.com スクラムフェス金沢2025に向けた準備をしてきたので、会の様子を書いていこうと思います。 香盤表確認 セッション調整 スポンサーブース設営 キャッシュ・フロー確認&amp;amp;更新 香盤表確認 自分をはじめとしたスクラムフェス新潟に参加していたメンバーが前回の運営MTGに参加することができていなかったので、そのときに作った香盤表を確認しました。 結論、特に問題もなく、調整しなくても良さそうだという話になりました。 セッション調整 採択している中さんのセッションを延長したいという話がご本人からあったのですが、それができるのか？という話をまずしていきました。 結論、…]]></content>
+        <published>2025-05-17T13:51:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『テストの7つの原則』 〜 パート① 〜 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/hide_yuki/articles/259ec695cb0abd</id>
+        <link href="https://zenn.dev/hide_yuki/articles/259ec695cb0abd"/>
+        <updated>2025-05-17T08:14:17.000Z</updated>
+        <summary type="html"><![CDATA[はじめに現在、アプリ開発者としてプロダクトの持続的な成長やユーザーへのコミットに寄与するためにも、SDLC全体を見渡して開発をすること、および、それにはテストに関する体系的な知識が必要だと考え、それを効率良く学べるJSTQB Foundation Levelの資格試験の勉強をしており、そこでのインプットを記事にしたいと思います。今回はその中でも「テストの7つの原則」の一部について記事にしたいと思い]]></summary>
+        <content type="html"><![CDATA[はじめに現在、アプリ開発者としてプロダクトの持続的な成長やユーザーへのコミットに寄与するためにも、SDLC全体を見渡して開発をすること、および、それにはテストに関する体系的な知識が必要だと考え、それを効率良く学べるJSTQB Foundation Levelの資格試験の勉強をしており、そこでのインプットを記事にしたいと思います。今回はその中でも「テストの7つの原則」の一部について記事にしたいと思います。なお今回記事は テストは欠陥があることは示せるが、欠陥がないことは示せないこちらの原則について記事にしてみようと思います。 テストは欠陥があることは示せ...]]></content>
+        <author>
+            <name>Hideyuki Fujihara</name>
+        </author>
+        <published>2025-05-17T08:14:17.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソフトウェアテストの代表的な手法とテスト工程まとめ | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/1day1knowledge/articles/b228b80e843313</id>
+        <link href="https://zenn.dev/1day1knowledge/articles/b228b80e843313"/>
+        <updated>2025-05-17T07:36:36.000Z</updated>
+        <summary type="html"><![CDATA[ソフトウェアテストの代表的な手法とテスト工程まとめソフトウェア開発において「テスト」は、品質を確保しバグを防ぐために欠かせない工程です。本記事では、よく使われるテスト手法とテスト工程の違い・特徴を、初心者にも分かりやすく整理します。 📝 主要用語の簡単な説明テスト手法テストをどのような観点や方法で行うか（例：ホワイトボックステスト、ブラックボックステストなど）テスト工程開発のどの段階・粒度でテスト]]></summary>
+        <content type="html"><![CDATA[ソフトウェアテストの代表的な手法とテスト工程まとめソフトウェア開発において「テスト」は、品質を確保しバグを防ぐために欠かせない工程です。本記事では、よく使われるテスト手法とテスト工程の違い・特徴を、初心者にも分かりやすく整理します。 📝 主要用語の簡単な説明テスト手法テストをどのような観点や方法で行うか（例：ホワイトボックステスト、ブラックボックステストなど）テスト工程開発のどの段階・粒度でテストを行うか（例：単体テスト、結合テスト、システムテスト） 🛠 テスト工程の概要 テスト工程の流れ🟦 単体テスト（ユニットテスト）小さい単位（...]]></content>
+        <author>
+            <name>デベロくん</name>
+        </author>
+        <published>2025-05-17T07:36:36.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソフトウェアテストの代表的な手法とテスト工程まとめ | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/1day1knowledge/articles/b228b80e843313</id>
+        <link href="https://zenn.dev/1day1knowledge/articles/b228b80e843313"/>
+        <updated>2025-05-17T07:36:36.000Z</updated>
+        <summary type="html"><![CDATA[ソフトウェアテストの代表的な手法とテスト工程まとめソフトウェア開発において「テスト」は、品質を確保しバグを防ぐために欠かせない工程です。本記事では、よく使われるテスト手法とテスト工程の違い・特徴を、初心者にも分かりやすく整理します。 📝 主要用語の簡単な説明テスト手法テストをどのような観点や方法で行うか（例：ホワイトボックステスト、ブラックボックステストなど）テスト工程開発のどの段階・粒度でテスト]]></summary>
+        <content type="html"><![CDATA[ソフトウェアテストの代表的な手法とテスト工程まとめソフトウェア開発において「テスト」は、品質を確保しバグを防ぐために欠かせない工程です。本記事では、よく使われるテスト手法とテスト工程の違い・特徴を、初心者にも分かりやすく整理します。 📝 主要用語の簡単な説明テスト手法テストをどのような観点や方法で行うか（例：ホワイトボックステスト、ブラックボックステストなど）テスト工程開発のどの段階・粒度でテストを行うか（例：単体テスト、結合テスト、システムテスト） 🛠 テスト工程の概要 テスト工程の流れ🟦 単体テスト（ユニットテスト）小さい単位（...]]></content>
+        <author>
+            <name>デベロくん</name>
+        </author>
+        <published>2025-05-17T07:36:36.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ベース選出カバレッジ（Base Choice Coverage：BCC）とは | 千里霧中]]></title>
+        <id>https://goyoki.hatenablog.com/entry/2025/05/17/144804</id>
+        <link href="https://goyoki.hatenablog.com/entry/2025/05/17/144804"/>
+        <updated>2025-05-17T05:48:04.000Z</updated>
+        <summary type="html"><![CDATA[ベース選出カバレッジ（ベースチョイスカバレッジ、Base Choice Coverage、BCC）は、組み合わせテストのカバレッジの一種です。有用なカバレッジ基準ですが、執筆時点で日本語情報が少なかったため、情報をまとめます。 ベース選出カバレッジとは ベース選出カバレッジは、組み合わせテストにおいて、パラメータにベースとなる重要な値がある場合に適用します。このベースとなる値は、最も重要な値、ハッ]]></summary>
+        <content type="html"><![CDATA[ベース選出カバレッジ（ベースチョイスカバレッジ、Base Choice Coverage、BCC）は、組み合わせテストのカバレッジの一種です。有用なカバレッジ基準ですが、執筆時点で日本語情報が少なかったため、情報をまとめます。 ベース選出カバレッジとは ベース選出カバレッジは、組み合わせテストにおいて、パラメータにベースとなる重要な値がある場合に適用します。このベースとなる値は、最も重要な値、ハッピーパスの値、デフォルトとして選ぶべき値が該当します。 ベース選出カバレッジ100%の組み合わせは、このベースの値を基準に、次のように作成します。 各パラメータからベースを選出した組み合わせを作る。こ…]]></content>
+        <published>2025-05-17T05:48:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『テストの7つの原則』 〜 パート① 〜 | ソフトウェアテストタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/fujihara_hideyuki/items/bfe626f67c5a00dc52e3</id>
+        <link href="https://qiita.com/fujihara_hideyuki/items/bfe626f67c5a00dc52e3"/>
+        <updated>2025-05-17T03:32:56.000Z</updated>
+        <summary type="html"><![CDATA[はじめに現在、アプリ開発者としてプロダクトの持続的な成長やユーザーへのコミットに寄与するためにも、SDLC全体を見渡して開発をすること、および、それにはテストに関する体系的な知識が必要だと考…]]></summary>
+        <content type="html"><![CDATA[はじめに現在、アプリ開発者としてプロダクトの持続的な成長やユーザーへのコミットに寄与するためにも、SDLC全体を見渡して開発をすること、および、それにはテストに関する体系的な知識が必要だと考…]]></content>
+        <published>2025-05-17T03:32:56.000Z</published>
+    </entry>
+</feed>
