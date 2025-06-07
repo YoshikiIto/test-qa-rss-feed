@@ -1,0 +1,1170 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "テスト・QA関連ブログRSS",
+    "home_page_url": "https://yoshikiito.github.io/test-qa-rss-feed/",
+    "feed_url": "https://yoshikiito.github.io/test-qa-rss-feed/feeds/feed.json",
+    "description": "企テスト・QA関連ブログの更新をまとめたRSSフィード",
+    "icon": "https://yoshikiito.github.io/test-qa-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://aki-m.hatenadiary.com/entry/2025/06/07/220441",
+            "content_html": "aki-m.hatenadiary.com スクラムフェス金沢2025に向けた準備をしてきたので、会の様子を書いていこうと思います。(今回がスクラムフェス金沢2025前最後の打ち合わせでした) Keynote準備 Pekoの準備 サーバー準備 Keynote準備 前回からの進展として、Keynoteの資料が送られてきたり電話で会話させていただける予定ができたりしたので、それらの共有とConfengineに仮登壇のタイトルを記載しておくこととなにかトラブルがあって投影できなかったときのために、いただいた資料をPDF化することを決めました。 Pekoの準備 当日使うPekoに関して、準備や段取りの…",
+            "url": "https://aki-m.hatenadiary.com/entry/2025/06/07/220441",
+            "title": "スクラムフェス金沢2025の打ち合わせ(25回目)に参加してきた | 天の月",
+            "summary": "aki-m.hatenadiary.com スクラムフェス金沢2025に向けた準備をしてきたので、会の様子を書いていこうと思います。(今回がスクラムフェス金沢2025前最後の打ち合わせでした) Keynote準備 Pekoの準備 サーバー準備 Keynote準備 前回からの進展として、Keynoteの資料が送られてきたり電話で会話させていただける予定ができたりしたので、それらの共有とConfeng",
+            "image": {
+                "url": "https://ogimage.blog.st-hatena.com/26006613655256878/6802418398465147965/1749301481",
+                "alt": "スクラムフェス金沢2025の打ち合わせ(25回目)に参加してきた - 天の月"
+            },
+            "date_modified": "2025-06-07T13:04:41.000Z",
+            "date_published": "2025-06-07T13:04:41.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "スクラムフェス金沢2025の打ち合わせ(25回目)に参加してきた",
+                "blogTitle": "天の月",
+                "blogLink": "https://aki-m.hatenadiary.com/",
+                "blogLinkMd5Hash": "f18fd33ac8346d4d368fa9778015ffd8",
+                "favicon": "https://aki-m.hatenadiary.com/icon/favicon"
+            }
+        },
+        {
+            "id": "https://zenn.dev/i_keito/articles/20b872c8-f4a6-8006-b677-d13c51a8250a",
+            "content_html": "概要Goのテストコードのとても簡単なサンプルコードテスト対象コード、テストコード、テストの実行方法を記載 サンプルコード ディレクトリ構成などGoでは、_test.go****で終わるファイルにテストコードを書くTestXXX****という関数名にするtest_demo/├── calc.go└── calc_test.go ← テストコードはここ calc.gopackage calcfunc Add(a, b int) int {return a + b} calc_test.gopackage calcimport \"...",
+            "url": "https://zenn.dev/i_keito/articles/20b872c8-f4a6-8006-b677-d13c51a8250a",
+            "title": "【Go】簡単なユニットテストのサンプルコード | Zennの「Test」のフィード",
+            "summary": "概要Goのテストコードのとても簡単なサンプルコードテスト対象コード、テストコード、テストの実行方法を記載 サンプルコード ディレクトリ構成などGoでは、_test.go****で終わるファイルにテストコードを書くTestXXX****という関数名にするtest_demo/├── calc.go└── calc_test.go ← テストコードはここ calc.gopackage calcfunc ",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--f4-3WFRk--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Go%25E3%2580%2591%25E7%25B0%25A1%25E5%258D%2598%25E3%2581%25AA%25E3%2583%25A6%25E3%2583%258B%25E3%2583%2583%25E3%2583%2588%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AE%25E3%2582%25B5%25E3%2583%25B3%25E3%2583%2597%25E3%2583%25AB%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:keito%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pudE9oSUgwTnRsbHVTT3laM0NhNWx5OGRhRUZtNE9sMWtPTF8yPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-07T01:58:34.000Z",
+            "date_published": "2025-06-07T01:58:34.000Z",
+            "author": {
+                "name": "keito"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【Go】簡単なユニットテストのサンプルコード",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/centervil/articles/2025-06-05_097_dev-diary",
+            "content_html": "!この記事はgemini-2.5-flash-preview-04-17によって自動生成されています。 関連リンク前回の開発日記 はじめに昨日はCLIモジュールのテストを安定させ、カバレッジを84%まで向上させることができました。テストが全件パスするようになり、CLIの基盤部分の品質には一定の手応えを感じています。今日は、このテストカバレッジを維持・向上させつつ、さらに一歩進んでアプリケーション全体の利用フローを確認するためのE2E（エンドツーエンド）テストの実装に挑戦しました。 背景と目的これまでのテストは主に単体テストや結合テストが中心でした。これらは個々...",
+            "url": "https://zenn.dev/centervil/articles/2025-06-05_097_dev-diary",
+            "title": "CLIテストカバレッジ維持とE2Eテスト実装 （開発日記 No.097） | Zennの「Test」のフィード",
+            "summary": "!この記事はgemini-2.5-flash-preview-04-17によって自動生成されています。 関連リンク前回の開発日記 はじめに昨日はCLIモジュールのテストを安定させ、カバレッジを84%まで向上させることができました。テストが全件パスするようになり、CLIの基盤部分の品質には一定の手応えを感じています。今日は、このテストカバレッジを維持・向上させつつ、さらに一歩進んでアプリケーション全",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--somgeVJj--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:CLI%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25AB%25E3%2583%2590%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25B8%25E7%25B6%25AD%25E6%258C%2581%25E3%2581%25A8E2E%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E5%25AE%259F%25E8%25A3%2585%2520%25EF%25BC%2588%25E9%2596%258B%25E7%2599%25BA%25E6%2597%25A5%25E8%25A8%2598%2520No.097%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:centervil%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUdObXl4YlVZNXZiN0NvbG1TN0tPQmhqQ2M5V3lIRXYwVVhwZ2YyY2wxYTc9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-07T01:56:33.000Z",
+            "date_published": "2025-06-07T01:56:33.000Z",
+            "author": {
+                "name": "centervil"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "CLIテストカバレッジ維持とE2Eテスト実装 （開発日記 No.097）",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://aki-m.hatenadiary.com/entry/2025/06/06/235654",
+            "content_html": "スクラムフェス大阪2025にプロポーザルを出したのでその告知です。 その1 その2 このプロポーザルを出した理由 共通 その1 その2 その1 confengine.com コミュニティで多数の事例を聞いたり、アジャイル開発を基軸とした多数のプロセスや理論を学ぶと、自分が置かれている状況の問題点や不遇さが明確になったり、自分が理想としている姿がどんどん磨かれてGapが勝手に広がっていくことがありました。そういったとき、自分の場合は、(実際に目に見える行動には移さなくても)自分自身がそのプロダクトやプロジェクトに対する当事者であるにもかかわらず、そこから少し離れたような場所に行って、うまくいって…",
+            "url": "https://aki-m.hatenadiary.com/entry/2025/06/06/235654",
+            "title": "スクラムフェス大阪2025にプロポーザルを出した | 天の月",
+            "summary": "スクラムフェス大阪2025にプロポーザルを出したのでその告知です。 その1 その2 このプロポーザルを出した理由 共通 その1 その2 その1 confengine.com コミュニティで多数の事例を聞いたり、アジャイル開発を基軸とした多数のプロセスや理論を学ぶと、自分が置かれている状況の問題点や不遇さが明確になったり、自分が理想としている姿がどんどん磨かれてGapが勝手に広がっていくことがありま",
+            "image": {
+                "url": "https://ogimage.blog.st-hatena.com/26006613655256878/6802418398463723825/1749222384",
+                "alt": "スクラムフェス大阪2025にプロポーザルを出した - 天の月"
+            },
+            "date_modified": "2025-06-06T14:56:54.000Z",
+            "date_published": "2025-06-06T14:56:54.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "スクラムフェス大阪2025にプロポーザルを出した",
+                "blogTitle": "天の月",
+                "blogLink": "https://aki-m.hatenadiary.com/",
+                "blogLinkMd5Hash": "f18fd33ac8346d4d368fa9778015ffd8",
+                "favicon": "https://aki-m.hatenadiary.com/icon/favicon"
+            }
+        },
+        {
+            "id": "https://zenn.dev/testkun08080/articles/df5a9f0c10bcbd",
+            "content_html": "概要基本的には個人用です。（すみません）ただ書き方で遊んでみたかったのです。 感想埋め込みがうまくいかないことがある。iframeをそのまま使えたら、楽な気がする。 Gist Codepen (猫はいつもいいね🐈) Slideshare (大共感) Speakerdeck (フィンランドサウナはいつか行ってみたい) Docswell (またねこ) codesandbox (やはり猫) Stackblitz (もう一度猫) figma (ミーム行ってみよう) blueprintue (特に面白いのが見つからないのでサンプル...",
+            "url": "https://zenn.dev/testkun08080/articles/df5a9f0c10bcbd",
+            "title": "とりあえず、Zennの書き方で遊んでみる(公式からただコピーして遊ぶだけ)2 | Zennの「Test」のフィード",
+            "summary": "概要基本的には個人用です。（すみません）ただ書き方で遊んでみたかったのです。 感想埋め込みがうまくいかないことがある。iframeをそのまま使えたら、楽な気がする。 Gist Codepen (猫はいつもいいね🐈) Slideshare (大共感) Speakerdeck (フィンランドサウナはいつか行ってみたい) Docswell (またねこ) codesandbox (やはり猫) Stackb",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--MwyEDaSK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%25A8%25E3%2582%258A%25E3%2581%2582%25E3%2581%2588%25E3%2581%259A%25E3%2580%2581Zenn%25E3%2581%25AE%25E6%259B%25B8%25E3%2581%258D%25E6%2596%25B9%25E3%2581%25A7%25E9%2581%258A%25E3%2582%2593%25E3%2581%25A7%25E3%2581%25BF%25E3%2582%258B%2528%25E5%2585%25AC%25E5%25BC%258F%25E3%2581%258B%25E3%2582%2589%25E3%2581%259F%25E3%2581%25A0%25E3%2582%25B3%25E3%2583%2594%25E3%2583%25BC%25E3%2581%2597%25E3%2581%25A6%25E9%2581%258A%25E3%2581%25B6%25E3%2581%25A0%25E3%2581%2591%25292%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:testkun08080%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzYxMjE5ZTQ2YzguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-06T13:22:00.000Z",
+            "date_published": "2025-06-06T13:22:00.000Z",
+            "author": {
+                "name": "testkun08080"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "とりあえず、Zennの書き方で遊んでみる(公式からただコピーして遊ぶだけ)2",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://ito128.hatenablog.com/entry/2025/06/06/192218",
+            "content_html": "ごきげんよう。sae (@sito_110) です。 先日、JaSST'25 Tohokuに参加してきました。 色々お話聞いたり話したりしたので思い出を書きます。 ワークについて VSTePの詳細については各々ググっていただきまして、今回参加したワークでは、すごくざっくりとまとめると以下のような手順で進めていきました。 テストしたいことを出し合う ツリー構造にする グループに分ける 実際にやる順番に並べる 自分たちが普段やっているやり方だと、テストしたいことをテストに入るメンバーで色々話し合う → 実行する順番に並べる、という感じでテストを考えています。 ツリーにしたりグループに分けるくだりが…",
+            "url": "https://ito128.hatenablog.com/entry/2025/06/06/192218",
+            "title": "JaSST'25 Tohokuいってきたよ | sae's blog",
+            "summary": "ごきげんよう。sae (@sito_110) です。 先日、JaSST'25 Tohokuに参加してきました。 色々お話聞いたり話したりしたので思い出を書きます。 ワークについて VSTePの詳細については各々ググっていただきまして、今回参加したワークでは、すごくざっくりとまとめると以下のような手順で進めていきました。 テストしたいことを出し合う ツリー構造にする グループに分ける 実際にやる順番",
+            "image": {
+                "url": "https://ogimage.blog.st-hatena.com/10257846132680133569/6802418398462075733/1749205338",
+                "alt": "JaSST'25 Tohokuいってきたよ - sae's blog"
+            },
+            "date_modified": "2025-06-06T10:22:18.000Z",
+            "date_published": "2025-06-06T10:22:18.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "JaSST'25 Tohokuいってきたよ",
+                "blogTitle": "sae's blog",
+                "blogLink": "https://ito128.hatenablog.com/",
+                "blogLinkMd5Hash": "a07e588e42e103c0c872f1591535dd0d",
+                "favicon": "https://ito128.hatenablog.com/icon/favicon"
+            }
+        },
+        {
+            "id": "https://zenn.dev/k_sak/articles/2ef5685e5fab30",
+            "content_html": "Qiitaからの移植第一弾です はじめにプロダクトの品質を検査する時には欠かせないテスト。ただ、そのテストがその時の思いつきや、行き当たりバッタリで行われているとしたら…プロダクトの品質状況については当然、疑問が残りますよね。テストは意外とクリエイティブなお仕事なので、属人化しやすいと感じています。ということで、いつ誰がテストしても同じバグを検出できる方法を模索していました。そこで導入したのが「テスト観点リスト」です。 テスト観点とはどのような角度から、どのような目的でテストを実施するかという視点 です。ISTQB glossary（QAの用語集）にもテスト観点に関...",
+            "url": "https://zenn.dev/k_sak/articles/2ef5685e5fab30",
+            "title": "「思いつき」に依存しないテストー 観点リスト | Zennの「QA」のフィード",
+            "summary": "Qiitaからの移植第一弾です はじめにプロダクトの品質を検査する時には欠かせないテスト。ただ、そのテストがその時の思いつきや、行き当たりバッタリで行われているとしたら…プロダクトの品質状況については当然、疑問が残りますよね。テストは意外とクリエイティブなお仕事なので、属人化しやすいと感じています。ということで、いつ誰がテストしても同じバグを検出できる方法を模索していました。そこで導入したのが「テ",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s---9xs5ykL--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258C%25E6%2580%259D%25E3%2581%2584%25E3%2581%25A4%25E3%2581%258D%25E3%2580%258D%25E3%2581%25AB%25E4%25BE%259D%25E5%25AD%2598%25E3%2581%2597%25E3%2581%25AA%25E3%2581%2584%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25BC%2520%25E8%25A6%25B3%25E7%2582%25B9%25E3%2583%25AA%25E3%2582%25B9%25E3%2583%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:K-SAK%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2c4M05sUjdrbG9idlp6R0R6dUMwTmk0TVVQZzJLR0tLcjRmbXBRPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-06T09:20:01.000Z",
+            "date_published": "2025-06-06T09:20:01.000Z",
+            "author": {
+                "name": "K-SAK"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「思いつき」に依存しないテストー 観点リスト",
+                "blogTitle": "Zennの「QA」のフィード",
+                "blogLink": "https://zenn.dev/topics/qa",
+                "blogLinkMd5Hash": "31c7f35c994712b2f4c822a6de926717",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/k_sak/articles/2ef5685e5fab30",
+            "content_html": "Qiitaからの移植第一弾です はじめにプロダクトの品質を検査する時には欠かせないテスト。ただ、そのテストがその時の思いつきや、行き当たりバッタリで行われているとしたら…プロダクトの品質状況については当然、疑問が残りますよね。テストは意外とクリエイティブなお仕事なので、属人化しやすいと感じています。ということで、いつ誰がテストしても同じバグを検出できる方法を模索していました。そこで導入したのが「テスト観点リスト」です。 テスト観点とはどのような角度から、どのような目的でテストを実施するかという視点 です。ISTQB glossary（QAの用語集）にもテスト観点に関...",
+            "url": "https://zenn.dev/k_sak/articles/2ef5685e5fab30",
+            "title": "「思いつき」に依存しないテストー 観点リスト | Zennの「Test」のフィード",
+            "summary": "Qiitaからの移植第一弾です はじめにプロダクトの品質を検査する時には欠かせないテスト。ただ、そのテストがその時の思いつきや、行き当たりバッタリで行われているとしたら…プロダクトの品質状況については当然、疑問が残りますよね。テストは意外とクリエイティブなお仕事なので、属人化しやすいと感じています。ということで、いつ誰がテストしても同じバグを検出できる方法を模索していました。そこで導入したのが「テ",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s---9xs5ykL--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258C%25E6%2580%259D%25E3%2581%2584%25E3%2581%25A4%25E3%2581%258D%25E3%2580%258D%25E3%2581%25AB%25E4%25BE%259D%25E5%25AD%2598%25E3%2581%2597%25E3%2581%25AA%25E3%2581%2584%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25BC%2520%25E8%25A6%25B3%25E7%2582%25B9%25E3%2583%25AA%25E3%2582%25B9%25E3%2583%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:K-SAK%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2c4M05sUjdrbG9idlp6R0R6dUMwTmk0TVVQZzJLR0tLcjRmbXBRPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-06T09:20:01.000Z",
+            "date_published": "2025-06-06T09:20:01.000Z",
+            "author": {
+                "name": "K-SAK"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「思いつき」に依存しないテストー 観点リスト",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://testerchan.hatenadiary.com/entry/2025/06/06/170347",
+            "content_html": "AIを使って変更の差分(diff)から、ユニットテスト、結合テスト、システムテストのテスト観点を出してみる実験をしました。 ただ……テスターちゃんのブログがスマホで見ると広告が多くて＞＜ 課金してるはずだし、広告消しのオプションを入れているはずなのに消えないー！ そんなわけで、今回はZennに書いてみました。 1ページのマンガだと広告は入りようがないのですけど……＞＜ zenn.dev",
+            "url": "https://testerchan.hatenadiary.com/entry/2025/06/06/170347",
+            "title": "変更差分からユニットテスト/結合テスト/システムテストのテスト観点を出せるのか？【cursor】 | テスターちゃん【4コマ漫画】",
+            "summary": "AIを使って変更の差分(diff)から、ユニットテスト、結合テスト、システムテストのテスト観点を出してみる実験をしました。 ただ……テスターちゃんのブログがスマホで見ると広告が多くて＞＜ 課金してるはずだし、広告消しのオプションを入れているはずなのに消えないー！ そんなわけで、今回はZennに書いてみました。 1ページのマンガだと広告は入りようがないのですけど……＞＜ zenn.dev",
+            "image": {
+                "url": "https://ogimage.blog.st-hatena.com/10328749687239133287/6802418398463246329/1749197027",
+                "alt": "変更差分からユニットテスト/結合テスト/システムテストのテスト観点を出せるのか？【cursor】 - テスターちゃん【4コマ漫画】"
+            },
+            "date_modified": "2025-06-06T08:03:47.000Z",
+            "date_published": "2025-06-06T08:03:47.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "変更差分からユニットテスト/結合テスト/システムテストのテスト観点を出せるのか？【cursor】",
+                "blogTitle": "テスターちゃん【4コマ漫画】",
+                "blogLink": "https://testerchan.hatenadiary.com/",
+                "blogLinkMd5Hash": "fba0a64c82ca923990583d06823cfc8d",
+                "favicon": "https://testerchan.hatenadiary.com/icon/favicon"
+            }
+        },
+        {
+            "id": "https://zenn.dev/jam0824/articles/877546e6d059fb",
+            "content_html": "Unityで横スクロールのシューティングゲームを開発しています。(個人の趣味）新しい武器アイテムを追加したのでそのテストが必要となりました。そこで考えたのは以下。「AIで影響範囲を加味してユニットテストレベル、インテグレーションテスト(結合テスト)レベル、システムテストレベルのテスト観点を出せないか」試してみたのでご興味ある方はご覧ください。使用しているエディターはcursorで、モデルはclaude-4-sonnetです。 テストの基本 テストでやること3つテストにはおおよそ3つやることがあります。1つめは、決めたことが決めた通り動くか確認する活動。ユニットテス...",
+            "url": "https://zenn.dev/jam0824/articles/877546e6d059fb",
+            "title": "変更差分からユニットテスト/結合テスト/システムテストのテスト観点を出せるのか？【cursor】 | Zennの「QA」のフィード",
+            "summary": "Unityで横スクロールのシューティングゲームを開発しています。(個人の趣味）新しい武器アイテムを追加したのでそのテストが必要となりました。そこで考えたのは以下。「AIで影響範囲を加味してユニットテストレベル、インテグレーションテスト(結合テスト)レベル、システムテストレベルのテスト観点を出せないか」試してみたのでご興味ある方はご覧ください。使用しているエディターはcursorで、モデルはclau",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--Hin5TgfY--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25A4%2589%25E6%259B%25B4%25E5%25B7%25AE%25E5%2588%2586%25E3%2581%258B%25E3%2582%2589%25E3%2583%25A6%25E3%2583%258B%25E3%2583%2583%25E3%2583%2588%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%252F%25E7%25B5%2590%25E5%2590%2588%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%252F%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25A0%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AE%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E8%25A6%25B3%25E7%2582%25B9%25E3%2582%2592%25E5%2587%25BA%25E3%2581%259B%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%25E3%2580%2590cursor%25E3%2580%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25BE%25E3%2581%25A4%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ExYjQ4NTAwNmIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-06T07:54:45.000Z",
+            "date_published": "2025-06-06T07:54:45.000Z",
+            "author": {
+                "name": "まつ"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "変更差分からユニットテスト/結合テスト/システムテストのテスト観点を出せるのか？【cursor】",
+                "blogTitle": "Zennの「QA」のフィード",
+                "blogLink": "https://zenn.dev/topics/qa",
+                "blogLinkMd5Hash": "31c7f35c994712b2f4c822a6de926717",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/jam0824/articles/877546e6d059fb",
+            "content_html": "Unityで横スクロールのシューティングゲームを開発しています。(個人の趣味）新しい武器アイテムを追加したのでそのテストが必要となりました。そこで考えたのは以下。「AIで影響範囲を加味してユニットテストレベル、インテグレーションテスト(結合テスト)レベル、システムテストレベルのテスト観点を出せないか」試してみたのでご興味ある方はご覧ください。使用しているエディターはcursorで、モデルはclaude-4-sonnetです。 テストの基本 テストでやること3つテストにはおおよそ3つやることがあります。1つめは、決めたことが決めた通り動くか確認する活動。ユニットテス...",
+            "url": "https://zenn.dev/jam0824/articles/877546e6d059fb",
+            "title": "変更差分からユニットテスト/結合テスト/システムテストのテスト観点を出せるのか？【cursor】 | Zennの「Test」のフィード",
+            "summary": "Unityで横スクロールのシューティングゲームを開発しています。(個人の趣味）新しい武器アイテムを追加したのでそのテストが必要となりました。そこで考えたのは以下。「AIで影響範囲を加味してユニットテストレベル、インテグレーションテスト(結合テスト)レベル、システムテストレベルのテスト観点を出せないか」試してみたのでご興味ある方はご覧ください。使用しているエディターはcursorで、モデルはclau",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--Hin5TgfY--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25A4%2589%25E6%259B%25B4%25E5%25B7%25AE%25E5%2588%2586%25E3%2581%258B%25E3%2582%2589%25E3%2583%25A6%25E3%2583%258B%25E3%2583%2583%25E3%2583%2588%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%252F%25E7%25B5%2590%25E5%2590%2588%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%252F%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25A0%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AE%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E8%25A6%25B3%25E7%2582%25B9%25E3%2582%2592%25E5%2587%25BA%25E3%2581%259B%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%25E3%2580%2590cursor%25E3%2580%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25BE%25E3%2581%25A4%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ExYjQ4NTAwNmIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-06T07:54:45.000Z",
+            "date_published": "2025-06-06T07:54:45.000Z",
+            "author": {
+                "name": "まつ"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "変更差分からユニットテスト/結合テスト/システムテストのテスト観点を出せるのか？【cursor】",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://tech.smarthr.jp/entry/2025/06/06/150000",
+            "content_html": "集合写真（t-wadaさんのポーズと言われ一部が腕を組んでいるシーン） こんにちは、品質保証部のtarappoです。 2025年5月26日（月）に和田卓人さん（以後、t-wadaさん）をお招きし、社内講演会を開催しました。 本記事では、その講演会に至った経緯や講演会の内容、そしてそこからのアクションについて紹介します。 t-wadaさんのプロフィールは次のとおりです。 和田卓人 （わだ たくと） プログラマ、テスト駆動開発者 学生時代にソフトウェア工学を学び、オブジェクト指向分析/設計に傾倒。執筆活動や講演、ハンズオンイベントなどを通じてテスト駆動開発を広めようと努力している。 『プログラマが…",
+            "url": "https://tech.smarthr.jp/entry/2025/06/06/150000",
+            "title": "t-wadaさん「開発者生産性の観点から考える自動テスト」社内講演会 | QA - SmartHR Tech Blog",
+            "summary": "集合写真（t-wadaさんのポーズと言われ一部が腕を組んでいるシーン） こんにちは、品質保証部のtarappoです。 2025年5月26日（月）に和田卓人さん（以後、t-wadaさん）をお招きし、社内講演会を開催しました。 本記事では、その講演会に至った経緯や講演会の内容、そしてそこからのアクションについて紹介します。 t-wadaさんのプロフィールは次のとおりです。 和田卓人 （わだ たくと） ",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/1b5421b1ac60cbbabed8bb8b7bb28b1b27d2c409/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmarthr%2F20250606%2F20250606150008.jpg",
+                "alt": "t-wadaさん「開発者生産性の観点から考える自動テスト」社内講演会 - SmartHR Tech Blog",
+                "type": "jpg"
+            },
+            "date_modified": "2025-06-06T06:00:00.000Z",
+            "date_published": "2025-06-06T06:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 62,
+                "originalTitle": "t-wadaさん「開発者生産性の観点から考える自動テスト」社内講演会",
+                "blogTitle": "QA - SmartHR Tech Blog",
+                "blogLink": "https://tech.smarthr.jp/archive/category/QA",
+                "blogLinkMd5Hash": "7ddfc7280e18f7edf84c9e4462f1cffe",
+                "favicon": "https://tech.smarthr.jp/icon/favicon"
+            }
+        },
+        {
+            "id": "https://zenn.dev/toms74209200/articles/first-step-unit-testing",
+            "content_html": "タイトルは『単体テストの単体テストの考え方/使い方』のパクりオマージュです[1].今日, 業務で扱うコードでは品質向上や変更容易性といった観点から開発者自身が行う自動テストが重要な役割を担っています. しかしプログラミングの学習ではテストを中心として学ぶ機会はそれほど多くないでしょう. そのため単体テストを書いてみようと思っても, そもそも書き方がわからないといった悩みを抱える人も多いのではないでしょうか. プログラミングには「適切な変数名をつける」とか「早期リターンを使う」といったプラクティスがあります. これと同様に単体テストにも適切に書くためのコツがあります. ここでは単体テスト...",
+            "url": "https://zenn.dev/toms74209200/articles/first-step-unit-testing",
+            "title": "単体テストの始め方/作り方 | Zennの「Test」のフィード",
+            "summary": "タイトルは『単体テストの単体テストの考え方/使い方』のパクりオマージュです[1].今日, 業務で扱うコードでは品質向上や変更容易性といった観点から開発者自身が行う自動テストが重要な役割を担っています. しかしプログラミングの学習ではテストを中心として学ぶ機会はそれほど多くないでしょう. そのため単体テストを書いてみようと思っても, そもそも書き方がわからないといった悩みを抱える人も多いのではないで",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--0b9qm8qq--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%258D%2598%25E4%25BD%2593%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AE%25E5%25A7%258B%25E3%2582%2581%25E6%2596%25B9%252F%25E4%25BD%259C%25E3%2582%258A%25E6%2596%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:toms%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSTVLV3Rva3h5eWFxT0M5ajlpQXhVQjF1NVlndDV3QUprRjVEc0lXcEVDNnVoUD1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-06T00:00:01.000Z",
+            "date_published": "2025-06-06T00:00:01.000Z",
+            "author": {
+                "name": "toms"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "単体テストの始め方/作り方",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/hide_yuki/articles/a06b1f51caf32d",
+            "content_html": "はじめに現在、アプリ開発者としてプロダクトの持続的な成長やユーザーへのコミットに寄与するためにも、SDLC全体を見渡して開発をすること、および、それにはテストに関する体系的な知識が必要だと考え、それを効率良く学べるJSTQB Foundation Levelの資格試験の勉強をしており、そこでのインプットを記事にしたいと思います。今回はその中でも「テストの7つの原則」の一部について記事にしたいと思います。なお今回は 早期テストで時間とコストを節約こちらの原則について記事にしてみようと思います。 早期テストで時間とコストの節約とは開発をしているとこんな...",
+            "url": "https://zenn.dev/hide_yuki/articles/a06b1f51caf32d",
+            "title": "『テストの7つの原則』 〜 パート③ 〜 | Zennの「Test」のフィード",
+            "summary": "はじめに現在、アプリ開発者としてプロダクトの持続的な成長やユーザーへのコミットに寄与するためにも、SDLC全体を見渡して開発をすること、および、それにはテストに関する体系的な知識が必要だと考え、それを効率良く学べるJSTQB Foundation Levelの資格試験の勉強をしており、そこでのインプットを記事にしたいと思います。今回はその中でも「テストの7つの原則」の一部について記事にしたいと思い",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--UDu56TN9--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258E%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AE7%25E3%2581%25A4%25E3%2581%25AE%25E5%258E%259F%25E5%2589%2587%25E3%2580%258F%2520%25E3%2580%259C%2520%25E3%2583%2591%25E3%2583%25BC%25E3%2583%2588%25E2%2591%25A2%2520%25E3%2580%259C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Hideyuki%2520Fujihara%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSW0xVllMMl9vUng4bTQxbmFranBMRGFjU0pzSno0ejhtd2ViaTllcGhjWGNvaXFJbz1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-05T23:33:41.000Z",
+            "date_published": "2025-06-05T23:33:41.000Z",
+            "author": {
+                "name": "Hideyuki Fujihara"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "『テストの7つの原則』 〜 パート③ 〜",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://qiita.com/fujihara_hideyuki/items/bc2cd9b46be2dc8e861e",
+            "content_html": "はじめに現在、アプリ開発者としてプロダクトの持続的な成長やユーザーへのコミットに寄与するためにも、SDLC全体を見渡して開発をすること、および、それにはテストに関する体系的な知識が必要だと考…",
+            "url": "https://qiita.com/fujihara_hideyuki/items/bc2cd9b46be2dc8e861e",
+            "title": "『テストの7つの原則』 〜 パート③ 〜 | ソフトウェアテストタグが付けられた新着記事 - Qiita",
+            "summary": "はじめに現在、アプリ開発者としてプロダクトの持続的な成長やユーザーへのコミットに寄与するためにも、SDLC全体を見渡して開発をすること、および、それにはテストに関する体系的な知識が必要だと考…",
+            "image": {
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzNjM0MzA5JTJGNGUzZDRmMTZiMDM3YzE3NjA4MDRjYmM5ZTBhOTA3NDkxZWE5MmQzMyUyRnhfbGFyZ2UucG5nJTNGMTczMTM5ODg0ND9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz05ZTAzMmIwMGFjYjM1ZDQzNzNkZmE5NGMxOGM2ZTdiZA%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D53be8275e8c16a47ca9ccdba0b813319?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJThFJUUzJTgzJTg2JUUzJTgyJUI5JUUzJTgzJTg4JUUzJTgxJUFFNyVFMyU4MSVBNCVFMyU4MSVBRSVFNSU4RSU5RiVFNSU4OSU4NyVFMyU4MCU4RiUyMCVFMyU4MCU5QyUyMCVFMyU4MyU5MSVFMyU4MyVCQyVFMyU4MyU4OCVFMiU5MSVBMiUyMCVFMyU4MCU5QyZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWY2YjJiOTRjM2UzMzAwYzA3MTRkNTlhNjg4ZWU0YTA1&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBmdWppaGFyYV9oaWRleXVraSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTQ3YWVkYTY0OGJkYjc4NDI2ODlkN2FkODA3MGY0MGE3&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=21e88368ca8de47919552242c5d823e2"
+            },
+            "date_modified": "2025-06-05T23:25:15.000Z",
+            "date_published": "2025-06-05T23:25:15.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "『テストの7つの原則』 〜 パート③ 〜",
+                "blogTitle": "ソフトウェアテストタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c",
+                "favicon": "https://cdn.qiita.com/assets/favicons/public/production-c620d3e403342b1022967ba5e3db1aaa.ico"
+            }
+        },
+        {
+            "id": "https://zenn.dev/centervil/articles/2025-06-04_096_dev-diary",
+            "content_html": "!この記事はgemini-2.5-flash-preview-04-17によって自動生成されています。 関連リンク前回の開発日記 はじめに前回の開発では、CLI機能の修正やテンプレート・モデル指定といった新機能の追加、そしてそれらに伴うテストの更新を行いました。しかし、テストカバレッジはまだ低く、特にCLIモジュール（cli.py）は14%と改善の余地が大きい状況でした。そこで本日は、このCLIモジュールのテストに集中的に取り組み、テストの安定化、設計の統一、そしてカバレッジの大幅な向上を目指しました。 背景と目的開発中のツールは、コマンドラインインターフェー...",
+            "url": "https://zenn.dev/centervil/articles/2025-06-04_096_dev-diary",
+            "title": "CLIテストを安定させカバレッジを大幅向上（開発日記 No.096） | Zennの「Test」のフィード",
+            "summary": "!この記事はgemini-2.5-flash-preview-04-17によって自動生成されています。 関連リンク前回の開発日記 はじめに前回の開発では、CLI機能の修正やテンプレート・モデル指定といった新機能の追加、そしてそれらに伴うテストの更新を行いました。しかし、テストカバレッジはまだ低く、特にCLIモジュール（cli.py）は14%と改善の余地が大きい状況でした。そこで本日は、このCLIモ",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--iUbsPO4C--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:CLI%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2582%2592%25E5%25AE%2589%25E5%25AE%259A%25E3%2581%2595%25E3%2581%259B%25E3%2582%25AB%25E3%2583%2590%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25B8%25E3%2582%2592%25E5%25A4%25A7%25E5%25B9%2585%25E5%2590%2591%25E4%25B8%258A%25EF%25BC%2588%25E9%2596%258B%25E7%2599%25BA%25E6%2597%25A5%25E8%25A8%2598%2520No.096%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:centervil%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUdObXl4YlVZNXZiN0NvbG1TN0tPQmhqQ2M5V3lIRXYwVVhwZ2YyY2wxYTc9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-05T14:42:14.000Z",
+            "date_published": "2025-06-05T14:42:14.000Z",
+            "author": {
+                "name": "centervil"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "CLIテストを安定させカバレッジを大幅向上（開発日記 No.096）",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://aki-m.hatenadiary.com/entry/2025/06/04/233000_1",
+            "content_html": "MCPをサービスに導入した日韓の事例を学ぶ〜FindyとQueryPieのサービス開発の裏側〜 - connpass こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 会の概要 会の様子 講演1 : 開発2日間！MCPを導入した新サービスの裏側 講演2 :10分でMCPサーバーを作ろう！ パネルディスカッション MCPを活用したサービスが生まれた理由 自社プロダクトにMCPをどう活かして既存とどう変えているのか？ MCPサービス開発から数ヶ月たってどうか？ 反響はどうだったか？ どうやって早い意思決定をしたのか？ 新しいサービスでMCPを導入する際に重視したこと セ…",
+            "url": "https://aki-m.hatenadiary.com/entry/2025/06/04/233000_1",
+            "title": "MCPをサービスに導入した日韓の事例を学ぶ〜FindyとQueryPieのサービス開発の裏側〜に参加してきた | 天の月",
+            "summary": "MCPをサービスに導入した日韓の事例を学ぶ〜FindyとQueryPieのサービス開発の裏側〜 - connpass こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 会の概要 会の様子 講演1 : 開発2日間！MCPを導入した新サービスの裏側 講演2 :10分でMCPサーバーを作ろう！ パネルディスカッション MCPを活用したサービスが生まれた理由 自社プロダクトにM",
+            "image": {
+                "url": "https://ogimage.blog.st-hatena.com/26006613655256878/6802418398462257458/1749130287",
+                "alt": "MCPをサービスに導入した日韓の事例を学ぶ〜FindyとQueryPieのサービス開発の裏側〜に参加してきた - 天の月"
+            },
+            "date_modified": "2025-06-05T14:30:00.000Z",
+            "date_published": "2025-06-05T14:30:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MCPをサービスに導入した日韓の事例を学ぶ〜FindyとQueryPieのサービス開発の裏側〜に参加してきた",
+                "blogTitle": "天の月",
+                "blogLink": "https://aki-m.hatenadiary.com/",
+                "blogLinkMd5Hash": "f18fd33ac8346d4d368fa9778015ffd8",
+                "favicon": "https://aki-m.hatenadiary.com/icon/favicon"
+            }
+        },
+        {
+            "id": "https://zenn.dev/testkun08080/articles/58bb26607a7cab",
+            "content_html": "見出し1です 見出し2だね 見出し3かな 見出し4デスこんちわ!おはようございます!こんばんわ!こんばんにちわ!一番目二番目アンカーテキストZennZenn webページ(キャプションが中央に来ない)タスク1タスク２タスク３終わらない終わったはず忘れた😅知らないまじ？シンプルコードhey.heyコード+ファイル名hey.hey@@ -4,6 +4,5 @@+ const foo = bar.baz([1, 2, 3]) + 1;- let ...",
+            "url": "https://zenn.dev/testkun08080/articles/58bb26607a7cab",
+            "title": "とりあえず、Zennの書き方で遊んでみる(公式からただコピーして遊ぶだけ) | Zennの「Test」のフィード",
+            "summary": "見出し1です 見出し2だね 見出し3かな 見出し4デスこんちわ!おはようございます!こんばんわ!こんばんにちわ!一番目二番目アンカーテキストZennZenn webページ(キャプションが中央に来ない)タスク1タスク２タスク３終わらない終わったはず忘れた😅知らないまじ？シンプルコードhey.heyコード+ファイル名hey.hey@@ -4,6 +4,5 @@+ const foo = bar.baz",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--ekvtMS1J--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%25A8%25E3%2582%258A%25E3%2581%2582%25E3%2581%2588%25E3%2581%259A%25E3%2580%2581Zenn%25E3%2581%25AE%25E6%259B%25B8%25E3%2581%258D%25E6%2596%25B9%25E3%2581%25A7%25E9%2581%258A%25E3%2582%2593%25E3%2581%25A7%25E3%2581%25BF%25E3%2582%258B%2528%25E5%2585%25AC%25E5%25BC%258F%25E3%2581%258B%25E3%2582%2589%25E3%2581%259F%25E3%2581%25A0%25E3%2582%25B3%25E3%2583%2594%25E3%2583%25BC%25E3%2581%2597%25E3%2581%25A6%25E9%2581%258A%25E3%2581%25B6%25E3%2581%25A0%25E3%2581%2591%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:testkun08080%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzYxMjE5ZTQ2YzguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-05T14:25:11.000Z",
+            "date_published": "2025-06-05T14:25:11.000Z",
+            "author": {
+                "name": "testkun08080"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "とりあえず、Zennの書き方で遊んでみる(公式からただコピーして遊ぶだけ)",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/animalz/articles/f2e56b071909b6",
+            "content_html": "今回は、前回までに書いたブロックチェーンのテストを実装しよーと思います！ 環境Windows10, VSCode, Pythontest_block_chain.py は、block_chain.py と同階層に作成します。 前回までの記事・コード前々回の記事：https://zenn.dev/animalz/articles/c82f20acccd30f前回の記事：https://zenn.dev/animalz/articles/928dd981c2d1a5コード：GitHub: https://github.com/Animalyzm/mikoto_proj...",
+            "url": "https://zenn.dev/animalz/articles/f2e56b071909b6",
+            "title": "ブロックチェーン（テスト）の実装（Python） | Zennの「Test」のフィード",
+            "summary": "今回は、前回までに書いたブロックチェーンのテストを実装しよーと思います！ 環境Windows10, VSCode, Pythontest_block_chain.py は、block_chain.py と同階層に作成します。 前回までの記事・コード前々回の記事：https://zenn.dev/animalz/articles/c82f20acccd30f前回の記事：https://zenn.de",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--kFOs--Oj--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2596%25E3%2583%25AD%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2581%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%25B3%25EF%25BC%2588%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25EF%25BC%2589%25E3%2581%25AE%25E5%25AE%259F%25E8%25A3%2585%25EF%25BC%2588Python%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2582%25E3%2581%25AB%25E3%2581%25BE%25E3%2582%258B%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzk0ZTA2MDVlMTguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-05T10:18:41.000Z",
+            "date_published": "2025-06-05T10:18:41.000Z",
+            "author": {
+                "name": "あにまる"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "ブロックチェーン（テスト）の実装（Python）",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://shiftevolve.connpass.com/event/357063/",
+            "content_html": "開催日時: 2025/07/08 09:30 ～ 18:00&lt;br /&gt;開催場所: 東京都渋谷区代々木3-22-7 新宿文化クイントビル20F&lt;br /&gt;&lt;br /&gt;&lt;h3&gt;フェニックスプロジェクト無料体験会&lt;/h3&gt;&lt;p&gt;組織変革やDX推進などの新しい取り組みでは、部門間の協働とコラボレーションが極めて重要です。異なる部門の知識やリソースを結集させ、情報を共有し迅速な意思決定を実現することで、競争力を高めることが可能となります。しかし実際には多くの企業にとって、部門間の衝突が大きな課題となっています。&lt;/p&gt;&lt;p&gt;「フェニックスプロジェクト DevOpsシミュレーション研修」は、ビジネス推進のカギとなる部門間のコラボレーションをはじめとした「DevOps」の考え方を、ゲーム形式で楽しく実践的に学べるワークショップです。研修では、受講者は様々な問題を抱えた架空の企業の一員となります。続々と発生する問題に対処しながら業務を遂行することで、「DevOps」をどのように実務環境に適用するかを学びます。&lt;/p&gt;&lt;p&gt;この「フェニックスプロジェクト無料体験会」は、この研修を実際と同じように1日か",
+            "url": "https://shiftevolve.connpass.com/event/357063/",
+            "title": "【限定12名・抽選制】フェニックスプロジェクト無料体験会 | SHIFT EVOLVE グループの新着イベント",
+            "summary": "開催日時: 2025/07/08 09:30 ～ 18:00&lt;br /&gt;開催場所: 東京都渋谷区代々木3-22-7 新宿文化クイントビル20F&lt;br /&gt;&lt;br /&gt;&lt;h3&gt;フェニックスプロジェクト無料体験会&lt;/h3&gt;&lt;p&gt;組織変革やDX推進などの新しい取り組みでは、部門間の協働とコラボレーションが極めて重要です。異なる部門の知識やリソースを結集させ、情報を共有し迅速な意思決定を実現することで、競",
+            "image": {
+                "url": "https://media.connpass.com/thumbs/bf/14/bf14d85f355f2a0239ff5a94a4367eca.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-05T09:09:52.000Z",
+            "date_published": "2025-06-05T09:09:52.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【限定12名・抽選制】フェニックスプロジェクト無料体験会",
+                "blogTitle": "SHIFT EVOLVE グループの新着イベント",
+                "blogLink": "https://shiftevolve.connpass.com/",
+                "blogLinkMd5Hash": "50afdab7d012f3b61ddd1fb699eb25d6",
+                "favicon": "https://connpass.com/static/img/favicon.ico"
+            }
+        },
+        {
+            "id": "https://zenn.dev/watajamsab/articles/f507664b35af0f",
+            "content_html": "test",
+            "url": "https://zenn.dev/watajamsab/articles/f507664b35af0f",
+            "title": "test | Zennの「Test」のフィード",
+            "summary": "test",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--j5cp9S82--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_80:test%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:WATARU%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2lGWldHUlhlWnotclpaTWM5eTV2SHlNY3Y3ODVacHhTbE8wa3VJOVE9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-05T08:22:03.000Z",
+            "date_published": "2025-06-05T08:22:03.000Z",
+            "author": {
+                "name": "WATARU"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "test",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://wacate.jp/?p=4599",
+            "content_html": "表題の通り、WACATE 2025 夏の申し込みを締め切りました。 定員枠を増やして対応させていただいたのですが、増枠分含めて埋まりました。 多数のご参加申し込みをいただき、本当にありがとうございました。 参加申し込み済続きを読む投稿 WACATE 2025 夏の申し込みを締め切りました は WACATE に最初に表示されました。",
+            "url": "https://wacate.jp/2025/06/05/wacate-2025-%e5%a4%8f%e3%81%ae%e7%94%b3%e3%81%97%e8%be%bc%e3%81%bf%e3%82%92%e7%b7%a0%e3%82%81%e5%88%87%e3%82%8a%e3%81%be%e3%81%97%e3%81%9f/",
+            "title": "WACATE 2025 夏の申し込みを締め切りました | ブログ - WACATE",
+            "summary": "表題の通り、WACATE 2025 夏の申し込みを締め切りました。 定員枠を増やして対応させていただいたのですが、増枠分含めて埋まりました。 多数のご参加申し込みをいただき、本当にありがとうございました。 参加申し込み済続きを読む投稿 WACATE 2025 夏の申し込みを締め切りました は WACATE に最初に表示されました。",
+            "image": {
+                "url": "https://wacate.jp/wp-content/uploads/2018/10/wacate_logo.png",
+                "type": "png",
+                "width": 210,
+                "height": 49
+            },
+            "date_modified": "2025-06-05T04:32:24.000Z",
+            "date_published": "2025-06-05T04:32:24.000Z",
+            "author": {
+                "name": "まこっちゃん"
+            },
+            "tags": [
+                "実行委員のつぶやき",
+                "WACATE2025夏"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "WACATE 2025 夏の申し込みを締め切りました",
+                "blogTitle": "ブログ - WACATE",
+                "blogLink": "https://wacate.jp/blog/",
+                "blogLinkMd5Hash": "9a65c503b3057fe722780e74132662d0",
+                "favicon": "https://wacate.jp/wp-content/uploads/2018/04/favicon.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/ficilcom/articles/technical-debt-ahnmika",
+            "content_html": "はじめにタイトル間違えました、技術負債は200種類もありません。あと、別に技術負債を褒めたいわけでもありません。しかし、技術負債って言葉としてはシンプルなのに、中身が複雑すぎて深掘りすると意外と無限に出てくるやつです。実際には200種類あるかどうかは別として、技術負債をカテゴリ分けしました。以前、技術的負債に言及した記事は以下になります。https://zenn.dev/ficilcom/articles/tech-credit-rating筆者は、技術負債について、もっと具体的かつ詳細に議論が行われるべきだと考えています。（どのタイプの技術負債か、そもそも解消すべきかどうか...",
+            "url": "https://zenn.dev/ficilcom/articles/technical-debt-ahnmika",
+            "title": "技術負債って200種類あんねん | Zennの「Test」のフィード",
+            "summary": "はじめにタイトル間違えました、技術負債は200種類もありません。あと、別に技術負債を褒めたいわけでもありません。しかし、技術負債って言葉としてはシンプルなのに、中身が複雑すぎて深掘りすると意外と無限に出てくるやつです。実際には200種類あるかどうかは別として、技術負債をカテゴリ分けしました。以前、技術的負債に言及した記事は以下になります。https://zenn.dev/ficilcom/arti",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--pF4G5beO--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%258A%2580%25E8%25A1%2593%25E8%25B2%25A0%25E5%2582%25B5%25E3%2581%25A3%25E3%2581%25A6200%25E7%25A8%25AE%25E9%25A1%259E%25E3%2581%2582%25E3%2582%2593%25E3%2581%25AD%25E3%2582%2593%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2582%2588%25E3%2581%2595%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzE3MmFmNGJkODAuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%2595%25E3%2582%25A3%25E3%2582%25B7%25E3%2583%25AB%25E3%2582%25B3%25E3%2583%25A0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzM5MGI3NGZiN2EuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-05T01:00:02.000Z",
+            "date_published": "2025-06-05T01:00:02.000Z",
+            "author": {
+                "name": "よさ"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 42,
+                "originalTitle": "技術負債って200種類あんねん",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://aki-m.hatenadiary.com/entry/2025/06/04/233000",
+            "content_html": "forkwell.connpass.com こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 会の概要 会の様子 良いコードとは？ 書籍のおすすめポイント 対象読者 ハンマーと釘問題 知識の他に必要なこと Q&amp;A 使い捨てられるようにしておく必要もあると思うがどう考えているか？ コード品質系の書籍は類書も多いが一番のきっかけは？ 生成AIのコーディング能力が伸びていて変更容易性そのものが人を前程しなくなっていると思うがどう考えるか？ 良いコードの評価基準を意識して参画するためにまず優先してほしいものは？ 意思決定のトレードオフにどのようにチームとして向き合うべきか？…",
+            "url": "https://aki-m.hatenadiary.com/entry/2025/06/04/233000",
+            "title": "良いコードの道しるべ　変化に強いソフトウェアを作る原則と実践 - FL #97に参加してきた | 天の月",
+            "summary": "forkwell.connpass.com こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 会の概要 会の様子 良いコードとは？ 書籍のおすすめポイント 対象読者 ハンマーと釘問題 知識の他に必要なこと Q&amp;A 使い捨てられるようにしておく必要もあると思うがどう考えているか？ コード品質系の書籍は類書も多いが一番のきっかけは？ 生成AIのコーディング能力が伸びていて変",
+            "image": {
+                "url": "https://ogimage.blog.st-hatena.com/26006613655256878/6802418398461363888/1749047400",
+                "alt": "良いコードの道しるべ　変化に強いソフトウェアを作る原則と実践 - FL #97に参加してきた - 天の月"
+            },
+            "date_modified": "2025-06-04T14:30:00.000Z",
+            "date_published": "2025-06-04T14:30:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "良いコードの道しるべ　変化に強いソフトウェアを作る原則と実践 - FL #97に参加してきた",
+                "blogTitle": "天の月",
+                "blogLink": "https://aki-m.hatenadiary.com/",
+                "blogLinkMd5Hash": "f18fd33ac8346d4d368fa9778015ffd8",
+                "favicon": "https://aki-m.hatenadiary.com/icon/favicon"
+            }
+        },
+        {
+            "id": "https://wacate.jp/?p=4587",
+            "content_html": "WACATE実行委員の杞憂です。 6月8日(日)の申込締切まで残り4日です。一方、定員も埋まりつつあり、こちらもあと数名です。 申込締切が先か、定員到達が先か、どきどきしながら過ごしています。 さて、今日のブログは実続きを読む投稿 【締切が先か、定員が先か】ポジションペーパー第3弾 は WACATE に最初に表示されました。",
+            "url": "https://wacate.jp/2025/06/04/%e3%80%90%e7%b7%a0%e5%88%87%e3%81%8c%e5%85%88%e3%81%8b%e3%80%81%e5%ae%9a%e5%93%a1%e3%81%8c%e5%85%88%e3%81%8b%e3%80%91%e3%83%9d%e3%82%b8%e3%82%b7%e3%83%a7%e3%83%b3%e3%83%9a%e3%83%bc%e3%83%91%e3%83%bc/",
+            "title": "【締切が先か、定員が先か】ポジションペーパー第3弾 | ブログ - WACATE",
+            "summary": "WACATE実行委員の杞憂です。 6月8日(日)の申込締切まで残り4日です。一方、定員も埋まりつつあり、こちらもあと数名です。 申込締切が先か、定員到達が先か、どきどきしながら過ごしています。 さて、今日のブログは実続きを読む投稿 【締切が先か、定員が先か】ポジションペーパー第3弾 は WACATE に最初に表示されました。",
+            "image": {
+                "url": "https://wacate.jp/wp-content/uploads/2018/10/wacate_logo.png",
+                "type": "png",
+                "width": 210,
+                "height": 49
+            },
+            "date_modified": "2025-06-04T12:49:59.000Z",
+            "date_published": "2025-06-04T12:49:59.000Z",
+            "author": {
+                "name": "杞憂"
+            },
+            "tags": [
+                "実行委員のつぶやき",
+                "WACATE2025夏"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【締切が先か、定員が先か】ポジションペーパー第3弾",
+                "blogTitle": "ブログ - WACATE",
+                "blogLink": "https://wacate.jp/blog/",
+                "blogLinkMd5Hash": "9a65c503b3057fe722780e74132662d0",
+                "favicon": "https://wacate.jp/wp-content/uploads/2018/04/favicon.png"
+            }
+        },
+        {
+            "id": "https://wacate.jp/?p=4577",
+            "content_html": "WACATE 2025 夏の申し込み締め切りまであと4日になりました。 昨日、「もうすぐ定員（参加者数の上限）の人数に達する」という話を書きましたが、定員に達しました。 そこで研修会場の担当者と相談した結果、十数名の増枠続きを読む投稿 【申込締切まであと4日！】増枠しました！…が、すぐに埋まっちゃいそうです は WACATE に最初に表示されました。",
+            "url": "https://wacate.jp/2025/06/04/%e3%80%90%e7%94%b3%e8%be%bc%e7%b7%a0%e5%88%87%e3%81%be%e3%81%a7%e3%81%82%e3%81%a84%e6%97%a5%ef%bc%81%e3%80%91%e5%a2%97%e6%9e%a0%e3%81%97%e3%81%be%e3%81%97%e3%81%9f%ef%bc%81%e3%81%8c%e3%80%81/",
+            "title": "【申込締切まであと4日！】増枠しました！…が、すぐに埋まっちゃいそうです | ブログ - WACATE",
+            "summary": "WACATE 2025 夏の申し込み締め切りまであと4日になりました。 昨日、「もうすぐ定員（参加者数の上限）の人数に達する」という話を書きましたが、定員に達しました。 そこで研修会場の担当者と相談した結果、十数名の増枠続きを読む投稿 【申込締切まであと4日！】増枠しました！…が、すぐに埋まっちゃいそうです は WACATE に最初に表示されました。",
+            "image": {
+                "url": "https://wacate.jp/wp-content/uploads/2018/10/wacate_logo.png",
+                "type": "png",
+                "width": 210,
+                "height": 49
+            },
+            "date_modified": "2025-06-04T11:14:24.000Z",
+            "date_published": "2025-06-04T11:14:24.000Z",
+            "author": {
+                "name": "ブロッコリー"
+            },
+            "tags": [
+                "実行委員のつぶやき",
+                "WACATE2025夏"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【申込締切まであと4日！】増枠しました！…が、すぐに埋まっちゃいそうです",
+                "blogTitle": "ブログ - WACATE",
+                "blogLink": "https://wacate.jp/blog/",
+                "blogLinkMd5Hash": "9a65c503b3057fe722780e74132662d0",
+                "favicon": "https://wacate.jp/wp-content/uploads/2018/04/favicon.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/centervil/articles/2025-06-03_095_dev-diary",
+            "content_html": "!この記事はgemini-2.5-flash-preview-04-17によって自動生成されています。 関連リンク前回の開発日記 はじめに昨日はCLIのテスト修正やGitHubリポジトリの更新を行いました。一歩ずつですが、プロジェクトの基盤が固まってきている手応えを感じています。さて、今日の開発テーマは、引き続きテストの強化です。特にGeminiプロバイダーのテストを修正し、全体的なテストカバレッジを向上させることに焦点を当てます。開発を進める上で、安定したテストスイートは不可欠ですからね。作業開始時点でのテストカバレッジは全体で64%でした。特に convert...",
+            "url": "https://zenn.dev/centervil/articles/2025-06-03_095_dev-diary",
+            "title": "シンプル化とテスト修正で未来への投資（開発日記 No.095） | Zennの「Test」のフィード",
+            "summary": "!この記事はgemini-2.5-flash-preview-04-17によって自動生成されています。 関連リンク前回の開発日記 はじめに昨日はCLIのテスト修正やGitHubリポジトリの更新を行いました。一歩ずつですが、プロジェクトの基盤が固まってきている手応えを感じています。さて、今日の開発テーマは、引き続きテストの強化です。特にGeminiプロバイダーのテストを修正し、全体的なテストカバレッ",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--tsTtbTOF--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B7%25E3%2583%25B3%25E3%2583%2597%25E3%2583%25AB%25E5%258C%2596%25E3%2581%25A8%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E4%25BF%25AE%25E6%25AD%25A3%25E3%2581%25A7%25E6%259C%25AA%25E6%259D%25A5%25E3%2581%25B8%25E3%2581%25AE%25E6%258A%2595%25E8%25B3%2587%25EF%25BC%2588%25E9%2596%258B%25E7%2599%25BA%25E6%2597%25A5%25E8%25A8%2598%2520No.095%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:centervil%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUdObXl4YlVZNXZiN0NvbG1TN0tPQmhqQ2M5V3lIRXYwVVhwZ2YyY2wxYTc9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-04T08:32:24.000Z",
+            "date_published": "2025-06-04T08:32:24.000Z",
+            "author": {
+                "name": "centervil"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "シンプル化とテスト修正で未来への投資（開発日記 No.095）",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/taian/articles/3e51635ccfe40a",
+            "content_html": "株式会社TAIANでソフトウェアエンジニアをしている ふびらい といいます。E2Eテスト自動化ツールの技術選定に際して調査した結果を備忘録として共有します。E2Eテストを自動化するにあたり、AutifyなどのAIベースのSaaSを使用するか、Playwrightなどのコードベースのフレームワークを使用するかが大きな焦点になるかと思います。今回はコードベースのフレームワークに絞って比較します。前回は「スタートアップの1人目QAとして、QA組織の立ち上げ１ヶ月でやったこと」という記事を書いたので、そちらもあわせてご覧いただければと思います。 PlaywrightとCypressにつ...",
+            "url": "https://zenn.dev/taian/articles/3e51635ccfe40a",
+            "title": "PlaywrightとCypressを比較してみた | Zennの「QA」のフィード",
+            "summary": "株式会社TAIANでソフトウェアエンジニアをしている ふびらい といいます。E2Eテスト自動化ツールの技術選定に際して調査した結果を備忘録として共有します。E2Eテストを自動化するにあたり、AutifyなどのAIベースのSaaSを使用するか、Playwrightなどのコードベースのフレームワークを使用するかが大きな焦点になるかと思います。今回はコードベースのフレームワークに絞って比較します。前回は",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--OTUoA6T1--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Playwright%25E3%2581%25A8Cypress%25E3%2582%2592%25E6%25AF%2594%25E8%25BC%2583%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%25B5%25E3%2581%25B3%25E3%2582%2589%25E3%2581%2584%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2E2MWVkNzdkZjYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:TAIAN%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzUzODE5NWViZDguanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-04T03:07:38.000Z",
+            "date_published": "2025-06-04T03:07:38.000Z",
+            "author": {
+                "name": "ふびらい"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "PlaywrightとCypressを比較してみた",
+                "blogTitle": "Zennの「QA」のフィード",
+                "blogLink": "https://zenn.dev/topics/qa",
+                "blogLinkMd5Hash": "31c7f35c994712b2f4c822a6de926717",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/musoukun/articles/aa6362d1415487",
+            "content_html": "AIエージェント開発の時に、自然言語による対話システムの品質保証は、従来のソフトウェアテストとは根本的に異なっているので良い方法が無いかなぁと考えていました。入力パターンが無限に存在し、文脈に依存した適切な応答が求められるためです。テストを考えてみて、LLMが自分自身でテストケースを生成する手法が割と有効だったので、実際の取り組みを通じて詳しく解説します。※本記事は、私自身のメモ的な意味合いが強く、確実性が保証されていないし、テスト駆動開発のように、しっかりと確立されて体系化されたものではないのでご了承ください。 従来のテスト手法との違い一般的なWebアプリケーションやAPI...",
+            "url": "https://zenn.dev/musoukun/articles/aa6362d1415487",
+            "title": "AIエージェント開発における対話テスト（自問自答させる） | Zennの「Test」のフィード",
+            "summary": "AIエージェント開発の時に、自然言語による対話システムの品質保証は、従来のソフトウェアテストとは根本的に異なっているので良い方法が無いかなぁと考えていました。入力パターンが無限に存在し、文脈に依存した適切な応答が求められるためです。テストを考えてみて、LLMが自分自身でテストケースを生成する手法が割と有効だったので、実際の取り組みを通じて詳しく解説します。※本記事は、私自身のメモ的な意味合いが強く",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--fATixdds--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25AB%25E3%2581%258A%25E3%2581%2591%25E3%2582%258B%25E5%25AF%25BE%25E8%25A9%25B1%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25EF%25BC%2588%25E8%2587%25AA%25E5%2595%258F%25E8%2587%25AA%25E7%25AD%2594%25E3%2581%2595%25E3%2581%259B%25E3%2582%258B%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:musoukun%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNVlNVlFJQ213ZHUtOFlkU0JKVWozY25ETHVNTUdscmxZaXhLb3U9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-03T14:45:35.000Z",
+            "date_published": "2025-06-03T14:45:35.000Z",
+            "author": {
+                "name": "musoukun"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "AIエージェント開発における対話テスト（自問自答させる）",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://aki-m.hatenadiary.com/entry/2025/06/03/230710",
+            "content_html": "大人のソフトウェアテスト雑談会 #272【ずんだ】 - connpass 今週もテストの街葛飾に行ってきたので、会の様子と感想を書いていこうと思います。 スタープレイヤー エンジニアリング統括責任者の手引き 飛び道具 VSTeP 全体を通した感想 スタープレイヤー 組織の中にいる一人のメンバーがメディア等でずっとスタープレイヤーとして取り上げられ続けるというのは、組織の10年後といった部分を見据えると懐疑的な目線があるという話がありました。 また、スタープレイヤーというのがスキルなら良いものの、ホリエモンムーブ的な目立つことに特化しているが故に目立つみたいな場合は厳しいですよね、という話が出て…",
+            "url": "https://aki-m.hatenadiary.com/entry/2025/06/03/230710",
+            "title": "大人のソフトウェアテスト雑談会 #272【ずんだ】に参加してきた | 天の月",
+            "summary": "大人のソフトウェアテスト雑談会 #272【ずんだ】 - connpass 今週もテストの街葛飾に行ってきたので、会の様子と感想を書いていこうと思います。 スタープレイヤー エンジニアリング統括責任者の手引き 飛び道具 VSTeP 全体を通した感想 スタープレイヤー 組織の中にいる一人のメンバーがメディア等でずっとスタープレイヤーとして取り上げられ続けるというのは、組織の10年後といった部分を見据え",
+            "image": {
+                "url": "https://ogimage.blog.st-hatena.com/26006613655256878/6802418398459749109/1748959630",
+                "alt": "大人のソフトウェアテスト雑談会 #272【ずんだ】に参加してきた - 天の月"
+            },
+            "date_modified": "2025-06-03T14:07:10.000Z",
+            "date_published": "2025-06-03T14:07:10.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "大人のソフトウェアテスト雑談会 #272【ずんだ】に参加してきた",
+                "blogTitle": "天の月",
+                "blogLink": "https://aki-m.hatenadiary.com/",
+                "blogLinkMd5Hash": "f18fd33ac8346d4d368fa9778015ffd8",
+                "favicon": "https://aki-m.hatenadiary.com/icon/favicon"
+            }
+        },
+        {
+            "id": "https://zenn.dev/centervil/articles/2025-06-02_094_dev-diary",
+            "content_html": "!この記事はgemini-2.5-flash-preview-04-17によって自動生成されています。 関連リンク前回の開発日記 はじめに前回の開発日記では、テンプレートファイル機能とモデル指定機能の実装、そして基本的なテストを完了させました。これで主要な機能は一通り形になったのですが、コードの品質という点ではまだまだ課題が残っています。特にテストカバレッジが低い状態です。そこで、今日の開発テーマは「テストカバレッジの向上とドキュメント更新」としました。コードの信頼性を高め、同時にユーザーが使いやすいようにドキュメントを整備することを目指します。 背景と目的現...",
+            "url": "https://zenn.dev/centervil/articles/2025-06-02_094_dev-diary",
+            "title": "テストカバレッジ向上とCLIテスト修正（開発日記 No.094） | Zennの「Test」のフィード",
+            "summary": "!この記事はgemini-2.5-flash-preview-04-17によって自動生成されています。 関連リンク前回の開発日記 はじめに前回の開発日記では、テンプレートファイル機能とモデル指定機能の実装、そして基本的なテストを完了させました。これで主要な機能は一通り形になったのですが、コードの品質という点ではまだまだ課題が残っています。特にテストカバレッジが低い状態です。そこで、今日の開発テーマ",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--MWCIDgr---/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25AB%25E3%2583%2590%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25B8%25E5%2590%2591%25E4%25B8%258A%25E3%2581%25A8CLI%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E4%25BF%25AE%25E6%25AD%25A3%25EF%25BC%2588%25E9%2596%258B%25E7%2599%25BA%25E6%2597%25A5%25E8%25A8%2598%2520No.094%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:centervil%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUdObXl4YlVZNXZiN0NvbG1TN0tPQmhqQ2M5V3lIRXYwVVhwZ2YyY2wxYTc9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-03T03:36:39.000Z",
+            "date_published": "2025-06-03T03:36:39.000Z",
+            "author": {
+                "name": "centervil"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "テストカバレッジ向上とCLIテスト修正（開発日記 No.094）",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://wacate.jp/?p=4570",
+            "content_html": "WACATE 2025 夏の申し込み締め切りまであと5日になりました。 ただ、ありがたいことに、もうすぐ定員数（参加者の上限数）に達します。例年のペースですと、今日には定員に達する想定をしています。 現在、研修会場の担当続きを読む投稿 【申込締切まであと5日！】もうすぐ定員に達します は WACATE に最初に表示されました。",
+            "url": "https://wacate.jp/2025/06/03/%e3%80%90%e7%94%b3%e8%be%bc%e7%b7%a0%e5%88%87%e3%81%be%e3%81%a7%e3%81%82%e3%81%a85%e6%97%a5%ef%bc%81%e3%80%91%e3%82%82%e3%81%86%e3%81%99%e3%81%90%e5%ae%9a%e5%93%a1%e3%81%ab%e9%81%94%e3%81%97%e3%81%be/",
+            "title": "【申込締切まであと5日！】もうすぐ定員に達します | ブログ - WACATE",
+            "summary": "WACATE 2025 夏の申し込み締め切りまであと5日になりました。 ただ、ありがたいことに、もうすぐ定員数（参加者の上限数）に達します。例年のペースですと、今日には定員に達する想定をしています。 現在、研修会場の担当続きを読む投稿 【申込締切まであと5日！】もうすぐ定員に達します は WACATE に最初に表示されました。",
+            "image": {
+                "url": "https://wacate.jp/wp-content/uploads/2018/10/wacate_logo.png",
+                "type": "png",
+                "width": 210,
+                "height": 49
+            },
+            "date_modified": "2025-06-03T01:47:42.000Z",
+            "date_published": "2025-06-03T01:47:42.000Z",
+            "author": {
+                "name": "ブロッコリー"
+            },
+            "tags": [
+                "実行委員のつぶやき",
+                "WACATE2025夏"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【申込締切まであと5日！】もうすぐ定員に達します",
+                "blogTitle": "ブログ - WACATE",
+                "blogLink": "https://wacate.jp/blog/",
+                "blogLinkMd5Hash": "9a65c503b3057fe722780e74132662d0",
+                "favicon": "https://wacate.jp/wp-content/uploads/2018/04/favicon.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/mehm8128/articles/query-by-role",
+            "content_html": "こんにちは、フロントエンドエンジニアの mehm8128 です。最近やってることは sizu.me とか Bluesky とかに書いてます。今回は、タイトルの通りライブラリを作ってみたので紹介します。 query-by-role とはフロントエンドエンジニアならきっと使ったことがあるであろう、Testing Library や Playwright などでよく出てくる、あれです。getByRole と queryByRole がありますが、どちらに近いとか考えずに、クエリする感じが出ている query-by-role としました。汎用的すぎるので SWR みたいに、略して qbr...",
+            "url": "https://zenn.dev/mehm8128/articles/query-by-role",
+            "title": "query-by-role というライブラリを作った | Zennの「Test」のフィード",
+            "summary": "こんにちは、フロントエンドエンジニアの mehm8128 です。最近やってることは sizu.me とか Bluesky とかに書いてます。今回は、タイトルの通りライブラリを作ってみたので紹介します。 query-by-role とはフロントエンドエンジニアならきっと使ったことがあるであろう、Testing Library や Playwright などでよく出てくる、あれです。getByRole",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--3ptMWCxF--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:query-by-role%2520%25E3%2581%25A8%25E3%2581%2584%25E3%2581%2586%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2596%25E3%2583%25A9%25E3%2583%25AA%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mehm8128%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQxMDA2NzMzZWUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-02T14:29:42.000Z",
+            "date_published": "2025-06-02T14:29:42.000Z",
+            "author": {
+                "name": "mehm8128"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "query-by-role というライブラリを作った",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://aki-m.hatenadiary.com/entry/2025/06/02/230530",
+            "content_html": "aki-m.hatenadiary.com こちらの打ち合わせをしてきたので、会の様子と感想を書いていこうと思います。 定例時間の変更 メール返信 スポンサーの方々へのメール 定例時間の変更 元々月曜日の22:00からやっていたのですが、時間が遅すぎて眠くなるのと笑、自分が次の日がここ最近は朝早くて睡眠時間を削られるのがしんどいという2点から、火曜日の20:00-に時間変更することにしました。 メール返信 今回はスポンサーの方からのメールはないものの、スポンサー申込みを検討しているという方から連絡が来ていたので、メールを返信してきました。 前回送信したメールはテンプレート化しておこうという話を…",
+            "url": "https://aki-m.hatenadiary.com/entry/2025/06/02/230530",
+            "title": "スクラム祭りの打ち合わせ(40回目)をしてきた | 天の月",
+            "summary": "aki-m.hatenadiary.com こちらの打ち合わせをしてきたので、会の様子と感想を書いていこうと思います。 定例時間の変更 メール返信 スポンサーの方々へのメール 定例時間の変更 元々月曜日の22:00からやっていたのですが、時間が遅すぎて眠くなるのと笑、自分が次の日がここ最近は朝早くて睡眠時間を削られるのがしんどいという2点から、火曜日の20:00-に時間変更することにしました。 メ",
+            "image": {
+                "url": "https://ogimage.blog.st-hatena.com/26006613655256878/6802418398457701655/1748873130",
+                "alt": "スクラム祭りの打ち合わせ(40回目)をしてきた - 天の月"
+            },
+            "date_modified": "2025-06-02T14:05:30.000Z",
+            "date_published": "2025-06-02T14:05:30.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "スクラム祭りの打ち合わせ(40回目)をしてきた",
+                "blogTitle": "天の月",
+                "blogLink": "https://aki-m.hatenadiary.com/",
+                "blogLinkMd5Hash": "f18fd33ac8346d4d368fa9778015ffd8",
+                "favicon": "https://aki-m.hatenadiary.com/icon/favicon"
+            }
+        },
+        {
+            "id": "https://developers.freee.co.jp/entry/event-qa-20250521",
+            "content_html": "2025年5月21日に開催された、Tech-QA Meetup ～品質で未来を拓く最前線～ 内で、弊社QAE、原田が登壇した際に利用した資料情報です。 speakerdeck.com levtechcareer.connpass.com",
+            "url": "https://developers.freee.co.jp/entry/event-qa-20250521",
+            "title": "2025/5/21 「標準テストプロセスへの AIエージェント活用の現在地」 登壇資料 | QA - freee Developers Hub",
+            "summary": "2025年5月21日に開催された、Tech-QA Meetup ～品質で未来を拓く最前線～ 内で、弊社QAE、原田が登壇した際に利用した資料情報です。 speakerdeck.com levtechcareer.connpass.com",
+            "image": {
+                "url": "https://ogimage.blog.st-hatena.com/10328749687206057058/6802418398457350389/1748857270",
+                "alt": "2025/5/21 「標準テストプロセスへの AIエージェント活用の現在地」 登壇資料 - freee Developers Hub"
+            },
+            "date_modified": "2025-06-02T09:40:34.000Z",
+            "date_published": "2025-06-02T09:40:34.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "2025/5/21 「標準テストプロセスへの AIエージェント活用の現在地」 登壇資料",
+                "blogTitle": "QA - freee Developers Hub",
+                "blogLink": "https://developers.freee.co.jp/archive/category/QA",
+                "blogLinkMd5Hash": "974dfe605e8f2dc4af53b8811508cabb",
+                "favicon": "https://developers.freee.co.jp/icon/favicon"
+            }
+        },
+        {
+            "id": "https://wacate.jp/?p=4561",
+            "content_html": "WACATE実行委員の風間です。 WACATEの運営をしていると、参加に迷っている人から「自分は若手じゃないから参加しちゃいけないんでしょ…？」と言われたりします。 そんなことはありません！どんな方でも大歓迎です！ WA続きを読む投稿 【申込締切まであと6日！】WACATEは若手限定ではありません！ は WACATE に最初に表示されました。",
+            "url": "https://wacate.jp/2025/06/02/%e3%80%90%e7%94%b3%e8%be%bc%e7%b7%a0%e5%88%87%e3%81%be%e3%81%a7%e3%81%82%e3%81%a86%e6%97%a5%ef%bc%81%e3%80%91wacate%e3%81%af%e8%8b%a5%e6%89%8b%e9%99%90%e5%ae%9a%e3%81%a7%e3%81%af%e3%81%82%e3%82%8a/",
+            "title": "【申込締切まであと6日！】WACATEは若手限定ではありません！ | ブログ - WACATE",
+            "summary": "WACATE実行委員の風間です。 WACATEの運営をしていると、参加に迷っている人から「自分は若手じゃないから参加しちゃいけないんでしょ…？」と言われたりします。 そんなことはありません！どんな方でも大歓迎です！ WA続きを読む投稿 【申込締切まであと6日！】WACATEは若手限定ではありません！ は WACATE に最初に表示されました。",
+            "image": {
+                "url": "https://wacate.jp/wp-content/uploads/2018/10/wacate_logo.png",
+                "type": "png",
+                "width": 210,
+                "height": 49
+            },
+            "date_modified": "2025-06-02T02:45:53.000Z",
+            "date_published": "2025-06-02T02:45:53.000Z",
+            "author": {
+                "name": "ブロッコリー"
+            },
+            "tags": [
+                "実行委員のつぶやき",
+                "WACATE2025夏"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【申込締切まであと6日！】WACATEは若手限定ではありません！",
+                "blogTitle": "ブログ - WACATE",
+                "blogLink": "https://wacate.jp/blog/",
+                "blogLinkMd5Hash": "9a65c503b3057fe722780e74132662d0",
+                "favicon": "https://wacate.jp/wp-content/uploads/2018/04/favicon.png"
+            }
+        },
+        {
+            "id": "https://aki-m.hatenadiary.com/entry/2025/06/01/233000",
+            "content_html": "forkwell.connpass.com こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 会の概要 会の様子 講演 視覚的コミュニケーション(第一部) マルチモーダル・コミュニケーション(第二部) ナレッジを伝達する(第三部) リモート・コミュニケーション(第四部) 本書の読み方 Q&amp;A 相手が攻撃的だと感じたときの対処法は？ 送り手のコストが高くなりすぎると受け手とのコミュニケーションの総和は大きくなってしまうのでは？ 大抵は情報不足に起因していると思うのだが相互理解をコスパよくやるためにはどうすれば良いか？ 配慮をすると1文字あたりの情報量が小さくなるのが気…",
+            "url": "https://aki-m.hatenadiary.com/entry/2025/06/01/233000",
+            "title": "開発者とアーキテクトのためのコミュニケーションガイド ―パターンで学ぶ情報伝達術 - FL #95に参加してきた | 天の月",
+            "summary": "forkwell.connpass.com こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 会の概要 会の様子 講演 視覚的コミュニケーション(第一部) マルチモーダル・コミュニケーション(第二部) ナレッジを伝達する(第三部) リモート・コミュニケーション(第四部) 本書の読み方 Q&amp;A 相手が攻撃的だと感じたときの対処法は？ 送り手のコストが高くなりすぎると受け手",
+            "image": {
+                "url": "https://ogimage.blog.st-hatena.com/26006613655256878/6802418398456118879/1748788202",
+                "alt": "開発者とアーキテクトのためのコミュニケーションガイド ―パターンで学ぶ情報伝達術 - FL #95に参加してきた - 天の月"
+            },
+            "date_modified": "2025-06-01T14:30:00.000Z",
+            "date_published": "2025-06-01T14:30:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "開発者とアーキテクトのためのコミュニケーションガイド ―パターンで学ぶ情報伝達術 - FL #95に参加してきた",
+                "blogTitle": "天の月",
+                "blogLink": "https://aki-m.hatenadiary.com/",
+                "blogLinkMd5Hash": "f18fd33ac8346d4d368fa9778015ffd8",
+                "favicon": "https://aki-m.hatenadiary.com/icon/favicon"
+            }
+        },
+        {
+            "id": "https://testerchan.hatenadiary.com/entry/2025/06/01/230231",
+            "content_html": "今回はテストの話はしませんので悪しからず。 やっていた大きな仕事が一区切りついたのでようやく人心地がついたといったところです。 他にもやることがあるにはありますが、急に手持無沙汰にはなりましたので思い浮かぶままに文を書こうと思い立ちました。 趣味についてです。 人生を彩るためには趣味が大切 FIREを目指している人もリタイア前に趣味を持っておいた方が良いのでは？ そう言われても趣味がないんだが？ 何かをつくる趣味の醍醐味は、妄想が具現化すること 趣味発見の天敵は「面倒くさい」 同じぐらい残念な考え「タイパ」 今までやった「作る趣味」を簡単に紹介 お絵描き プラモデル DIY レジンアート レゴ…",
+            "url": "https://testerchan.hatenadiary.com/entry/2025/06/01/230231",
+            "title": "趣味・徒然なるままに | テスターちゃん【4コマ漫画】",
+            "summary": "今回はテストの話はしませんので悪しからず。 やっていた大きな仕事が一区切りついたのでようやく人心地がついたといったところです。 他にもやることがあるにはありますが、急に手持無沙汰にはなりましたので思い浮かぶままに文を書こうと思い立ちました。 趣味についてです。 人生を彩るためには趣味が大切 FIREを目指している人もリタイア前に趣味を持っておいた方が良いのでは？ そう言われても趣味がないんだが？ ",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/c85fdc5e2397e925e320cf735f63684f8b9813fb/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm_training%2F20250601%2F20250601225648.jpg",
+                "alt": "趣味・徒然なるままに - テスターちゃん【4コマ漫画】",
+                "type": "jpg"
+            },
+            "date_modified": "2025-06-01T14:02:31.000Z",
+            "date_published": "2025-06-01T14:02:31.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "趣味・徒然なるままに",
+                "blogTitle": "テスターちゃん【4コマ漫画】",
+                "blogLink": "https://testerchan.hatenadiary.com/",
+                "blogLinkMd5Hash": "fba0a64c82ca923990583d06823cfc8d",
+                "favicon": "https://testerchan.hatenadiary.com/icon/favicon"
+            }
+        },
+        {
+            "id": "https://zenn.dev/harx/articles/3bc0145a59870e",
+            "content_html": "はじめにFlutter アプリで画像や動画などの大きなファイルを保存・操作する場合、file パッケージはその代表的な選択肢の一つです。https://pub.dev/packages/fileしかし、このパッケージを用いたコードに対してユニットテストを書く際には、通常のモックとは異なるアプローチが求められます。特に、ファイル操作に伴う FileSystemException をどのように扱い、どうテストに反映させるかが重要です。この記事では以下を中心に解説します。file パッケージを使った簡単な実装方法FileSystemException をアプリ独自の例外...",
+            "url": "https://zenn.dev/harx/articles/3bc0145a59870e",
+            "title": "【Flutter】fileパッケージを使ったコードにおけるユニットテストのベストプラクティス | Zennの「Test」のフィード",
+            "summary": "はじめにFlutter アプリで画像や動画などの大きなファイルを保存・操作する場合、file パッケージはその代表的な選択肢の一つです。https://pub.dev/packages/fileしかし、このパッケージを用いたコードに対してユニットテストを書く際には、通常のモックとは異なるアプローチが求められます。特に、ファイル操作に伴う FileSystemException をどのように扱い、ど",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--XeoeuYwo--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Flutter%25E3%2580%2591file%25E3%2583%2591%25E3%2583%2583%25E3%2582%25B1%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%259F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2581%25AB%25E3%2581%258A%25E3%2581%2591%25E3%2582%258B%25E3%2583%25A6%25E3%2583%258B%25E3%2583%2583%25E3%2583%2588%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AE%25E3%2583%2599%25E3%2582%25B9%25E3%2583%2588%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25AF%25E3%2583%2586%25E3%2582%25A3%25E3%2582%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25AF%25E3%2582%258B%25E3%2581%2595%25E3%2582%2593Mobile.Junior....%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzA2ZWIwMDIyOWQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-06-01T13:29:35.000Z",
+            "date_published": "2025-06-01T13:29:35.000Z",
+            "author": {
+                "name": "はるさんMobile.Junior.Engineer"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【Flutter】fileパッケージを使ったコードにおけるユニットテストのベストプラクティス",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://wacate.jp/?p=4535",
+            "content_html": "WACATE実行委員のブロッコリーです。 あっという間に申込締切まであと1週間となりました。締切は 6/8（日）です。 申込時に必要なものとしてポジションペーパーがあります。ポジションペーパーには、A4用紙1枚分に自由に続きを読む投稿 【申込締切まであと7日！】ポジションペーパー第2弾 は WACATE に最初に表示されました。",
+            "url": "https://wacate.jp/2025/06/01/%e3%80%90%e7%94%b3%e8%be%bc%e7%b7%a0%e5%88%87%e3%81%be%e3%81%a7%e3%81%82%e3%81%a87%e6%97%a5%ef%bc%81%e3%80%91%e3%83%9d%e3%82%b8%e3%82%b7%e3%83%a7%e3%83%b3%e3%83%9a%e3%83%bc%e3%83%91%e3%83%bc%e7%ac%ac2/",
+            "title": "【申込締切まであと7日！】ポジションペーパー第2弾 | ブログ - WACATE",
+            "summary": "WACATE実行委員のブロッコリーです。 あっという間に申込締切まであと1週間となりました。締切は 6/8（日）です。 申込時に必要なものとしてポジションペーパーがあります。ポジションペーパーには、A4用紙1枚分に自由に続きを読む投稿 【申込締切まであと7日！】ポジションペーパー第2弾 は WACATE に最初に表示されました。",
+            "image": {
+                "url": "https://wacate.jp/wp-content/uploads/2018/10/wacate_logo.png",
+                "type": "png",
+                "width": 210,
+                "height": 49
+            },
+            "date_modified": "2025-05-31T23:32:00.000Z",
+            "date_published": "2025-05-31T23:32:00.000Z",
+            "author": {
+                "name": "ブロッコリー"
+            },
+            "tags": [
+                "実行委員のつぶやき",
+                "WACATE2025夏"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【申込締切まであと7日！】ポジションペーパー第2弾",
+                "blogTitle": "ブログ - WACATE",
+                "blogLink": "https://wacate.jp/blog/",
+                "blogLinkMd5Hash": "9a65c503b3057fe722780e74132662d0",
+                "favicon": "https://wacate.jp/wp-content/uploads/2018/04/favicon.png"
+            }
+        },
+        {
+            "id": "https://note.com/akiyama924/n/na6922d0990a9",
+            "content_html": "◀前の記事へ 次の記事へ▶︎≡ はじめに続きをみる",
+            "url": "https://note.com/akiyama924/n/na6922d0990a9",
+            "title": "第336回：　「ALTTAのテキストをつくろう」20　（静的解析　中編（データフロー解析）） | Kouichi Akiyama",
+            "summary": "◀前の記事へ 次の記事へ▶︎≡ はじめに続きをみる",
+            "image": {
+                "url": "https://assets.st-note.com/production/uploads/images/192671168/rectangle_large_type_2_f9ed43e02cd3a88ae94b5dd3127242c7.png?fit=bounds&quality=85&width=1280",
+                "type": "png"
+            },
+            "date_modified": "2025-05-31T22:51:49.000Z",
+            "date_published": "2025-05-31T22:51:49.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "第336回：　「ALTTAのテキストをつくろう」20　（静的解析　中編（データフロー解析））",
+                "blogTitle": "Kouichi Akiyama",
+                "blogLink": "https://note.com/akiyama924",
+                "blogLinkMd5Hash": "d78afad1063505d755d008a40f9424e8",
+                "favicon": "https://assets.st-note.com/poc-image/manual/note-common-images/production/svg/production.ico"
+            }
+        },
+        {
+            "id": "https://aki-m.hatenadiary.com/entry/2025/05/31/223000",
+            "content_html": "aki-m.hatenadiary.com スクラムフェス金沢2025に向けた準備をしてきたので、会の様子を書いていこうと思います。 今日期限の宿題状況確認 モバイルルーター Keynote キャッシュ・フローの更新 打ち上げ 当日の動き ネームタグ 今日期限の宿題状況確認 今日解決する予定だった仕事を確認してきました。 ノベリティに関しては発注が完了して、ConfengineのKeynote内容に関しては、まだ見えないような気がする&amp;Keynoteで話される内容がConfengineに書ききれるような内容としてはまだないので、対応方針を確認することにしました。 また、品川アジャイルに関しては…",
+            "url": "https://aki-m.hatenadiary.com/entry/2025/05/31/223000",
+            "title": "スクラムフェス金沢2025の打ち合わせ(24回目)に参加してきた | 天の月",
+            "summary": "aki-m.hatenadiary.com スクラムフェス金沢2025に向けた準備をしてきたので、会の様子を書いていこうと思います。 今日期限の宿題状況確認 モバイルルーター Keynote キャッシュ・フローの更新 打ち上げ 当日の動き ネームタグ 今日期限の宿題状況確認 今日解決する予定だった仕事を確認してきました。 ノベリティに関しては発注が完了して、ConfengineのKeynote内容",
+            "image": {
+                "url": "https://ogimage.blog.st-hatena.com/26006613655256878/6802418398454532245/1748698200",
+                "alt": "スクラムフェス金沢2025の打ち合わせ(24回目)に参加してきた - 天の月"
+            },
+            "date_modified": "2025-05-31T13:30:00.000Z",
+            "date_published": "2025-05-31T13:30:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "スクラムフェス金沢2025の打ち合わせ(24回目)に参加してきた",
+                "blogTitle": "天の月",
+                "blogLink": "https://aki-m.hatenadiary.com/",
+                "blogLinkMd5Hash": "f18fd33ac8346d4d368fa9778015ffd8",
+                "favicon": "https://aki-m.hatenadiary.com/icon/favicon"
+            }
+        },
+        {
+            "id": "https://zenn.dev/harx/articles/82c0179377e33a",
+            "content_html": "はじめにFlutterでファイルやデータを保存する際には、デバイスごとの適切な保存先ディレクトリを取得する必要があります。その際によく使われるのが path_provider パッケージです。https://pub.dev/packages/path_providerしかし、このパッケージのメソッドはすべてグローバル関数として提供されており、ユニットテストでモック化するにはひと工夫が必要です。この記事では、path_provider を使ったコードをテストする際の課題と、それを解決するためのモックの方法を具体的に紹介します。 記事の対象者path_provider ...",
+            "url": "https://zenn.dev/harx/articles/82c0179377e33a",
+            "title": "【Flutter】path_providerを使ったコードをユニットテストするベストプラクティス | Zennの「Test」のフィード",
+            "summary": "はじめにFlutterでファイルやデータを保存する際には、デバイスごとの適切な保存先ディレクトリを取得する必要があります。その際によく使われるのが path_provider パッケージです。https://pub.dev/packages/path_providerしかし、このパッケージのメソッドはすべてグローバル関数として提供されており、ユニットテストでモック化するにはひと工夫が必要です。この",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--DRD85pz4--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Flutter%25E3%2580%2591path_provider%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%259F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2582%2592%25E3%2583%25A6%25E3%2583%258B%25E3%2583%2583%25E3%2583%2588%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%2599%25E3%2582%258B%25E3%2583%2599%25E3%2582%25B9%25E3%2583%2588%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25AF%25E3%2583%2586%25E3%2582%25A3%25E3%2582%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25AF%25E3%2582%258B%25E3%2581%2595%25E3%2582%2593Mobile.Junior....%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzA2ZWIwMDIyOWQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-05-31T13:28:58.000Z",
+            "date_published": "2025-05-31T13:28:58.000Z",
+            "author": {
+                "name": "はるさんMobile.Junior.Engineer"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "【Flutter】path_providerを使ったコードをユニットテストするベストプラクティス",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://goyoki.hatenablog.com/entry/2025/05/31/183635",
+            "content_html": "優秀なQAエンジニアは、チームやプロジェクトに大きな影響力を与えることがあります。例えば、チームの品質保証能力をイネーブリングして、迅速で的確な品質保証を実現します。チームを顧客満足に向け方向づけして、チームの力をより効率的に顧客価値につながるようにします。また、シフトレフトを促進して、チームの品質保証のコストや迅速性を高めます。 こうした大きな影響力から、優秀なQAエンジニアの採用はソフトウェア開発でしばしば重要な課題になります。 ただQAエンジニアに限らず優秀なエンジニアは売り手市場であり、他社との激しい競争になります。 そこではターゲットとなるエンジニアに、競合他社より自社が魅力的である…",
+            "url": "https://goyoki.hatenablog.com/entry/2025/05/31/183635",
+            "title": "人材採用でのマスアプローチからターゲットアプローチへの転換 | 千里霧中",
+            "summary": "優秀なQAエンジニアは、チームやプロジェクトに大きな影響力を与えることがあります。例えば、チームの品質保証能力をイネーブリングして、迅速で的確な品質保証を実現します。チームを顧客満足に向け方向づけして、チームの力をより効率的に顧客価値につながるようにします。また、シフトレフトを促進して、チームの品質保証のコストや迅速性を高めます。 こうした大きな影響力から、優秀なQAエンジニアの採用はソフトウェア",
+            "image": {
+                "url": "https://ogimage.blog.st-hatena.com/12704538227038514066/6802418398454226897/1748684610",
+                "alt": "人材採用でのマスアプローチからターゲットアプローチへの転換 - 千里霧中"
+            },
+            "date_modified": "2025-05-31T09:36:35.000Z",
+            "date_published": "2025-05-31T09:36:35.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "人材採用でのマスアプローチからターゲットアプローチへの転換",
+                "blogTitle": "千里霧中",
+                "blogLink": "https://goyoki.hatenablog.com/",
+                "blogLinkMd5Hash": "83740fdb0c8cd8f525d69055c5bf8119",
+                "favicon": "https://goyoki.hatenablog.com/icon/favicon"
+            }
+        },
+        {
+            "id": "https://zenn.dev/daichi09167/articles/5b062a987bfcf6",
+            "content_html": "初めに「V&amp;V」と「Never, Must, Want」について勉強する機会があったので、まとめていこうと思います。 V&amp;Vについて(Verification and Validation)V&amp;Vとは、Verification and Validationの略で、日本語だと、検証と妥当性確認である。項目内容Verification（検証）作っているものが「正しく作られているか？」(仕様通りに作られているか)を確認Validation（妥当性確認）作ったものが「正しいものか？」(ユーザーの要求を満たすか)を確認 M...",
+            "url": "https://zenn.dev/daichi09167/articles/5b062a987bfcf6",
+            "title": "【QA】V&amp;V × Never, Must, Wantについてまとめてみた | Zennの「QA」のフィード",
+            "summary": "初めに「V&amp;V」と「Never, Must, Want」について勉強する機会があったので、まとめていこうと思います。 V&amp;Vについて(Verification and Validation)V&amp;Vとは、Verification and Validationの略で、日本語だと、検証と妥当性確認である。項目内容Verification（検証）作っているものが「正しく作られているか？」(仕様通りに作られ",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--44yHnEyt--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590QA%25E3%2580%2591V%2526V%2520%25C3%2597%2520Never%252C%2520Must%252C%2520Want%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6%25E3%2581%25BE%25E3%2581%25A8%25E3%2582%2581%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:daichi09167%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzM3YTc4OTEwMDcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-05-31T08:14:45.000Z",
+            "date_published": "2025-05-31T08:14:45.000Z",
+            "author": {
+                "name": "daichi09167"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【QA】V&amp;V × Never, Must, Wantについてまとめてみた",
+                "blogTitle": "Zennの「QA」のフィード",
+                "blogLink": "https://zenn.dev/topics/qa",
+                "blogLinkMd5Hash": "31c7f35c994712b2f4c822a6de926717",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/daichi09167/articles/5b062a987bfcf6",
+            "content_html": "初めに「V&amp;V」と「Never, Must, Want」について勉強する機会があったので、まとめていこうと思います。 V&amp;Vについて(Verification and Validation)V&amp;Vとは、Verification and Validationの略で、日本語だと、検証と妥当性確認である。項目内容Verification（検証）作っているものが「正しく作られているか？」(仕様通りに作られているか)を確認Validation（妥当性確認）作ったものが「正しいものか？」(ユーザーの要求を満たすか)を確認 M...",
+            "url": "https://zenn.dev/daichi09167/articles/5b062a987bfcf6",
+            "title": "【QA】V&amp;V × Never, Must, Wantについてまとめてみた | Zennの「Test」のフィード",
+            "summary": "初めに「V&amp;V」と「Never, Must, Want」について勉強する機会があったので、まとめていこうと思います。 V&amp;Vについて(Verification and Validation)V&amp;Vとは、Verification and Validationの略で、日本語だと、検証と妥当性確認である。項目内容Verification（検証）作っているものが「正しく作られているか？」(仕様通りに作られ",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--44yHnEyt--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590QA%25E3%2580%2591V%2526V%2520%25C3%2597%2520Never%252C%2520Must%252C%2520Want%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6%25E3%2581%25BE%25E3%2581%25A8%25E3%2582%2581%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:daichi09167%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzM3YTc4OTEwMDcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-05-31T08:14:45.000Z",
+            "date_published": "2025-05-31T08:14:45.000Z",
+            "author": {
+                "name": "daichi09167"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【QA】V&amp;V × Never, Must, Wantについてまとめてみた",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://wacate.jp/?p=4530",
+            "content_html": "WACATE実行委員の岡野 （まこっちゃん）（@makotookano）です。 参加者、引き続き募集中です！今回はおかげさまで申込の伸びが良く、早めに締め切ってしまうかもしれません。検討されているかたはお早めにお申し込み続きを読む投稿 【WACATE2025夏！参加者募集中！！】ポジションペーパー第1弾 は WACATE に最初に表示されました。",
+            "url": "https://wacate.jp/2025/05/31/%e3%80%90wacate2025%e5%a4%8f%ef%bc%81%e5%8f%82%e5%8a%a0%e8%80%85%e5%8b%9f%e9%9b%86%e4%b8%ad%ef%bc%81%ef%bc%81%e3%80%91%e3%83%9d%e3%82%b8%e3%82%b7%e3%83%a7%e3%83%b3%e3%83%9a%e3%83%bc%e3%83%91%e3%83%bc/",
+            "title": "【WACATE2025夏！参加者募集中！！】ポジションペーパー第1弾 | ブログ - WACATE",
+            "summary": "WACATE実行委員の岡野 （まこっちゃん）（@makotookano）です。 参加者、引き続き募集中です！今回はおかげさまで申込の伸びが良く、早めに締め切ってしまうかもしれません。検討されているかたはお早めにお申し込み続きを読む投稿 【WACATE2025夏！参加者募集中！！】ポジションペーパー第1弾 は WACATE に最初に表示されました。",
+            "image": {
+                "url": "https://wacate.jp/wp-content/uploads/2018/10/wacate_logo.png",
+                "type": "png",
+                "width": 210,
+                "height": 49
+            },
+            "date_modified": "2025-05-31T01:55:18.000Z",
+            "date_published": "2025-05-31T01:55:18.000Z",
+            "author": {
+                "name": "まこっちゃん"
+            },
+            "tags": [
+                "実行委員のつぶやき",
+                "WACATE2025夏"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【WACATE2025夏！参加者募集中！！】ポジションペーパー第1弾",
+                "blogTitle": "ブログ - WACATE",
+                "blogLink": "https://wacate.jp/blog/",
+                "blogLinkMd5Hash": "9a65c503b3057fe722780e74132662d0",
+                "favicon": "https://wacate.jp/wp-content/uploads/2018/04/favicon.png"
+            }
+        }
+    ]
+}
