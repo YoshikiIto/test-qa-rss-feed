@@ -83,6 +83,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['つーつー', 'https://note.com/ms_tsu_tsu/rss'],
   ['Tsuyoshi Yumoto', 'https://note.com/yumotsuyo/rss'],
   ['特定非営利活動法人ソフトウェアテスト技術振興協会【プレスリリース】 by PR TIMES', 'https://prtimes.jp/companyrdf.php?company_id=54604'],
+  ['デイリー日々', 'https://blog.dashi-no-ajiwai.net/feed'],
   ['DeNA Testing Blog', 'https://swet.dena.com/feed'],
   ['テクバン株式会社 品質サービス事業部 採用チーム', 'https://note.com/techvan_qs/rss'],
   ['テスターちゃん【4コマ漫画】', 'https://testerchan.hatenadiary.com/feed'],
