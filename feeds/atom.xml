@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yoshikiito.github.io/test-qa-rss-feed/</id>
+    <title>テスト・QA関連ブログRSS</title>
+    <updated>2025-06-30T05:07:07.275Z</updated>
+    <generator>yoshikiito/test-qa-rss-feed</generator>
+    <link rel="alternate" href="https://yoshikiito.github.io/test-qa-rss-feed/"/>
+    <link rel="self" href="https://yoshikiito.github.io/test-qa-rss-feed/feeds/atom.xml"/>
+    <subtitle>企テスト・QA関連ブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://yoshikiito.github.io/test-qa-rss-feed/images/icon.png</logo>
+    <icon>https://yoshikiito.github.io/test-qa-rss-feed/images/favicon.ico</icon>
+    <rights>yoshikiito/test-qa-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[2025年6月のふりかえり | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2025/06/29/233000</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2025/06/29/233000"/>
+        <updated>2025-06-29T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[2025年も半年が終わったので、ふりかえりをしていこうと思います。 仕事 社外活動 プライベート 仕事 他の領域と比べてバランスが崩れ気味だという話をちょこちょこ書いていたのですが、今月は完全に崩れていてほぼ仕事という感じでした。 急転直下の展開といいますか、自分でも本当にまったく予想していない展開になって、その展開自体はすごくチャレンジングだし楽しみもあるものだったのですが、大分重たい仕事でもあ]]></summary>
+        <content type="html"><![CDATA[2025年も半年が終わったので、ふりかえりをしていこうと思います。 仕事 社外活動 プライベート 仕事 他の領域と比べてバランスが崩れ気味だという話をちょこちょこ書いていたのですが、今月は完全に崩れていてほぼ仕事という感じでした。 急転直下の展開といいますか、自分でも本当にまったく予想していない展開になって、その展開自体はすごくチャレンジングだし楽しみもあるものだったのですが、大分重たい仕事でもあって数日間は本当に仕事が自分に務まるのか非常に不安になりました。(割とポジティブにものを考えるのは得意だしリフレーミングみたいなのも割とできるタイプなので、人生で仕事をしていて始めてそのような感情にな…]]></content>
+        <published>2025-06-29T14:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[受け入れテスト観点の備忘録 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/y_yoneyama/articles/8347387dc9c3d1</id>
+        <link href="https://zenn.dev/y_yoneyama/articles/8347387dc9c3d1"/>
+        <updated>2025-06-29T08:39:20.000Z</updated>
+        <summary type="html"><![CDATA[バックエンドエンジニアのための受け入れテスト観点集 はじめに私も含め普段の業務でUI設計や実装に携わる機会の少ないバックエンドエンジニアにとって、受け入れテストで何を確認すべきかは悩ましい問題です。そこでテストの重要な観点を体系的に整理しました。 受け入れテストの位置付け 受け入れテストの目的システムがユーザーの要求を満たしているかの最終確認本番環境での実際の使用場面を想定したテスト開発チーム内の]]></summary>
+        <content type="html"><![CDATA[バックエンドエンジニアのための受け入れテスト観点集 はじめに私も含め普段の業務でUI設計や実装に携わる機会の少ないバックエンドエンジニアにとって、受け入れテストで何を確認すべきかは悩ましい問題です。そこでテストの重要な観点を体系的に整理しました。 受け入れテストの位置付け 受け入れテストの目的システムがユーザーの要求を満たしているかの最終確認本番環境での実際の使用場面を想定したテスト開発チーム内のテストでは見落としがちな観点の検証 単項目テスト 余白と配置のバランスUIの品質を左右する重要な要素として、まず余白と配置の統一性を確認します。余白関連の...]]></content>
+        <author>
+            <name>Yoshihiro Yoneyama</name>
+        </author>
+        <published>2025-06-29T08:39:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pytest 用リソースがテストコードと一緒に置いてあると邪魔じゃないですか？ | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/y_shinoda/articles/pytest-resource-path</id>
+        <link href="https://zenn.dev/y_shinoda/articles/pytest-resource-path"/>
+        <updated>2025-06-29T08:04:54.000Z</updated>
+        <summary type="html"><![CDATA[テスト用リソースがテストコードと一緒に置いてあると邪魔じゃないですか？テスト用リソースを使用するテストはそれほど多くありませんテストコード内にテスト用リソースを配置すると、エクスプローラーのツリー表示領域がテスト用リソースで埋め尽くされてしまいます:tests/└── some_test_package/ ├── some_test_module_a/ (テスト用リソース) ├── some_te]]></summary>
+        <content type="html"><![CDATA[テスト用リソースがテストコードと一緒に置いてあると邪魔じゃないですか？テスト用リソースを使用するテストはそれほど多くありませんテストコード内にテスト用リソースを配置すると、エクスプローラーのツリー表示領域がテスト用リソースで埋め尽くされてしまいます:tests/└── some_test_package/ ├── some_test_module_a/ (テスト用リソース) ├── some_test_module_b/ (テスト用リソース) ├── some_test_module_c.txt (テスト用リソース) ...]]></content>
+        <author>
+            <name>篠田 将彦</name>
+        </author>
+        <published>2025-06-29T08:04:54.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI駆動開発を支えるテスト重視の戦略を考える | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/t_kuni_0/articles/a540645553747a</id>
+        <link href="https://zenn.dev/t_kuni_0/articles/a540645553747a"/>
+        <updated>2025-06-28T23:00:05.000Z</updated>
+        <summary type="html"><![CDATA[AIと人間が効率的に協働するための「テスト重視の戦略」を考えたので紹介します。一般論と自身の経験から有効な戦略をまとめ、それらを実践するためのサンプルプロジェクトも作成しました。なお、本記事は主にRDBを含む Webバックエンド を前提としています。説明の都合上、具体例はGo言語で示しますが、アーキテクチャやテスト戦略の考え方は他の言語でも応用可能です。 🟦 AIコード生成の現実と課題 🟠 規模に]]></summary>
+        <content type="html"><![CDATA[AIと人間が効率的に協働するための「テスト重視の戦略」を考えたので紹介します。一般論と自身の経験から有効な戦略をまとめ、それらを実践するためのサンプルプロジェクトも作成しました。なお、本記事は主にRDBを含む Webバックエンド を前提としています。説明の都合上、具体例はGo言語で示しますが、アーキテクチャやテスト戦略の考え方は他の言語でも応用可能です。 🟦 AIコード生成の現実と課題 🟠 規模による制約ある程度大きなソフトウェアになると、全てをAIに任せることは現実的ではありません。参考記事： ソフトウェア規模とAIに任せられる範囲 🟠 AIが生成するコードの特性...]]></content>
+        <author>
+            <name>kuni</name>
+        </author>
+        <published>2025-06-28T23:00:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第340回：　「ALTTAのテキストをつくろう」24　（静的解析　後編4（静的解析による保守性の向上）） | Kouichi Akiyama]]></title>
+        <id>https://note.com/akiyama924/n/n29eddcbc2598</id>
+        <link href="https://note.com/akiyama924/n/n29eddcbc2598"/>
+        <updated>2025-06-28T22:06:02.000Z</updated>
+        <summary type="html"><![CDATA[◀前の記事へ 次の記事へ▶︎≡ はじめに続きをみる]]></summary>
+        <content type="html"><![CDATA[◀前の記事へ 次の記事へ▶︎≡ はじめに続きをみる]]></content>
+        <published>2025-06-28T22:06:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スクラムフェス金沢2025のスタッフふりかえりをしてきた | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2025/06/28/225159</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2025/06/28/225159"/>
+        <updated>2025-06-28T13:51:59.000Z</updated>
+        <summary type="html"><![CDATA[タイトルの通り、スクラムフェス金沢2025のスタッフふりかえりをしてきたので、今日はその様子を書いていこうと思います。 ふりかえりで出た話題たち ふりかえりで議論した話題たち 情報保障 Yanagiさん頼みの改善 タスク分担 真面目な運営 当日人手が足りなかった ふりかえりで出た話題たち 元々Discordのスレッド内にちょこちょこ溜めていたのですが、来年以降も見やすいようにということでMiroボ]]></summary>
+        <content type="html"><![CDATA[タイトルの通り、スクラムフェス金沢2025のスタッフふりかえりをしてきたので、今日はその様子を書いていこうと思います。 ふりかえりで出た話題たち ふりかえりで議論した話題たち 情報保障 Yanagiさん頼みの改善 タスク分担 真面目な運営 当日人手が足りなかった ふりかえりで出た話題たち 元々Discordのスレッド内にちょこちょこ溜めていたのですが、来年以降も見やすいようにということでMiroボードに転記しました。追加で幾つか付箋も出て、結果的には以下のようになりました。 ふりかえりで議論した話題たち 情報保障 今回の取組という点では、ノウハウもお金もない中で最善の活動はできていたのかな、と…]]></content>
+        <published>2025-06-28T13:51:59.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BigQueryのCronJob向けQAテストを自動化した話 | QA - エムスリーテックブログ]]></title>
+        <id>https://www.m3tech.blog/entry/2025/06/28/110000</id>
+        <link href="https://www.m3tech.blog/entry/2025/06/28/110000"/>
+        <updated>2025-06-28T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AI・機械学習チームの鴨田です。このブログはAI・機械学習チームブログリレー 9日目の記事です。 年末休みに話題の書籍『Tidy First?』を読みました。コード整理の実践的な手法や作業粒度によるトレードオフなどを学び、「最初から完璧な設計なんてできるわけない。コード品質を保つための整理が大切だよなー」と改めて実感しました。 品質を保ちながら開発速度を上げるには、信頼できるテストが欠かせません。]]></summary>
+        <content type="html"><![CDATA[AI・機械学習チームの鴨田です。このブログはAI・機械学習チームブログリレー 9日目の記事です。 年末休みに話題の書籍『Tidy First?』を読みました。コード整理の実践的な手法や作業粒度によるトレードオフなどを学び、「最初から完璧な設計なんてできるわけない。コード品質を保つための整理が大切だよなー」と改めて実感しました。 品質を保ちながら開発速度を上げるには、信頼できるテストが欠かせません。これは開発における普遍的な真理ですが、特にQA環境でのテストは地道で骨の折れる作業になりがちです。皆さんの現場でも、似たような課題を抱えているのではないでしょうか？ 今回は手動で実施しているQAテスト…]]></content>
+        <published>2025-06-28T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『テストの7つの原則』 〜 パート⑤ 〜 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/hide_yuki/articles/9f20d390acaaf9</id>
+        <link href="https://zenn.dev/hide_yuki/articles/9f20d390acaaf9"/>
+        <updated>2025-06-28T00:40:23.000Z</updated>
+        <summary type="html"><![CDATA[はじめに現在、アプリ開発者としてプロダクトの持続的な成長やユーザーへのコミットに寄与するためにも、SDLC全体を見渡して開発をすること、および、それにはテストに関する体系的な知識が必要だと考え、それを効率良く学べるJSTQB Foundation Levelの資格試験の勉強をしていました。この記事ではそこでの学びをアウトプットしたと思います。今回はその中でも「テストの7つの原則」の一部について記事]]></summary>
+        <content type="html"><![CDATA[はじめに現在、アプリ開発者としてプロダクトの持続的な成長やユーザーへのコミットに寄与するためにも、SDLC全体を見渡して開発をすること、および、それにはテストに関する体系的な知識が必要だと考え、それを効率良く学べるJSTQB Foundation Levelの資格試験の勉強をしていました。この記事ではそこでの学びをアウトプットしたと思います。今回はその中でも「テストの7つの原則」の一部について記事にしたいと思います。なお今回は テストの弱化こちらの原則について記事にしてみようと思います。 テストの弱化とは開発に際してはテストケースを設計することが多...]]></content>
+        <author>
+            <name>Hideyuki Fujihara</name>
+        </author>
+        <published>2025-06-28T00:40:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『テストの7つの原則』 〜 パート⑤ 〜 | ソフトウェアテストタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/fujihara_hideyuki/items/a4af0a983d1718afc495</id>
+        <link href="https://qiita.com/fujihara_hideyuki/items/a4af0a983d1718afc495"/>
+        <updated>2025-06-28T00:37:43.000Z</updated>
+        <summary type="html"><![CDATA[はじめに現在、アプリ開発者としてプロダクトの持続的な成長やユーザーへのコミットに寄与するためにも、SDLC全体を見渡して開発をすること、および、それにはテストに関する体系的な知識が必要だと考…]]></summary>
+        <content type="html"><![CDATA[はじめに現在、アプリ開発者としてプロダクトの持続的な成長やユーザーへのコミットに寄与するためにも、SDLC全体を見渡して開発をすること、および、それにはテストに関する体系的な知識が必要だと考…]]></content>
+        <published>2025-06-28T00:37:43.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hey Say アジャCITYの読書会(6回目)に参加してきた | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2025/06/27/220345</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2025/06/27/220345"/>
+        <updated>2025-06-27T13:03:45.000Z</updated>
+        <summary type="html"><![CDATA[表題のイベントに参加してきたので、会の様子を書いていきます。 今日からはソフトウェアテスト徹底指南書 〜開発の高品質と高スピードを両立させる実践アプローチを読むことになりました。 https://www.amazon.co.jp/dp/B0FBG4GM9M 書籍決め 読書会 モダンな開発に必要なテストの知識・技術 謝辞に出てくる人の豪華さ 優れたテスト チームのテスト能力 ソフトウェアテストの定義]]></summary>
+        <content type="html"><![CDATA[表題のイベントに参加してきたので、会の様子を書いていきます。 今日からはソフトウェアテスト徹底指南書 〜開発の高品質と高スピードを両立させる実践アプローチを読むことになりました。 https://www.amazon.co.jp/dp/B0FBG4GM9M 書籍決め 読書会 モダンな開発に必要なテストの知識・技術 謝辞に出てくる人の豪華さ 優れたテスト チームのテスト能力 ソフトウェアテストの定義 テストが削減されがちな理由 制約があるからこそ 書籍決め 今日は書籍を決めていこうという会だったのですが、参加者が全員「ソフトウェアテスト徹底指南書 〜開発の高品質と高スピードを両立させる実践アプロ…]]></content>
+        <published>2025-06-27T13:03:45.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生成AIをチューニングしたらテスト設計できるかな？ | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/aldagram_tech/articles/0f4fe51a6b1614</id>
+        <link href="https://zenn.dev/aldagram_tech/articles/0f4fe51a6b1614"/>
+        <updated>2025-06-27T02:23:43.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！アルダグラムでQAのお手伝いをしているmiyashitaです！生成AIの活躍が著しい現代、私もQA業務でのAI活用法を模索している日々。。。元々既存のデフォルトAIを活用していたが、どこか精度が上がり切らず頭打ちを感じていたが、最近AIの「チューニング」をすることを思い立ち、少し試してみた。すると、一気にAIの回答精度を上げることができました😎今回はその効果をBefore / Afte]]></summary>
+        <content type="html"><![CDATA[こんにちは！アルダグラムでQAのお手伝いをしているmiyashitaです！生成AIの活躍が著しい現代、私もQA業務でのAI活用法を模索している日々。。。元々既存のデフォルトAIを活用していたが、どこか精度が上がり切らず頭打ちを感じていたが、最近AIの「チューニング」をすることを思い立ち、少し試してみた。すると、一気にAIの回答精度を上げることができました😎今回はその効果をBefore / Afterでご紹介します。 今回のゴール今回は、テスト観点の出力までに絞ってAIのチューニング効果を検証してみる。 試したAIツール🤖今回はこの2つで検証していく。Google G...]]></content>
+        <author>
+            <name>miyashita</name>
+        </author>
+        <published>2025-06-27T02:23:43.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生成AIをチューニングしたらテスト設計できるかな？ | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/aldagram_tech/articles/0f4fe51a6b1614</id>
+        <link href="https://zenn.dev/aldagram_tech/articles/0f4fe51a6b1614"/>
+        <updated>2025-06-27T02:23:43.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！アルダグラムでQAのお手伝いをしているmiyashitaです！生成AIの活躍が著しい現代、私もQA業務でのAI活用法を模索している日々。。。元々既存のデフォルトAIを活用していたが、どこか精度が上がり切らず頭打ちを感じていたが、最近AIの「チューニング」をすることを思い立ち、少し試してみた。すると、一気にAIの回答精度を上げることができました😎今回はその効果をBefore / Afte]]></summary>
+        <content type="html"><![CDATA[こんにちは！アルダグラムでQAのお手伝いをしているmiyashitaです！生成AIの活躍が著しい現代、私もQA業務でのAI活用法を模索している日々。。。元々既存のデフォルトAIを活用していたが、どこか精度が上がり切らず頭打ちを感じていたが、最近AIの「チューニング」をすることを思い立ち、少し試してみた。すると、一気にAIの回答精度を上げることができました😎今回はその効果をBefore / Afterでご紹介します。 今回のゴール今回は、テスト観点の出力までに絞ってAIのチューニング効果を検証してみる。 試したAIツール🤖今回はこの2つで検証していく。Google G...]]></content>
+        <author>
+            <name>miyashita</name>
+        </author>
+        <published>2025-06-27T02:23:43.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MagicPod MCPサーバーを試してみた ─ MCPサーバーならではの体験 | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/hacobu/articles/0f5fd98ec4958d</id>
+        <link href="https://zenn.dev/hacobu/articles/0f5fd98ec4958d"/>
+        <updated>2025-06-26T22:46:23.000Z</updated>
+        <summary type="html"><![CDATA[株式会社Hacobu（以下、Hacobu）でQAエンジニアをやっている、かわせです。2025年4月、MagicPodから MagicPod MCPサーバー（ベータ） がリリースされました。GUIベースの操作に加えて、API経由で一括実行の操作やデータ取得ができるようになり、テスト自動化の運用がさらに進化する可能が広がります。リリースから少し間が空いてしまいましたが、社内のQAエンジニアにもAIアシ]]></summary>
+        <content type="html"><![CDATA[株式会社Hacobu（以下、Hacobu）でQAエンジニアをやっている、かわせです。2025年4月、MagicPodから MagicPod MCPサーバー（ベータ） がリリースされました。GUIベースの操作に加えて、API経由で一括実行の操作やデータ取得ができるようになり、テスト自動化の運用がさらに進化する可能が広がります。リリースから少し間が空いてしまいましたが、社内のQAエンジニアにもAIアシスタント「Cursor」のアカウントが付与されたことをきっかけに、さっそく試してみました。 セットアップ時の注意点：社内セキュリティとの調整CursorとMagicPod MCPサ...]]></content>
+        <author>
+            <name>かわせ</name>
+        </author>
+        <published>2025-06-26T22:46:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WACATE参加者宛にリマインドメールをお送りしています | ブログ - WACATE]]></title>
+        <id>https://wacate.jp/?p=4632</id>
+        <link href="https://wacate.jp/2025/06/26/wacate%e5%8f%82%e5%8a%a0%e8%80%85%e5%ae%9b%e3%81%ab%e3%83%aa%e3%83%9e%e3%82%a4%e3%83%b3%e3%83%89%e3%83%a1%e3%83%bc%e3%83%ab%e3%82%92%e3%81%8a%e9%80%81%e3%82%8a%e3%81%97%e3%81%a6%e3%81%84%e3%81%be/"/>
+        <updated>2025-06-26T14:41:17.000Z</updated>
+        <summary type="html"><![CDATA[今回参加となった皆さん全員に、6月11日と6月26日の2回に分けてリマインドメールをお送りしています！ 万が一届いていない場合は、お手数ですが wacate[at]googlegroups.com に連絡をくださいませ。投稿 WACATE参加者宛にリマインドメールをお送りしています は WACATE に最初に表示されました。]]></summary>
+        <content type="html"><![CDATA[今回参加となった皆さん全員に、6月11日と6月26日の2回に分けてリマインドメールをお送りしています！ 万が一届いていない場合は、お手数ですが wacate[at]googlegroups.com に連絡をくださいませ。投稿 WACATE参加者宛にリマインドメールをお送りしています は WACATE に最初に表示されました。]]></content>
+        <author>
+            <name>ブロッコリー</name>
+        </author>
+        <category label="実行委員のつぶやき"/>
+        <category label="WACATE2025夏"/>
+        <published>2025-06-26T14:41:17.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PR粒度設計はプロンプトで制御可能か | yuden]]></title>
+        <id>https://note.com/ydn_/n/n7f32b2285e4d</id>
+        <link href="https://note.com/ydn_/n/n7f32b2285e4d"/>
+        <updated>2025-06-26T09:25:47.000Z</updated>
+        <summary type="html"><![CDATA[Skillnote社の藤井氏の以下のnoteにヒントを得て、PR粒度設計をClaudeに指示として与え、複数の要望が混在したIssueを適切なPR粒度に分割することが可能か簡単に調査をしてみました。続きをみる]]></summary>
+        <content type="html"><![CDATA[Skillnote社の藤井氏の以下のnoteにヒントを得て、PR粒度設計をClaudeに指示として与え、複数の要望が混在したIssueを適切なPR粒度に分割することが可能か簡単に調査をしてみました。続きをみる]]></content>
+        <published>2025-06-26T09:25:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next.js Server Actionsの負荷テストをしてみた | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/sonicmoov/articles/93cf5ef8c6615f</id>
+        <link href="https://zenn.dev/sonicmoov/articles/93cf5ef8c6615f"/>
+        <updated>2025-06-26T09:00:01.000Z</updated>
+        <summary type="html"><![CDATA[はじめにNext.js の App Router で導入された Server Actions は、フォーム送信やサーバーサイドでの処理を簡潔に記述できる優れた機能です。(v15から明示的にServer Actionsという表現は無くなってます。)しかし、本格的な運用環境でパフォーマンスを検証したい場合、Server Actions に対する負荷テストの情報がまだあまり出回っていないのが現状です。私]]></summary>
+        <content type="html"><![CDATA[はじめにNext.js の App Router で導入された Server Actions は、フォーム送信やサーバーサイドでの処理を簡潔に記述できる優れた機能です。(v15から明示的にServer Actionsという表現は無くなってます。)しかし、本格的な運用環境でパフォーマンスを検証したい場合、Server Actions に対する負荷テストの情報がまだあまり出回っていないのが現状です。私は1つのプロジェクトで、Next.jsでフロントエンドもバックエンドもフルスタックに開発しているのですが、こちらの負荷テストを行う必要がありました。そこでこの記事では、実際に私が試行...]]></content>
+        <author>
+            <name>yuu_aoringo</name>
+        </author>
+        <published>2025-06-26T09:00:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[あなたの会社にも必要になる。今こそ知りたい外国人採用の基本と最前線 | PTW／ポールトゥウィン【公式】]]></title>
+        <id>https://note.com/ptw_note/n/n05d17e40f1f2</id>
+        <link href="https://note.com/ptw_note/n/n05d17e40f1f2"/>
+        <updated>2025-06-26T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ソフトウェアテストやカスタマーサポートなど、多岐にわたるBPO（Business Process Outsourcing）事業を幅広い業界に提供し、それぞれの分野で専門知識と業界ノウハウを蓄積してきたポールトゥウィン。今回スタートする新コンテンツ「Knowledge Hub by PTW」では、各事業の現場で得られた知見をもとに業界の課題や動向を読み解き、今後の成長戦略に必要な視点をポールトゥウィ]]></summary>
+        <content type="html"><![CDATA[ソフトウェアテストやカスタマーサポートなど、多岐にわたるBPO（Business Process Outsourcing）事業を幅広い業界に提供し、それぞれの分野で専門知識と業界ノウハウを蓄積してきたポールトゥウィン。今回スタートする新コンテンツ「Knowledge Hub by PTW」では、各事業の現場で得られた知見をもとに業界の課題や動向を読み解き、今後の成長戦略に必要な視点をポールトゥウィンの担当者がわかりやすく解説していきます。豊富な実績に裏打ちされたノウハウを惜しみなく披露して、業界に関わるすべての人にとって有益な情報を発信してまいります。第一回は、外国人採用支援サービス「Stepjob(ステップジョブ)」事業の事業部長、行平澄子にマーケット事情から社会背景まで多くの企業が人材不足に喘ぐ中で外国人採用が注目を集める理由について話を聞きました。続きをみる]]></content>
+        <published>2025-06-26T06:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Playwrightでデザインパターンに入門してみた①「Page Object Model」編 | テスト自動化メンバー｜日本ナレッジ株式会社]]></title>
+        <id>https://note.com/nkc_ta/n/n48c015ff2508</id>
+        <link href="https://note.com/nkc_ta/n/n48c015ff2508"/>
+        <updated>2025-06-25T23:59:52.000Z</updated>
+        <summary type="html"><![CDATA[はじめに続きをみる]]></summary>
+        <content type="html"><![CDATA[はじめに続きをみる]]></content>
+        <published>2025-06-25T23:59:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QAはアウトカム志向が大事な気がする | yuden]]></title>
+        <id>https://note.com/ydn_/n/ndbcff4918ad8</id>
+        <link href="https://note.com/ydn_/n/ndbcff4918ad8"/>
+        <updated>2025-06-25T23:11:12.000Z</updated>
+        <summary type="html"><![CDATA[※この記事はyudenが社内でだいたい毎週月曜日のランチタイムにやっているライトニングトーク「わいがや」を記事に起こしたものです。ベストプラクティスは過去の遺産続きをみる]]></summary>
+        <content type="html"><![CDATA[※この記事はyudenが社内でだいたい毎週月曜日のランチタイムにやっているライトニングトーク「わいがや」を記事に起こしたものです。ベストプラクティスは過去の遺産続きをみる]]></content>
+        <published>2025-06-25T23:11:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[test | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/azusan/articles/d21677546faa44</id>
+        <link href="https://zenn.dev/azusan/articles/d21677546faa44"/>
+        <updated>2025-06-25T15:43:50.000Z</updated>
+        <summary type="html"><![CDATA[test]]></summary>
+        <content type="html"><![CDATA[test]]></content>
+        <author>
+            <name>azusan</name>
+        </author>
+        <published>2025-06-25T15:43:50.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[yr-learning Vol70に参加してきた | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2025/06/26/000000</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2025/06/26/000000"/>
+        <updated>2025-06-25T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[https://yr-camp.connpass.com/event/360536/ こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 エクストリーム近況 再帰版のfizzBuzzLoop解消 全体を通した感想 エクストリーム近況 近況報告をしていたのですが、エピソードが色々とおかしくて陥っている状況もめちゃくちゃだったので、エクストリーム近況報告だという話が出ていまし]]></summary>
+        <content type="html"><![CDATA[https://yr-camp.connpass.com/event/360536/ こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 エクストリーム近況 再帰版のfizzBuzzLoop解消 全体を通した感想 エクストリーム近況 近況報告をしていたのですが、エピソードが色々とおかしくて陥っている状況もめちゃくちゃだったので、エクストリーム近況報告だという話が出ていました笑 内容的にはNDAを結んでいる状態だったのでほとんど何も書けないのですが、アジャイルコーチが特定下の状況でまったく機能しなくなる話や、変に考え方や経験に対してこだわりが出てしまっている人よりかは新…]]></content>
+        <published>2025-06-25T15:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットキーは「JaSST’25 Kansai」にポスターセッションを出展します！ | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/bitkey_dev/articles/bed6d049f94c07</id>
+        <link href="https://zenn.dev/bitkey_dev/articles/bed6d049f94c07"/>
+        <updated>2025-06-25T04:04:11.000Z</updated>
+        <summary type="html"><![CDATA[はじめにこんにちは。株式会社ビットキー Software QAチームからお知らせです。この度ビットキーは、6/27(金)に開催の「JaSST’25 Kansai」にポスターセッションを出展いたします✨今回は、参加者の皆様と一緒に創り上げるインタラクティブな企画をご用意しました👏🏻この記事では、皆様に楽しんでいただくための企画内容を一足先にご紹介いたします。 JaSSTとはJaSST（ジャスト）は、]]></summary>
+        <content type="html"><![CDATA[はじめにこんにちは。株式会社ビットキー Software QAチームからお知らせです。この度ビットキーは、6/27(金)に開催の「JaSST’25 Kansai」にポスターセッションを出展いたします✨今回は、参加者の皆様と一緒に創り上げるインタラクティブな企画をご用意しました👏🏻この記事では、皆様に楽しんでいただくための企画内容を一足先にご紹介いたします。 JaSSTとはJaSST（ジャスト）は、NPO法人ASTER （ソフトウェアテスト技術振興協会）が運営するソフトウェア業界全体のテスト技術力の向上と普及を目指すソフトウェアテストシンポジウムです。※JaSST：...]]></content>
+        <author>
+            <name>田上_ビットキー</name>
+        </author>
+        <published>2025-06-25T04:04:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude System Promptを見て思ったこと | yuden]]></title>
+        <id>https://note.com/ydn_/n/nbd87583deff2</id>
+        <link href="https://note.com/ydn_/n/nbd87583deff2"/>
+        <updated>2025-06-25T03:52:00.000Z</updated>
+        <summary type="html"><![CDATA[※この記事はyudenが社内でだいたい毎週月曜日のランチタイムにやっているライトニングトーク「わいがや」を記事に起こしたものです。Claudeはドキュメントページでコアシステムプロンプトを公開しています。続きをみる]]></summary>
+        <content type="html"><![CDATA[※この記事はyudenが社内でだいたい毎週月曜日のランチタイムにやっているライトニングトーク「わいがや」を記事に起こしたものです。Claudeはドキュメントページでコアシステムプロンプトを公開しています。続きをみる]]></content>
+        <published>2025-06-25T03:52:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IT初心者でもわかる！モックの基本と活用方法 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/headwaters/articles/79515cacaff2b0</id>
+        <link href="https://zenn.dev/headwaters/articles/79515cacaff2b0"/>
+        <updated>2025-06-25T02:56:48.000Z</updated>
+        <summary type="html"><![CDATA[初めにこんにちは！新卒2年目の矢野です！この記事では、IT初心者でも理解しやすいように、「モック(Mock)」という便利なツールについて解説します。モックは、プログラミングの学習やチーム開発でとても役立つ考え方です。具体的な使い方や実例を交えながら紹介していきます。 1. モック(Mock)とは？モックとは、プログラムの中で**「本物の代わりに使う偽物の機能」**のことです。例えば、外部サービスや]]></summary>
+        <content type="html"><![CDATA[初めにこんにちは！新卒2年目の矢野です！この記事では、IT初心者でも理解しやすいように、「モック(Mock)」という便利なツールについて解説します。モックは、プログラミングの学習やチーム開発でとても役立つ考え方です。具体的な使い方や実例を交えながら紹介していきます。 1. モック(Mock)とは？モックとは、プログラムの中で**「本物の代わりに使う偽物の機能」**のことです。例えば、外部サービスやデータベースがまだ完成していないとき、その部分を「モック」として作ることで、他の部分の開発やテストを進められます。イメージ： モックは映画のセットのようなものです。実際に背景や...]]></content>
+        <author>
+            <name>矢野　陽輝</name>
+        </author>
+        <published>2025-06-25T02:56:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テスト分析：文書で未定義の外部仕様に気づくコツ | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/dev_commune/articles/4480f8ef5d424e</id>
+        <link href="https://zenn.dev/dev_commune/articles/4480f8ef5d424e"/>
+        <updated>2025-06-24T23:10:02.000Z</updated>
+        <summary type="html"><![CDATA[はじめに私の経験上、テスト設計のために必要な外部仕様がドキュメントに全て網羅的に記載されていることは多くありません。そのため、前回の記事で少し触れた通り、実際の業務ではドキュメントに記載のない情報に気づく必要があります。そこで、本記事ではドキュメントに不足している情報、特に未定義の外部仕様（システムの振る舞い）に気づくコツをいくつか紹介します。なお、定義された外部仕様の妥当性確認（顧客が求める品質]]></summary>
+        <content type="html"><![CDATA[はじめに私の経験上、テスト設計のために必要な外部仕様がドキュメントに全て網羅的に記載されていることは多くありません。そのため、前回の記事で少し触れた通り、実際の業務ではドキュメントに記載のない情報に気づく必要があります。そこで、本記事ではドキュメントに不足している情報、特に未定義の外部仕様（システムの振る舞い）に気づくコツをいくつか紹介します。なお、定義された外部仕様の妥当性確認（顧客が求める品質や性能を実際に満たすかどうか）については、本記事のスコープ外となります。 欲しい情報を意識して文書を読むテストに関する成果物のテンプレートが決まっている場合、ドキュメントを読む際...]]></content>
+        <author>
+            <name>Yasuyuki Suga</name>
+        </author>
+        <published>2025-06-24T23:10:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スクラム祭りの打ち合わせ(42回目)をしてきた | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2025/06/25/000000</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2025/06/25/000000"/>
+        <updated>2025-06-24T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[aki-m.hatenadiary.com こちらの打ち合わせをしてきたので、会の様子と感想を書いていこうと思います。 バックログ更新 Confengineをアップデート ドラフト会議日程決め 運営メンバーをGoogle Groupsに追加 Discordコメントの返信 地域トラック確認 スポンサーメール返信 バックログ更新 直近やる必要がある作業が少し溜まってきたので、バックログを更新しました。]]></summary>
+        <content type="html"><![CDATA[aki-m.hatenadiary.com こちらの打ち合わせをしてきたので、会の様子と感想を書いていこうと思います。 バックログ更新 Confengineをアップデート ドラフト会議日程決め 運営メンバーをGoogle Groupsに追加 Discordコメントの返信 地域トラック確認 スポンサーメール返信 バックログ更新 直近やる必要がある作業が少し溜まってきたので、バックログを更新しました。ついでに幾つかの作業はクローズができそうだったのでクローズをしました。 また、最近毎回やっている作業に関しては固定で話す内容のリストに組み込むことにしました。 Confengineをアップデート Co…]]></content>
+        <published>2025-06-24T15:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大人のソフトウェアテスト雑談会 #275【おきゅうと】に参加してきた | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2025/06/24/231403</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2025/06/24/231403"/>
+        <updated>2025-06-24T14:14:03.000Z</updated>
+        <summary type="html"><![CDATA[https://ost-zatu.connpass.com/event/360210/ 新規事業の要注意点 新規事業では人が多すぎると逆に難しくなるという話や、ビジョンをいじりだしたらそれは注意したほうがいいという話がありました。(自社のビジョンは顧客にとってまるで関係がない) おおひらさんのプロポーザル おおひらさんがスクラムフェス三河に何をプロポーザルとしてだしてほしいのか？というのを皆で出し]]></summary>
+        <content type="html"><![CDATA[https://ost-zatu.connpass.com/event/360210/ 新規事業の要注意点 新規事業では人が多すぎると逆に難しくなるという話や、ビジョンをいじりだしたらそれは注意したほうがいいという話がありました。(自社のビジョンは顧客にとってまるで関係がない) おおひらさんのプロポーザル おおひらさんがスクラムフェス三河に何をプロポーザルとしてだしてほしいのか？というのを皆で出し合っていきました。 QAやテスターの歴史 製造業のQAの歴史 テスターやmiwaさんへの愛 スクラムマスターにQAがなることの何がいけないのか？ Alloyを使っている話 といった候補があがっていまし…]]></content>
+        <published>2025-06-24T14:14:03.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[業界未経験からテストエンジニアへ転身――品質保証業務の魅力とは（後編） | テクバン株式会社 品質サービス事業部 採用チーム]]></title>
+        <id>https://note.com/techvan_qs/n/n5094d43d4743</id>
+        <link href="https://note.com/techvan_qs/n/n5094d43d4743"/>
+        <updated>2025-06-24T06:30:37.000Z</updated>
+        <summary type="html"><![CDATA[業務システム開発、インフラ構築、ネットワーク構築などさまざまなサービスを展開している、独立系システムインテグレーター（SIer）のテクバン株式会社（以下、テクバン）。そのサービスのひとつである品質保証業務では、開発したシステムが規定の品質を満たしているかを確認。お客様に安心と信頼を提供する、非常に重要な役割を担っています。今回は、業界未経験ながら品質保証業務に携わり、品質ソリューション事業部でキャ]]></summary>
+        <content type="html"><![CDATA[業務システム開発、インフラ構築、ネットワーク構築などさまざまなサービスを展開している、独立系システムインテグレーター（SIer）のテクバン株式会社（以下、テクバン）。そのサービスのひとつである品質保証業務では、開発したシステムが規定の品質を満たしているかを確認。お客様に安心と信頼を提供する、非常に重要な役割を担っています。今回は、業界未経験ながら品質保証業務に携わり、品質ソリューション事業部でキャリアを築いてきた尾舘 誠一朗氏に、これまでの経歴と、品質保証業務の魅力を聞きました。また、同事業部の事業部長 山内 健司氏に、テクバンでリーダーとして活躍する尾舘氏の実像を語っていただきました。続きをみる]]></content>
+        <published>2025-06-24T06:30:37.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[業界未経験からテストエンジニアへ転身――品質保証業務の魅力とは（前編） | テクバン株式会社 品質サービス事業部 採用チーム]]></title>
+        <id>https://note.com/techvan_qs/n/nb5afb3762691</id>
+        <link href="https://note.com/techvan_qs/n/nb5afb3762691"/>
+        <updated>2025-06-24T06:28:45.000Z</updated>
+        <summary type="html"><![CDATA[業務システム開発、インフラ構築、ネットワーク構築などさまざまなサービスを展開している、独立系システムインテグレーター（SIer）のテクバン株式会社（以下、テクバン）。そのサービスのひとつである品質保証業務では、開発したシステムが規定の品質を満たしているかを確認。お客様に安心と信頼を提供する、非常に重要な役割を担っています。今回は、業界未経験ながら品質保証業務に携わり、品質ソリューション事業部でキャ]]></summary>
+        <content type="html"><![CDATA[業務システム開発、インフラ構築、ネットワーク構築などさまざまなサービスを展開している、独立系システムインテグレーター（SIer）のテクバン株式会社（以下、テクバン）。そのサービスのひとつである品質保証業務では、開発したシステムが規定の品質を満たしているかを確認。お客様に安心と信頼を提供する、非常に重要な役割を担っています。今回は、業界未経験ながら品質保証業務に携わり、品質ソリューション事業部でキャリアを築いてきた尾舘 誠一朗氏に、これまでの経歴と、品質保証業務の魅力を聞きました。また、同事業部の事業部長 山内 健司氏に、テクバンでリーダーとして活躍する尾舘氏の実像を語っていただきました。続きをみる]]></content>
+        <published>2025-06-24T06:28:45.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プロジェクト管理ツールとしての「議事録」｜「言った・言わない」をなくす！”使える”議事録作成の秘訣 | 品質 | Sqripts]]></title>
+        <id>https://sqripts.com/?p=105334</id>
+        <link href="https://sqripts.com/2025/06/24/105334/"/>
+        <updated>2025-06-24T02:54:29.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、QAコンサルタントのW-Hです。 プロジェクトの遂行においては、コミュニケーションの一環として、定例会議やアドホックな会議が行われていると思いますが、私は会議の「議事録」を「プロジェクト管理ツール」の１つとし...The post プロジェクト管理ツールとしての「議事録」｜「言った・言わない」をなくす！”使える”議事録作成の秘訣 first appeared on Sqripts.]]></summary>
+        <content type="html"><![CDATA[こんにちは、QAコンサルタントのW-Hです。 プロジェクトの遂行においては、コミュニケーションの一環として、定例会議やアドホックな会議が行われていると思いますが、私は会議の「議事録」を「プロジェクト管理ツール」の１つとし...The post プロジェクト管理ツールとしての「議事録」｜「言った・言わない」をなくす！”使える”議事録作成の秘訣 first appeared on Sqripts.]]></content>
+        <author>
+            <name>TAKIMOTO</name>
+        </author>
+        <category label="品質"/>
+        <category label="QAコンサルタント"/>
+        <category label="エンジニアブログ"/>
+        <category label="プロジェクトマネージメント"/>
+        <published>2025-06-24T02:54:29.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[チームで参加！Pepウォーキング | テスト自動化メンバー｜日本ナレッジ株式会社]]></title>
+        <id>https://note.com/nkc_ta/n/n462e13d66bd2</id>
+        <link href="https://note.com/nkc_ta/n/n462e13d66bd2"/>
+        <updated>2025-06-23T23:55:41.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。テスト自動化メンバーのS.Kです。今回は「Pepウォーキング」というイベントに参加したメンバーの体験をヒアリングし、その様子をレポートします。続きをみる]]></summary>
+        <content type="html"><![CDATA[こんにちは。テスト自動化メンバーのS.Kです。今回は「Pepウォーキング」というイベントに参加したメンバーの体験をヒアリングし、その様子をレポートします。続きをみる]]></content>
+        <published>2025-06-23T23:55:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テスト自動化のレールを敷く -MagicPod運用設計の舞台裏 | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/hacobu/articles/88346660bb27f6</id>
+        <link href="https://zenn.dev/hacobu/articles/88346660bb27f6"/>
+        <updated>2025-06-23T22:48:39.000Z</updated>
+        <summary type="html"><![CDATA[株式会社Hacobu（以下、Hacobu）でQAエンジニアをやっている、かわせです。Hacobuでは、E2Eテスト自動化にノーコードツールである、MagicPodの導入をしました。「テスト自動化」と聞くと、品質向上・生産性向上といったポジティブなワードが並ぶかと思います。しかし、ノーコードツールによる自動テストの導入と運用には、想像以上の落とし穴があるのも事実です。今回の記事では、MagicPod]]></summary>
+        <content type="html"><![CDATA[株式会社Hacobu（以下、Hacobu）でQAエンジニアをやっている、かわせです。Hacobuでは、E2Eテスト自動化にノーコードツールである、MagicPodの導入をしました。「テスト自動化」と聞くと、品質向上・生産性向上といったポジティブなワードが並ぶかと思います。しかし、ノーコードツールによる自動テストの導入と運用には、想像以上の落とし穴があるのも事実です。今回の記事では、MagicPod導入初期に私たちが直面した課題と、それをどう乗り越え、継続的に運用できるテスト基盤を設計したかについて紹介します。同じようにノーコード自動化を検討しているチームにとって、アンチパターン...]]></content>
+        <author>
+            <name>かわせ</name>
+        </author>
+        <published>2025-06-23T22:48:39.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XP祭り2025の運営MTG(5回目)に参加してきた | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2025/06/23/213127</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2025/06/23/213127"/>
+        <updated>2025-06-23T12:31:27.000Z</updated>
+        <summary type="html"><![CDATA[XP祭りの運営MTG(5回目)に参加してきたので、会の様子を書いていこうと思います。 出版社対応 Confengineの状況確認 Kent Beckとのランチ会 次回 出版社対応 XP祭りはいつも書籍支援をいただいているのですが、支援いただけないかのお願いをどの出版社の方々向けにしていくか？というのを簡単に話していきました。(基本的には昨年献本いただけた会社さんに声をかけていく形でいきました) 詳]]></summary>
+        <content type="html"><![CDATA[XP祭りの運営MTG(5回目)に参加してきたので、会の様子を書いていこうと思います。 出版社対応 Confengineの状況確認 Kent Beckとのランチ会 次回 出版社対応 XP祭りはいつも書籍支援をいただいているのですが、支援いただけないかのお願いをどの出版社の方々向けにしていくか？というのを簡単に話していきました。(基本的には昨年献本いただけた会社さんに声をかけていく形でいきました) 詳細な活動に関しては、希望者を募ってそこで一緒にやりましょうという話をしました。 Confengineの状況確認 confengine.com 今年は公募が8月までということもあり、まだ期限的には余裕が…]]></content>
+        <published>2025-06-23T12:31:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Golangでテストコードに入門してみた | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/akasan/articles/7fa1c6d3d4693c</id>
+        <link href="https://zenn.dev/akasan/articles/7fa1c6d3d4693c"/>
+        <updated>2025-06-23T12:14:19.000Z</updated>
+        <summary type="html"><![CDATA[今回はGolangでのテストコードに入門してみました。私自身普段あまりGolangは使ってこなかったのですが、今回使う気概があり、テストコードが必要だったので入門してみました。 早速やってみる シンプルな例で。。。まずはプロジェクトの初期化をします。goenvを使っているので、以下のようにして環境を立てました。mkdir go_test_prac &amp;amp;&amp;amp; cd go_test_pracgoenv l]]></summary>
+        <content type="html"><![CDATA[今回はGolangでのテストコードに入門してみました。私自身普段あまりGolangは使ってこなかったのですが、今回使う気概があり、テストコードが必要だったので入門してみました。 早速やってみる シンプルな例で。。。まずはプロジェクトの初期化をします。goenvを使っているので、以下のようにして環境を立てました。mkdir go_test_prac &amp;amp;&amp;amp; cd go_test_pracgoenv local 1.22.3まずはシンプルな四則演算を実装しているコードを作成しました。func.gopackage mainimport "fmt"fu...]]></content>
+        <author>
+            <name>Akasan</name>
+        </author>
+        <published>2025-06-23T12:14:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[多元的無知をQAエンジニアの業務で考えてみる | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/team_soda/articles/dc755085af9b91</id>
+        <link href="https://zenn.dev/team_soda/articles/dc755085af9b91"/>
+        <updated>2025-06-23T08:21:01.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。SODAでクオリティエンジニアをやっているokauchiです。多元的無知という言葉を知りました。「他の誰かは分かっているはず」と思い込み、自分の疑問や違和感を黙ってしまう心理現象です。自分がわかっていないだけならまだしも（もちろん良くはありませんが）、チーム全体で「誰かが理解しているだろう」と思い込み、実は誰も正しく把握していなかった、ということも起こりえます。とくにQAエンジニアの業]]></summary>
+        <content type="html"><![CDATA[こんにちは。SODAでクオリティエンジニアをやっているokauchiです。多元的無知という言葉を知りました。「他の誰かは分かっているはず」と思い込み、自分の疑問や違和感を黙ってしまう心理現象です。自分がわかっていないだけならまだしも（もちろん良くはありませんが）、チーム全体で「誰かが理解しているだろう」と思い込み、実は誰も正しく把握していなかった、ということも起こりえます。とくにQAエンジニアの業務においても見過ごせない問題です。QAエンジニアの視点から多元的無知が引き起こすリスクと、それを防ぐための方法を考えてみます。 テストの現場に潜む多元的無知のリスクQAエンジニアはテスト...]]></content>
+        <author>
+            <name>オカウチワニ</name>
+        </author>
+        <published>2025-06-23T08:21:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JSTQB FL を効率よく学習して合格した方法 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/ryo_f/articles/e9feca7da60ad1</id>
+        <link href="https://zenn.dev/ryo_f/articles/e9feca7da60ad1"/>
+        <updated>2025-06-22T23:00:08.000Z</updated>
+        <summary type="html"><![CDATA[はじめにJSTQB 認定テスト技術者資格 の Foundation Level（以下 JSTQB FL）の試験に合格したので、学習方法や試験対策について共有します。私は開発経験が数年あるものの、テストに関する専門的な知識はほとんどありませんでした。そんな状態からのスタートでしたが 1.5 ヶ月ほどの学習期間で合格しました。また、合格することだけが目的とならないように、テストの本質や考え方を理解し実]]></summary>
+        <content type="html"><![CDATA[はじめにJSTQB 認定テスト技術者資格 の Foundation Level（以下 JSTQB FL）の試験に合格したので、学習方法や試験対策について共有します。私は開発経験が数年あるものの、テストに関する専門的な知識はほとんどありませんでした。そんな状態からのスタートでしたが 1.5 ヶ月ほどの学習期間で合格しました。また、合格することだけが目的とならないように、テストの本質や考え方を理解し実務で活用することも重視しました。 JSTQB とはISTQB（International Software Testing Qualifications Board）というソフ...]]></content>
+        <author>
+            <name>りょう</name>
+        </author>
+        <published>2025-06-22T23:00:08.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JSTQB FL を効率よく学習して合格した方法 | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/ryo_f/articles/e9feca7da60ad1</id>
+        <link href="https://zenn.dev/ryo_f/articles/e9feca7da60ad1"/>
+        <updated>2025-06-22T23:00:08.000Z</updated>
+        <summary type="html"><![CDATA[はじめにJSTQB 認定テスト技術者資格 の Foundation Level（以下 JSTQB FL）の試験に合格したので、学習方法や試験対策について共有します。私は開発経験が数年あるものの、テストに関する専門的な知識はほとんどありませんでした。そんな状態からのスタートでしたが 1.5 ヶ月ほどの学習期間で合格しました。また、合格することだけが目的とならないように、テストの本質や考え方を理解し実]]></summary>
+        <content type="html"><![CDATA[はじめにJSTQB 認定テスト技術者資格 の Foundation Level（以下 JSTQB FL）の試験に合格したので、学習方法や試験対策について共有します。私は開発経験が数年あるものの、テストに関する専門的な知識はほとんどありませんでした。そんな状態からのスタートでしたが 1.5 ヶ月ほどの学習期間で合格しました。また、合格することだけが目的とならないように、テストの本質や考え方を理解し実務で活用することも重視しました。 JSTQB とはISTQB（International Software Testing Qualifications Board）というソフ...]]></content>
+        <author>
+            <name>りょう</name>
+        </author>
+        <published>2025-06-22T23:00:08.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第272回 テストラジオ ABDでJSTQB FL 4.0を読んでみた話 | テストラジオ]]></title>
+        <id>https://testradio.fm/?p=1661</id>
+        <link href="https://testradio.fm/testradio-no/1661/"/>
+        <updated>2025-06-22T23:00:00.000Z</updated>
+        <author>
+            <name>なそ＠さとうひろゆき</name>
+        </author>
+        <category label="テストラジオ"/>
+        <category label="なそ回"/>
+        <category label="よしたけ回"/>
+        <published>2025-06-22T23:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Testing Web APIs は想像したAPIテストのテクニック集以上の本でした | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/moneyforward/articles/431bb9666d45e8</id>
+        <link href="https://zenn.dev/moneyforward/articles/431bb9666d45e8"/>
+        <updated>2025-06-22T11:30:39.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。ダイの大冒険エンジョイ勢のbun913と申します。わたしはSDET（Software Development Engineer in Test）という職種で働いており、API のテスト自動化だけでなく、システムの品質を向上させるための様々な活動を行っています。今回は Testing Web APIs という洋書を読んで、単なるAPIテストのテクニック集を期待していたら、それ以上の学びが]]></summary>
+        <content type="html"><![CDATA[こんにちは。ダイの大冒険エンジョイ勢のbun913と申します。わたしはSDET（Software Development Engineer in Test）という職種で働いており、API のテスト自動化だけでなく、システムの品質を向上させるための様々な活動を行っています。今回は Testing Web APIs という洋書を読んで、単なるAPIテストのテクニック集を期待していたら、それ以上の学びがあったので記事にまとめました。!今回の記事は書籍を評価したり、何かの答えを出すための記事ではありません内容を過度にネタバレしないように留意しつつ、自身が業務に活かしたい（もしくはすでに...]]></content>
+        <author>
+            <name>bun913</name>
+        </author>
+        <published>2025-06-22T11:30:39.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Testing Web APIs は想像したAPIテストのテクニック集以上の本でした | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/moneyforward/articles/431bb9666d45e8</id>
+        <link href="https://zenn.dev/moneyforward/articles/431bb9666d45e8"/>
+        <updated>2025-06-22T11:30:39.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。ダイの大冒険エンジョイ勢のbun913と申します。わたしはSDET（Software Development Engineer in Test）という職種で働いており、API のテスト自動化だけでなく、システムの品質を向上させるための様々な活動を行っています。今回は Testing Web APIs という洋書を読んで、単なるAPIテストのテクニック集を期待していたら、それ以上の学びが]]></summary>
+        <content type="html"><![CDATA[こんにちは。ダイの大冒険エンジョイ勢のbun913と申します。わたしはSDET（Software Development Engineer in Test）という職種で働いており、API のテスト自動化だけでなく、システムの品質を向上させるための様々な活動を行っています。今回は Testing Web APIs という洋書を読んで、単なるAPIテストのテクニック集を期待していたら、それ以上の学びがあったので記事にまとめました。!今回の記事は書籍を評価したり、何かの答えを出すための記事ではありません内容を過度にネタバレしないように留意しつつ、自身が業務に活かしたい（もしくはすでに...]]></content>
+        <author>
+            <name>bun913</name>
+        </author>
+        <published>2025-06-22T11:30:39.000Z</published>
+    </entry>
+</feed>
