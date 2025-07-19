@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yoshikiito.github.io/test-qa-rss-feed/</id>
+    <title>テスト・QA関連ブログRSS</title>
+    <updated>2025-07-19T15:06:34.219Z</updated>
+    <generator>yoshikiito/test-qa-rss-feed</generator>
+    <link rel="alternate" href="https://yoshikiito.github.io/test-qa-rss-feed/"/>
+    <link rel="self" href="https://yoshikiito.github.io/test-qa-rss-feed/feeds/atom.xml"/>
+    <subtitle>企テスト・QA関連ブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://yoshikiito.github.io/test-qa-rss-feed/images/icon.png</logo>
+    <icon>https://yoshikiito.github.io/test-qa-rss-feed/images/favicon.ico</icon>
+    <rights>yoshikiito/test-qa-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[近況 | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2025/07/18/233000</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2025/07/18/233000"/>
+        <updated>2025-07-18T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[今日は本当にただの雑記なのですが、タイトルの通り近況報告をしていきます。 なんで突如近況報告をしようと思ったか 近況 今後 なんで突如近況報告をしようと思ったか 帰りの電車でふと会社のチャットを見て、今日ってスクラムフェス大阪だったのか・・・となったのがきっかけです。 公募制のスクラムフェスに関して昨年は基本的に全て現地に行っていて、一部の方には全部のスクラムフェスにいるよね！？と聞かれたりするこ]]></summary>
+        <content type="html"><![CDATA[今日は本当にただの雑記なのですが、タイトルの通り近況報告をしていきます。 なんで突如近況報告をしようと思ったか 近況 今後 なんで突如近況報告をしようと思ったか 帰りの電車でふと会社のチャットを見て、今日ってスクラムフェス大阪だったのか・・・となったのがきっかけです。 公募制のスクラムフェスに関して昨年は基本的に全て現地に行っていて、一部の方には全部のスクラムフェスにいるよね！？と聞かれたりすることもあったのですが、本当に久しぶりにいかないスクラムフェスが出てきて、なんか後でふりかえったときにこの時期はこうだったんです、というのを喋りやすくしておきたいなあと思って言語化しておくことにしました。…]]></content>
+        <published>2025-07-18T14:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[多くの外国人が「働きたい国」として注目“日本の魅力”の正体とは？ | PTW／ポールトゥウィン【公式】]]></title>
+        <id>https://note.com/ptw_note/n/n0ac38a2cbc88</id>
+        <link href="https://note.com/ptw_note/n/n0ac38a2cbc88"/>
+        <updated>2025-07-18T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ポールトゥウィンのBPO（Business Process Outsourcing）事業を通じて蓄積してきた専門知識や業界ノウハウをもとに、担当者が業界の課題や動向、今後の展望をわかりやすく解説する「Knowledge Hub by PTW」。 これまで3回にわたり、外国人採用支援サービス「Stepjob（ステップジョブ）」事業の事業部長・行平澄子に日本の外国人採用市場の現状やStepjobのサー]]></summary>
+        <content type="html"><![CDATA[ポールトゥウィンのBPO（Business Process Outsourcing）事業を通じて蓄積してきた専門知識や業界ノウハウをもとに、担当者が業界の課題や動向、今後の展望をわかりやすく解説する「Knowledge Hub by PTW」。 これまで3回にわたり、外国人採用支援サービス「Stepjob（ステップジョブ）」事業の事業部長・行平澄子に日本の外国人採用市場の現状やStepjobのサービス内容について話を聞いてきました。今回の記事では視点を変えて、そもそも日本で働きたいと考える外国人は増えているのか、なぜ日本で働きたいのか、またどのような人が日本での就労を希望しているのかといった点に焦点を当て、外国人の方の事情や実態に迫ってみたいと思います。外国人採用を検討している企業の方にも、ぜひ参考にしていただければと思います。続きをみる]]></content>
+        <published>2025-07-18T03:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[E2E自動テストの実行時間を半分にして開発者体験をアゲた話 | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/mybest_dev/articles/eb538cd0ea9227</id>
+        <link href="https://zenn.dev/mybest_dev/articles/eb538cd0ea9227"/>
+        <updated>2025-07-18T02:42:07.000Z</updated>
+        <summary type="html"><![CDATA[はじめにこんにちは！マイベストのプロダクト開発部 イネーブリングチームでQAエンジニアをしているfukutomiです。最近特に理由もなく金髪にしたのですが、仲のいい同僚や上司から「治安が悪い」「自転車のハンドルめっちゃ曲げて乗ってそう」「ヤンキー（直球）」など絶賛をいただきました。ありがとうございます。さて今回は、リリース前に実行しているE2E自動テストを高速化して開発者体験をアゲた話です。よろし]]></summary>
+        <content type="html"><![CDATA[はじめにこんにちは！マイベストのプロダクト開発部 イネーブリングチームでQAエンジニアをしているfukutomiです。最近特に理由もなく金髪にしたのですが、仲のいい同僚や上司から「治安が悪い」「自転車のハンドルめっちゃ曲げて乗ってそう」「ヤンキー（直球）」など絶賛をいただきました。ありがとうございます。さて今回は、リリース前に実行しているE2E自動テストを高速化して開発者体験をアゲた話です。よろしくお願いします。 これまでのE2E自動テストのフロー高速化の話をする前に、これまでのフローがどうなっていたかについて書いていきます。 実行フロー従来の実行フロー すべて直...]]></content>
+        <author>
+            <name>FukutomiQA</name>
+        </author>
+        <published>2025-07-18T02:42:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[試してみる価値はある効果的なブラックボックステスト方法 | Ranorex Blog - UIテスト自動化ツール Ranorex]]></title>
+        <id>https://ranorex.techmatrix.jp/?p=28643</id>
+        <link href="https://ranorex.techmatrix.jp/blog/2025/07/18/effective-black-box-testing-methods-you-need-to-try/"/>
+        <updated>2025-07-18T02:00:35.000Z</updated>
+        <summary type="html"><![CDATA[ユーザーはアプリケーションを使用するとき、状況に応じて柔軟に機能することを期待します。たとえば、ビジネスアナリストはExcelを開くとき、アプリケーションの内部で何が起こっているかを知らなくてもデータを操作できることを望 […]The post 試してみる価値はある効果的なブラックボックステスト方法 first appeared on UIテスト自動化ツール Ranorex.]]></summary>
+        <content type="html"><![CDATA[ユーザーはアプリケーションを使用するとき、状況に応じて柔軟に機能することを期待します。たとえば、ビジネスアナリストはExcelを開くとき、アプリケーションの内部で何が起こっているかを知らなくてもデータを操作できることを望 […]The post 試してみる価値はある効果的なブラックボックステスト方法 first appeared on UIテスト自動化ツール Ranorex.]]></content>
+        <author>
+            <name>user</name>
+        </author>
+        <category label="事例・ソリューション"/>
+        <published>2025-07-18T02:00:35.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[実践！バックエンドTypeScript〜現場から学ぶtsの可能性〜に参加してきた | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2025/07/17/233552</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2025/07/17/233552"/>
+        <updated>2025-07-17T14:35:52.000Z</updated>
+        <summary type="html"><![CDATA[https://findy.connpass.com/event/360678/ こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 会の概要 会の様子 安定した基盤システムのためのライブラリ選定 新卒エンジニアがフルスタックTS環境で開発してみた話 読書会から始める関数型ドメインモデリング Scaling Fast with confidence 会全体を通した感想 会]]></summary>
+        <content type="html"><![CDATA[https://findy.connpass.com/event/360678/ こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 会の概要 会の様子 安定した基盤システムのためのライブラリ選定 新卒エンジニアがフルスタックTS環境で開発してみた話 読書会から始める関数型ドメインモデリング Scaling Fast with confidence 会全体を通した感想 会の概要 以下、イベントページから引用です。 バックエンドでのTypeScriptの利用が注目されている中、国内で実際に採用している企業のナレッジは未だ少ない状況かと存じます。 そこで今回はバックエンド…]]></content>
+        <published>2025-07-17T14:35:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソフトウエアテスト手法に学ぶ！UI Designで使える図表5選 | ソフトウェアテストタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/tachibana_k/items/6b74cce33d037c23b138</id>
+        <link href="https://qiita.com/tachibana_k/items/6b74cce33d037c23b138"/>
+        <updated>2025-07-17T11:51:55.000Z</updated>
+        <summary type="html"><![CDATA[はじめまして！WHIでUI/UX デザイナーをやっております、バナです。2025年6月に入社しました。なんと WHI は中途入社であっても2か月の豪華オンボーディング研修があり、今は研修の真っ最中です。オンボーディング研修についてはぜひこちらの記事をご覧ください！WH...]]></summary>
+        <content type="html"><![CDATA[はじめまして！WHIでUI/UX デザイナーをやっております、バナです。2025年6月に入社しました。なんと WHI は中途入社であっても2か月の豪華オンボーディング研修があり、今は研修の真っ最中です。オンボーディング研修についてはぜひこちらの記事をご覧ください！WH...]]></content>
+        <published>2025-07-17T11:51:55.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テストを自動化する#3｜Playwrightのサンプルコード | .waitForTimeoutの活用など | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/okitegami/articles/7f041d0c0eb104</id>
+        <link href="https://zenn.dev/okitegami/articles/7f041d0c0eb104"/>
+        <updated>2025-07-17T08:53:29.000Z</updated>
+        <summary type="html"><![CDATA[Playwrightでのテスト自動化に使えるJavascriptのサンプルコードです。 今回取り上げている内容!〇秒待機するコード（.waitForTimeout）URLから文字列を取得して、他のURLに埋め込んで開きたい 〇秒待機するコード（.waitForTimeout）〇秒待機する.waitForTimeoutのコードです。実際には、クリックした後画面遷移が完全に完了するまで「〇秒待機して、]]></summary>
+        <content type="html"><![CDATA[Playwrightでのテスト自動化に使えるJavascriptのサンプルコードです。 今回取り上げている内容!〇秒待機するコード（.waitForTimeout）URLから文字列を取得して、他のURLに埋め込んで開きたい 〇秒待機するコード（.waitForTimeout）〇秒待機する.waitForTimeoutのコードです。実際には、クリックした後画面遷移が完全に完了するまで「〇秒待機して、その後に△△を確認する」 というような形で使用するのが便利かと思います。await page.waitForTimeout(5000); // 5秒待機const ...]]></content>
+        <author>
+            <name>Kikuchi</name>
+        </author>
+        <published>2025-07-17T08:53:29.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIによる手動QAの自動化：食べログQAチームの挑戦、その第一歩 | QA - Tabelog Tech Blog]]></title>
+        <id>https://tech-blog.tabelog.com/entry/ai-manual-qa-automation-first-step</id>
+        <link href="https://tech-blog.tabelog.com/entry/ai-manual-qa-automation-first-step"/>
+        <updated>2025-07-17T01:01:18.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは。食べログの品質管理部で飲食店QCチームのチームリーダーを務める助川です。 みなさんは「AIで手動QA業務の自動化」と聞いて、どんなイメージを持ちますか？ 「現場で本当に使えるの？」「ナレッジや運用が大変そう…」そんな声も聞こえてきそうです。 私たちも同じような課題を抱えていました。本記事では、食べログのQA現場でAIによる手動QAの自動化に挑戦している取り組みの途中経過と、そ]]></summary>
+        <content type="html"><![CDATA[はじめに こんにちは。食べログの品質管理部で飲食店QCチームのチームリーダーを務める助川です。 みなさんは「AIで手動QA業務の自動化」と聞いて、どんなイメージを持ちますか？ 「現場で本当に使えるの？」「ナレッジや運用が大変そう…」そんな声も聞こえてきそうです。 私たちも同じような課題を抱えていました。本記事では、食べログのQA現場でAIによる手動QAの自動化に挑戦している取り組みの途中経過と、その中で得た学び・工夫・今後の展望をお伝えします。 品質管理部のAI活用の目標 品質管理部では、食べログの重要プロジェクトである予約や食べログノート、インバウンドなどの案件のQAを担当しています。 食べ…]]></content>
+        <published>2025-07-17T01:01:18.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIで自動テストのプロセスを自動化する | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/k_sak/articles/91c86c7a733e9c</id>
+        <link href="https://zenn.dev/k_sak/articles/91c86c7a733e9c"/>
+        <updated>2025-07-16T23:15:01.000Z</updated>
+        <summary type="html"><![CDATA[このツールのgithubリポジトリはコチラ上記はJaSST nano vol,50での発表スライドです。この記事は、当日お話しした内容を補完する内容の記事です。 1. QA現場の課題感 &amp;amp; テスト自動化ツールを作ったきっかけ私はQAの仕事の中でも、“バグを探索するためのテスト”やプロセス改善といった予防的なQA活動にクリエイティブな楽しさを見出し、そこにこの仕事の魅力を感じています。一方で、決まっ]]></summary>
+        <content type="html"><![CDATA[このツールのgithubリポジトリはコチラ上記はJaSST nano vol,50での発表スライドです。この記事は、当日お話しした内容を補完する内容の記事です。 1. QA現場の課題感 &amp;amp; テスト自動化ツールを作ったきっかけ私はQAの仕事の中でも、“バグを探索するためのテスト”やプロセス改善といった予防的なQA活動にクリエイティブな楽しさを見出し、そこにこの仕事の魅力を感じています。一方で、決まった入力で分かりきった期待値を出す “チェック作業”――“ クネビンフレームワーク”でいうところの 『明確』 ばかり繰り返すのは、正直あまり楽しくないんです。（もう完全に個...]]></content>
+        <author>
+            <name>K-SAK</name>
+        </author>
+        <published>2025-07-16T23:15:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Webバックエンドの複雑さと負のスパイラル | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/t_kuni_0/articles/402257f494e047</id>
+        <link href="https://zenn.dev/t_kuni_0/articles/402257f494e047"/>
+        <updated>2025-07-16T14:07:27.000Z</updated>
+        <summary type="html"><![CDATA[Webバックエンドの 複雑さ（構成要素） とそれらを軽視した場合のビジネスリスクをまとめました。まずは以下の図を見て下さい。これは 「品質の低いリリース」 を起点としてチームやプロダクトにどのような悪影響が発生するかを図にしたものです。悪影響は連鎖し究極的には最下部の 「ビジネスの失敗」に繋がる可能性があることを図示しています。数年以上システム開発に関わった事がある方であれば、矢印を辿ってみると心]]></summary>
+        <content type="html"><![CDATA[Webバックエンドの 複雑さ（構成要素） とそれらを軽視した場合のビジネスリスクをまとめました。まずは以下の図を見て下さい。これは 「品質の低いリリース」 を起点としてチームやプロダクトにどのような悪影響が発生するかを図にしたものです。悪影響は連鎖し究極的には最下部の 「ビジネスの失敗」に繋がる可能性があることを図示しています。数年以上システム開発に関わった事がある方であれば、矢印を辿ってみると心当たりのある事象に行き着くかと思います。「品質の低いリリース」から連鎖的に発生する悪影響の図特に注意したいのが、以下の赤線です。この線によりこの図は循環しています。これは「品質の...]]></content>
+        <author>
+            <name>kuni</name>
+        </author>
+        <published>2025-07-16T14:07:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mock Service Workerを導入してフロントエンド開発を効率化 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/tabamarine/articles/5db28ed4db10df</id>
+        <link href="https://zenn.dev/tabamarine/articles/5db28ed4db10df"/>
+        <updated>2025-07-16T08:37:29.000Z</updated>
+        <summary type="html"><![CDATA[Mock Service WorkerとはMock Service Workerは、APIリクエストをキャッチしてモックデータを返してくれるライブラリです。ブラウザ環境ではService Workerを使います。実際のAPIを呼び出しているかのように動作するので、本番環境に近い形で開発ができます。https://mswjs.io/ Mock Service Workerの特徴本物のAPIリクエスト]]></summary>
+        <content type="html"><![CDATA[Mock Service WorkerとはMock Service Workerは、APIリクエストをキャッチしてモックデータを返してくれるライブラリです。ブラウザ環境ではService Workerを使います。実際のAPIを呼び出しているかのように動作するので、本番環境に近い形で開発ができます。https://mswjs.io/ Mock Service Workerの特徴本物のAPIリクエストと同じ形式でモックレスポンスが返るので、実際のAPIを使っているような感覚で、開発やブラウザでの動作確認が行えます。ブラウザでは、Service Workerを使ってリクエス...]]></content>
+        <author>
+            <name>Taba</name>
+        </author>
+        <published>2025-07-16T08:37:29.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第9回】発想を促すヒント｜実務三年目からの発見力と仮説力 | 品質 | Sqripts]]></title>
+        <id>https://sqripts.com/?p=105403</id>
+        <link href="https://sqripts.com/2025/07/16/105403/"/>
+        <updated>2025-07-16T02:32:04.000Z</updated>
+        <summary type="html"><![CDATA[帰納的な推論 と 発見的な推論(アブダクション) は、私たちがソフトウェア開発の現場/実務で（知らず知らずにでも）駆使している思考の形です（それどころか日々の暮らしでも使っています）。 それほど“自然な”思考の形ですが、...The post 【第9回】発想を促すヒント｜実務三年目からの発見力と仮説力 first appeared on Sqripts.]]></summary>
+        <content type="html"><![CDATA[帰納的な推論 と 発見的な推論(アブダクション) は、私たちがソフトウェア開発の現場/実務で（知らず知らずにでも）駆使している思考の形です（それどころか日々の暮らしでも使っています）。 それほど“自然な”思考の形ですが、...The post 【第9回】発想を促すヒント｜実務三年目からの発見力と仮説力 first appeared on Sqripts.]]></content>
+        <author>
+            <name>TAKIMOTO</name>
+        </author>
+        <category label="特集"/>
+        <category label="品質"/>
+        <category label="エンジニアリング"/>
+        <category label="ソフトウェアテスト"/>
+        <published>2025-07-16T02:32:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大人のソフトウェアテスト雑談会 #278【無手】に参加してきた | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2025/07/15/050000</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2025/07/15/050000"/>
+        <updated>2025-07-15T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ost-zatu.connpass.com 今週もテストの街葛飾に行ってきたので、会の様子と感想を書いていこうと思います。 外部アセスメント スクラムフェス大阪 虫 開発者体験が良さそうな企業ランキング 睡眠検定 全体を通した感想 外部アセスメント (途中から入ってあんまり話のコンテキストがわかっていなかったのでふわっと書いています) とある会社が面接とかをしている際に、外部アセスメントを導入して]]></summary>
+        <content type="html"><![CDATA[ost-zatu.connpass.com 今週もテストの街葛飾に行ってきたので、会の様子と感想を書いていこうと思います。 外部アセスメント スクラムフェス大阪 虫 開発者体験が良さそうな企業ランキング 睡眠検定 全体を通した感想 外部アセスメント (途中から入ってあんまり話のコンテキストがわかっていなかったのでふわっと書いています) とある会社が面接とかをしている際に、外部アセスメントを導入しているという話があったのですが、この外部アセスメントってどれだけ妥当性があるものなんだろうか？という話が出ていました。 スクラムフェス大阪 スクラムフェス大阪のセッションに関して話をしていきました。 コ…]]></content>
+        <published>2025-07-15T20:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[パフォーマンステストの戦略ガイド：Grafana k6による実践と自動化 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/suwash/articles/perf_test_k6_20250716</id>
+        <link href="https://zenn.dev/suwash/articles/perf_test_k6_20250716"/>
+        <updated>2025-07-15T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[■はじめにWebサイトやアプリケーションのパフォーマンスは、ユーザーエクスペリエンス、ひいてはビジネスの成功を左右する生命線です。パフォーマンスの低下は、ユーザーの離脱やコンバージョン率の悪化に直結します。この課題に対し、開発の早期段階から継続的にテストを組み込む「シフトレフト」のアプローチが不可欠です。このアプローチでは、開発者自身がパフォーマンスへの責任を持ちます。Grafana k6のような]]></summary>
+        <content type="html"><![CDATA[■はじめにWebサイトやアプリケーションのパフォーマンスは、ユーザーエクスペリエンス、ひいてはビジネスの成功を左右する生命線です。パフォーマンスの低下は、ユーザーの離脱やコンバージョン率の悪化に直結します。この課題に対し、開発の早期段階から継続的にテストを組み込む「シフトレフト」のアプローチが不可欠です。このアプローチでは、開発者自身がパフォーマンスへの責任を持ちます。Grafana k6のようなモダンなテストツールは、このシフトを強力に支援します。JavaScriptでテストを記述でき、CI/CDパイプラインへも容易に統合可能です。効果的なテストの鍵は、明確な目標設定にあり...]]></content>
+        <author>
+            <name>suwa-sh / 諏訪真一</name>
+        </author>
+        <published>2025-07-15T15:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スクラム祭りの打ち合わせ(45回目)をしてきた | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2025/07/15/233000</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2025/07/15/233000"/>
+        <updated>2025-07-15T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[aki-m.hatenadiary.com こちらの打ち合わせをしてきたので、会の様子と感想を書いていこうと思います。 ホームページの更新 メールの返信 スポンサーチェック Keynote Speakerの紹介文 ホームページの更新 ホームページから飛べるXP祭りへのリンクが古いものではないか？というコメントがあり、確かめてみたところその通りだったので修正をしていきました。 また、ちょうどロゴが一]]></summary>
+        <content type="html"><![CDATA[aki-m.hatenadiary.com こちらの打ち合わせをしてきたので、会の様子と感想を書いていこうと思います。 ホームページの更新 メールの返信 スポンサーチェック Keynote Speakerの紹介文 ホームページの更新 ホームページから飛べるXP祭りへのリンクが古いものではないか？というコメントがあり、確かめてみたところその通りだったので修正をしていきました。 また、ちょうどロゴが一つ届いていたので、そちらを掲載していったのですが、相変わらずWixのご機嫌が悪く、モバイルがあんまりうまくいかなくて、少し時間を使うことになりました。 加えて、jpgからsvgへの変換があまりうまくい…]]></content>
+        <published>2025-07-15T14:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pytest で Allure を使って AAA スタイルを書きやすくする | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/jyoppomu/articles/7b37f74971b784</id>
+        <link href="https://zenn.dev/jyoppomu/articles/7b37f74971b784"/>
+        <updated>2025-07-15T06:54:42.000Z</updated>
+        <summary type="html"><![CDATA[はじめにpytest および Allure のインストール方法や基本的な使い方については、本記事には記載しません。 Arrange-Act-Assert スタイルでテストを書きたいArrange-Act-Assert (AAA) スタイルは、テストコードを読みやすく、理解しやすくするための一般的なテストの記述パターンです。以下の例のように、テストコード内に# Arrange: add items ]]></summary>
+        <content type="html"><![CDATA[はじめにpytest および Allure のインストール方法や基本的な使い方については、本記事には記載しません。 Arrange-Act-Assert スタイルでテストを書きたいArrange-Act-Assert (AAA) スタイルは、テストコードを読みやすく、理解しやすくするための一般的なテストの記述パターンです。以下の例のように、テストコード内に# Arrange: add items to shopping cartなどと「この部分で準備してますよ」とコメントで表現したりします。書かないよりは、書いた方が良いけど、より「ここからここまでが準備」などがわかりやすく書...]]></content>
+        <author>
+            <name>Yuki Yoshida</name>
+        </author>
+        <published>2025-07-15T06:54:42.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソフトウェア開発における「スタブ」の起源と普及 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/ayanatsu/articles/stub-origin-proliferation-ayanatsu</id>
+        <link href="https://zenn.dev/ayanatsu/articles/stub-origin-proliferation-ayanatsu"/>
+        <updated>2025-07-15T03:45:01.000Z</updated>
+        <summary type="html"><![CDATA[要約スタブ（stub）とは、ソフトウェア開発で未完成のモジュールの代わりに使われる簡易な部品のことです。1970年代初頭、IBMの技術者Harlan D. Mills（ハーラン・ミルズ）がトップダウン開発の中で初めて採用し、下位モジュールの「切り株」が上位モジュールの成長を支えるように、システム全体の構築を助ける役割を担うことから生まれました。その後、テストや分散システムなど多くの場面で活用され、]]></summary>
+        <content type="html"><![CDATA[要約スタブ（stub）とは、ソフトウェア開発で未完成のモジュールの代わりに使われる簡易な部品のことです。1970年代初頭、IBMの技術者Harlan D. Mills（ハーラン・ミルズ）がトップダウン開発の中で初めて採用し、下位モジュールの「切り株」が上位モジュールの成長を支えるように、システム全体の構築を助ける役割を担うことから生まれました。その後、テストや分散システムなど多くの場面で活用され、今では幅広い開発現場で利用されています。 スタブって何？スタブとは、「ダミー実装」とも呼ばれるもので、実際の機能がまだ完成していない部分に代わって、あらかじめ決められた結果を返...]]></content>
+        <author>
+            <name>あやなつ</name>
+        </author>
+        <published>2025-07-15T03:45:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Test】さっと使えてコピペもできるテスト用テキストデータ早見集 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/noranuko13/articles/97303cc5d2ee7f</id>
+        <link href="https://zenn.dev/noranuko13/articles/97303cc5d2ee7f"/>
+        <updated>2025-07-15T03:03:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 対象毎回、テストデータを用意するのが面倒な方向け。Webアプリケーションの手動テスト向け。&amp;lt;select&amp;gt;や&amp;lt;input type="checkbox"&amp;gt;などの候補は、手動入力のため除外。 動機毎回、「あいうえおかきくけこ……」と打つのは面倒ですし。自分で記事を書いてブックマークしておけば、ググらずともAIに生成してもらわずとも、コピペで済ませられるかなと。 テストデータ早見集 メールア]]></summary>
+        <content type="html"><![CDATA[はじめに 対象毎回、テストデータを用意するのが面倒な方向け。Webアプリケーションの手動テスト向け。&amp;lt;select&amp;gt;や&amp;lt;input type="checkbox"&amp;gt;などの候補は、手動入力のため除外。 動機毎回、「あいうえおかきくけこ……」と打つのは面倒ですし。自分で記事を書いてブックマークしておけば、ググらずともAIに生成してもらわずとも、コピペで済ませられるかなと。 テストデータ早見集 メールアドレスMailHog などのローカル環境用メールサーバーが設定されている前提。test01@example.comtes...]]></content>
+        <author>
+            <name>野良ぬこ</name>
+        </author>
+        <published>2025-07-15T03:03:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ローコード自動化ツール「mabl」#4 ～使ってみた所感～確認内容に日時が関係する場合の実装方法 | 品質 | Sqripts]]></title>
+        <id>https://sqripts.com/?p=105453</id>
+        <link href="https://sqripts.com/2025/07/15/105453/"/>
+        <updated>2025-07-15T02:27:04.000Z</updated>
+        <summary type="html"><![CDATA[テストエンジニアのマッツーです。 前回の記事ではテスト自動化における「アサーション」の機能や活用方法について操作方法や所感をお伝えしました。 今回はテスト自動化において確認内容に日時が関係するような場合の実装方法について...The post ローコード自動化ツール「mabl」#4 ～使ってみた所感～確認内容に日時が関係する場合の実装方法 first appeared on Sqripts.]]></summary>
+        <content type="html"><![CDATA[テストエンジニアのマッツーです。 前回の記事ではテスト自動化における「アサーション」の機能や活用方法について操作方法や所感をお伝えしました。 今回はテスト自動化において確認内容に日時が関係するような場合の実装方法について...The post ローコード自動化ツール「mabl」#4 ～使ってみた所感～確認内容に日時が関係する場合の実装方法 first appeared on Sqripts.]]></content>
+        <author>
+            <name>TAKIMOTO</name>
+        </author>
+        <category label="品質"/>
+        <category label="ソフトウェアテスト"/>
+        <category label="テスト自動化"/>
+        <category label="mabl"/>
+        <category label="エンジニアブログ"/>
+        <published>2025-07-15T02:27:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Connection to time.windows.com failed エラーの対応方法 | Ranorex Blog - UIテスト自動化ツール Ranorex]]></title>
+        <id>https://ranorex.techmatrix.jp/?p=28943</id>
+        <link href="https://ranorex.techmatrix.jp/blog/2025/07/15/connection-to-time-windows-com-failed-error/"/>
+        <updated>2025-07-15T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ranorex 年間ライセンス、特にオンラインサービスは、ライセンスチェックのために正確なシステム時刻に依存しており、マシンがtime.windows.comのような信頼できるタイムサーバーと同期できない場合、問題が発生 […]The post Connection to time.windows.com failed エラーの対応方法 first appeared on UIテスト自動化ツール ]]></summary>
+        <content type="html"><![CDATA[Ranorex 年間ライセンス、特にオンラインサービスは、ライセンスチェックのために正確なシステム時刻に依存しており、マシンがtime.windows.comのような信頼できるタイムサーバーと同期できない場合、問題が発生 […]The post Connection to time.windows.com failed エラーの対応方法 first appeared on UIテスト自動化ツール Ranorex.]]></content>
+        <author>
+            <name>user</name>
+        </author>
+        <category label="ノウハウ"/>
+        <published>2025-07-15T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ProService Talent Book vol.7「私たちは“自分たちの仕事をなくす”ために働いている──再現性と自走支援の思想」 | Autify]]></title>
+        <id>https://note.com/autify_official/n/ne66b62fa88aa</id>
+        <link href="https://note.com/autify_official/n/ne66b62fa88aa"/>
+        <updated>2025-07-15T01:46:56.000Z</updated>
+        <summary type="html"><![CDATA[Autify ProServiceで働くプロフェッショナルにスポットライトを当てる「ProService Talent Book」。第七弾では、Quality Engineeringチームのマネージャーとして、メンバーのサポートやチームビルディングに取り組みながら、自身もプレイヤーとして顧客の品質課題に伴走し続ける佐藤德尚さんにインタビューしました。幅広い現場を経験してきた彼が語るのは、品質の本質]]></summary>
+        <content type="html"><![CDATA[Autify ProServiceで働くプロフェッショナルにスポットライトを当てる「ProService Talent Book」。第七弾では、Quality Engineeringチームのマネージャーとして、メンバーのサポートやチームビルディングに取り組みながら、自身もプレイヤーとして顧客の品質課題に伴走し続ける佐藤德尚さんにインタビューしました。幅広い現場を経験してきた彼が語るのは、品質の本質、そしてAI時代におけるQAの新たな在り方。長年の経験に裏打ちされた言葉の端々から、これからの時代を生き抜くヒントが見えてきます。続きをみる]]></content>
+        <published>2025-07-15T01:46:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI時代の「良いコード／悪いコードで学ぶ設計入門」「ドメイン駆動設計をはじめよう」- FL#100に参加してきた | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2025/07/14/233000</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2025/07/14/233000"/>
+        <updated>2025-07-14T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[forkwell.connpass.com こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 会の概要 会の様子 AI時代の『ドメイン駆動設計をはじめよう』 AI時代の『改訂新版 良いコード／悪いコードで学ぶ設計入門』 パネルディスカッション 講演の感想 AIは設計のコストを下げているか？ 簡略で済ませるべきところにAIが出たことで設計が変わってくるのか？ バグサーチャ]]></summary>
+        <content type="html"><![CDATA[forkwell.connpass.com こちらのイベントに参加してきたので、会の様子と感想を書いていこうと思います。 会の概要 会の様子 AI時代の『ドメイン駆動設計をはじめよう』 AI時代の『改訂新版 良いコード／悪いコードで学ぶ設計入門』 パネルディスカッション 講演の感想 AIは設計のコストを下げているか？ 簡略で済ませるべきところにAIが出たことで設計が変わってくるのか？ バグサーチャーは変更容易性に特化しているのか？ 20代をどう過ごしたのか？ 30代をどう過ごしたのか？ 本をどう使っているか？ 40代以降をどう過ごしたのか？ AIがコードを生成するのが当たり前の時代でエンジニア…]]></content>
+        <published>2025-07-14T14:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[退屈なことはAIにやらせよう（ミューテーションテスト編） | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/qubena/articles/8a5182abae2b46</id>
+        <link href="https://zenn.dev/qubena/articles/8a5182abae2b46"/>
+        <updated>2025-07-14T08:43:13.000Z</updated>
+        <summary type="html"><![CDATA[はじめに株式会社COMPASSでシステムエンジニアをやっている笹島です。進化し続けるAIエージェントを用いて日々の開発は楽に、その分プロダクトの競争も激しくなっていきます。そんな中自信を持ってプロダクトを世に送り届けていくには、開発者側も自信を持ってプロダクトに品質を作り込んでいきたいものです。ということで今回はAIエージェントを用いた品質担保の施策として、ミューテーションテストとAIエージェント]]></summary>
+        <content type="html"><![CDATA[はじめに株式会社COMPASSでシステムエンジニアをやっている笹島です。進化し続けるAIエージェントを用いて日々の開発は楽に、その分プロダクトの競争も激しくなっていきます。そんな中自信を持ってプロダクトを世に送り届けていくには、開発者側も自信を持ってプロダクトに品質を作り込んでいきたいものです。ということで今回はAIエージェントを用いた品質担保の施策として、ミューテーションテストとAIエージェントを組み合わせた「テストパターン自動追加」の取り組みを共有します。!この記事はこんな方におすすめ自動テストに関心がある開発者実務でAIエージェントを活用する方法を探している人...]]></content>
+        <author>
+            <name>mastar3104</name>
+        </author>
+        <published>2025-07-14T08:43:13.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLM品質Night — Algomatic・PharmaX に学ぶAIプロダクト品質の真髄 —　イベントレポート | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/daijobu/articles/899a6348f2681f</id>
+        <link href="https://zenn.dev/daijobu/articles/899a6348f2681f"/>
+        <updated>2025-07-14T01:00:05.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！DAIJOBU 代表の山中です。今回は 2025 年 7 月 1 日に開催したオフラインイベント「LLM 品質 Night — Algomatic・PharmaX に学ぶ AI プロダクト品質の真髄 —」 のレポートをお届けします！https://connpass.com/event/359656/ ⏰️当日のタイムテーブル 発表内容今回の登壇者と発表資料です。 「良さそう」と「とても]]></summary>
+        <content type="html"><![CDATA[こんにちは！DAIJOBU 代表の山中です。今回は 2025 年 7 月 1 日に開催したオフラインイベント「LLM 品質 Night — Algomatic・PharmaX に学ぶ AI プロダクト品質の真髄 —」 のレポートをお届けします！https://connpass.com/event/359656/ ⏰️当日のタイムテーブル 発表内容今回の登壇者と発表資料です。 「良さそう」と「とても良い」の間には 「良さそうだがホンマか」がたくさんある株式会社Algomatic AI/MLエンジニア 宮脇 峻平さん （@catshun_）LLM が生成物を出...]]></content>
+        <author>
+            <name>DAIJOBU株式会社 LLM QA事業部🧪</name>
+        </author>
+        <published>2025-07-14T01:00:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[絶対に落とせない導線を守るフロントエンドテストを1か月で構築した話 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/canary_techblog/articles/ffe6b28db145fb</id>
+        <link href="https://zenn.dev/canary_techblog/articles/ffe6b28db145fb"/>
+        <updated>2025-07-14T01:00:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめにこんにちは。カナリーでテクニカルリードエンジニアをしている @react_nextjs です。私たちは 【もっといい「当たり前」をつくる】 をミッションに掲げている不動産テックカンパニーです。弊社では、現在下記のプロダクトを運用しています。「CANARY」: BtoC のお部屋探しマーケットプレイス（アプリ/Web）「CANARY Cloud」: BtoB SaaS（不動産の仲介会社様向け]]></summary>
+        <content type="html"><![CDATA[はじめにこんにちは。カナリーでテクニカルリードエンジニアをしている @react_nextjs です。私たちは 【もっといい「当たり前」をつくる】 をミッションに掲げている不動産テックカンパニーです。弊社では、現在下記のプロダクトを運用しています。「CANARY」: BtoC のお部屋探しマーケットプレイス（アプリ/Web）「CANARY Cloud」: BtoB SaaS（不動産の仲介会社様向けの顧客管理システム）本記事では、わずか1か月で「絶対に落とせない」フロントエンドテスト基盤を構築したプロセスと具体策を共有します。 背景 / 課題「CANARY」は、全国...]]></content>
+        <author>
+            <name>Shogo Fukami</name>
+        </author>
+        <published>2025-07-14T01:00:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第274回 テストラジオ 開発生産性カンファレンスの話 | テストラジオ]]></title>
+        <id>https://testradio.fm/?p=1669</id>
+        <link href="https://testradio.fm/testradio-no/1669/"/>
+        <updated>2025-07-13T23:00:00.000Z</updated>
+        <author>
+            <name>なそ＠さとうひろゆき</name>
+        </author>
+        <category label="テストラジオ"/>
+        <category label="なそ回"/>
+        <category label="よしたけ回"/>
+        <published>2025-07-13T23:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第342回：　「ALTTAのテキストをつくろう」26　（動的解析　利用場面） | Kouichi Akiyama]]></title>
+        <id>https://note.com/akiyama924/n/nbd5f028042c3</id>
+        <link href="https://note.com/akiyama924/n/nbd5f028042c3"/>
+        <updated>2025-07-12T21:47:46.000Z</updated>
+        <summary type="html"><![CDATA[◀前の記事へ 次の記事へ▶︎≡ はじめに続きをみる]]></summary>
+        <content type="html"><![CDATA[◀前の記事へ 次の記事へ▶︎≡ はじめに続きをみる]]></content>
+        <published>2025-07-12T21:47:46.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[子育て1-2年目のふりかえり | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2025/07/13/000000</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2025/07/13/000000"/>
+        <updated>2025-07-12T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[表題の通り先日無事に2歳を迎えたため、今日は少しソフトウェア開発の話とは離れて、そのふりかえりをしていこうと思います。 とはいえここ数ヶ月は家族に大分負担をかけてしまっているので、子どもの成長を反省も込めながらふりかえりしようと思います。 楽になったこと 睡眠 コミュニケーションが取れるようになってきた ご飯は大人と同じものを食べるようになってきた 旅行に普通に行けるようになってきた 大変になった]]></summary>
+        <content type="html"><![CDATA[表題の通り先日無事に2歳を迎えたため、今日は少しソフトウェア開発の話とは離れて、そのふりかえりをしていこうと思います。 とはいえここ数ヶ月は家族に大分負担をかけてしまっているので、子どもの成長を反省も込めながらふりかえりしようと思います。 楽になったこと 睡眠 コミュニケーションが取れるようになってきた ご飯は大人と同じものを食べるようになってきた 旅行に普通に行けるようになってきた 大変になったこと 思い通りにいかないときの対応 動き回る 抱っこ 楽になったこと 睡眠 夜中に泣くことは変わらずありますが、一歳の時と比較すると頻度はだいぶ減った印象で、少し睡眠も取れるようになってきました。*1…]]></content>
+        <published>2025-07-12T15:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スクラムフェス三河2025で登壇できることになりました | 天の月]]></title>
+        <id>https://aki-m.hatenadiary.com/entry/2025/07/12/233000</id>
+        <link href="https://aki-m.hatenadiary.com/entry/2025/07/12/233000"/>
+        <updated>2025-07-12T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[表題の通り、スクラムフェス三河2025で登壇できることになったので、今日はその告知です。 発表概要 Acceptが決まったときの心境 登壇にあたっての想い 発表概要 confengine.com これまで様々な業種・業態でプロダクト開発をしてきましたが、2024年半ばからは複数の製造業のプロダクトに携わる機会が出てきました。とはいえ、プロダクト開発の概要を聞かされたときは、アジャイル開発とは程遠い]]></summary>
+        <content type="html"><![CDATA[表題の通り、スクラムフェス三河2025で登壇できることになったので、今日はその告知です。 発表概要 Acceptが決まったときの心境 登壇にあたっての想い 発表概要 confengine.com これまで様々な業種・業態でプロダクト開発をしてきましたが、2024年半ばからは複数の製造業のプロダクトに携わる機会が出てきました。とはいえ、プロダクト開発の概要を聞かされたときは、アジャイル開発とは程遠い現場に聞こえた上に自分の理想とする環境との乖離も大きく感じました。 正直飛び込むのを躊躇するようなタイミングもありましたが、スクラムフェス三河で話せるネタの一つになるだろうし、製造業の闇と洗礼を浴びる…]]></content>
+        <published>2025-07-12T14:30:00.000Z</published>
+    </entry>
+</feed>
