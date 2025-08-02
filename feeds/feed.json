@@ -1,0 +1,661 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "テスト・QA関連ブログRSS",
+    "home_page_url": "https://yoshikiito.github.io/test-qa-rss-feed/",
+    "feed_url": "https://yoshikiito.github.io/test-qa-rss-feed/feeds/feed.json",
+    "description": "企テスト・QA関連ブログの更新をまとめたRSSフィード",
+    "icon": "https://yoshikiito.github.io/test-qa-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://goyoki.hatenablog.com/entry/2025/08/02/161147",
+            "content_html": "セキュリティ脆弱性をついて不正な操作やアクセスを行うための異常コマンドなど、危険な入力データを汚染データと呼びます。例えばSQLインジェクションでの悪意あるSQLコマンドの入力が汚染データの一種です。そして汚染データの害を無効化する対策を汚染防御と呼びます。また汚染データがどのようにコードで広がっていくか、汚染データがシンク（汚染データが実害を発生させる脆弱性のポイント）に到達するか解析する活動を汚染解析と呼称します。例えばかなり極端な例ですが、以下のようなコードがあるとします。 import sqlite3 input = request.args.get('command') conn =…",
+            "url": "https://goyoki.hatenablog.com/entry/2025/08/02/161147",
+            "title": "データ汚染と汚染防御 | 千里霧中",
+            "summary": "セキュリティ脆弱性をついて不正な操作やアクセスを行うための異常コマンドなど、危険な入力データを汚染データと呼びます。例えばSQLインジェクションでの悪意あるSQLコマンドの入力が汚染データの一種です。そして汚染データの害を無効化する対策を汚染防御と呼びます。また汚染データがどのようにコードで広がっていくか、汚染データがシンク（汚染データが実害を発生させる脆弱性のポイント）に到達するか解析する活動を",
+            "image": {
+                "url": "https://ogimage.blog.st-hatena.com/12704538227038514066/6802418398531225457/1754118707",
+                "alt": "データ汚染と汚染防御 - 千里霧中"
+            },
+            "date_modified": "2025-08-02T07:11:47.000Z",
+            "date_published": "2025-08-02T07:11:47.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "データ汚染と汚染防御",
+                "blogTitle": "千里霧中",
+                "blogLink": "https://goyoki.hatenablog.com/",
+                "blogLinkMd5Hash": "83740fdb0c8cd8f525d69055c5bf8119",
+                "favicon": "https://goyoki.hatenablog.com/icon/favicon"
+            }
+        },
+        {
+            "id": "https://zenn.dev/tmyhrn/articles/bdef9d3d5ef218",
+            "content_html": "はじめに前回はテーブル駆動テスト（Table Driven Test）について見ていきました。今回は「一部のサブテストを実行する方法」に入門していきます。前回の記事はこちら！https://zenn.dev/tmyhrn/articles/8dcc4198903d7f この記事でわかること一部のサブテストを実行する方法正規表現を用いたテストケースのパターン 実装してみたmain.gopackage mainimport ( \"testing\" \"unicode/utf8\")func Length(s string) int {...",
+            "url": "https://zenn.dev/tmyhrn/articles/bdef9d3d5ef218",
+            "title": "【Go】Goのテストに入門してみた！ ~一部のサブテスト実行編~ | Zennの「Test」のフィード",
+            "summary": "はじめに前回はテーブル駆動テスト（Table Driven Test）について見ていきました。今回は「一部のサブテストを実行する方法」に入門していきます。前回の記事はこちら！https://zenn.dev/tmyhrn/articles/8dcc4198903d7f この記事でわかること一部のサブテストを実行する方法正規表現を用いたテストケースのパターン 実装してみたmain.gopackage",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--_x7JZmWz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Go%25E3%2580%2591Go%25E3%2581%25AE%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AB%25E5%2585%25A5%25E9%2596%2580%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25EF%25BC%2581%2520%7E%25E4%25B8%2580%25E9%2583%25A8%25E3%2581%25AE%25E3%2582%25B5%25E3%2583%2596%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E5%25AE%259F%25E8%25A1%258C%25E7%25B7%25A8%7E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25A8%25E3%2582%2582%25E3%2582%2584%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzY4ODIzYmE0YmIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-08-02T02:54:09.000Z",
+            "date_published": "2025-08-02T02:54:09.000Z",
+            "author": {
+                "name": "ともやん"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【Go】Goのテストに入門してみた！ ~一部のサブテスト実行編~",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/ibis_techblog/articles/7ddb1f64a135f5",
+            "content_html": "Android Studioで低スペックエミュレータを作成してアプリの動作を検証する方法 🤔 こんな悩みはありませんか？アプリ開発をしていて、こんな経験はありませんか？QA用の端末では動くのに、ユーザーから「重い」「落ちる」という報告が来る古い端末や低スペック端末での動作確認をしたいけど、実機がないメモリ不足やパフォーマンス不足での不具合を事前に発見したい実際に僕も、QA用の端末で問題なく動いていたアプリで、ユーザーからバグ報告があったのに同じ端末では再現しないという状況に遭遇しました。そこで、Android Studioのエミュレータで意図的に低スペック環境を作...",
+            "url": "https://zenn.dev/ibis_techblog/articles/7ddb1f64a135f5",
+            "title": "Android Studioで低スペックエミュレータを作成してアプリの動作を検証する方法 | Zennの「Test」のフィード",
+            "summary": "Android Studioで低スペックエミュレータを作成してアプリの動作を検証する方法 🤔 こんな悩みはありませんか？アプリ開発をしていて、こんな経験はありませんか？QA用の端末では動くのに、ユーザーから「重い」「落ちる」という報告が来る古い端末や低スペック端末での動作確認をしたいけど、実機がないメモリ不足やパフォーマンス不足での不具合を事前に発見したい実際に僕も、QA用の端末で問題なく動いてい",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--j4XIZXYU--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Android%2520Studio%25E3%2581%25A7%25E4%25BD%258E%25E3%2582%25B9%25E3%2583%259A%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25A8%25E3%2583%259F%25E3%2583%25A5%25E3%2583%25AC%25E3%2583%25BC%25E3%2582%25BF%25E3%2582%2592%25E4%25BD%259C%25E6%2588%2590%25E3%2581%2597%25E3%2581%25A6%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2581%25AE%25E5%258B%2595%25E4%25BD%259C%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC%25E3%2581%2599%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2582%25AB%25E3%2583%25AC%25E3%2583%25BC%25E5%25B1%258B%25E3%2581%2595%25E3%2583%25B3%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzk2NmU5OGFhNTQuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25A2%25E3%2582%25A4%25E3%2583%2593%25E3%2582%25B9%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzhjYjQzZWFlZTUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-08-01T02:01:01.000Z",
+            "date_published": "2025-08-01T02:01:01.000Z",
+            "author": {
+                "name": "カレー屋さン"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Android Studioで低スペックエミュレータを作成してアプリの動作を検証する方法",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/egstock_inc/articles/42cb6fa0cef670",
+            "content_html": "対象読者Go を採用した開発環境に統合テストを導入したいflyway を採用した開発環境に統合テストを導入したいtestcontainers + flyway の組み合わせに興味がある 概要https://github.com/sugawani/testcontainers-go-with-flyway開発言語が Go でマイグレーションに flyway を使用している環境で統合テストを導入しようとした際に testcontainers for go が良さそうだったので実装してみました メリット開発者が dockerfile などの docker 周りを意...",
+            "url": "https://zenn.dev/egstock_inc/articles/42cb6fa0cef670",
+            "title": "testcontainers for go + flyway で実現する統合テスト | Zennの「Test」のフィード",
+            "summary": "対象読者Go を採用した開発環境に統合テストを導入したいflyway を採用した開発環境に統合テストを導入したいtestcontainers + flyway の組み合わせに興味がある 概要https://github.com/sugawani/testcontainers-go-with-flyway開発言語が Go でマイグレーションに flyway を使用している環境で統合テストを導入しよう",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--3eXJBDlh--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:testcontainers%2520for%2520go%2520%252B%2520flyway%2520%25E3%2581%25A7%25E5%25AE%259F%25E7%258F%25BE%25E3%2581%2599%25E3%2582%258B%25E7%25B5%25B1%25E5%2590%2588%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2583%2597%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%25B3%25E3%2582%258F%25E3%2581%25AB%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzc0ZDdjZGIzZWIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:EGSTOCK%252CInc.%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2UyYzVlZjM5NGMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-08-01T01:00:02.000Z",
+            "date_published": "2025-08-01T01:00:02.000Z",
+            "author": {
+                "name": "プレーンわに"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "testcontainers for go + flyway で実現する統合テスト",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://note.com/26baca/n/ne123a0c8c7d5",
+            "content_html": "生成AIエージェントやMCPといった技術が普及し、以前と比較しても、アジャイルテスティングが開発チームの活動として当たり前になっていると感じています。かつて「品質」や「テストの専門家」といえばQAエンジニアの専門領域でしたが、現在では開発チーム自身が品質に責任を持ち、さらに生成AIの活用によってテスト自動化も急速に進んでいます。こうした変化の中で、QAエンジニアである私は「どこにQAエンジニアの価値を発揮できるのだろうか」という不安を感じてきました。イネイブリングQAの実践続きをみる",
+            "url": "https://note.com/26baca/n/ne123a0c8c7d5",
+            "title": "QAエンジニアの存在価値に悩む in 2025 | つとむ  QAエンジニア",
+            "summary": "生成AIエージェントやMCPといった技術が普及し、以前と比較しても、アジャイルテスティングが開発チームの活動として当たり前になっていると感じています。かつて「品質」や「テストの専門家」といえばQAエンジニアの専門領域でしたが、現在では開発チーム自身が品質に責任を持ち、さらに生成AIの活用によってテスト自動化も急速に進んでいます。こうした変化の中で、QAエンジニアである私は「どこにQAエンジニアの価",
+            "image": {
+                "url": "https://assets.st-note.com/production/uploads/images/205598466/rectangle_large_type_2_6f50ea38a74341ec8c7afc7323476308.png?fit=bounds&quality=85&width=1280",
+                "type": "png"
+            },
+            "date_modified": "2025-07-31T14:31:00.000Z",
+            "date_published": "2025-07-31T14:31:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "QAエンジニアの存在価値に悩む in 2025",
+                "blogTitle": "つとむ  QAエンジニア",
+                "blogLink": "https://note.com/26baca",
+                "blogLinkMd5Hash": "a6049269ee11b2156dc96965ad6ade89",
+                "favicon": "https://assets.st-note.com/poc-image/manual/note-common-images/production/svg/production.ico"
+            }
+        },
+        {
+            "id": "https://zenn.dev/ivry/articles/41d81e1d7448cc",
+            "content_html": "こんにちは！IVRyのQAエンジニアの関(@IvryQa)です。IVRyでは2024年12月から Playwright[1] を用いた Visual Regression Testing（以下、VRT）[2] を導入し、約半年間運用してきました。ピクセル差分は拾えても これって本当にバグなのか？ と判断するのに時間がかかったり、マスク設定やしきい値調整など地味なメンテ工数が積み重なっていました。そこで今回、画像を理解できる生成AIを使って差分をバグ報告として自然言語化し、Slackに通知する仕組みを試してみました。同じような悩みを抱えている方の参考になれば嬉しいです！ 概要...",
+            "url": "https://zenn.dev/ivry/articles/41d81e1d7448cc",
+            "title": "Playwright × 生成AI でVRTのバグ報告を自然言語化してみたら実用的だった話 | Zennの「QA」のフィード",
+            "summary": "こんにちは！IVRyのQAエンジニアの関(@IvryQa)です。IVRyでは2024年12月から Playwright[1] を用いた Visual Regression Testing（以下、VRT）[2] を導入し、約半年間運用してきました。ピクセル差分は拾えても これって本当にバグなのか？ と判断するのに時間がかかったり、マスク設定やしきい値調整など地味なメンテ工数が積み重なっていました。そ",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--GyuE9lsN--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Playwright%2520%25C3%2597%2520%25E7%2594%259F%25E6%2588%2590AI%2520%25E3%2581%25A7VRT%25E3%2581%25AE%25E3%2583%2590%25E3%2582%25B0%25E5%25A0%25B1%25E5%2591%258A%25E3%2582%2592%25E8%2587%25AA%25E7%2584%25B6%25E8%25A8%2580%25E8%25AA%259E%25E5%258C%2596%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25E3%2582%2589%25E5%25AE%259F%25E7%2594%25A8%25E7%259A%2584%25E3%2581%25A0%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:RyomaSeki%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzY2ZWM1ZTE0ODcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:IVRy%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U1YTE2NjE5NjAuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-07-31T08:01:05.000Z",
+            "date_published": "2025-07-31T08:01:05.000Z",
+            "author": {
+                "name": "RyomaSeki"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 43,
+                "originalTitle": "Playwright × 生成AI でVRTのバグ報告を自然言語化してみたら実用的だった話",
+                "blogTitle": "Zennの「QA」のフィード",
+                "blogLink": "https://zenn.dev/topics/qa",
+                "blogLinkMd5Hash": "31c7f35c994712b2f4c822a6de926717",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://note.com/ptw_note/n/nbd884d47edc2",
+            "content_html": "2050年には生産年齢人口が約3分の2まで減少するとされ、人材不足の深刻さが増しています。企業は人材不足への対応を迫られており、その解決手段として注目されているのが外国人採用です。2019年に「特定技能ビザ」という在留資格が創設され、それまでのようなホワイトカラーの「高度人材」だけでなく、一定の専門性や技能を持つ外国人材の受け入れが拡大されました。この制度の利用者は2025年には約30万人にまで拡大し、日本企業の大きな戦力となっています。オンラインの経済情報メディア『BUSINESS JOURNAL』では、このような日本企業の外国人採用を支援する代表的なサービスとして、ポールトゥウィンの「Stepjob」を紹介。Stepjob事業部部長の行平澄子は、多くの外国人が日本で働くことを希望する理由について、次のように語りました。続きをみる",
+            "url": "https://note.com/ptw_note/n/nbd884d47edc2",
+            "title": "【メディア掲載】外国人人材のマッチングサービス「Stepjob」、定着率95%の理由 | PTW／ポールトゥウィン【公式】",
+            "summary": "2050年には生産年齢人口が約3分の2まで減少するとされ、人材不足の深刻さが増しています。企業は人材不足への対応を迫られており、その解決手段として注目されているのが外国人採用です。2019年に「特定技能ビザ」という在留資格が創設され、それまでのようなホワイトカラーの「高度人材」だけでなく、一定の専門性や技能を持つ外国人材の受け入れが拡大されました。この制度の利用者は2025年には約30万人にまで拡",
+            "image": {
+                "url": "https://assets.st-note.com/production/uploads/images/205281398/rectangle_large_type_2_a4e83da493bdb603bf9cfec533046fb5.png?fit=bounds&quality=85&width=1280",
+                "type": "png"
+            },
+            "date_modified": "2025-07-31T06:00:00.000Z",
+            "date_published": "2025-07-31T06:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【メディア掲載】外国人人材のマッチングサービス「Stepjob」、定着率95%の理由",
+                "blogTitle": "PTW／ポールトゥウィン【公式】",
+                "blogLink": "https://note.com/ptw_note",
+                "blogLinkMd5Hash": "c103f4fb687e07c2b659e68a22b0ad7a",
+                "favicon": "https://assets.st-note.com/poc-image/manual/note-common-images/production/svg/production.ico"
+            }
+        },
+        {
+            "id": "https://ranorex.techmatrix.jp/?p=29069",
+            "content_html": "このたび、 Ranorex v12.3.0 の 日本語版 がリリースされました。Ranorex v12.3.0 では、新機能の追加や機能改善がおこなわれ、新たに年間ライセンスの販売を開始しました。本リリースにあわせて、体 […]The post Ranorex v12.3.0 日本語版 リリースのお知らせ first appeared on UIテスト自動化ツール Ranorex.",
+            "url": "https://ranorex.techmatrix.jp/blog/2025/07/31/ranorex-v12-3-jp-release/",
+            "title": "Ranorex v12.3.0 日本語版 リリースのお知らせ | Ranorex Blog - UIテスト自動化ツール Ranorex",
+            "summary": "このたび、 Ranorex v12.3.0 の 日本語版 がリリースされました。Ranorex v12.3.0 では、新機能の追加や機能改善がおこなわれ、新たに年間ライセンスの販売を開始しました。本リリースにあわせて、体 […]The post Ranorex v12.3.0 日本語版 リリースのお知らせ first appeared on UIテスト自動化ツール Ranorex.",
+            "image": {
+                "url": "https://57.180.23.150/wp-content/uploads/rx-logo-desktop-dark.png",
+                "type": "png"
+            },
+            "date_modified": "2025-07-31T02:00:46.000Z",
+            "date_published": "2025-07-31T02:00:46.000Z",
+            "author": {
+                "name": "user"
+            },
+            "tags": [
+                "セミナー・お知らせ"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Ranorex v12.3.0 日本語版 リリースのお知らせ",
+                "blogTitle": "Ranorex Blog - UIテスト自動化ツール Ranorex",
+                "blogLink": "https://ranorex.techmatrix.jp",
+                "blogLinkMd5Hash": "e546ea5aec07f38807045009c0bc98ec",
+                "favicon": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_32,h_32/https://ranorex.techmatrix.jp/wp-content/uploads/cropped-RNX-new_favicon-32x32.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/aldagram_tech/articles/3099d55dabd6ac",
+            "content_html": "はじめにこんにちは！アルダグラムでQAのお手伝いをしているmiyashitaです！最近、QAのシステムテスト設計でもAI使いたいなぁ～と思い、色々と試行錯誤していました。その中で、こんな勘所を持っていたらAIでうまくテスト設計していけるのかも？と感じたところがありましたので、今回はそちらを紹介できればと思います。 使用するツールChatGPT：o4-mini-high 今回やりたいこと仕様書を解析して、テスト観点表を作成してもらう仕様書及びテスト観点表を基に、テストケースを作成してもらう 主な勘所AIをテスト設計で活用するための勘所は、以下の3つです...",
+            "url": "https://zenn.dev/aldagram_tech/articles/3099d55dabd6ac",
+            "title": "生成AIでのテスト設計はこの「勘所3つ」を押さえれば大丈夫 | Zennの「Test」のフィード",
+            "summary": "はじめにこんにちは！アルダグラムでQAのお手伝いをしているmiyashitaです！最近、QAのシステムテスト設計でもAI使いたいなぁ～と思い、色々と試行錯誤していました。その中で、こんな勘所を持っていたらAIでうまくテスト設計していけるのかも？と感じたところがありましたので、今回はそちらを紹介できればと思います。 使用するツールChatGPT：o4-mini-high 今回やりたいこと仕様書を解析",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--6K6zbayk--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%2594%259F%25E6%2588%2590AI%25E3%2581%25A7%25E3%2581%25AE%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E8%25A8%25AD%25E8%25A8%2588%25E3%2581%25AF%25E3%2581%2593%25E3%2581%25AE%25E3%2580%258C%25E5%258B%2598%25E6%2589%25803%25E3%2581%25A4%25E3%2580%258D%25E3%2582%2592%25E6%258A%25BC%25E3%2581%2595%25E3%2581%2588%25E3%2582%258C%25E3%2581%25B0%25E5%25A4%25A7%25E4%25B8%2588%25E5%25A4%25AB%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:miyashita%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JiM2FkMDk1NzUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25A2%25E3%2583%25AB%25E3%2583%2580%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A0%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzVhNjlkMjVjYjEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-07-31T01:00:05.000Z",
+            "date_published": "2025-07-31T01:00:05.000Z",
+            "author": {
+                "name": "miyashita"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "生成AIでのテスト設計はこの「勘所3つ」を押さえれば大丈夫",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/aldagram_tech/articles/3099d55dabd6ac",
+            "content_html": "はじめにこんにちは！アルダグラムでQAのお手伝いをしているmiyashitaです！最近、QAのシステムテスト設計でもAI使いたいなぁ～と思い、色々と試行錯誤していました。その中で、こんな勘所を持っていたらAIでうまくテスト設計していけるのかも？と感じたところがありましたので、今回はそちらを紹介できればと思います。 使用するツールChatGPT：o4-mini-high 今回やりたいこと仕様書を解析して、テスト観点表を作成してもらう仕様書及びテスト観点表を基に、テストケースを作成してもらう 主な勘所AIをテスト設計で活用するための勘所は、以下の3つです...",
+            "url": "https://zenn.dev/aldagram_tech/articles/3099d55dabd6ac",
+            "title": "生成AIでのテスト設計はこの「勘所3つ」を押さえれば大丈夫 | Zennの「QA」のフィード",
+            "summary": "はじめにこんにちは！アルダグラムでQAのお手伝いをしているmiyashitaです！最近、QAのシステムテスト設計でもAI使いたいなぁ～と思い、色々と試行錯誤していました。その中で、こんな勘所を持っていたらAIでうまくテスト設計していけるのかも？と感じたところがありましたので、今回はそちらを紹介できればと思います。 使用するツールChatGPT：o4-mini-high 今回やりたいこと仕様書を解析",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--6K6zbayk--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%2594%259F%25E6%2588%2590AI%25E3%2581%25A7%25E3%2581%25AE%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E8%25A8%25AD%25E8%25A8%2588%25E3%2581%25AF%25E3%2581%2593%25E3%2581%25AE%25E3%2580%258C%25E5%258B%2598%25E6%2589%25803%25E3%2581%25A4%25E3%2580%258D%25E3%2582%2592%25E6%258A%25BC%25E3%2581%2595%25E3%2581%2588%25E3%2582%258C%25E3%2581%25B0%25E5%25A4%25A7%25E4%25B8%2588%25E5%25A4%25AB%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:miyashita%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JiM2FkMDk1NzUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25A2%25E3%2583%25AB%25E3%2583%2580%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A0%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzVhNjlkMjVjYjEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-07-31T01:00:05.000Z",
+            "date_published": "2025-07-31T01:00:05.000Z",
+            "author": {
+                "name": "miyashita"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "生成AIでのテスト設計はこの「勘所3つ」を押さえれば大丈夫",
+                "blogTitle": "Zennの「QA」のフィード",
+                "blogLink": "https://zenn.dev/topics/qa",
+                "blogLinkMd5Hash": "31c7f35c994712b2f4c822a6de926717",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/tmyhrn/articles/8dcc4198903d7f",
+            "content_html": "はじめに前回は、Goにおけるテストの基本を学びました。今回は、Goでよく使われる 「テーブル駆動テスト（Table Driven Test）」 に入門します。前回の記事はこちら↓https://zenn.dev/tmyhrn/articles/7fc1bc9c9e634d この記事でわかることTable Driven Testの概要実装方法実装時に押さえておきたいポイント 実装してみた前回に引き続き、マルチバイトでの文字列カウントについてのテストケースを見ていきます。main.gopackage mainimport ( \"testing...",
+            "url": "https://zenn.dev/tmyhrn/articles/8dcc4198903d7f",
+            "title": "【Go】Goのテストに入門してみた！ ~Table Driven Test編~ | Zennの「Test」のフィード",
+            "summary": "はじめに前回は、Goにおけるテストの基本を学びました。今回は、Goでよく使われる 「テーブル駆動テスト（Table Driven Test）」 に入門します。前回の記事はこちら↓https://zenn.dev/tmyhrn/articles/7fc1bc9c9e634d この記事でわかることTable Driven Testの概要実装方法実装時に押さえておきたいポイント 実装してみた前回に引き続",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--S4j7tVC4--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Go%25E3%2580%2591Go%25E3%2581%25AE%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AB%25E5%2585%25A5%25E9%2596%2580%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25EF%25BC%2581%2520%7ETable%2520Driven%2520Test%25E7%25B7%25A8%7E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25A8%25E3%2582%2582%25E3%2582%2584%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzY4ODIzYmE0YmIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-07-30T23:30:01.000Z",
+            "date_published": "2025-07-30T23:30:01.000Z",
+            "author": {
+                "name": "ともやん"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【Go】Goのテストに入門してみた！ ~Table Driven Test編~",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/nozo7/articles/d37552dc7578f5",
+            "content_html": "Next.js 15 + Jest + MSW でネットワークレベルAPIモックテストを実現する 📖 概要このガイドでは、Next.js 15プロジェクトにMSW（Mock Service Worker）を導入し、JestでネットワークレベルのAPIモックテストを実現する方法を詳しく解説します。 🎯 目標ネットワークレベルモック: fetch APIが実際に呼ばれ、MSWがレスポンスを返す型安全なテスト環境: TypeScriptによる型保証保守性の高いテスト: テストケースの追加・変更が容易Next.js 15対応: App Routerやその他機能との...",
+            "url": "https://zenn.dev/nozo7/articles/d37552dc7578f5",
+            "title": "Next.js 15 + Jest + MSW でネットワークレベルAPIモックテストを実現する | Zennの「Test」のフィード",
+            "summary": "Next.js 15 + Jest + MSW でネットワークレベルAPIモックテストを実現する 📖 概要このガイドでは、Next.js 15プロジェクトにMSW（Mock Service Worker）を導入し、JestでネットワークレベルのAPIモックテストを実現する方法を詳しく解説します。 🎯 目標ネットワークレベルモック: fetch APIが実際に呼ばれ、MSWがレスポンスを返す型安全な",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--zdq4jN43--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Next.js%252015%2520%252B%2520Jest%2520%252B%2520MSW%2520%25E3%2581%25A7%25E3%2583%258D%25E3%2583%2583%25E3%2583%2588%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%2599%25E3%2583%25ABAPI%25E3%2583%25A2%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2582%2592%25E5%25AE%259F%25E7%258F%25BE%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:noz3%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2MzNGI0MjFmMzIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-07-30T23:15:57.000Z",
+            "date_published": "2025-07-30T23:15:57.000Z",
+            "author": {
+                "name": "noz3"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Next.js 15 + Jest + MSW でネットワークレベルAPIモックテストを実現する",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/aew2sbee/articles/playwright-storage-state",
+            "content_html": "🌱 はじめにPlaywrightで認証のテストに苦手意識があり、避けていましたが、業務でやる必要が発生したため、試行錯誤しながら実装しました。その時に発見した簡単なやり方を紹介します。紹介する方法では実現できない場合や詳細な内容を知りたい方は、公式ドキュメントをご確認ください 🌱 結論!playwright.config.tsに指定のsession.jsonを設定する各テストごとに指定のsession.jsonを設定する 🌱 事前準備!下記のsession.jsonは、サンプルとしてiron-sessionを設定にしております。ご参考にする場合...",
+            "url": "https://zenn.dev/aew2sbee/articles/playwright-storage-state",
+            "title": "[Playwright] ログイン状態でテストする簡単なやり方 | Zennの「Test」のフィード",
+            "summary": "🌱 はじめにPlaywrightで認証のテストに苦手意識があり、避けていましたが、業務でやる必要が発生したため、試行錯誤しながら実装しました。その時に発見した簡単なやり方を紹介します。紹介する方法では実現できない場合や詳細な内容を知りたい方は、公式ドキュメントをご確認ください 🌱 結論!playwright.config.tsに指定のsession.jsonを設定する各テストごとに指定のsessi",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--CLCAuN9r--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255BPlaywright%255D%2520%25E3%2583%25AD%25E3%2582%25B0%25E3%2582%25A4%25E3%2583%25B3%25E7%258A%25B6%25E6%2585%258B%25E3%2581%25A7%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%2599%25E3%2582%258B%25E7%25B0%25A1%25E5%258D%2598%25E3%2581%25AA%25E3%2582%2584%25E3%2582%258A%25E6%2596%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E5%25B0%258F%25E5%2580%2589%25E3%2581%2582%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzZhN2I0MzQ2ZTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-07-30T05:18:44.000Z",
+            "date_published": "2025-07-30T05:18:44.000Z",
+            "author": {
+                "name": "小倉あん"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "[Playwright] ログイン状態でテストする簡単なやり方",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/forcia_tech/articles/2025_hatano_prisma_pglite",
+            "content_html": "こんにちは、エンジニアの籏野です。今回はPGliteとPrismaを用いて、実際にデータベースに接続して行うリポジトリ層のテストについて紹介します。作成したサンプルプロジェクトは以下のリポジトリに置いていますので、合わせてご確認ください。https://github.com/taku-hatano/pglite-prisma-test リポジトリ層におけるテストの課題クリーンアーキテクチャのようなデザインパターンを利用する場合、リポジトリ層を利用してビジネスロジックとデータアクセス層を分離することはよくあるかと思います。これにより、ビジネスロジック層においてはリポジトリ層を...",
+            "url": "https://zenn.dev/forcia_tech/articles/2025_hatano_prisma_pglite",
+            "title": "PrismaからPGliteに繋げてリポジトリ層のテストをお手軽にやってみた | Zennの「Test」のフィード",
+            "summary": "こんにちは、エンジニアの籏野です。今回はPGliteとPrismaを用いて、実際にデータベースに接続して行うリポジトリ層のテストについて紹介します。作成したサンプルプロジェクトは以下のリポジトリに置いていますので、合わせてご確認ください。https://github.com/taku-hatano/pglite-prisma-test リポジトリ層におけるテストの課題クリーンアーキテクチャのような",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--pAgbwRqA--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Prisma%25E3%2581%258B%25E3%2582%2589PGlite%25E3%2581%25AB%25E7%25B9%258B%25E3%2581%2592%25E3%2581%25A6%25E3%2583%25AA%25E3%2583%259D%25E3%2582%25B8%25E3%2583%2588%25E3%2583%25AA%25E5%25B1%25A4%25E3%2581%25AE%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2582%2592%25E3%2581%258A%25E6%2589%258B%25E8%25BB%25BD%25E3%2581%25AB%25E3%2582%2584%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:FORCIA%2520Tech%2520Blog%2520%25E9%2581%258B...%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2QyMDIwOGYzMDMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:FORCIA%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2NkZmRkZTQ5MGUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-07-30T04:00:05.000Z",
+            "date_published": "2025-07-30T04:00:05.000Z",
+            "author": {
+                "name": "FORCIA Tech Blog 運営チーム"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "PrismaからPGliteに繋げてリポジトリ層のテストをお手軽にやってみた",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://sqripts.com/?p=105510",
+            "content_html": "開発現場で働く中で、「自分の専門性とは何か？」と自問したことがあるのではないでしょうか。 特に「品質保証」という広大な領域を担うQAエンジニアにとって、その問いはキャリアの節目で繰り返し現れます。 品質保証における技術や...The post 【第1回】専門性をつなげて、あなたらしいQAエンジニアの像をつくる first appeared on Sqripts.",
+            "url": "https://sqripts.com/2025/07/30/105510/",
+            "title": "【第1回】専門性をつなげて、あなたらしいQAエンジニアの像をつくる | 品質 | Sqripts",
+            "summary": "開発現場で働く中で、「自分の専門性とは何か？」と自問したことがあるのではないでしょうか。 特に「品質保証」という広大な領域を担うQAエンジニアにとって、その問いはキャリアの節目で繰り返し現れます。 品質保証における技術や...The post 【第1回】専門性をつなげて、あなたらしいQAエンジニアの像をつくる first appeared on Sqripts.",
+            "image": {
+                "height": "630",
+                "url": "https://sqripts.com/wp-content/uploads/2025/07/yamashita_202507_thumb_01.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2025-07-30T03:33:48.000Z",
+            "date_published": "2025-07-30T03:33:48.000Z",
+            "author": {
+                "name": "TAKIMOTO"
+            },
+            "tags": [
+                "特集",
+                "品質",
+                "ソフトウェアテスト",
+                "QAエンジニア",
+                "スクラム",
+                "プロジェクトマネージメント"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【第1回】専門性をつなげて、あなたらしいQAエンジニアの像をつくる",
+                "blogTitle": "品質 | Sqripts",
+                "blogLink": "https://sqripts.com",
+                "blogLinkMd5Hash": "ba6695823def697989c6768d32c107ed",
+                "favicon": "https://sqripts.com/wp-content/themes/sqripts/img/icons/favicon.ico"
+            }
+        },
+        {
+            "id": "https://note.com/nkc_ta/n/nbea36d6d2ffc",
+            "content_html": "はじめに続きをみる",
+            "url": "https://note.com/nkc_ta/n/nbea36d6d2ffc",
+            "title": "Playwrightでデザインパターンに入門してみた②「Facade Pattern」編 | テスト自動化メンバー｜日本ナレッジ株式会社",
+            "summary": "はじめに続きをみる",
+            "image": {
+                "url": "https://assets.st-note.com/production/uploads/images/193918551/rectangle_large_type_2_e1a74b4418c6c52e427a0a0433ae7425.png?fit=bounds&quality=85&width=1280",
+                "type": "png"
+            },
+            "date_modified": "2025-07-29T23:47:06.000Z",
+            "date_published": "2025-07-29T23:47:06.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Playwrightでデザインパターンに入門してみた②「Facade Pattern」編",
+                "blogTitle": "テスト自動化メンバー｜日本ナレッジ株式会社",
+                "blogLink": "https://note.com/nkc_ta",
+                "blogLinkMd5Hash": "2a9a44f090280705fb7c3e63bbf0fba9",
+                "favicon": "https://assets.st-note.com/poc-image/manual/note-common-images/production/svg/production.ico"
+            }
+        },
+        {
+            "id": "https://zenn.dev/tmyhrn/articles/7fc1bc9c9e634d",
+            "content_html": "はじめにこれまでGoでAPIを開発してきましたが、実はテストコードを書いた経験はありませんでした。（テストの様子をスクショに撮って証跡として残していました）業務でも積極的にテストコードを書いていこうという方針になりましたので、Goでのテストに入門してみようと思います。 この記事でわかることGoでの基本的なテストの書き方テストを書く上での押さえなければいけないポイントテスト関数がどのように実行・評価されるかの基本的な流れ テストコード書いてみたとりあえず、テストコードを書いてみました。今回はマルチバイトでの文字列カウントのテストにしてみました。main_...",
+            "url": "https://zenn.dev/tmyhrn/articles/7fc1bc9c9e634d",
+            "title": "【Go】Goのテストに入門してみた！ ~基本編~ | Zennの「Test」のフィード",
+            "summary": "はじめにこれまでGoでAPIを開発してきましたが、実はテストコードを書いた経験はありませんでした。（テストの様子をスクショに撮って証跡として残していました）業務でも積極的にテストコードを書いていこうという方針になりましたので、Goでのテストに入門してみようと思います。 この記事でわかることGoでの基本的なテストの書き方テストを書く上での押さえなければいけないポイントテスト関数がどのように実行・評価",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--kkI0WwpR--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Go%25E3%2580%2591Go%25E3%2581%25AE%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AB%25E5%2585%25A5%25E9%2596%2580%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25EF%25BC%2581%2520%7E%25E5%259F%25BA%25E6%259C%25AC%25E7%25B7%25A8%7E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25A8%25E3%2582%2582%25E3%2582%2584%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzY4ODIzYmE0YmIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-07-28T23:30:01.000Z",
+            "date_published": "2025-07-28T23:30:01.000Z",
+            "author": {
+                "name": "ともやん"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【Go】Goのテストに入門してみた！ ~基本編~",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/rakuten_tech/articles/spock-test-practice",
+            "content_html": "はじめにJava のテストというと JUnit を使うことが多いかと思いますが、今回は Spock というテストフレームワークを使ってみて、とても便利だったので紹介します。Spock は Groovy ベースのテストフレームワークで、特にBehavior Driven Development(BDD)スタイルのテストを書くのに適しています。JUnit と比べて、より表現力豊かなテストを書くことができ、読みやすさも向上します。この記事では基本的な Spock の使い方、使う際の注意したいポイントをいくつか紹介します。以下は公式のドキュメントです。詳細な情報は公式ドキュメントを...",
+            "url": "https://zenn.dev/rakuten_tech/articles/spock-test-practice",
+            "title": "Spock を使って Unit テストを書いてみる | Zennの「Test」のフィード",
+            "summary": "はじめにJava のテストというと JUnit を使うことが多いかと思いますが、今回は Spock というテストフレームワークを使ってみて、とても便利だったので紹介します。Spock は Groovy ベースのテストフレームワークで、特にBehavior Driven Development(BDD)スタイルのテストを書くのに適しています。JUnit と比べて、より表現力豊かなテストを書くことがで",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--OasKh0xR--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Spock%2520%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%2520Unit%2520%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2582%2592%25E6%259B%25B8%25E3%2581%2584%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Tsubasa%2520Nomura%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLmRldi9pbWFnZXMvZGVmYXVsdC1wdWJsaWNhdGlvbi1hdmF0YXIucG5n%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Rakuten%2520Volunteers%2520Te...%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvdC5wbmc=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-07-28T14:38:34.000Z",
+            "date_published": "2025-07-28T14:38:34.000Z",
+            "author": {
+                "name": "Tsubasa Nomura"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Spock を使って Unit テストを書いてみる",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/nexta_/articles/bd4d187e9b917f",
+            "content_html": "はじめに：QAエンジニアの新たな挑戦 📝こんにちは！QAエンジニアのAyakaです。今年の4月にQAチームが立ち上がったばかりで、まさにゼロからチームと仕組みを構築している最中です。私たちのチームが最初のミッションとして掲げたのが、サービス品質の可視化でした。開発チームがより能動的にパフォーマンス改善に取り組めるような環境を作りたい障害が起きてから受動的に動くのではなく、その予兆をデータに基づいて捉えたいそんな思いから、Datadogの導入プロジェクトがスタートしました。本記事では、私たちがインフラ監視からAPM、ログ収集、そしてダッシュボード完成に至るまで、数々の...",
+            "url": "https://zenn.dev/nexta_/articles/bd4d187e9b917f",
+            "title": "QAチームのDatadog導入奮闘記：品質可視化を実現するまでの全記録 | Zennの「QA」のフィード",
+            "summary": "はじめに：QAエンジニアの新たな挑戦 📝こんにちは！QAエンジニアのAyakaです。今年の4月にQAチームが立ち上がったばかりで、まさにゼロからチームと仕組みを構築している最中です。私たちのチームが最初のミッションとして掲げたのが、サービス品質の可視化でした。開発チームがより能動的にパフォーマンス改善に取り組めるような環境を作りたい障害が起きてから受動的に動くのではなく、その予兆をデータに基づいて",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--qJho4wwX--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:QA%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%25E3%2581%25AEDatadog%25E5%25B0%258E%25E5%2585%25A5%25E5%25A5%25AE%25E9%2597%2598%25E8%25A8%2598%25EF%25BC%259A%25E5%2593%2581%25E8%25B3%25AA%25E5%258F%25AF%25E8%25A6%2596%25E5%258C%2596%25E3%2582%2592%25E5%25AE%259F%25E7%258F%25BE%25E3%2581%2599%25E3%2582%258B%25E3%2581%25BE%25E3%2581%25A7%25E3%2581%25AE%25E5%2585%25A8%25E8%25A8%2598%25E9%258C%25B2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Ayaka%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzIwYmExZWU5ZjUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Nexta%2520Tech%2520Blog%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzExNzEwZWE5ZmUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-07-28T12:34:28.000Z",
+            "date_published": "2025-07-28T12:34:28.000Z",
+            "author": {
+                "name": "Ayaka"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "QAチームのDatadog導入奮闘記：品質可視化を実現するまでの全記録",
+                "blogTitle": "Zennの「QA」のフィード",
+                "blogLink": "https://zenn.dev/topics/qa",
+                "blogLinkMd5Hash": "31c7f35c994712b2f4c822a6de926717",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/taa_wash1/articles/39b0563e8c7264",
+            "content_html": "【JSTQB Foundation Level V4.0 完全解説シリーズ】第1章：テストの基礎 この記事についてJSTQB Foundation Level資格を取得した経験と、実際のQA業務で学んだことを基に、シラバスの内容を実践的な視点で解説します。こんな方におすすめです。JSTQB Foundation Level資格の取得を検討しているテスト業務に配属されたばかりQAエンジニア・テストエンジニアに興味がある開発者だがテストについても学びたい記事の内容は以下の通りです。なぜテストが重要なのかテストの7つの基本原則テスト担当者の役割と必要なスキル...",
+            "url": "https://zenn.dev/taa_wash1/articles/39b0563e8c7264",
+            "title": "【JSTQB解説】第1章：テストの基礎 - ソフトウェアテストの基本概念と7つの原則 | Zennの「Test」のフィード",
+            "summary": "【JSTQB Foundation Level V4.0 完全解説シリーズ】第1章：テストの基礎 この記事についてJSTQB Foundation Level資格を取得した経験と、実際のQA業務で学んだことを基に、シラバスの内容を実践的な視点で解説します。こんな方におすすめです。JSTQB Foundation Level資格の取得を検討しているテスト業務に配属されたばかりQAエンジニア・テストエ",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--60pz30X_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590JSTQB%25E8%25A7%25A3%25E8%25AA%25AC%25E3%2580%2591%25E7%25AC%25AC1%25E7%25AB%25A0%25EF%25BC%259A%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AE%25E5%259F%25BA%25E7%25A4%258E%2520-%2520%25E3%2582%25BD%25E3%2583%2595%25E3%2583%2588%25E3%2582%25A6%25E3%2582%25A7%25E3%2582%25A2%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AE%25E5%259F%25BA%25E6%259C%25AC%25E6%25A6%2582%25E5%25BF%25B5%25E3%2581%25A87%25E3%2581%25A4%25E3%2581%25AE%25E5%258E%259F%25E5%2589%2587%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:tawashi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzk5MDEzZjc3ZmUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-07-28T09:52:01.000Z",
+            "date_published": "2025-07-28T09:52:01.000Z",
+            "author": {
+                "name": "tawashi"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【JSTQB解説】第1章：テストの基礎 - ソフトウェアテストの基本概念と7つの原則",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/taa_wash1/articles/39b0563e8c7264",
+            "content_html": "【JSTQB Foundation Level V4.0 完全解説シリーズ】第1章：テストの基礎 この記事についてJSTQB Foundation Level資格を取得した経験と、実際のQA業務で学んだことを基に、シラバスの内容を実践的な視点で解説します。こんな方におすすめです。JSTQB Foundation Level資格の取得を検討しているテスト業務に配属されたばかりQAエンジニア・テストエンジニアに興味がある開発者だがテストについても学びたい記事の内容は以下の通りです。なぜテストが重要なのかテストの7つの基本原則テスト担当者の役割と必要なスキル...",
+            "url": "https://zenn.dev/taa_wash1/articles/39b0563e8c7264",
+            "title": "【JSTQB解説】第1章：テストの基礎 - ソフトウェアテストの基本概念と7つの原則 | Zennの「QA」のフィード",
+            "summary": "【JSTQB Foundation Level V4.0 完全解説シリーズ】第1章：テストの基礎 この記事についてJSTQB Foundation Level資格を取得した経験と、実際のQA業務で学んだことを基に、シラバスの内容を実践的な視点で解説します。こんな方におすすめです。JSTQB Foundation Level資格の取得を検討しているテスト業務に配属されたばかりQAエンジニア・テストエ",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--60pz30X_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590JSTQB%25E8%25A7%25A3%25E8%25AA%25AC%25E3%2580%2591%25E7%25AC%25AC1%25E7%25AB%25A0%25EF%25BC%259A%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AE%25E5%259F%25BA%25E7%25A4%258E%2520-%2520%25E3%2582%25BD%25E3%2583%2595%25E3%2583%2588%25E3%2582%25A6%25E3%2582%25A7%25E3%2582%25A2%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AE%25E5%259F%25BA%25E6%259C%25AC%25E6%25A6%2582%25E5%25BF%25B5%25E3%2581%25A87%25E3%2581%25A4%25E3%2581%25AE%25E5%258E%259F%25E5%2589%2587%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:tawashi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzk5MDEzZjc3ZmUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-07-28T09:52:01.000Z",
+            "date_published": "2025-07-28T09:52:01.000Z",
+            "author": {
+                "name": "tawashi"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【JSTQB解説】第1章：テストの基礎 - ソフトウェアテストの基本概念と7つの原則",
+                "blogTitle": "Zennの「QA」のフィード",
+                "blogLink": "https://zenn.dev/topics/qa",
+                "blogLinkMd5Hash": "31c7f35c994712b2f4c822a6de926717",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://testradio.fm/?p=1677",
+            "content_html": "",
+            "url": "https://testradio.fm/testradio-no/1677/",
+            "title": "第276回 テストラジオ JaSST’25 Hokkaidoの話 | テストラジオ",
+            "image": {
+                "height": "463",
+                "url": "https://testradio.fm/wp/wp-content/uploads/2025/07/7ad5b86075c53a46cb0046abdb93c32e.png",
+                "width": "463",
+                "type": "png"
+            },
+            "date_modified": "2025-07-27T23:00:00.000Z",
+            "date_published": "2025-07-27T23:00:00.000Z",
+            "author": {
+                "name": "なそ＠さとうひろゆき"
+            },
+            "tags": [
+                "テストラジオ",
+                "なそ回",
+                "よしたけ回"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "第276回 テストラジオ JaSST’25 Hokkaidoの話",
+                "blogTitle": "テストラジオ",
+                "blogLink": "https://testradio.fm",
+                "blogLinkMd5Hash": "8a3e971c7d1528db9e98a24a8bb08a1d",
+                "favicon": "https://testradio.fm/wp/wp-content/uploads/2017/08/cropped-スタンプ-32x32.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/midoki/articles/test-book-zero",
+            "content_html": "はじめに環境が変わり開発に関わっていくことになったため、テスト知識０の状態で、「知識ゼロから学ぶソフトウェアテスト 第3版 アジャイル・AI時代の必携教科書」を読んでみました。読みながらのメモを書いた記事になります。 読書メモ 1章ソフトウェアで大事なのはどの機能でバグが出やすいか、その部分に対してどのようなテスト手法を適用すれば十分な品質が得られるか知ること全くバグのないソフトウェアは存在しない、完全なテスト手法が存在しないから完璧でなく十分な品質をもつソフトウェアを目指すテスト手法を学ぶ 2章 ホワイトボックステストホワイトボックステストプログ...",
+            "url": "https://zenn.dev/midoki/articles/test-book-zero",
+            "title": "「知識ゼロから学ぶソフトウェアテスト 第3版 アジャイル・AI時代の必携教科書」を読んでみたメモ | Zennの「Test」のフィード",
+            "summary": "はじめに環境が変わり開発に関わっていくことになったため、テスト知識０の状態で、「知識ゼロから学ぶソフトウェアテスト 第3版 アジャイル・AI時代の必携教科書」を読んでみました。読みながらのメモを書いた記事になります。 読書メモ 1章ソフトウェアで大事なのはどの機能でバグが出やすいか、その部分に対してどのようなテスト手法を適用すれば十分な品質が得られるか知ること全くバグのないソフトウェアは存在しない",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--XjeQ3pe6--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258C%25E7%259F%25A5%25E8%25AD%2598%25E3%2582%25BC%25E3%2583%25AD%25E3%2581%258B%25E3%2582%2589%25E5%25AD%25A6%25E3%2581%25B6%25E3%2582%25BD%25E3%2583%2595%25E3%2583%2588%25E3%2582%25A6%25E3%2582%25A7%25E3%2582%25A2%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%2520%25E7%25AC%25AC3%25E7%2589%2588%2520%25E3%2582%25A2%25E3%2582%25B8%25E3%2583%25A3%25E3%2582%25A4%25E3%2583%25AB%25E3%2583%25BBAI%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AE%25E5%25BF%2585%25E6%2590%25BA%25E6%2595%2599%25E7%25A7%2591%25E6%259B%25B8%25E3%2580%258D%25E3%2582%2592%25E8%25AA%25AD%25E3%2582%2593%25E3%2581%25A7%25E3%2581%25BF%25E3%2581%259F%25E3%2583%25A1%25E3%2583%25A2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:midoki%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2laR0hEeGJWdnhNaHFHR0FTYWF0T1JDMWVmOVU3dEhtbnZwZTZfUUE9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-07-27T13:10:56.000Z",
+            "date_published": "2025-07-27T13:10:56.000Z",
+            "author": {
+                "name": "midoki"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「知識ゼロから学ぶソフトウェアテスト 第3版 アジャイル・AI時代の必携教科書」を読んでみたメモ",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/hashito/articles/1a66a0528a1aad",
+            "content_html": "※この記事はAIによって生成されました。 はじめにAI アシスタントの Claude を使って、テストの作成から実行、結果の解析まで自動化することで、開発効率を大幅に向上させることができます。この記事では、Claude にテストを実行させる具体的な方法と実装パターンを紹介します。 基本的なテスト実行の依頼方法 1. 単純なテスト実行最もシンプルな方法は、Claude に直接テストの実行を依頼することです：「このプロジェクトのテストを全て実行して、結果を教えて」Claude は以下のような手順でテストを実行します：プロジェクトの構造を確認テストフレームワークを識別...",
+            "url": "https://zenn.dev/hashito/articles/1a66a0528a1aad",
+            "title": "Claudeにテストを自動実行させる方法：効率的なテスト駆動開発の実践 | Zennの「Test」のフィード",
+            "summary": "※この記事はAIによって生成されました。 はじめにAI アシスタントの Claude を使って、テストの作成から実行、結果の解析まで自動化することで、開発効率を大幅に向上させることができます。この記事では、Claude にテストを実行させる具体的な方法と実装パターンを紹介します。 基本的なテスト実行の依頼方法 1. 単純なテスト実行最もシンプルな方法は、Claude に直接テストの実行を依頼するこ",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--Ug44QB6t--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%25E3%2581%25AB%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2582%2592%25E8%2587%25AA%25E5%258B%2595%25E5%25AE%259F%25E8%25A1%258C%25E3%2581%2595%25E3%2581%259B%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%25EF%25BC%259A%25E5%258A%25B9%25E7%258E%2587%25E7%259A%2584%25E3%2581%25AA%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E9%25A7%2586%25E5%258B%2595%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25AE%25E5%25AE%259F%25E8%25B7%25B5%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:hashito%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzFmMmRhOTE0MGMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-07-27T08:01:33.000Z",
+            "date_published": "2025-07-27T08:01:33.000Z",
+            "author": {
+                "name": "hashito"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Claudeにテストを自動実行させる方法：効率的なテスト駆動開発の実践",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://note.com/akiyama924/n/nb048dc23c183",
+            "content_html": "◀前の記事へ 次の記事へ▶︎≡ はじめに続きをみる",
+            "url": "https://note.com/akiyama924/n/nb048dc23c183",
+            "title": "第344回：　「ALTTAのテキストをつくろう」27　（TTAのための品質特性） | Kouichi Akiyama",
+            "summary": "◀前の記事へ 次の記事へ▶︎≡ はじめに続きをみる",
+            "image": {
+                "url": "https://assets.st-note.com/production/uploads/images/203529078/rectangle_large_type_2_479dfd6d49b1773d141b24db39dbd079.jpeg?fit=bounds&quality=85&width=1280",
+                "type": "jpeg"
+            },
+            "date_modified": "2025-07-26T22:21:06.000Z",
+            "date_published": "2025-07-26T22:21:06.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "第344回：　「ALTTAのテキストをつくろう」27　（TTAのための品質特性）",
+                "blogTitle": "Kouichi Akiyama",
+                "blogLink": "https://note.com/akiyama924",
+                "blogLinkMd5Hash": "d78afad1063505d755d008a40f9424e8",
+                "favicon": "https://assets.st-note.com/poc-image/manual/note-common-images/production/svg/production.ico"
+            }
+        },
+        {
+            "id": "https://zenn.dev/idealog/articles/3526f9bee711a6",
+            "content_html": "法人・団体専用のパーティー会場検索サイト「会場ベストサーチ」を運用する株式会社アイデアログの取締役CTOの松川と申します。実は現在、新プロダクトのローンチ前でして、今回はブログもあっさりめになります。新プロダクトの内容については、別途記載しますが、既存のプロダクトとシナジーのある領域での新サービスを構築ということで、DB、Backendは共通で持ち、Frontendは完全に新規で開発、というのを半年くらいやっていました。チームで方針を決め、ガイドラインを作り、メンバーのキャッチアップ・育成をしながらのプロダクト開発となりましたが、社内では前例がない取組であったため、探り探り進めてい...",
+            "url": "https://zenn.dev/idealog/articles/3526f9bee711a6",
+            "title": "【答えのない議論】コードレビューとテストコードの品質について | Zennの「品質」のフィード",
+            "summary": "法人・団体専用のパーティー会場検索サイト「会場ベストサーチ」を運用する株式会社アイデアログの取締役CTOの松川と申します。実は現在、新プロダクトのローンチ前でして、今回はブログもあっさりめになります。新プロダクトの内容については、別途記載しますが、既存のプロダクトとシナジーのある領域での新サービスを構築ということで、DB、Backendは共通で持ち、Frontendは完全に新規で開発、というのを半",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--kTtDTMlC--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E7%25AD%2594%25E3%2581%2588%25E3%2581%25AE%25E3%2581%25AA%25E3%2581%2584%25E8%25AD%25B0%25E8%25AB%2596%25E3%2580%2591%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2581%25A8%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2581%25AE%25E5%2593%2581%25E8%25B3%25AA%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25A2%25E3%2582%25A4%25E3%2583%2587%25E3%2582%25A2%25E3%2583%25AD%25E3%2582%25B0%25E9%2596%258B%25E7%2599%25BA%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzkyY2ZlMWNlZjkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-07-26T09:17:27.000Z",
+            "date_published": "2025-07-26T09:17:27.000Z",
+            "author": {
+                "name": "アイデアログ開発チーム"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【答えのない議論】コードレビューとテストコードの品質について",
+                "blogTitle": "Zennの「品質」のフィード",
+                "blogLink": "https://zenn.dev/topics/品質",
+                "blogLinkMd5Hash": "e200817cf65d8ff87698360ebb70f56b",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        }
+    ]
+}

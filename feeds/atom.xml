@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yoshikiito.github.io/test-qa-rss-feed/</id>
+    <title>テスト・QA関連ブログRSS</title>
+    <updated>2025-08-02T15:06:29.540Z</updated>
+    <generator>yoshikiito/test-qa-rss-feed</generator>
+    <link rel="alternate" href="https://yoshikiito.github.io/test-qa-rss-feed/"/>
+    <link rel="self" href="https://yoshikiito.github.io/test-qa-rss-feed/feeds/atom.xml"/>
+    <subtitle>企テスト・QA関連ブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://yoshikiito.github.io/test-qa-rss-feed/images/icon.png</logo>
+    <icon>https://yoshikiito.github.io/test-qa-rss-feed/images/favicon.ico</icon>
+    <rights>yoshikiito/test-qa-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[データ汚染と汚染防御 | 千里霧中]]></title>
+        <id>https://goyoki.hatenablog.com/entry/2025/08/02/161147</id>
+        <link href="https://goyoki.hatenablog.com/entry/2025/08/02/161147"/>
+        <updated>2025-08-02T07:11:47.000Z</updated>
+        <summary type="html"><![CDATA[セキュリティ脆弱性をついて不正な操作やアクセスを行うための異常コマンドなど、危険な入力データを汚染データと呼びます。例えばSQLインジェクションでの悪意あるSQLコマンドの入力が汚染データの一種です。そして汚染データの害を無効化する対策を汚染防御と呼びます。また汚染データがどのようにコードで広がっていくか、汚染データがシンク（汚染データが実害を発生させる脆弱性のポイント）に到達するか解析する活動を]]></summary>
+        <content type="html"><![CDATA[セキュリティ脆弱性をついて不正な操作やアクセスを行うための異常コマンドなど、危険な入力データを汚染データと呼びます。例えばSQLインジェクションでの悪意あるSQLコマンドの入力が汚染データの一種です。そして汚染データの害を無効化する対策を汚染防御と呼びます。また汚染データがどのようにコードで広がっていくか、汚染データがシンク（汚染データが実害を発生させる脆弱性のポイント）に到達するか解析する活動を汚染解析と呼称します。例えばかなり極端な例ですが、以下のようなコードがあるとします。 import sqlite3 input = request.args.get('command') conn =…]]></content>
+        <published>2025-08-02T07:11:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Go】Goのテストに入門してみた！ ~一部のサブテスト実行編~ | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/tmyhrn/articles/bdef9d3d5ef218</id>
+        <link href="https://zenn.dev/tmyhrn/articles/bdef9d3d5ef218"/>
+        <updated>2025-08-02T02:54:09.000Z</updated>
+        <summary type="html"><![CDATA[はじめに前回はテーブル駆動テスト（Table Driven Test）について見ていきました。今回は「一部のサブテストを実行する方法」に入門していきます。前回の記事はこちら！https://zenn.dev/tmyhrn/articles/8dcc4198903d7f この記事でわかること一部のサブテストを実行する方法正規表現を用いたテストケースのパターン 実装してみたmain.gopackage]]></summary>
+        <content type="html"><![CDATA[はじめに前回はテーブル駆動テスト（Table Driven Test）について見ていきました。今回は「一部のサブテストを実行する方法」に入門していきます。前回の記事はこちら！https://zenn.dev/tmyhrn/articles/8dcc4198903d7f この記事でわかること一部のサブテストを実行する方法正規表現を用いたテストケースのパターン 実装してみたmain.gopackage mainimport ( "testing" "unicode/utf8")func Length(s string) int {...]]></content>
+        <author>
+            <name>ともやん</name>
+        </author>
+        <published>2025-08-02T02:54:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android Studioで低スペックエミュレータを作成してアプリの動作を検証する方法 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/ibis_techblog/articles/7ddb1f64a135f5</id>
+        <link href="https://zenn.dev/ibis_techblog/articles/7ddb1f64a135f5"/>
+        <updated>2025-08-01T02:01:01.000Z</updated>
+        <summary type="html"><![CDATA[Android Studioで低スペックエミュレータを作成してアプリの動作を検証する方法 🤔 こんな悩みはありませんか？アプリ開発をしていて、こんな経験はありませんか？QA用の端末では動くのに、ユーザーから「重い」「落ちる」という報告が来る古い端末や低スペック端末での動作確認をしたいけど、実機がないメモリ不足やパフォーマンス不足での不具合を事前に発見したい実際に僕も、QA用の端末で問題なく動いてい]]></summary>
+        <content type="html"><![CDATA[Android Studioで低スペックエミュレータを作成してアプリの動作を検証する方法 🤔 こんな悩みはありませんか？アプリ開発をしていて、こんな経験はありませんか？QA用の端末では動くのに、ユーザーから「重い」「落ちる」という報告が来る古い端末や低スペック端末での動作確認をしたいけど、実機がないメモリ不足やパフォーマンス不足での不具合を事前に発見したい実際に僕も、QA用の端末で問題なく動いていたアプリで、ユーザーからバグ報告があったのに同じ端末では再現しないという状況に遭遇しました。そこで、Android Studioのエミュレータで意図的に低スペック環境を作...]]></content>
+        <author>
+            <name>カレー屋さン</name>
+        </author>
+        <published>2025-08-01T02:01:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[testcontainers for go + flyway で実現する統合テスト | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/egstock_inc/articles/42cb6fa0cef670</id>
+        <link href="https://zenn.dev/egstock_inc/articles/42cb6fa0cef670"/>
+        <updated>2025-08-01T01:00:02.000Z</updated>
+        <summary type="html"><![CDATA[対象読者Go を採用した開発環境に統合テストを導入したいflyway を採用した開発環境に統合テストを導入したいtestcontainers + flyway の組み合わせに興味がある 概要https://github.com/sugawani/testcontainers-go-with-flyway開発言語が Go でマイグレーションに flyway を使用している環境で統合テストを導入しよう]]></summary>
+        <content type="html"><![CDATA[対象読者Go を採用した開発環境に統合テストを導入したいflyway を採用した開発環境に統合テストを導入したいtestcontainers + flyway の組み合わせに興味がある 概要https://github.com/sugawani/testcontainers-go-with-flyway開発言語が Go でマイグレーションに flyway を使用している環境で統合テストを導入しようとした際に testcontainers for go が良さそうだったので実装してみました メリット開発者が dockerfile などの docker 周りを意...]]></content>
+        <author>
+            <name>プレーンわに</name>
+        </author>
+        <published>2025-08-01T01:00:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QAエンジニアの存在価値に悩む in 2025 | つとむ  QAエンジニア]]></title>
+        <id>https://note.com/26baca/n/ne123a0c8c7d5</id>
+        <link href="https://note.com/26baca/n/ne123a0c8c7d5"/>
+        <updated>2025-07-31T14:31:00.000Z</updated>
+        <summary type="html"><![CDATA[生成AIエージェントやMCPといった技術が普及し、以前と比較しても、アジャイルテスティングが開発チームの活動として当たり前になっていると感じています。かつて「品質」や「テストの専門家」といえばQAエンジニアの専門領域でしたが、現在では開発チーム自身が品質に責任を持ち、さらに生成AIの活用によってテスト自動化も急速に進んでいます。こうした変化の中で、QAエンジニアである私は「どこにQAエンジニアの価]]></summary>
+        <content type="html"><![CDATA[生成AIエージェントやMCPといった技術が普及し、以前と比較しても、アジャイルテスティングが開発チームの活動として当たり前になっていると感じています。かつて「品質」や「テストの専門家」といえばQAエンジニアの専門領域でしたが、現在では開発チーム自身が品質に責任を持ち、さらに生成AIの活用によってテスト自動化も急速に進んでいます。こうした変化の中で、QAエンジニアである私は「どこにQAエンジニアの価値を発揮できるのだろうか」という不安を感じてきました。イネイブリングQAの実践続きをみる]]></content>
+        <published>2025-07-31T14:31:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Playwright × 生成AI でVRTのバグ報告を自然言語化してみたら実用的だった話 | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/ivry/articles/41d81e1d7448cc</id>
+        <link href="https://zenn.dev/ivry/articles/41d81e1d7448cc"/>
+        <updated>2025-07-31T08:01:05.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！IVRyのQAエンジニアの関(@IvryQa)です。IVRyでは2024年12月から Playwright[1] を用いた Visual Regression Testing（以下、VRT）[2] を導入し、約半年間運用してきました。ピクセル差分は拾えても これって本当にバグなのか？ と判断するのに時間がかかったり、マスク設定やしきい値調整など地味なメンテ工数が積み重なっていました。そ]]></summary>
+        <content type="html"><![CDATA[こんにちは！IVRyのQAエンジニアの関(@IvryQa)です。IVRyでは2024年12月から Playwright[1] を用いた Visual Regression Testing（以下、VRT）[2] を導入し、約半年間運用してきました。ピクセル差分は拾えても これって本当にバグなのか？ と判断するのに時間がかかったり、マスク設定やしきい値調整など地味なメンテ工数が積み重なっていました。そこで今回、画像を理解できる生成AIを使って差分をバグ報告として自然言語化し、Slackに通知する仕組みを試してみました。同じような悩みを抱えている方の参考になれば嬉しいです！ 概要...]]></content>
+        <author>
+            <name>RyomaSeki</name>
+        </author>
+        <published>2025-07-31T08:01:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【メディア掲載】外国人人材のマッチングサービス「Stepjob」、定着率95%の理由 | PTW／ポールトゥウィン【公式】]]></title>
+        <id>https://note.com/ptw_note/n/nbd884d47edc2</id>
+        <link href="https://note.com/ptw_note/n/nbd884d47edc2"/>
+        <updated>2025-07-31T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2050年には生産年齢人口が約3分の2まで減少するとされ、人材不足の深刻さが増しています。企業は人材不足への対応を迫られており、その解決手段として注目されているのが外国人採用です。2019年に「特定技能ビザ」という在留資格が創設され、それまでのようなホワイトカラーの「高度人材」だけでなく、一定の専門性や技能を持つ外国人材の受け入れが拡大されました。この制度の利用者は2025年には約30万人にまで拡]]></summary>
+        <content type="html"><![CDATA[2050年には生産年齢人口が約3分の2まで減少するとされ、人材不足の深刻さが増しています。企業は人材不足への対応を迫られており、その解決手段として注目されているのが外国人採用です。2019年に「特定技能ビザ」という在留資格が創設され、それまでのようなホワイトカラーの「高度人材」だけでなく、一定の専門性や技能を持つ外国人材の受け入れが拡大されました。この制度の利用者は2025年には約30万人にまで拡大し、日本企業の大きな戦力となっています。オンラインの経済情報メディア『BUSINESS JOURNAL』では、このような日本企業の外国人採用を支援する代表的なサービスとして、ポールトゥウィンの「Stepjob」を紹介。Stepjob事業部部長の行平澄子は、多くの外国人が日本で働くことを希望する理由について、次のように語りました。続きをみる]]></content>
+        <published>2025-07-31T06:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ranorex v12.3.0 日本語版 リリースのお知らせ | Ranorex Blog - UIテスト自動化ツール Ranorex]]></title>
+        <id>https://ranorex.techmatrix.jp/?p=29069</id>
+        <link href="https://ranorex.techmatrix.jp/blog/2025/07/31/ranorex-v12-3-jp-release/"/>
+        <updated>2025-07-31T02:00:46.000Z</updated>
+        <summary type="html"><![CDATA[このたび、 Ranorex v12.3.0 の 日本語版 がリリースされました。Ranorex v12.3.0 では、新機能の追加や機能改善がおこなわれ、新たに年間ライセンスの販売を開始しました。本リリースにあわせて、体 […]The post Ranorex v12.3.0 日本語版 リリースのお知らせ first appeared on UIテスト自動化ツール Ranorex.]]></summary>
+        <content type="html"><![CDATA[このたび、 Ranorex v12.3.0 の 日本語版 がリリースされました。Ranorex v12.3.0 では、新機能の追加や機能改善がおこなわれ、新たに年間ライセンスの販売を開始しました。本リリースにあわせて、体 […]The post Ranorex v12.3.0 日本語版 リリースのお知らせ first appeared on UIテスト自動化ツール Ranorex.]]></content>
+        <author>
+            <name>user</name>
+        </author>
+        <category label="セミナー・お知らせ"/>
+        <published>2025-07-31T02:00:46.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生成AIでのテスト設計はこの「勘所3つ」を押さえれば大丈夫 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/aldagram_tech/articles/3099d55dabd6ac</id>
+        <link href="https://zenn.dev/aldagram_tech/articles/3099d55dabd6ac"/>
+        <updated>2025-07-31T01:00:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめにこんにちは！アルダグラムでQAのお手伝いをしているmiyashitaです！最近、QAのシステムテスト設計でもAI使いたいなぁ～と思い、色々と試行錯誤していました。その中で、こんな勘所を持っていたらAIでうまくテスト設計していけるのかも？と感じたところがありましたので、今回はそちらを紹介できればと思います。 使用するツールChatGPT：o4-mini-high 今回やりたいこと仕様書を解析]]></summary>
+        <content type="html"><![CDATA[はじめにこんにちは！アルダグラムでQAのお手伝いをしているmiyashitaです！最近、QAのシステムテスト設計でもAI使いたいなぁ～と思い、色々と試行錯誤していました。その中で、こんな勘所を持っていたらAIでうまくテスト設計していけるのかも？と感じたところがありましたので、今回はそちらを紹介できればと思います。 使用するツールChatGPT：o4-mini-high 今回やりたいこと仕様書を解析して、テスト観点表を作成してもらう仕様書及びテスト観点表を基に、テストケースを作成してもらう 主な勘所AIをテスト設計で活用するための勘所は、以下の3つです...]]></content>
+        <author>
+            <name>miyashita</name>
+        </author>
+        <published>2025-07-31T01:00:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生成AIでのテスト設計はこの「勘所3つ」を押さえれば大丈夫 | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/aldagram_tech/articles/3099d55dabd6ac</id>
+        <link href="https://zenn.dev/aldagram_tech/articles/3099d55dabd6ac"/>
+        <updated>2025-07-31T01:00:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめにこんにちは！アルダグラムでQAのお手伝いをしているmiyashitaです！最近、QAのシステムテスト設計でもAI使いたいなぁ～と思い、色々と試行錯誤していました。その中で、こんな勘所を持っていたらAIでうまくテスト設計していけるのかも？と感じたところがありましたので、今回はそちらを紹介できればと思います。 使用するツールChatGPT：o4-mini-high 今回やりたいこと仕様書を解析]]></summary>
+        <content type="html"><![CDATA[はじめにこんにちは！アルダグラムでQAのお手伝いをしているmiyashitaです！最近、QAのシステムテスト設計でもAI使いたいなぁ～と思い、色々と試行錯誤していました。その中で、こんな勘所を持っていたらAIでうまくテスト設計していけるのかも？と感じたところがありましたので、今回はそちらを紹介できればと思います。 使用するツールChatGPT：o4-mini-high 今回やりたいこと仕様書を解析して、テスト観点表を作成してもらう仕様書及びテスト観点表を基に、テストケースを作成してもらう 主な勘所AIをテスト設計で活用するための勘所は、以下の3つです...]]></content>
+        <author>
+            <name>miyashita</name>
+        </author>
+        <published>2025-07-31T01:00:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Go】Goのテストに入門してみた！ ~Table Driven Test編~ | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/tmyhrn/articles/8dcc4198903d7f</id>
+        <link href="https://zenn.dev/tmyhrn/articles/8dcc4198903d7f"/>
+        <updated>2025-07-30T23:30:01.000Z</updated>
+        <summary type="html"><![CDATA[はじめに前回は、Goにおけるテストの基本を学びました。今回は、Goでよく使われる 「テーブル駆動テスト（Table Driven Test）」 に入門します。前回の記事はこちら↓https://zenn.dev/tmyhrn/articles/7fc1bc9c9e634d この記事でわかることTable Driven Testの概要実装方法実装時に押さえておきたいポイント 実装してみた前回に引き続]]></summary>
+        <content type="html"><![CDATA[はじめに前回は、Goにおけるテストの基本を学びました。今回は、Goでよく使われる 「テーブル駆動テスト（Table Driven Test）」 に入門します。前回の記事はこちら↓https://zenn.dev/tmyhrn/articles/7fc1bc9c9e634d この記事でわかることTable Driven Testの概要実装方法実装時に押さえておきたいポイント 実装してみた前回に引き続き、マルチバイトでの文字列カウントについてのテストケースを見ていきます。main.gopackage mainimport ( "testing...]]></content>
+        <author>
+            <name>ともやん</name>
+        </author>
+        <published>2025-07-30T23:30:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next.js 15 + Jest + MSW でネットワークレベルAPIモックテストを実現する | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/nozo7/articles/d37552dc7578f5</id>
+        <link href="https://zenn.dev/nozo7/articles/d37552dc7578f5"/>
+        <updated>2025-07-30T23:15:57.000Z</updated>
+        <summary type="html"><![CDATA[Next.js 15 + Jest + MSW でネットワークレベルAPIモックテストを実現する 📖 概要このガイドでは、Next.js 15プロジェクトにMSW（Mock Service Worker）を導入し、JestでネットワークレベルのAPIモックテストを実現する方法を詳しく解説します。 🎯 目標ネットワークレベルモック: fetch APIが実際に呼ばれ、MSWがレスポンスを返す型安全な]]></summary>
+        <content type="html"><![CDATA[Next.js 15 + Jest + MSW でネットワークレベルAPIモックテストを実現する 📖 概要このガイドでは、Next.js 15プロジェクトにMSW（Mock Service Worker）を導入し、JestでネットワークレベルのAPIモックテストを実現する方法を詳しく解説します。 🎯 目標ネットワークレベルモック: fetch APIが実際に呼ばれ、MSWがレスポンスを返す型安全なテスト環境: TypeScriptによる型保証保守性の高いテスト: テストケースの追加・変更が容易Next.js 15対応: App Routerやその他機能との...]]></content>
+        <author>
+            <name>noz3</name>
+        </author>
+        <published>2025-07-30T23:15:57.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Playwright] ログイン状態でテストする簡単なやり方 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/aew2sbee/articles/playwright-storage-state</id>
+        <link href="https://zenn.dev/aew2sbee/articles/playwright-storage-state"/>
+        <updated>2025-07-30T05:18:44.000Z</updated>
+        <summary type="html"><![CDATA[🌱 はじめにPlaywrightで認証のテストに苦手意識があり、避けていましたが、業務でやる必要が発生したため、試行錯誤しながら実装しました。その時に発見した簡単なやり方を紹介します。紹介する方法では実現できない場合や詳細な内容を知りたい方は、公式ドキュメントをご確認ください 🌱 結論!playwright.config.tsに指定のsession.jsonを設定する各テストごとに指定のsessi]]></summary>
+        <content type="html"><![CDATA[🌱 はじめにPlaywrightで認証のテストに苦手意識があり、避けていましたが、業務でやる必要が発生したため、試行錯誤しながら実装しました。その時に発見した簡単なやり方を紹介します。紹介する方法では実現できない場合や詳細な内容を知りたい方は、公式ドキュメントをご確認ください 🌱 結論!playwright.config.tsに指定のsession.jsonを設定する各テストごとに指定のsession.jsonを設定する 🌱 事前準備!下記のsession.jsonは、サンプルとしてiron-sessionを設定にしております。ご参考にする場合...]]></content>
+        <author>
+            <name>小倉あん</name>
+        </author>
+        <published>2025-07-30T05:18:44.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PrismaからPGliteに繋げてリポジトリ層のテストをお手軽にやってみた | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/forcia_tech/articles/2025_hatano_prisma_pglite</id>
+        <link href="https://zenn.dev/forcia_tech/articles/2025_hatano_prisma_pglite"/>
+        <updated>2025-07-30T04:00:05.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、エンジニアの籏野です。今回はPGliteとPrismaを用いて、実際にデータベースに接続して行うリポジトリ層のテストについて紹介します。作成したサンプルプロジェクトは以下のリポジトリに置いていますので、合わせてご確認ください。https://github.com/taku-hatano/pglite-prisma-test リポジトリ層におけるテストの課題クリーンアーキテクチャのような]]></summary>
+        <content type="html"><![CDATA[こんにちは、エンジニアの籏野です。今回はPGliteとPrismaを用いて、実際にデータベースに接続して行うリポジトリ層のテストについて紹介します。作成したサンプルプロジェクトは以下のリポジトリに置いていますので、合わせてご確認ください。https://github.com/taku-hatano/pglite-prisma-test リポジトリ層におけるテストの課題クリーンアーキテクチャのようなデザインパターンを利用する場合、リポジトリ層を利用してビジネスロジックとデータアクセス層を分離することはよくあるかと思います。これにより、ビジネスロジック層においてはリポジトリ層を...]]></content>
+        <author>
+            <name>FORCIA Tech Blog 運営チーム</name>
+        </author>
+        <published>2025-07-30T04:00:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第1回】専門性をつなげて、あなたらしいQAエンジニアの像をつくる | 品質 | Sqripts]]></title>
+        <id>https://sqripts.com/?p=105510</id>
+        <link href="https://sqripts.com/2025/07/30/105510/"/>
+        <updated>2025-07-30T03:33:48.000Z</updated>
+        <summary type="html"><![CDATA[開発現場で働く中で、「自分の専門性とは何か？」と自問したことがあるのではないでしょうか。 特に「品質保証」という広大な領域を担うQAエンジニアにとって、その問いはキャリアの節目で繰り返し現れます。 品質保証における技術や...The post 【第1回】専門性をつなげて、あなたらしいQAエンジニアの像をつくる first appeared on Sqripts.]]></summary>
+        <content type="html"><![CDATA[開発現場で働く中で、「自分の専門性とは何か？」と自問したことがあるのではないでしょうか。 特に「品質保証」という広大な領域を担うQAエンジニアにとって、その問いはキャリアの節目で繰り返し現れます。 品質保証における技術や...The post 【第1回】専門性をつなげて、あなたらしいQAエンジニアの像をつくる first appeared on Sqripts.]]></content>
+        <author>
+            <name>TAKIMOTO</name>
+        </author>
+        <category label="特集"/>
+        <category label="品質"/>
+        <category label="ソフトウェアテスト"/>
+        <category label="QAエンジニア"/>
+        <category label="スクラム"/>
+        <category label="プロジェクトマネージメント"/>
+        <published>2025-07-30T03:33:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Playwrightでデザインパターンに入門してみた②「Facade Pattern」編 | テスト自動化メンバー｜日本ナレッジ株式会社]]></title>
+        <id>https://note.com/nkc_ta/n/nbea36d6d2ffc</id>
+        <link href="https://note.com/nkc_ta/n/nbea36d6d2ffc"/>
+        <updated>2025-07-29T23:47:06.000Z</updated>
+        <summary type="html"><![CDATA[はじめに続きをみる]]></summary>
+        <content type="html"><![CDATA[はじめに続きをみる]]></content>
+        <published>2025-07-29T23:47:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Go】Goのテストに入門してみた！ ~基本編~ | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/tmyhrn/articles/7fc1bc9c9e634d</id>
+        <link href="https://zenn.dev/tmyhrn/articles/7fc1bc9c9e634d"/>
+        <updated>2025-07-28T23:30:01.000Z</updated>
+        <summary type="html"><![CDATA[はじめにこれまでGoでAPIを開発してきましたが、実はテストコードを書いた経験はありませんでした。（テストの様子をスクショに撮って証跡として残していました）業務でも積極的にテストコードを書いていこうという方針になりましたので、Goでのテストに入門してみようと思います。 この記事でわかることGoでの基本的なテストの書き方テストを書く上での押さえなければいけないポイントテスト関数がどのように実行・評価]]></summary>
+        <content type="html"><![CDATA[はじめにこれまでGoでAPIを開発してきましたが、実はテストコードを書いた経験はありませんでした。（テストの様子をスクショに撮って証跡として残していました）業務でも積極的にテストコードを書いていこうという方針になりましたので、Goでのテストに入門してみようと思います。 この記事でわかることGoでの基本的なテストの書き方テストを書く上での押さえなければいけないポイントテスト関数がどのように実行・評価されるかの基本的な流れ テストコード書いてみたとりあえず、テストコードを書いてみました。今回はマルチバイトでの文字列カウントのテストにしてみました。main_...]]></content>
+        <author>
+            <name>ともやん</name>
+        </author>
+        <published>2025-07-28T23:30:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spock を使って Unit テストを書いてみる | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/rakuten_tech/articles/spock-test-practice</id>
+        <link href="https://zenn.dev/rakuten_tech/articles/spock-test-practice"/>
+        <updated>2025-07-28T14:38:34.000Z</updated>
+        <summary type="html"><![CDATA[はじめにJava のテストというと JUnit を使うことが多いかと思いますが、今回は Spock というテストフレームワークを使ってみて、とても便利だったので紹介します。Spock は Groovy ベースのテストフレームワークで、特にBehavior Driven Development(BDD)スタイルのテストを書くのに適しています。JUnit と比べて、より表現力豊かなテストを書くことがで]]></summary>
+        <content type="html"><![CDATA[はじめにJava のテストというと JUnit を使うことが多いかと思いますが、今回は Spock というテストフレームワークを使ってみて、とても便利だったので紹介します。Spock は Groovy ベースのテストフレームワークで、特にBehavior Driven Development(BDD)スタイルのテストを書くのに適しています。JUnit と比べて、より表現力豊かなテストを書くことができ、読みやすさも向上します。この記事では基本的な Spock の使い方、使う際の注意したいポイントをいくつか紹介します。以下は公式のドキュメントです。詳細な情報は公式ドキュメントを...]]></content>
+        <author>
+            <name>Tsubasa Nomura</name>
+        </author>
+        <published>2025-07-28T14:38:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QAチームのDatadog導入奮闘記：品質可視化を実現するまでの全記録 | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/nexta_/articles/bd4d187e9b917f</id>
+        <link href="https://zenn.dev/nexta_/articles/bd4d187e9b917f"/>
+        <updated>2025-07-28T12:34:28.000Z</updated>
+        <summary type="html"><![CDATA[はじめに：QAエンジニアの新たな挑戦 📝こんにちは！QAエンジニアのAyakaです。今年の4月にQAチームが立ち上がったばかりで、まさにゼロからチームと仕組みを構築している最中です。私たちのチームが最初のミッションとして掲げたのが、サービス品質の可視化でした。開発チームがより能動的にパフォーマンス改善に取り組めるような環境を作りたい障害が起きてから受動的に動くのではなく、その予兆をデータに基づいて]]></summary>
+        <content type="html"><![CDATA[はじめに：QAエンジニアの新たな挑戦 📝こんにちは！QAエンジニアのAyakaです。今年の4月にQAチームが立ち上がったばかりで、まさにゼロからチームと仕組みを構築している最中です。私たちのチームが最初のミッションとして掲げたのが、サービス品質の可視化でした。開発チームがより能動的にパフォーマンス改善に取り組めるような環境を作りたい障害が起きてから受動的に動くのではなく、その予兆をデータに基づいて捉えたいそんな思いから、Datadogの導入プロジェクトがスタートしました。本記事では、私たちがインフラ監視からAPM、ログ収集、そしてダッシュボード完成に至るまで、数々の...]]></content>
+        <author>
+            <name>Ayaka</name>
+        </author>
+        <published>2025-07-28T12:34:28.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【JSTQB解説】第1章：テストの基礎 - ソフトウェアテストの基本概念と7つの原則 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/taa_wash1/articles/39b0563e8c7264</id>
+        <link href="https://zenn.dev/taa_wash1/articles/39b0563e8c7264"/>
+        <updated>2025-07-28T09:52:01.000Z</updated>
+        <summary type="html"><![CDATA[【JSTQB Foundation Level V4.0 完全解説シリーズ】第1章：テストの基礎 この記事についてJSTQB Foundation Level資格を取得した経験と、実際のQA業務で学んだことを基に、シラバスの内容を実践的な視点で解説します。こんな方におすすめです。JSTQB Foundation Level資格の取得を検討しているテスト業務に配属されたばかりQAエンジニア・テストエ]]></summary>
+        <content type="html"><![CDATA[【JSTQB Foundation Level V4.0 完全解説シリーズ】第1章：テストの基礎 この記事についてJSTQB Foundation Level資格を取得した経験と、実際のQA業務で学んだことを基に、シラバスの内容を実践的な視点で解説します。こんな方におすすめです。JSTQB Foundation Level資格の取得を検討しているテスト業務に配属されたばかりQAエンジニア・テストエンジニアに興味がある開発者だがテストについても学びたい記事の内容は以下の通りです。なぜテストが重要なのかテストの7つの基本原則テスト担当者の役割と必要なスキル...]]></content>
+        <author>
+            <name>tawashi</name>
+        </author>
+        <published>2025-07-28T09:52:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【JSTQB解説】第1章：テストの基礎 - ソフトウェアテストの基本概念と7つの原則 | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/taa_wash1/articles/39b0563e8c7264</id>
+        <link href="https://zenn.dev/taa_wash1/articles/39b0563e8c7264"/>
+        <updated>2025-07-28T09:52:01.000Z</updated>
+        <summary type="html"><![CDATA[【JSTQB Foundation Level V4.0 完全解説シリーズ】第1章：テストの基礎 この記事についてJSTQB Foundation Level資格を取得した経験と、実際のQA業務で学んだことを基に、シラバスの内容を実践的な視点で解説します。こんな方におすすめです。JSTQB Foundation Level資格の取得を検討しているテスト業務に配属されたばかりQAエンジニア・テストエ]]></summary>
+        <content type="html"><![CDATA[【JSTQB Foundation Level V4.0 完全解説シリーズ】第1章：テストの基礎 この記事についてJSTQB Foundation Level資格を取得した経験と、実際のQA業務で学んだことを基に、シラバスの内容を実践的な視点で解説します。こんな方におすすめです。JSTQB Foundation Level資格の取得を検討しているテスト業務に配属されたばかりQAエンジニア・テストエンジニアに興味がある開発者だがテストについても学びたい記事の内容は以下の通りです。なぜテストが重要なのかテストの7つの基本原則テスト担当者の役割と必要なスキル...]]></content>
+        <author>
+            <name>tawashi</name>
+        </author>
+        <published>2025-07-28T09:52:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第276回 テストラジオ JaSST’25 Hokkaidoの話 | テストラジオ]]></title>
+        <id>https://testradio.fm/?p=1677</id>
+        <link href="https://testradio.fm/testradio-no/1677/"/>
+        <updated>2025-07-27T23:00:00.000Z</updated>
+        <author>
+            <name>なそ＠さとうひろゆき</name>
+        </author>
+        <category label="テストラジオ"/>
+        <category label="なそ回"/>
+        <category label="よしたけ回"/>
+        <published>2025-07-27T23:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「知識ゼロから学ぶソフトウェアテスト 第3版 アジャイル・AI時代の必携教科書」を読んでみたメモ | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/midoki/articles/test-book-zero</id>
+        <link href="https://zenn.dev/midoki/articles/test-book-zero"/>
+        <updated>2025-07-27T13:10:56.000Z</updated>
+        <summary type="html"><![CDATA[はじめに環境が変わり開発に関わっていくことになったため、テスト知識０の状態で、「知識ゼロから学ぶソフトウェアテスト 第3版 アジャイル・AI時代の必携教科書」を読んでみました。読みながらのメモを書いた記事になります。 読書メモ 1章ソフトウェアで大事なのはどの機能でバグが出やすいか、その部分に対してどのようなテスト手法を適用すれば十分な品質が得られるか知ること全くバグのないソフトウェアは存在しない]]></summary>
+        <content type="html"><![CDATA[はじめに環境が変わり開発に関わっていくことになったため、テスト知識０の状態で、「知識ゼロから学ぶソフトウェアテスト 第3版 アジャイル・AI時代の必携教科書」を読んでみました。読みながらのメモを書いた記事になります。 読書メモ 1章ソフトウェアで大事なのはどの機能でバグが出やすいか、その部分に対してどのようなテスト手法を適用すれば十分な品質が得られるか知ること全くバグのないソフトウェアは存在しない、完全なテスト手法が存在しないから完璧でなく十分な品質をもつソフトウェアを目指すテスト手法を学ぶ 2章 ホワイトボックステストホワイトボックステストプログ...]]></content>
+        <author>
+            <name>midoki</name>
+        </author>
+        <published>2025-07-27T13:10:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claudeにテストを自動実行させる方法：効率的なテスト駆動開発の実践 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/hashito/articles/1a66a0528a1aad</id>
+        <link href="https://zenn.dev/hashito/articles/1a66a0528a1aad"/>
+        <updated>2025-07-27T08:01:33.000Z</updated>
+        <summary type="html"><![CDATA[※この記事はAIによって生成されました。 はじめにAI アシスタントの Claude を使って、テストの作成から実行、結果の解析まで自動化することで、開発効率を大幅に向上させることができます。この記事では、Claude にテストを実行させる具体的な方法と実装パターンを紹介します。 基本的なテスト実行の依頼方法 1. 単純なテスト実行最もシンプルな方法は、Claude に直接テストの実行を依頼するこ]]></summary>
+        <content type="html"><![CDATA[※この記事はAIによって生成されました。 はじめにAI アシスタントの Claude を使って、テストの作成から実行、結果の解析まで自動化することで、開発効率を大幅に向上させることができます。この記事では、Claude にテストを実行させる具体的な方法と実装パターンを紹介します。 基本的なテスト実行の依頼方法 1. 単純なテスト実行最もシンプルな方法は、Claude に直接テストの実行を依頼することです：「このプロジェクトのテストを全て実行して、結果を教えて」Claude は以下のような手順でテストを実行します：プロジェクトの構造を確認テストフレームワークを識別...]]></content>
+        <author>
+            <name>hashito</name>
+        </author>
+        <published>2025-07-27T08:01:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第344回：　「ALTTAのテキストをつくろう」27　（TTAのための品質特性） | Kouichi Akiyama]]></title>
+        <id>https://note.com/akiyama924/n/nb048dc23c183</id>
+        <link href="https://note.com/akiyama924/n/nb048dc23c183"/>
+        <updated>2025-07-26T22:21:06.000Z</updated>
+        <summary type="html"><![CDATA[◀前の記事へ 次の記事へ▶︎≡ はじめに続きをみる]]></summary>
+        <content type="html"><![CDATA[◀前の記事へ 次の記事へ▶︎≡ はじめに続きをみる]]></content>
+        <published>2025-07-26T22:21:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【答えのない議論】コードレビューとテストコードの品質について | Zennの「品質」のフィード]]></title>
+        <id>https://zenn.dev/idealog/articles/3526f9bee711a6</id>
+        <link href="https://zenn.dev/idealog/articles/3526f9bee711a6"/>
+        <updated>2025-07-26T09:17:27.000Z</updated>
+        <summary type="html"><![CDATA[法人・団体専用のパーティー会場検索サイト「会場ベストサーチ」を運用する株式会社アイデアログの取締役CTOの松川と申します。実は現在、新プロダクトのローンチ前でして、今回はブログもあっさりめになります。新プロダクトの内容については、別途記載しますが、既存のプロダクトとシナジーのある領域での新サービスを構築ということで、DB、Backendは共通で持ち、Frontendは完全に新規で開発、というのを半]]></summary>
+        <content type="html"><![CDATA[法人・団体専用のパーティー会場検索サイト「会場ベストサーチ」を運用する株式会社アイデアログの取締役CTOの松川と申します。実は現在、新プロダクトのローンチ前でして、今回はブログもあっさりめになります。新プロダクトの内容については、別途記載しますが、既存のプロダクトとシナジーのある領域での新サービスを構築ということで、DB、Backendは共通で持ち、Frontendは完全に新規で開発、というのを半年くらいやっていました。チームで方針を決め、ガイドラインを作り、メンバーのキャッチアップ・育成をしながらのプロダクト開発となりましたが、社内では前例がない取組であったため、探り探り進めてい...]]></content>
+        <author>
+            <name>アイデアログ開発チーム</name>
+        </author>
+        <published>2025-07-26T09:17:27.000Z</published>
+    </entry>
+</feed>
