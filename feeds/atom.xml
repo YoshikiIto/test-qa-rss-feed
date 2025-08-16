@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yoshikiito.github.io/test-qa-rss-feed/</id>
+    <title>テスト・QA関連ブログRSS</title>
+    <updated>2025-08-16T15:06:09.335Z</updated>
+    <generator>yoshikiito/test-qa-rss-feed</generator>
+    <link rel="alternate" href="https://yoshikiito.github.io/test-qa-rss-feed/"/>
+    <link rel="self" href="https://yoshikiito.github.io/test-qa-rss-feed/feeds/atom.xml"/>
+    <subtitle>企テスト・QA関連ブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://yoshikiito.github.io/test-qa-rss-feed/images/icon.png</logo>
+    <icon>https://yoshikiito.github.io/test-qa-rss-feed/images/favicon.ico</icon>
+    <rights>yoshikiito/test-qa-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[魅力的品質を上げるために何を考えたらいいのか | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/tomonao/articles/fc9e7c565ac9c4</id>
+        <link href="https://zenn.dev/tomonao/articles/fc9e7c565ac9c4"/>
+        <updated>2025-08-16T04:47:34.000Z</updated>
+        <summary type="html"><![CDATA[導入自社製品の品質を上げたいと思ってネットの情報を探しにいくと、当たり前品質・魅力的品質という考えを目にすることがあると思います。魅力的品質を上げていきたいと考える人が多いと思うが、自社製品がどのレベルにあるのか？どうしたらそれぞれの品質が上がるのか？の把握は難しいと感じているのではないでしょうか？この点についていったんの結論が出たので残しておきます。 誰に充てて書くか機能の仕様や対応方針を決める]]></summary>
+        <content type="html"><![CDATA[導入自社製品の品質を上げたいと思ってネットの情報を探しにいくと、当たり前品質・魅力的品質という考えを目にすることがあると思います。魅力的品質を上げていきたいと考える人が多いと思うが、自社製品がどのレベルにあるのか？どうしたらそれぞれの品質が上がるのか？の把握は難しいと感じているのではないでしょうか？この点についていったんの結論が出たので残しておきます。 誰に充てて書くか機能の仕様や対応方針を決めるPDMやマネージャー、品質に深く関わるQAエンジニア等 結論先に結論を書くと僕は以下のように理解しています。当たり前品質、魅力的品質どちらもユーザー（顧客）から見た品質...]]></content>
+        <author>
+            <name>tomonao</name>
+        </author>
+        <published>2025-08-16T04:47:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドメイン分析テストってなに？ | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/hide_yuki/articles/189481e56782b2</id>
+        <link href="https://zenn.dev/hide_yuki/articles/189481e56782b2"/>
+        <updated>2025-08-16T02:42:45.000Z</updated>
+        <summary type="html"><![CDATA[はじめに今回はテスト技法の一つ『ドメイン分析テスト』についてまとめてみようと思います。 ドメイン分析テストとはこのテスト技法は、出力が複数の変数の値の組み合わせにより変わるこの時の境界値ごとの振る舞いを効率的に検証する検証対象の境界値以外は全て有効値にするこう言ったテスト技法になります。検証の際は、onoffinoutと言う4つの概念を用います。onは『着目した境界値変数』、offは『onポイント]]></summary>
+        <content type="html"><![CDATA[はじめに今回はテスト技法の一つ『ドメイン分析テスト』についてまとめてみようと思います。 ドメイン分析テストとはこのテスト技法は、出力が複数の変数の値の組み合わせにより変わるこの時の境界値ごとの振る舞いを効率的に検証する検証対象の境界値以外は全て有効値にするこう言ったテスト技法になります。検証の際は、onoffinoutと言う4つの概念を用います。onは『着目した境界値変数』、offは『onポイントに近傍するもう一つの境界値変数』、inは『有効値』、outは『無効値』になります。onとoffが若干分かりづらいので、以下に具体例を交えて図式化し...]]></content>
+        <author>
+            <name>Hideyuki Fujihara</name>
+        </author>
+        <published>2025-08-16T02:42:45.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドメイン分析テストってなに？ | ソフトウェアテストタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/fujihara_hideyuki/items/e7243c1ab74580fe8384</id>
+        <link href="https://qiita.com/fujihara_hideyuki/items/e7243c1ab74580fe8384"/>
+        <updated>2025-08-16T02:37:51.000Z</updated>
+        <summary type="html"><![CDATA[はじめに今回はテスト技法の一つ『ドメイン分析テスト』についてまとめてみようと思います。ドメイン分析テストとはこのテスト技法は、出力が複数の変数の値の組み合わせにより変わるこの時の境界値ごとの振る舞いを効率的に検証する検証対象の境界値以外は全て有効値にする...]]></summary>
+        <content type="html"><![CDATA[はじめに今回はテスト技法の一つ『ドメイン分析テスト』についてまとめてみようと思います。ドメイン分析テストとはこのテスト技法は、出力が複数の変数の値の組み合わせにより変わるこの時の境界値ごとの振る舞いを効率的に検証する検証対象の境界値以外は全て有効値にする...]]></content>
+        <published>2025-08-16T02:37:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIで自動テスト生成はすべて詐欺です | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/toms74209200/articles/all-ai-generated-test-is-scam</id>
+        <link href="https://zenn.dev/toms74209200/articles/all-ai-generated-test-is-scam"/>
+        <updated>2025-08-15T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今日, AIエージェントを使ったコード生成はかなり一般的になってきました. それにともなって, AIを使って自動テストを生成するといった事例も増えてきました.https://x.com/toms74209200/status/1955849297590616088AIを使った自動テスト生成の対象となるテストはいわゆる開発者テストと呼ばれるプロダクトコードと対応するテストのはずです. 2025年8月]]></summary>
+        <content type="html"><![CDATA[今日, AIエージェントを使ったコード生成はかなり一般的になってきました. それにともなって, AIを使って自動テストを生成するといった事例も増えてきました.https://x.com/toms74209200/status/1955849297590616088AIを使った自動テスト生成の対象となるテストはいわゆる開発者テストと呼ばれるプロダクトコードと対応するテストのはずです. 2025年8月現在, これらのテストをAIを使って手放しに生成できません.この記事ではAIによる自動テスト生成の問題点を挙げ, AIを使ったテスト設計の可能性について考察します. AIによる自動テス...]]></content>
+        <author>
+            <name>toms</name>
+        </author>
+        <published>2025-08-15T13:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[正解のないテストに挑む ― AIエージェントQAの試行錯誤と学び | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/tokium_dev/articles/c986844e3cf8d8</id>
+        <link href="https://zenn.dev/tokium_dev/articles/c986844e3cf8d8"/>
+        <updated>2025-08-15T08:58:04.000Z</updated>
+        <summary type="html"><![CDATA[!要約AIエージェントの品質保証という正解のない領域で、TOKIUMのQAチームが実践した試行錯誤の記録です。リスクベースドテストやランダム命令生成ツールなど、4つのブレークスルーと3つの失敗から得た学びを共有します。従来のQA手法が通用しない中で見つけた、新しい品質保証のアプローチとチーム運営の重要性についてお話しします。こんにちは！TOKIUMでQAチームのリーダーをしている西田です。6月にn]]></summary>
+        <content type="html"><![CDATA[!要約AIエージェントの品質保証という正解のない領域で、TOKIUMのQAチームが実践した試行錯誤の記録です。リスクベースドテストやランダム命令生成ツールなど、4つのブレークスルーと3つの失敗から得た学びを共有します。従来のQA手法が通用しない中で見つけた、新しい品質保証のアプローチとチーム運営の重要性についてお話しします。こんにちは！TOKIUMでQAチームのリーダーをしている西田です。6月にnoteにて、AIエージェントの品質保証という未知の領域への挑戦について、私たちが直面している課題と取り組みの方向性をお話しさせていただきました。前回の記事はこちらあれから数ヶ月...]]></content>
+        <author>
+            <name>ynis_qa</name>
+        </author>
+        <published>2025-08-15T08:58:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テスト設計とは何か、なぜ重要なのか? | Ranorex Blog - UIテスト自動化ツール Ranorex]]></title>
+        <id>https://ranorex.techmatrix.jp/?p=28782</id>
+        <link href="https://ranorex.techmatrix.jp/blog/2025/08/15/test-design-what-is-it-and-why-is-it-important/"/>
+        <updated>2025-08-15T02:00:17.000Z</updated>
+        <summary type="html"><![CDATA[ソフトウェア開発において、テストの品質はしばしばアプリケーションの品質を左右します。しかし、テストはソフトウェアそのものと同じくらい複雑になりえます。適切に設計されていないテストでは、欠陥が検出されず、セキュリティの脆弱 […]The post テスト設計とは何か、なぜ重要なのか? first appeared on UIテスト自動化ツール Ranorex.]]></summary>
+        <content type="html"><![CDATA[ソフトウェア開発において、テストの品質はしばしばアプリケーションの品質を左右します。しかし、テストはソフトウェアそのものと同じくらい複雑になりえます。適切に設計されていないテストでは、欠陥が検出されず、セキュリティの脆弱 […]The post テスト設計とは何か、なぜ重要なのか? first appeared on UIテスト自動化ツール Ranorex.]]></content>
+        <author>
+            <name>user</name>
+        </author>
+        <category label="事例・ソリューション"/>
+        <published>2025-08-15T02:00:17.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英語中級者(自称)による、英語学習における生成AIのちょっとした使い方 | ソフトウェアの品質を学びまくる]]></title>
+        <id>https://www.kzsuzuki.com/entry/2025/08/15/092000</id>
+        <link href="https://www.kzsuzuki.com/entry/2025/08/15/092000"/>
+        <updated>2025-08-15T00:20:00.000Z</updated>
+        <summary type="html"><![CDATA[日ごろ、英語のちょっとしたお勉強に生成AIをどう使っているかをご紹介します。 わたしは生成AI使いこなしマンってわけでもないので、ちょっと恥ずかしいのですが。 ざっくりと、3つあります。 語幹を調べる 意味の違いを調べる 英文を添削してもらう 1. 語幹を調べる 「英語のボキャブラリーを強化する」なんて目的がなくても、単語における「語幹」というのは面白いものです。 よく例に出るのが「philoso]]></summary>
+        <content type="html"><![CDATA[日ごろ、英語のちょっとしたお勉強に生成AIをどう使っているかをご紹介します。 わたしは生成AI使いこなしマンってわけでもないので、ちょっと恥ずかしいのですが。 ざっくりと、3つあります。 語幹を調べる 意味の違いを調べる 英文を添削してもらう 1. 語幹を調べる 「英語のボキャブラリーを強化する」なんて目的がなくても、単語における「語幹」というのは面白いものです。 よく例に出るのが「philosophy」（哲学）。philoは「愛する」でsophyは「知恵」なので、philosophyは「知恵を愛する」ことであり、愛知県のことでもあります。 「Mesopotamia」（メソポタミア）もいいです…]]></content>
+        <published>2025-08-15T00:20:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QA内製化による品質改善と学習循環の作り方 | くぼぴー]]></title>
+        <id>https://note.com/kubopi/n/n85cc73266d26</id>
+        <link href="https://note.com/kubopi/n/n85cc73266d26"/>
+        <updated>2025-08-15T00:10:51.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。kubopです。今回は品質の内製化について書こうと思います。私が今の会社に入ったとき、品質保証の一部は外部パートナーの方々にお願いしていました。プロジェクト終盤に集中的にテストをしてもらう形です。これは当時の規模や状況に合った判断だったと思いますし、外部の知見や網羅性には確かな価値がありました。ただ、私は入社前から「品質はチームの中でつくる方が、アジリティも学びも大きい」と感じていまし]]></summary>
+        <content type="html"><![CDATA[こんにちは。kubopです。今回は品質の内製化について書こうと思います。私が今の会社に入ったとき、品質保証の一部は外部パートナーの方々にお願いしていました。プロジェクト終盤に集中的にテストをしてもらう形です。これは当時の規模や状況に合った判断だったと思いますし、外部の知見や網羅性には確かな価値がありました。ただ、私は入社前から「品質はチームの中でつくる方が、アジリティも学びも大きい」と感じていました。続きをみる]]></content>
+        <published>2025-08-15T00:10:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Go】Goのテストに入門してみた！ ~テーブル駆動ベンチマークテスト編~ | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/tmyhrn/articles/28815a1296e856</id>
+        <link href="https://zenn.dev/tmyhrn/articles/28815a1296e856"/>
+        <updated>2025-08-14T22:00:01.000Z</updated>
+        <summary type="html"><![CDATA[はじめに前回は「ベンチマーク」を見ていきました。今回は「テーブル駆動ベンチマークテスト」に入門します。前回の記事はこちら！https://zenn.dev/tmyhrn/articles/fd7e9de821e631 この記事でわかることテーブル駆動テストをベンチマークテストで活用する方法テーブル駆動ベンチマークテストのメリットと不要なケース テーブル駆動ベンチマークテスト前回の記事で、文字列結合]]></summary>
+        <content type="html"><![CDATA[はじめに前回は「ベンチマーク」を見ていきました。今回は「テーブル駆動ベンチマークテスト」に入門します。前回の記事はこちら！https://zenn.dev/tmyhrn/articles/fd7e9de821e631 この記事でわかることテーブル駆動テストをベンチマークテストで活用する方法テーブル駆動ベンチマークテストのメリットと不要なケース テーブル駆動ベンチマークテスト前回の記事で、文字列結合についてのベンチマークをとりました。今回はそれをテーブル駆動テストで実行してみます。main_test.gopackage mainimport (...]]></content>
+        <author>
+            <name>ともやん</name>
+        </author>
+        <published>2025-08-14T22:00:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[パフォーマーとして人の心を動かし、ポジティブに生きることで見る人の人生を後押しする | PTW／ポールトゥウィン【公式】]]></title>
+        <id>https://note.com/ptw_note/n/n75980d17566e</id>
+        <link href="https://note.com/ptw_note/n/n75980d17566e"/>
+        <updated>2025-08-14T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ポールトゥウィンと雇用契約を結び、プロとして活動するパラパフォーマー®️「Team PTW（チーム・ピー・ティー・ダブリュー）」。彼らと対談するのは、モデル・ダンサーといった多様なフィールドを横断しながら、自らの思想を形にするプロジェクト「FLATLAND」を設立した森田美勇人（もりた・みゅうと）さん。前回は、Team PTW誕生の背景や、優和とHARUKIそれぞれの個性にフォーカスしました。今回]]></summary>
+        <content type="html"><![CDATA[ポールトゥウィンと雇用契約を結び、プロとして活動するパラパフォーマー®️「Team PTW（チーム・ピー・ティー・ダブリュー）」。彼らと対談するのは、モデル・ダンサーといった多様なフィールドを横断しながら、自らの思想を形にするプロジェクト「FLATLAND」を設立した森田美勇人（もりた・みゅうと）さん。前回は、Team PTW誕生の背景や、優和とHARUKIそれぞれの個性にフォーカスしました。今回の後編では、パラパフォーマーとして活動することの意味や可能性、そしてこれから描いていく未来について語り合ったセッションの模様をお届けします。（第一回の記事はこちらからご覧いただけます）続きをみる]]></content>
+        <published>2025-08-14T06:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年8月26日 事例セミナー開催 「テスト管理の新常識：パナソニック コネクト直伝！エクセル管理の限界を突破するTestRail活用術」 | Ranorex Blog - UIテスト自動化ツール Ranorex]]></title>
+        <id>https://ranorex.techmatrix.jp/?p=29166</id>
+        <link href="https://ranorex.techmatrix.jp/blog/2025/08/14/2025826_seminar/"/>
+        <updated>2025-08-14T05:34:55.000Z</updated>
+        <summary type="html"><![CDATA[概要 本セミナーは、Ranorexと連携が可能なテスト管理ツール「TestRail」の事例セミナーです。 パナソニック コネクト様をお招きして、第三者検証の現場で直面していたエクセル管理によるテスト管理の限界といった課題 […]The post 2025年8月26日 事例セミナー開催 「テスト管理の新常識：パナソニック コネクト直伝！エクセル管理の限界を突破するTestRail活用術」 first]]></summary>
+        <content type="html"><![CDATA[概要 本セミナーは、Ranorexと連携が可能なテスト管理ツール「TestRail」の事例セミナーです。 パナソニック コネクト様をお招きして、第三者検証の現場で直面していたエクセル管理によるテスト管理の限界といった課題 […]The post 2025年8月26日 事例セミナー開催 「テスト管理の新常識：パナソニック コネクト直伝！エクセル管理の限界を突破するTestRail活用術」 first appeared on UIテスト自動化ツール Ranorex.]]></content>
+        <author>
+            <name>user</name>
+        </author>
+        <category label="セミナー・お知らせ"/>
+        <published>2025-08-14T05:34:55.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『ソフトウェアテスト徹底指南書』、鉛のごときその濃密さ | ソフトウェアの品質を学びまくる]]></title>
+        <id>https://www.kzsuzuki.com/entry/2025/08/14/113708</id>
+        <link href="https://www.kzsuzuki.com/entry/2025/08/14/113708"/>
+        <updated>2025-08-14T02:37:08.000Z</updated>
+        <summary type="html"><![CDATA[「噛めば噛むほど味が出るスルメのような」 という比喩は、しばしば書籍にも用いられます。最初に読んだ時にはすっと通り過ぎてしまったけれど、少し経験を積んで読み直してみると、「この何気ない一言は、そういうことだったのか！」 と合点してしまうような本です。 なぜ、そのような本が生まれるのか。 それは、その本の記述が、「ネットで調べたことをまとめてみました！」ではなく、徹底した実践と経験に裏付けられている]]></summary>
+        <content type="html"><![CDATA[「噛めば噛むほど味が出るスルメのような」 という比喩は、しばしば書籍にも用いられます。最初に読んだ時にはすっと通り過ぎてしまったけれど、少し経験を積んで読み直してみると、「この何気ない一言は、そういうことだったのか！」 と合点してしまうような本です。 なぜ、そのような本が生まれるのか。 それは、その本の記述が、「ネットで調べたことをまとめてみました！」ではなく、徹底した実践と経験に裏付けられているからでしょう。そのため、読む側の経験値が増えると、著者の意図がストレートに伝わってきて、その経験を追体験できるのです。 2025年6月、井芹洋輝（@goyoki）さんの『ソフトウェアテスト徹底指南書』…]]></content>
+        <published>2025-08-14T02:37:08.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PRごとのテスト生成を支援するJust in Time Testという仕組み | QA - freee Developers Hub]]></title>
+        <id>https://developers.freee.co.jp/entry/jittest_intro</id>
+        <link href="https://developers.freee.co.jp/entry/jittest_intro"/>
+        <updated>2025-08-13T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、freeeで支出管理領域のQAマネージャーをしているrenです。 今回は、支出管理領域のCIパイプラインにJust in Time Test（JiT Test）という仕組みを試験的に導入している話をします。 Just in Time Testとは PR作成時に、LLMを活用して生成するジャストインタイムなテストのことを指します。 MetaのMark Harman、Peter O'Hea]]></summary>
+        <content type="html"><![CDATA[こんにちは、freeeで支出管理領域のQAマネージャーをしているrenです。 今回は、支出管理領域のCIパイプラインにJust in Time Test（JiT Test）という仕組みを試験的に導入している話をします。 Just in Time Testとは PR作成時に、LLMを活用して生成するジャストインタイムなテストのことを指します。 MetaのMark Harman、Peter O'Hearn、Shubho Senguptaらが提唱している「Assured LLM-Based Software Testing」という研究領域に基づくものです。 論文「Harden and Catch f…]]></content>
+        <published>2025-08-13T01:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Go】Goのテストに入門してみた！ ~ベンチマーク編~ | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/tmyhrn/articles/fd7e9de821e631</id>
+        <link href="https://zenn.dev/tmyhrn/articles/fd7e9de821e631"/>
+        <updated>2025-08-12T23:30:06.000Z</updated>
+        <summary type="html"><![CDATA[はじめに前回は「カバレッジ」を見ていきました。今回は「ベンチマーク」に入門していきます！前回の記事はこちら！https://zenn.dev/tmyhrn/articles/93c20bcd2c3442 この記事でわかることベンチマークとは何かGoのベンチマークテストの書き方ベンチマークテスト結果の見方 ベンチマークとは？ベンチマークとは、プログラムの処理性能（速度やメモリ使用量）を数値的に測定す]]></summary>
+        <content type="html"><![CDATA[はじめに前回は「カバレッジ」を見ていきました。今回は「ベンチマーク」に入門していきます！前回の記事はこちら！https://zenn.dev/tmyhrn/articles/93c20bcd2c3442 この記事でわかることベンチマークとは何かGoのベンチマークテストの書き方ベンチマークテスト結果の見方 ベンチマークとは？ベンチマークとは、プログラムの処理性能（速度やメモリ使用量）を数値的に測定する方法です。Goでは、testingパッケージ を使って、関数の実行時間やメモリ消費量、アロケーションの頻度を自動で計測できます。ベンチマークを使うことで、...]]></content>
+        <author>
+            <name>ともやん</name>
+        </author>
+        <published>2025-08-12T23:30:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[チームが"挑戦し続ける"には、自ら"失敗し続ける" | くぼぴー]]></title>
+        <id>https://note.com/kubopi/n/ne7776ef4d6c3</id>
+        <link href="https://note.com/kubopi/n/ne7776ef4d6c3"/>
+        <updated>2025-08-12T02:15:55.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、kubopです。「失敗しない」ことを目指すのは、安全なようで危険な選択です。うまくやろうとした結果、失ったものはありませんか？私はそれに気づき、うまくやることをやめました。うまくやることをやめる続きをみる]]></summary>
+        <content type="html"><![CDATA[こんにちは、kubopです。「失敗しない」ことを目指すのは、安全なようで危険な選択です。うまくやろうとした結果、失ったものはありませんか？私はそれに気づき、うまくやることをやめました。うまくやることをやめる続きをみる]]></content>
+        <published>2025-08-12T02:15:55.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テストをするときネストをするな - Avoid Nesting when you're Testing | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/jay_es/articles/2025-08-11-avoid-nesting-when-youre-testing</id>
+        <link href="https://zenn.dev/jay_es/articles/2025-08-11-avoid-nesting-when-youre-testing"/>
+        <updated>2025-08-11T05:54:06.000Z</updated>
+        <summary type="html"><![CDATA[Kent C. Dodds 氏による Avoid Nesting when you're Testing という記事を翻訳させていただきました。以下、本文。これからご紹介するのは、React コンポーネントのテストに適用される一般的なテスト原則です。例に React を使用していますが、この概念正しく理解するのに役立つことを願っています。!ネスト自体が悪いと言っているのではありません。しかしネスト]]></summary>
+        <content type="html"><![CDATA[Kent C. Dodds 氏による Avoid Nesting when you're Testing という記事を翻訳させていただきました。以下、本文。これからご紹介するのは、React コンポーネントのテストに適用される一般的なテスト原則です。例に React を使用していますが、この概念正しく理解するのに役立つことを願っています。!ネスト自体が悪いと言っているのではありません。しかしネストはテストフック（beforeEach など）をコード再利用の手段として使うことを促進し、結果としてメンテナンスしづらいテストになってしまうということです。続きをお読みください。テス...]]></content>
+        <author>
+            <name>jay-es</name>
+        </author>
+        <published>2025-08-11T05:54:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Go】Goのテストに入門してみた！ ~カバレッジ編~ | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/tmyhrn/articles/93c20bcd2c3442</id>
+        <link href="https://zenn.dev/tmyhrn/articles/93c20bcd2c3442"/>
+        <updated>2025-08-11T04:47:44.000Z</updated>
+        <summary type="html"><![CDATA[はじめに前回は「並行テスト」を見ていきました。今回は「カバレッジ」に入門していきます！前回の記事はこちら！https://zenn.dev/tmyhrn/articles/4f67a4cf53f1cb この記事でわかることテストカバレッジの基本と、それがなぜ重要かGoでのカバレッジ測定方法と -coverフラグ / -coverprofileフラグ の使い方カバレッジ情報の可視化方法と、足りないテ]]></summary>
+        <content type="html"><![CDATA[はじめに前回は「並行テスト」を見ていきました。今回は「カバレッジ」に入門していきます！前回の記事はこちら！https://zenn.dev/tmyhrn/articles/4f67a4cf53f1cb この記事でわかることテストカバレッジの基本と、それがなぜ重要かGoでのカバレッジ測定方法と -coverフラグ / -coverprofileフラグ の使い方カバレッジ情報の可視化方法と、足りないテストケースの発見・追加の手順 カバレッジとは？カバレッジとは、テストがどれだけコードを実行したか（網羅したか） を示す割合のことです。テストカバレッジを測定する...]]></content>
+        <author>
+            <name>ともやん</name>
+        </author>
+        <published>2025-08-11T04:47:44.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第278回 テストラジオ RFID リーダーについて | テストラジオ]]></title>
+        <id>https://testradio.fm/?p=1687</id>
+        <link href="https://testradio.fm/testradio-no/1687/"/>
+        <updated>2025-08-10T23:00:00.000Z</updated>
+        <author>
+            <name>なそ＠さとうひろゆき</name>
+        </author>
+        <category label="テストラジオ"/>
+        <published>2025-08-10T23:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vitest Browser ModeにVisual Regression Testが来るぞ | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/apple_yagi/articles/3424f2cdad1bc6</id>
+        <link href="https://zenn.dev/apple_yagi/articles/3424f2cdad1bc6"/>
+        <updated>2025-08-10T13:32:11.000Z</updated>
+        <summary type="html"><![CDATA[先日VitestにこちらのPull Requestがマージされ、Vitest Browser ModeでVisual Regression Test（VRT）ができるようになりました（まだ正式リリースはされていません）。https://github.com/vitest-dev/vitest/pull/8041おそらくVitest v4のリリースで正式に使えるようになりますが、beta versi]]></summary>
+        <content type="html"><![CDATA[先日VitestにこちらのPull Requestがマージされ、Vitest Browser ModeでVisual Regression Test（VRT）ができるようになりました（まだ正式リリースはされていません）。https://github.com/vitest-dev/vitest/pull/8041おそらくVitest v4のリリースで正式に使えるようになりますが、beta versionで実際に試すことができるので試してみました。 デモデモ用のコードはこちらのRepositoryにあります（ProviderはPlaywrightを使用しています）。vitest.c...]]></content>
+        <author>
+            <name>やなぎ</name>
+        </author>
+        <published>2025-08-10T13:32:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[言語化の正体は「見る力」 | くぼぴー]]></title>
+        <id>https://note.com/kubopi/n/nf07edf6affc6</id>
+        <link href="https://note.com/kubopi/n/nf07edf6affc6"/>
+        <updated>2025-08-10T00:16:10.000Z</updated>
+        <summary type="html"><![CDATA[最近、「言語化がうまくなりたいんです」という声を、本当によく目にします。会議で自分の意見を的確に伝えたいとき。日記やSNSで感情を表したいとき。「もっとスムーズに、もっと正確に言葉にしたい！」と思う瞬間って、ありますよね。続きをみる]]></summary>
+        <content type="html"><![CDATA[最近、「言語化がうまくなりたいんです」という声を、本当によく目にします。会議で自分の意見を的確に伝えたいとき。日記やSNSで感情を表したいとき。「もっとスムーズに、もっと正確に言葉にしたい！」と思う瞬間って、ありますよね。続きをみる]]></content>
+        <published>2025-08-10T00:16:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第346回：　「ALTTAのテキストをつくろう」29　（セキュリティテスト） | Kouichi Akiyama]]></title>
+        <id>https://note.com/akiyama924/n/n25df30c63007</id>
+        <link href="https://note.com/akiyama924/n/n25df30c63007"/>
+        <updated>2025-08-09T22:01:20.000Z</updated>
+        <summary type="html"><![CDATA[◀前の記事へ 次の記事へ▶︎≡ はじめに続きをみる]]></summary>
+        <content type="html"><![CDATA[◀前の記事へ 次の記事へ▶︎≡ はじめに続きをみる]]></content>
+        <published>2025-08-09T22:01:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Go】Goのテストに入門してみた！ ~並行テスト編~ | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/tmyhrn/articles/4f67a4cf53f1cb</id>
+        <link href="https://zenn.dev/tmyhrn/articles/4f67a4cf53f1cb"/>
+        <updated>2025-08-09T02:21:16.000Z</updated>
+        <summary type="html"><![CDATA[はじめに前回は、「テストの前処理・後処理」を見ていきました。今回は、「並行テスト」に入門します！前回の記事はこちら！https://zenn.dev/tmyhrn/articles/a93e750fde5d28 この記事でわかることテストを並行実行する方法テスト結果の見方並行実行するケース 普通にテストしてみる擬似的に、以下のような高負荷な処理を実行します。main_test.gopackage ]]></summary>
+        <content type="html"><![CDATA[はじめに前回は、「テストの前処理・後処理」を見ていきました。今回は、「並行テスト」に入門します！前回の記事はこちら！https://zenn.dev/tmyhrn/articles/a93e750fde5d28 この記事でわかることテストを並行実行する方法テスト結果の見方並行実行するケース 普通にテストしてみる擬似的に、以下のような高負荷な処理を実行します。main_test.gopackage mainimport ( "testing" "time" "unicode/utf8")func Length(s st...]]></content>
+        <author>
+            <name>ともやん</name>
+        </author>
+        <published>2025-08-09T02:21:16.000Z</published>
+    </entry>
+</feed>

@@ -1,0 +1,541 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "テスト・QA関連ブログRSS",
+    "home_page_url": "https://yoshikiito.github.io/test-qa-rss-feed/",
+    "feed_url": "https://yoshikiito.github.io/test-qa-rss-feed/feeds/feed.json",
+    "description": "企テスト・QA関連ブログの更新をまとめたRSSフィード",
+    "icon": "https://yoshikiito.github.io/test-qa-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://zenn.dev/tomonao/articles/fc9e7c565ac9c4",
+            "content_html": "導入自社製品の品質を上げたいと思ってネットの情報を探しにいくと、当たり前品質・魅力的品質という考えを目にすることがあると思います。魅力的品質を上げていきたいと考える人が多いと思うが、自社製品がどのレベルにあるのか？どうしたらそれぞれの品質が上がるのか？の把握は難しいと感じているのではないでしょうか？この点についていったんの結論が出たので残しておきます。 誰に充てて書くか機能の仕様や対応方針を決めるPDMやマネージャー、品質に深く関わるQAエンジニア等 結論先に結論を書くと僕は以下のように理解しています。当たり前品質、魅力的品質どちらもユーザー（顧客）から見た品質...",
+            "url": "https://zenn.dev/tomonao/articles/fc9e7c565ac9c4",
+            "title": "魅力的品質を上げるために何を考えたらいいのか | Zennの「QA」のフィード",
+            "summary": "導入自社製品の品質を上げたいと思ってネットの情報を探しにいくと、当たり前品質・魅力的品質という考えを目にすることがあると思います。魅力的品質を上げていきたいと考える人が多いと思うが、自社製品がどのレベルにあるのか？どうしたらそれぞれの品質が上がるのか？の把握は難しいと感じているのではないでしょうか？この点についていったんの結論が出たので残しておきます。 誰に充てて書くか機能の仕様や対応方針を決める",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--h7qZvrT7--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%25AD%2585%25E5%258A%259B%25E7%259A%2584%25E5%2593%2581%25E8%25B3%25AA%25E3%2582%2592%25E4%25B8%258A%25E3%2581%2592%25E3%2582%258B%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AB%25E4%25BD%2595%25E3%2582%2592%25E8%2580%2583%25E3%2581%2588%25E3%2581%259F%25E3%2582%2589%25E3%2581%2584%25E3%2581%2584%25E3%2581%25AE%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:tomonao%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzA4ZGRkN2RiMTAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-08-16T04:47:34.000Z",
+            "date_published": "2025-08-16T04:47:34.000Z",
+            "author": {
+                "name": "tomonao"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "魅力的品質を上げるために何を考えたらいいのか",
+                "blogTitle": "Zennの「QA」のフィード",
+                "blogLink": "https://zenn.dev/topics/qa",
+                "blogLinkMd5Hash": "31c7f35c994712b2f4c822a6de926717",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/hide_yuki/articles/189481e56782b2",
+            "content_html": "はじめに今回はテスト技法の一つ『ドメイン分析テスト』についてまとめてみようと思います。 ドメイン分析テストとはこのテスト技法は、出力が複数の変数の値の組み合わせにより変わるこの時の境界値ごとの振る舞いを効率的に検証する検証対象の境界値以外は全て有効値にするこう言ったテスト技法になります。検証の際は、onoffinoutと言う4つの概念を用います。onは『着目した境界値変数』、offは『onポイントに近傍するもう一つの境界値変数』、inは『有効値』、outは『無効値』になります。onとoffが若干分かりづらいので、以下に具体例を交えて図式化し...",
+            "url": "https://zenn.dev/hide_yuki/articles/189481e56782b2",
+            "title": "ドメイン分析テストってなに？ | Zennの「Test」のフィード",
+            "summary": "はじめに今回はテスト技法の一つ『ドメイン分析テスト』についてまとめてみようと思います。 ドメイン分析テストとはこのテスト技法は、出力が複数の変数の値の組み合わせにより変わるこの時の境界値ごとの振る舞いを効率的に検証する検証対象の境界値以外は全て有効値にするこう言ったテスト技法になります。検証の際は、onoffinoutと言う4つの概念を用います。onは『着目した境界値変数』、offは『onポイント",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--DOx_94tb--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2589%25E3%2583%25A1%25E3%2582%25A4%25E3%2583%25B3%25E5%2588%2586%25E6%259E%2590%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25AA%25E3%2581%25AB%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Hideyuki%2520Fujihara%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSW0xVllMMl9vUng4bTQxbmFranBMRGFjU0pzSno0ejhtd2ViaTllcGhjWGNvaXFJbz1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-08-16T02:42:45.000Z",
+            "date_published": "2025-08-16T02:42:45.000Z",
+            "author": {
+                "name": "Hideyuki Fujihara"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "ドメイン分析テストってなに？",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://qiita.com/fujihara_hideyuki/items/e7243c1ab74580fe8384",
+            "content_html": "はじめに今回はテスト技法の一つ『ドメイン分析テスト』についてまとめてみようと思います。ドメイン分析テストとはこのテスト技法は、出力が複数の変数の値の組み合わせにより変わるこの時の境界値ごとの振る舞いを効率的に検証する検証対象の境界値以外は全て有効値にする...",
+            "url": "https://qiita.com/fujihara_hideyuki/items/e7243c1ab74580fe8384",
+            "title": "ドメイン分析テストってなに？ | ソフトウェアテストタグが付けられた新着記事 - Qiita",
+            "summary": "はじめに今回はテスト技法の一つ『ドメイン分析テスト』についてまとめてみようと思います。ドメイン分析テストとはこのテスト技法は、出力が複数の変数の値の組み合わせにより変わるこの時の境界値ごとの振る舞いを効率的に検証する検証対象の境界値以外は全て有効値にする...",
+            "image": {
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzNjM0MzA5JTJGNGUzZDRmMTZiMDM3YzE3NjA4MDRjYmM5ZTBhOTA3NDkxZWE5MmQzMyUyRnhfbGFyZ2UucG5nJTNGMTczMTM5ODg0ND9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZTJmYTk5OGIzNmRmYWU0NWVmYzg1YzdlMTAxZGY3MDg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Ddf24d77826df6ba10df0273a308616da?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJTg5JUUzJTgzJUExJUUzJTgyJUE0JUUzJTgzJUIzJUU1JTg4JTg2JUU2JTlFJTkwJUUzJTgzJTg2JUUzJTgyJUI5JUUzJTgzJTg4JUUzJTgxJUEzJUUzJTgxJUE2JUUzJTgxJUFBJUUzJTgxJUFCJUVGJUJDJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ODU3MDc4MzM1ZDI5OWFmNDFjZDYyMTJlMjNlNWJmM2U&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBmdWppaGFyYV9oaWRleXVraSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTQ3YWVkYTY0OGJkYjc4NDI2ODlkN2FkODA3MGY0MGE3&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=f181e4a3a3b915c5d52499b473c01624"
+            },
+            "date_modified": "2025-08-16T02:37:51.000Z",
+            "date_published": "2025-08-16T02:37:51.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "ドメイン分析テストってなに？",
+                "blogTitle": "ソフトウェアテストタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c",
+                "favicon": "https://cdn.qiita.com/assets/favicons/public/production-c620d3e403342b1022967ba5e3db1aaa.ico"
+            }
+        },
+        {
+            "id": "https://zenn.dev/toms74209200/articles/all-ai-generated-test-is-scam",
+            "content_html": "今日, AIエージェントを使ったコード生成はかなり一般的になってきました. それにともなって, AIを使って自動テストを生成するといった事例も増えてきました.https://x.com/toms74209200/status/1955849297590616088AIを使った自動テスト生成の対象となるテストはいわゆる開発者テストと呼ばれるプロダクトコードと対応するテストのはずです. 2025年8月現在, これらのテストをAIを使って手放しに生成できません.この記事ではAIによる自動テスト生成の問題点を挙げ, AIを使ったテスト設計の可能性について考察します. AIによる自動テス...",
+            "url": "https://zenn.dev/toms74209200/articles/all-ai-generated-test-is-scam",
+            "title": "AIで自動テスト生成はすべて詐欺です | Zennの「Test」のフィード",
+            "summary": "今日, AIエージェントを使ったコード生成はかなり一般的になってきました. それにともなって, AIを使って自動テストを生成するといった事例も増えてきました.https://x.com/toms74209200/status/1955849297590616088AIを使った自動テスト生成の対象となるテストはいわゆる開発者テストと呼ばれるプロダクトコードと対応するテストのはずです. 2025年8月",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--GtarTdbA--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25A7%25E8%2587%25AA%25E5%258B%2595%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E7%2594%259F%25E6%2588%2590%25E3%2581%25AF%25E3%2581%2599%25E3%2581%25B9%25E3%2581%25A6%25E8%25A9%2590%25E6%25AC%25BA%25E3%2581%25A7%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:toms%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSTVLV3Rva3h5eWFxT0M5ajlpQXhVQjF1NVlndDV3QUprRjVEc0lXcEVDNnVoUD1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-08-15T13:00:00.000Z",
+            "date_published": "2025-08-15T13:00:00.000Z",
+            "author": {
+                "name": "toms"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "AIで自動テスト生成はすべて詐欺です",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/tokium_dev/articles/c986844e3cf8d8",
+            "content_html": "!要約AIエージェントの品質保証という正解のない領域で、TOKIUMのQAチームが実践した試行錯誤の記録です。リスクベースドテストやランダム命令生成ツールなど、4つのブレークスルーと3つの失敗から得た学びを共有します。従来のQA手法が通用しない中で見つけた、新しい品質保証のアプローチとチーム運営の重要性についてお話しします。こんにちは！TOKIUMでQAチームのリーダーをしている西田です。6月にnoteにて、AIエージェントの品質保証という未知の領域への挑戦について、私たちが直面している課題と取り組みの方向性をお話しさせていただきました。前回の記事はこちらあれから数ヶ月...",
+            "url": "https://zenn.dev/tokium_dev/articles/c986844e3cf8d8",
+            "title": "正解のないテストに挑む ― AIエージェントQAの試行錯誤と学び | Zennの「QA」のフィード",
+            "summary": "!要約AIエージェントの品質保証という正解のない領域で、TOKIUMのQAチームが実践した試行錯誤の記録です。リスクベースドテストやランダム命令生成ツールなど、4つのブレークスルーと3つの失敗から得た学びを共有します。従来のQA手法が通用しない中で見つけた、新しい品質保証のアプローチとチーム運営の重要性についてお話しします。こんにちは！TOKIUMでQAチームのリーダーをしている西田です。6月にn",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--UUOJpIn---/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%25AD%25A3%25E8%25A7%25A3%25E3%2581%25AE%25E3%2581%25AA%25E3%2581%2584%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AB%25E6%258C%2591%25E3%2582%2580%2520%25E2%2580%2595%2520AI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588QA%25E3%2581%25AE%25E8%25A9%25A6%25E8%25A1%258C%25E9%258C%25AF%25E8%25AA%25A4%25E3%2581%25A8%25E5%25AD%25A6%25E3%2581%25B3%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ynis_qa%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzViNTEwYjI5ZjEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:TOKIUM%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2580%25E3%2582%25AF%25E3%2583%2588%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTFhVMTBlWmNJX1NyZVZFVEV2MWlqX1BUMUxGQW1KU3ExMHQxNi01YW9iTHEzS1hBPXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-08-15T08:58:04.000Z",
+            "date_published": "2025-08-15T08:58:04.000Z",
+            "author": {
+                "name": "ynis_qa"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "正解のないテストに挑む ― AIエージェントQAの試行錯誤と学び",
+                "blogTitle": "Zennの「QA」のフィード",
+                "blogLink": "https://zenn.dev/topics/qa",
+                "blogLinkMd5Hash": "31c7f35c994712b2f4c822a6de926717",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://ranorex.techmatrix.jp/?p=28782",
+            "content_html": "ソフトウェア開発において、テストの品質はしばしばアプリケーションの品質を左右します。しかし、テストはソフトウェアそのものと同じくらい複雑になりえます。適切に設計されていないテストでは、欠陥が検出されず、セキュリティの脆弱 […]The post テスト設計とは何か、なぜ重要なのか? first appeared on UIテスト自動化ツール Ranorex.",
+            "url": "https://ranorex.techmatrix.jp/blog/2025/08/15/test-design-what-is-it-and-why-is-it-important/",
+            "title": "テスト設計とは何か、なぜ重要なのか? | Ranorex Blog - UIテスト自動化ツール Ranorex",
+            "summary": "ソフトウェア開発において、テストの品質はしばしばアプリケーションの品質を左右します。しかし、テストはソフトウェアそのものと同じくらい複雑になりえます。適切に設計されていないテストでは、欠陥が検出されず、セキュリティの脆弱 […]The post テスト設計とは何か、なぜ重要なのか? first appeared on UIテスト自動化ツール Ranorex.",
+            "image": {
+                "url": "https://57.180.23.150/wp-content/uploads/rx-logo-desktop-dark.png",
+                "type": "png"
+            },
+            "date_modified": "2025-08-15T02:00:17.000Z",
+            "date_published": "2025-08-15T02:00:17.000Z",
+            "author": {
+                "name": "user"
+            },
+            "tags": [
+                "事例・ソリューション"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "テスト設計とは何か、なぜ重要なのか?",
+                "blogTitle": "Ranorex Blog - UIテスト自動化ツール Ranorex",
+                "blogLink": "https://ranorex.techmatrix.jp",
+                "blogLinkMd5Hash": "e546ea5aec07f38807045009c0bc98ec",
+                "favicon": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_32,h_32/https://ranorex.techmatrix.jp/wp-content/uploads/cropped-RNX-new_favicon-32x32.png"
+            }
+        },
+        {
+            "id": "https://www.kzsuzuki.com/entry/2025/08/15/092000",
+            "content_html": "日ごろ、英語のちょっとしたお勉強に生成AIをどう使っているかをご紹介します。 わたしは生成AI使いこなしマンってわけでもないので、ちょっと恥ずかしいのですが。 ざっくりと、3つあります。 語幹を調べる 意味の違いを調べる 英文を添削してもらう 1. 語幹を調べる 「英語のボキャブラリーを強化する」なんて目的がなくても、単語における「語幹」というのは面白いものです。 よく例に出るのが「philosophy」（哲学）。philoは「愛する」でsophyは「知恵」なので、philosophyは「知恵を愛する」ことであり、愛知県のことでもあります。 「Mesopotamia」（メソポタミア）もいいです…",
+            "url": "https://www.kzsuzuki.com/entry/2025/08/15/092000",
+            "title": "英語中級者(自称)による、英語学習における生成AIのちょっとした使い方 | ソフトウェアの品質を学びまくる",
+            "summary": "日ごろ、英語のちょっとしたお勉強に生成AIをどう使っているかをご紹介します。 わたしは生成AI使いこなしマンってわけでもないので、ちょっと恥ずかしいのですが。 ざっくりと、3つあります。 語幹を調べる 意味の違いを調べる 英文を添削してもらう 1. 語幹を調べる 「英語のボキャブラリーを強化する」なんて目的がなくても、単語における「語幹」というのは面白いものです。 よく例に出るのが「philoso",
+            "image": {
+                "url": "https://ogimage.blog.st-hatena.com/10328537792364693059/6802418398546456135/1755216211",
+                "alt": "英語中級者(自称)による、英語学習における生成AIのちょっとした使い方 - ソフトウェアの品質を学びまくる"
+            },
+            "date_modified": "2025-08-15T00:20:00.000Z",
+            "date_published": "2025-08-15T00:20:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "英語中級者(自称)による、英語学習における生成AIのちょっとした使い方",
+                "blogTitle": "ソフトウェアの品質を学びまくる",
+                "blogLink": "https://www.kzsuzuki.com/",
+                "blogLinkMd5Hash": "820346042fa92e9ed46d1a2f5e2d20d3",
+                "favicon": "https://www.kzsuzuki.com/icon/favicon"
+            }
+        },
+        {
+            "id": "https://note.com/kubopi/n/n85cc73266d26",
+            "content_html": "こんにちは。kubopです。今回は品質の内製化について書こうと思います。私が今の会社に入ったとき、品質保証の一部は外部パートナーの方々にお願いしていました。プロジェクト終盤に集中的にテストをしてもらう形です。これは当時の規模や状況に合った判断だったと思いますし、外部の知見や網羅性には確かな価値がありました。ただ、私は入社前から「品質はチームの中でつくる方が、アジリティも学びも大きい」と感じていました。続きをみる",
+            "url": "https://note.com/kubopi/n/n85cc73266d26",
+            "title": "QA内製化による品質改善と学習循環の作り方 | くぼぴー",
+            "summary": "こんにちは。kubopです。今回は品質の内製化について書こうと思います。私が今の会社に入ったとき、品質保証の一部は外部パートナーの方々にお願いしていました。プロジェクト終盤に集中的にテストをしてもらう形です。これは当時の規模や状況に合った判断だったと思いますし、外部の知見や網羅性には確かな価値がありました。ただ、私は入社前から「品質はチームの中でつくる方が、アジリティも学びも大きい」と感じていまし",
+            "image": {
+                "url": "https://assets.st-note.com/production/uploads/images/208581064/rectangle_large_type_2_c95378897b9b901619c3df63687bc9a1.png?fit=bounds&quality=85&width=1280",
+                "type": "png"
+            },
+            "date_modified": "2025-08-15T00:10:51.000Z",
+            "date_published": "2025-08-15T00:10:51.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "QA内製化による品質改善と学習循環の作り方",
+                "blogTitle": "くぼぴー",
+                "blogLink": "https://note.com/kubopi",
+                "blogLinkMd5Hash": "42d39bc686a274f60627f75516c552eb",
+                "favicon": "https://assets.st-note.com/poc-image/manual/note-common-images/production/svg/production.ico"
+            }
+        },
+        {
+            "id": "https://zenn.dev/tmyhrn/articles/28815a1296e856",
+            "content_html": "はじめに前回は「ベンチマーク」を見ていきました。今回は「テーブル駆動ベンチマークテスト」に入門します。前回の記事はこちら！https://zenn.dev/tmyhrn/articles/fd7e9de821e631 この記事でわかることテーブル駆動テストをベンチマークテストで活用する方法テーブル駆動ベンチマークテストのメリットと不要なケース テーブル駆動ベンチマークテスト前回の記事で、文字列結合についてのベンチマークをとりました。今回はそれをテーブル駆動テストで実行してみます。main_test.gopackage mainimport (...",
+            "url": "https://zenn.dev/tmyhrn/articles/28815a1296e856",
+            "title": "【Go】Goのテストに入門してみた！ ~テーブル駆動ベンチマークテスト編~ | Zennの「Test」のフィード",
+            "summary": "はじめに前回は「ベンチマーク」を見ていきました。今回は「テーブル駆動ベンチマークテスト」に入門します。前回の記事はこちら！https://zenn.dev/tmyhrn/articles/fd7e9de821e631 この記事でわかることテーブル駆動テストをベンチマークテストで活用する方法テーブル駆動ベンチマークテストのメリットと不要なケース テーブル駆動ベンチマークテスト前回の記事で、文字列結合",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--RNH4lpVS--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Go%25E3%2580%2591Go%25E3%2581%25AE%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AB%25E5%2585%25A5%25E9%2596%2580%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25EF%25BC%2581%2520%7E%25E3%2583%2586%25E3%2583%25BC%25E3%2583%2596%25E3%2583%25AB%25E9%25A7%2586%25E5%258B%2595%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2581%25E3%2583%259E%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E7%25B7%25A8%7E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25A8%25E3%2582%2582%25E3%2582%2584%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzY4ODIzYmE0YmIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-08-14T22:00:01.000Z",
+            "date_published": "2025-08-14T22:00:01.000Z",
+            "author": {
+                "name": "ともやん"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【Go】Goのテストに入門してみた！ ~テーブル駆動ベンチマークテスト編~",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://note.com/ptw_note/n/n75980d17566e",
+            "content_html": "ポールトゥウィンと雇用契約を結び、プロとして活動するパラパフォーマー®️「Team PTW（チーム・ピー・ティー・ダブリュー）」。彼らと対談するのは、モデル・ダンサーといった多様なフィールドを横断しながら、自らの思想を形にするプロジェクト「FLATLAND」を設立した森田美勇人（もりた・みゅうと）さん。前回は、Team PTW誕生の背景や、優和とHARUKIそれぞれの個性にフォーカスしました。今回の後編では、パラパフォーマーとして活動することの意味や可能性、そしてこれから描いていく未来について語り合ったセッションの模様をお届けします。（第一回の記事はこちらからご覧いただけます）続きをみる",
+            "url": "https://note.com/ptw_note/n/n75980d17566e",
+            "title": "パフォーマーとして人の心を動かし、ポジティブに生きることで見る人の人生を後押しする | PTW／ポールトゥウィン【公式】",
+            "summary": "ポールトゥウィンと雇用契約を結び、プロとして活動するパラパフォーマー®️「Team PTW（チーム・ピー・ティー・ダブリュー）」。彼らと対談するのは、モデル・ダンサーといった多様なフィールドを横断しながら、自らの思想を形にするプロジェクト「FLATLAND」を設立した森田美勇人（もりた・みゅうと）さん。前回は、Team PTW誕生の背景や、優和とHARUKIそれぞれの個性にフォーカスしました。今回",
+            "image": {
+                "url": "https://assets.st-note.com/production/uploads/images/208361580/rectangle_large_type_2_3fb8f44ba0653dc210a48d965bd35d3e.jpeg?fit=bounds&quality=85&width=1280",
+                "type": "jpeg"
+            },
+            "date_modified": "2025-08-14T06:00:00.000Z",
+            "date_published": "2025-08-14T06:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "パフォーマーとして人の心を動かし、ポジティブに生きることで見る人の人生を後押しする",
+                "blogTitle": "PTW／ポールトゥウィン【公式】",
+                "blogLink": "https://note.com/ptw_note",
+                "blogLinkMd5Hash": "c103f4fb687e07c2b659e68a22b0ad7a",
+                "favicon": "https://assets.st-note.com/poc-image/manual/note-common-images/production/svg/production.ico"
+            }
+        },
+        {
+            "id": "https://ranorex.techmatrix.jp/?p=29166",
+            "content_html": "概要 本セミナーは、Ranorexと連携が可能なテスト管理ツール「TestRail」の事例セミナーです。 パナソニック コネクト様をお招きして、第三者検証の現場で直面していたエクセル管理によるテスト管理の限界といった課題 […]The post 2025年8月26日 事例セミナー開催 「テスト管理の新常識：パナソニック コネクト直伝！エクセル管理の限界を突破するTestRail活用術」 first appeared on UIテスト自動化ツール Ranorex.",
+            "url": "https://ranorex.techmatrix.jp/blog/2025/08/14/2025826_seminar/",
+            "title": "2025年8月26日 事例セミナー開催 「テスト管理の新常識：パナソニック コネクト直伝！エクセル管理の限界を突破するTestRail活用術」 | Ranorex Blog - UIテスト自動化ツール Ranorex",
+            "summary": "概要 本セミナーは、Ranorexと連携が可能なテスト管理ツール「TestRail」の事例セミナーです。 パナソニック コネクト様をお招きして、第三者検証の現場で直面していたエクセル管理によるテスト管理の限界といった課題 […]The post 2025年8月26日 事例セミナー開催 「テスト管理の新常識：パナソニック コネクト直伝！エクセル管理の限界を突破するTestRail活用術」 first",
+            "image": {
+                "url": "https://57.180.23.150/wp-content/uploads/rx-logo-desktop-dark.png",
+                "type": "png"
+            },
+            "date_modified": "2025-08-14T05:34:55.000Z",
+            "date_published": "2025-08-14T05:34:55.000Z",
+            "author": {
+                "name": "user"
+            },
+            "tags": [
+                "セミナー・お知らせ"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "2025年8月26日 事例セミナー開催 「テスト管理の新常識：パナソニック コネクト直伝！エクセル管理の限界を突破するTestRail活用術」",
+                "blogTitle": "Ranorex Blog - UIテスト自動化ツール Ranorex",
+                "blogLink": "https://ranorex.techmatrix.jp",
+                "blogLinkMd5Hash": "e546ea5aec07f38807045009c0bc98ec",
+                "favicon": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_32,h_32/https://ranorex.techmatrix.jp/wp-content/uploads/cropped-RNX-new_favicon-32x32.png"
+            }
+        },
+        {
+            "id": "https://www.kzsuzuki.com/entry/2025/08/14/113708",
+            "content_html": "「噛めば噛むほど味が出るスルメのような」 という比喩は、しばしば書籍にも用いられます。最初に読んだ時にはすっと通り過ぎてしまったけれど、少し経験を積んで読み直してみると、「この何気ない一言は、そういうことだったのか！」 と合点してしまうような本です。 なぜ、そのような本が生まれるのか。 それは、その本の記述が、「ネットで調べたことをまとめてみました！」ではなく、徹底した実践と経験に裏付けられているからでしょう。そのため、読む側の経験値が増えると、著者の意図がストレートに伝わってきて、その経験を追体験できるのです。 2025年6月、井芹洋輝（@goyoki）さんの『ソフトウェアテスト徹底指南書』…",
+            "url": "https://www.kzsuzuki.com/entry/2025/08/14/113708",
+            "title": "『ソフトウェアテスト徹底指南書』、鉛のごときその濃密さ | ソフトウェアの品質を学びまくる",
+            "summary": "「噛めば噛むほど味が出るスルメのような」 という比喩は、しばしば書籍にも用いられます。最初に読んだ時にはすっと通り過ぎてしまったけれど、少し経験を積んで読み直してみると、「この何気ない一言は、そういうことだったのか！」 と合点してしまうような本です。 なぜ、そのような本が生まれるのか。 それは、その本の記述が、「ネットで調べたことをまとめてみました！」ではなく、徹底した実践と経験に裏付けられている",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/715fb663f5241c6a56f639783e92ff4dee773a80/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F41PwZWeYcWL._SL500_.jpg",
+                "alt": "『ソフトウェアテスト徹底指南書』、鉛のごときその濃密さ - ソフトウェアの品質を学びまくる",
+                "type": "jpg"
+            },
+            "date_modified": "2025-08-14T02:37:08.000Z",
+            "date_published": "2025-08-14T02:37:08.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "『ソフトウェアテスト徹底指南書』、鉛のごときその濃密さ",
+                "blogTitle": "ソフトウェアの品質を学びまくる",
+                "blogLink": "https://www.kzsuzuki.com/",
+                "blogLinkMd5Hash": "820346042fa92e9ed46d1a2f5e2d20d3",
+                "favicon": "https://www.kzsuzuki.com/icon/favicon"
+            }
+        },
+        {
+            "id": "https://developers.freee.co.jp/entry/jittest_intro",
+            "content_html": "こんにちは、freeeで支出管理領域のQAマネージャーをしているrenです。 今回は、支出管理領域のCIパイプラインにJust in Time Test（JiT Test）という仕組みを試験的に導入している話をします。 Just in Time Testとは PR作成時に、LLMを活用して生成するジャストインタイムなテストのことを指します。 MetaのMark Harman、Peter O'Hearn、Shubho Senguptaらが提唱している「Assured LLM-Based Software Testing」という研究領域に基づくものです。 論文「Harden and Catch f…",
+            "url": "https://developers.freee.co.jp/entry/jittest_intro",
+            "title": "PRごとのテスト生成を支援するJust in Time Testという仕組み | QA - freee Developers Hub",
+            "summary": "こんにちは、freeeで支出管理領域のQAマネージャーをしているrenです。 今回は、支出管理領域のCIパイプラインにJust in Time Test（JiT Test）という仕組みを試験的に導入している話をします。 Just in Time Testとは PR作成時に、LLMを活用して生成するジャストインタイムなテストのことを指します。 MetaのMark Harman、Peter O'Hea",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/4fde39a8ec5706c8957be8d9e22605d952074bf1/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fr%2Fropqa%2F20250812%2F20250812131307.png",
+                "alt": "PRごとのテスト生成を支援するJust in Time Testという仕組み - freee Developers Hub",
+                "type": "png"
+            },
+            "date_modified": "2025-08-13T01:00:00.000Z",
+            "date_published": "2025-08-13T01:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 122,
+                "originalTitle": "PRごとのテスト生成を支援するJust in Time Testという仕組み",
+                "blogTitle": "QA - freee Developers Hub",
+                "blogLink": "https://developers.freee.co.jp/archive/category/QA",
+                "blogLinkMd5Hash": "974dfe605e8f2dc4af53b8811508cabb",
+                "favicon": "https://developers.freee.co.jp/icon/favicon"
+            }
+        },
+        {
+            "id": "https://zenn.dev/tmyhrn/articles/fd7e9de821e631",
+            "content_html": "はじめに前回は「カバレッジ」を見ていきました。今回は「ベンチマーク」に入門していきます！前回の記事はこちら！https://zenn.dev/tmyhrn/articles/93c20bcd2c3442 この記事でわかることベンチマークとは何かGoのベンチマークテストの書き方ベンチマークテスト結果の見方 ベンチマークとは？ベンチマークとは、プログラムの処理性能（速度やメモリ使用量）を数値的に測定する方法です。Goでは、testingパッケージ を使って、関数の実行時間やメモリ消費量、アロケーションの頻度を自動で計測できます。ベンチマークを使うことで、...",
+            "url": "https://zenn.dev/tmyhrn/articles/fd7e9de821e631",
+            "title": "【Go】Goのテストに入門してみた！ ~ベンチマーク編~ | Zennの「Test」のフィード",
+            "summary": "はじめに前回は「カバレッジ」を見ていきました。今回は「ベンチマーク」に入門していきます！前回の記事はこちら！https://zenn.dev/tmyhrn/articles/93c20bcd2c3442 この記事でわかることベンチマークとは何かGoのベンチマークテストの書き方ベンチマークテスト結果の見方 ベンチマークとは？ベンチマークとは、プログラムの処理性能（速度やメモリ使用量）を数値的に測定す",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--3BgSBg0X--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Go%25E3%2580%2591Go%25E3%2581%25AE%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AB%25E5%2585%25A5%25E9%2596%2580%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25EF%25BC%2581%2520%7E%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2581%25E3%2583%259E%25E3%2583%25BC%25E3%2582%25AF%25E7%25B7%25A8%7E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25A8%25E3%2582%2582%25E3%2582%2584%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzY4ODIzYmE0YmIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-08-12T23:30:06.000Z",
+            "date_published": "2025-08-12T23:30:06.000Z",
+            "author": {
+                "name": "ともやん"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【Go】Goのテストに入門してみた！ ~ベンチマーク編~",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://note.com/kubopi/n/ne7776ef4d6c3",
+            "content_html": "こんにちは、kubopです。「失敗しない」ことを目指すのは、安全なようで危険な選択です。うまくやろうとした結果、失ったものはありませんか？私はそれに気づき、うまくやることをやめました。うまくやることをやめる続きをみる",
+            "url": "https://note.com/kubopi/n/ne7776ef4d6c3",
+            "title": "チームが\"挑戦し続ける\"には、自ら\"失敗し続ける\" | くぼぴー",
+            "summary": "こんにちは、kubopです。「失敗しない」ことを目指すのは、安全なようで危険な選択です。うまくやろうとした結果、失ったものはありませんか？私はそれに気づき、うまくやることをやめました。うまくやることをやめる続きをみる",
+            "image": {
+                "url": "https://assets.st-note.com/production/uploads/images/207989385/rectangle_large_type_2_9bc595bf2d90416e39bb8fa0988fbd19.png?fit=bounds&quality=85&width=1280",
+                "type": "png"
+            },
+            "date_modified": "2025-08-12T02:15:55.000Z",
+            "date_published": "2025-08-12T02:15:55.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "チームが\"挑戦し続ける\"には、自ら\"失敗し続ける\"",
+                "blogTitle": "くぼぴー",
+                "blogLink": "https://note.com/kubopi",
+                "blogLinkMd5Hash": "42d39bc686a274f60627f75516c552eb",
+                "favicon": "https://assets.st-note.com/poc-image/manual/note-common-images/production/svg/production.ico"
+            }
+        },
+        {
+            "id": "https://zenn.dev/jay_es/articles/2025-08-11-avoid-nesting-when-youre-testing",
+            "content_html": "Kent C. Dodds 氏による Avoid Nesting when you're Testing という記事を翻訳させていただきました。以下、本文。これからご紹介するのは、React コンポーネントのテストに適用される一般的なテスト原則です。例に React を使用していますが、この概念正しく理解するのに役立つことを願っています。!ネスト自体が悪いと言っているのではありません。しかしネストはテストフック（beforeEach など）をコード再利用の手段として使うことを促進し、結果としてメンテナンスしづらいテストになってしまうということです。続きをお読みください。テス...",
+            "url": "https://zenn.dev/jay_es/articles/2025-08-11-avoid-nesting-when-youre-testing",
+            "title": "テストをするときネストをするな - Avoid Nesting when you're Testing | Zennの「Test」のフィード",
+            "summary": "Kent C. Dodds 氏による Avoid Nesting when you're Testing という記事を翻訳させていただきました。以下、本文。これからご紹介するのは、React コンポーネントのテストに適用される一般的なテスト原則です。例に React を使用していますが、この概念正しく理解するのに役立つことを願っています。!ネスト自体が悪いと言っているのではありません。しかしネスト",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--v_WUy2l---/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2582%2592%25E3%2581%2599%25E3%2582%258B%25E3%2581%25A8%25E3%2581%258D%25E3%2583%258D%25E3%2582%25B9%25E3%2583%2588%25E3%2582%2592%25E3%2581%2599%25E3%2582%258B%25E3%2581%25AA%2520-%2520Avoid%2520Nesting%2520when%2520you%2527re%2520Testing%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:jay-es%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hTT1NsdjJlWERneXVQbVRNR2xEa2ZZb2pKNnNGcmVjVmFpOWRWTUE9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-08-11T05:54:06.000Z",
+            "date_published": "2025-08-11T05:54:06.000Z",
+            "author": {
+                "name": "jay-es"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 83,
+                "originalTitle": "テストをするときネストをするな - Avoid Nesting when you're Testing",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/tmyhrn/articles/93c20bcd2c3442",
+            "content_html": "はじめに前回は「並行テスト」を見ていきました。今回は「カバレッジ」に入門していきます！前回の記事はこちら！https://zenn.dev/tmyhrn/articles/4f67a4cf53f1cb この記事でわかることテストカバレッジの基本と、それがなぜ重要かGoでのカバレッジ測定方法と -coverフラグ / -coverprofileフラグ の使い方カバレッジ情報の可視化方法と、足りないテストケースの発見・追加の手順 カバレッジとは？カバレッジとは、テストがどれだけコードを実行したか（網羅したか） を示す割合のことです。テストカバレッジを測定する...",
+            "url": "https://zenn.dev/tmyhrn/articles/93c20bcd2c3442",
+            "title": "【Go】Goのテストに入門してみた！ ~カバレッジ編~ | Zennの「Test」のフィード",
+            "summary": "はじめに前回は「並行テスト」を見ていきました。今回は「カバレッジ」に入門していきます！前回の記事はこちら！https://zenn.dev/tmyhrn/articles/4f67a4cf53f1cb この記事でわかることテストカバレッジの基本と、それがなぜ重要かGoでのカバレッジ測定方法と -coverフラグ / -coverprofileフラグ の使い方カバレッジ情報の可視化方法と、足りないテ",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--xdVUtKNY--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Go%25E3%2580%2591Go%25E3%2581%25AE%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AB%25E5%2585%25A5%25E9%2596%2580%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25EF%25BC%2581%2520%7E%25E3%2582%25AB%25E3%2583%2590%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25B8%25E7%25B7%25A8%7E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25A8%25E3%2582%2582%25E3%2582%2584%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzY4ODIzYmE0YmIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-08-11T04:47:44.000Z",
+            "date_published": "2025-08-11T04:47:44.000Z",
+            "author": {
+                "name": "ともやん"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【Go】Goのテストに入門してみた！ ~カバレッジ編~",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://testradio.fm/?p=1687",
+            "content_html": "",
+            "url": "https://testradio.fm/testradio-no/1687/",
+            "title": "第278回 テストラジオ RFID リーダーについて | テストラジオ",
+            "image": {
+                "height": "463",
+                "url": "https://testradio.fm/wp/wp-content/uploads/2025/08/a0db38ee6130ed0a432c8702e740a54d.png",
+                "width": "463",
+                "type": "png"
+            },
+            "date_modified": "2025-08-10T23:00:00.000Z",
+            "date_published": "2025-08-10T23:00:00.000Z",
+            "author": {
+                "name": "なそ＠さとうひろゆき"
+            },
+            "tags": [
+                "テストラジオ"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "第278回 テストラジオ RFID リーダーについて",
+                "blogTitle": "テストラジオ",
+                "blogLink": "https://testradio.fm",
+                "blogLinkMd5Hash": "8a3e971c7d1528db9e98a24a8bb08a1d",
+                "favicon": "https://testradio.fm/wp/wp-content/uploads/2017/08/cropped-スタンプ-32x32.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/apple_yagi/articles/3424f2cdad1bc6",
+            "content_html": "先日VitestにこちらのPull Requestがマージされ、Vitest Browser ModeでVisual Regression Test（VRT）ができるようになりました（まだ正式リリースはされていません）。https://github.com/vitest-dev/vitest/pull/8041おそらくVitest v4のリリースで正式に使えるようになりますが、beta versionで実際に試すことができるので試してみました。 デモデモ用のコードはこちらのRepositoryにあります（ProviderはPlaywrightを使用しています）。vitest.c...",
+            "url": "https://zenn.dev/apple_yagi/articles/3424f2cdad1bc6",
+            "title": "Vitest Browser ModeにVisual Regression Testが来るぞ | Zennの「Test」のフィード",
+            "summary": "先日VitestにこちらのPull Requestがマージされ、Vitest Browser ModeでVisual Regression Test（VRT）ができるようになりました（まだ正式リリースはされていません）。https://github.com/vitest-dev/vitest/pull/8041おそらくVitest v4のリリースで正式に使えるようになりますが、beta versi",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--Jv_LYO8e--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Vitest%2520Browser%2520Mode%25E3%2581%25ABVisual%2520Regression%2520Test%25E3%2581%258C%25E6%259D%25A5%25E3%2582%258B%25E3%2581%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2584%25E3%2581%25AA%25E3%2581%258E%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzg2MmRhMjZlNDAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-08-10T13:32:11.000Z",
+            "date_published": "2025-08-10T13:32:11.000Z",
+            "author": {
+                "name": "やなぎ"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 38,
+                "originalTitle": "Vitest Browser ModeにVisual Regression Testが来るぞ",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://note.com/kubopi/n/nf07edf6affc6",
+            "content_html": "最近、「言語化がうまくなりたいんです」という声を、本当によく目にします。会議で自分の意見を的確に伝えたいとき。日記やSNSで感情を表したいとき。「もっとスムーズに、もっと正確に言葉にしたい！」と思う瞬間って、ありますよね。続きをみる",
+            "url": "https://note.com/kubopi/n/nf07edf6affc6",
+            "title": "言語化の正体は「見る力」 | くぼぴー",
+            "summary": "最近、「言語化がうまくなりたいんです」という声を、本当によく目にします。会議で自分の意見を的確に伝えたいとき。日記やSNSで感情を表したいとき。「もっとスムーズに、もっと正確に言葉にしたい！」と思う瞬間って、ありますよね。続きをみる",
+            "image": {
+                "url": "https://assets.st-note.com/production/uploads/images/207529721/rectangle_large_type_2_423f7650adff37003642eeae2f215d33.png?fit=bounds&quality=85&width=1280",
+                "type": "png"
+            },
+            "date_modified": "2025-08-10T00:16:10.000Z",
+            "date_published": "2025-08-10T00:16:10.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "言語化の正体は「見る力」",
+                "blogTitle": "くぼぴー",
+                "blogLink": "https://note.com/kubopi",
+                "blogLinkMd5Hash": "42d39bc686a274f60627f75516c552eb",
+                "favicon": "https://assets.st-note.com/poc-image/manual/note-common-images/production/svg/production.ico"
+            }
+        },
+        {
+            "id": "https://note.com/akiyama924/n/n25df30c63007",
+            "content_html": "◀前の記事へ 次の記事へ▶︎≡ はじめに続きをみる",
+            "url": "https://note.com/akiyama924/n/n25df30c63007",
+            "title": "第346回：　「ALTTAのテキストをつくろう」29　（セキュリティテスト） | Kouichi Akiyama",
+            "summary": "◀前の記事へ 次の記事へ▶︎≡ はじめに続きをみる",
+            "image": {
+                "url": "https://assets.st-note.com/production/uploads/images/206353731/rectangle_large_type_2_1869aafd5714cc25980057c0fa28ec23.png?fit=bounds&quality=85&width=1280",
+                "type": "png"
+            },
+            "date_modified": "2025-08-09T22:01:20.000Z",
+            "date_published": "2025-08-09T22:01:20.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "第346回：　「ALTTAのテキストをつくろう」29　（セキュリティテスト）",
+                "blogTitle": "Kouichi Akiyama",
+                "blogLink": "https://note.com/akiyama924",
+                "blogLinkMd5Hash": "d78afad1063505d755d008a40f9424e8",
+                "favicon": "https://assets.st-note.com/poc-image/manual/note-common-images/production/svg/production.ico"
+            }
+        },
+        {
+            "id": "https://zenn.dev/tmyhrn/articles/4f67a4cf53f1cb",
+            "content_html": "はじめに前回は、「テストの前処理・後処理」を見ていきました。今回は、「並行テスト」に入門します！前回の記事はこちら！https://zenn.dev/tmyhrn/articles/a93e750fde5d28 この記事でわかることテストを並行実行する方法テスト結果の見方並行実行するケース 普通にテストしてみる擬似的に、以下のような高負荷な処理を実行します。main_test.gopackage mainimport ( \"testing\" \"time\" \"unicode/utf8\")func Length(s st...",
+            "url": "https://zenn.dev/tmyhrn/articles/4f67a4cf53f1cb",
+            "title": "【Go】Goのテストに入門してみた！ ~並行テスト編~ | Zennの「Test」のフィード",
+            "summary": "はじめに前回は、「テストの前処理・後処理」を見ていきました。今回は、「並行テスト」に入門します！前回の記事はこちら！https://zenn.dev/tmyhrn/articles/a93e750fde5d28 この記事でわかることテストを並行実行する方法テスト結果の見方並行実行するケース 普通にテストしてみる擬似的に、以下のような高負荷な処理を実行します。main_test.gopackage ",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--yAm1FIJE--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Go%25E3%2580%2591Go%25E3%2581%25AE%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AB%25E5%2585%25A5%25E9%2596%2580%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25EF%25BC%2581%2520%7E%25E4%25B8%25A6%25E8%25A1%258C%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E7%25B7%25A8%7E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25A8%25E3%2582%2582%25E3%2582%2584%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzY4ODIzYmE0YmIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-08-09T02:21:16.000Z",
+            "date_published": "2025-08-09T02:21:16.000Z",
+            "author": {
+                "name": "ともやん"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【Go】Goのテストに入門してみた！ ~並行テスト編~",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        }
+    ]
+}
