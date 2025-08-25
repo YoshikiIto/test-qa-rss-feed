@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yoshikiito.github.io/test-qa-rss-feed/</id>
+    <title>テスト・QA関連ブログRSS</title>
+    <updated>2025-08-25T15:05:19.155Z</updated>
+    <generator>yoshikiito/test-qa-rss-feed</generator>
+    <link rel="alternate" href="https://yoshikiito.github.io/test-qa-rss-feed/"/>
+    <link rel="self" href="https://yoshikiito.github.io/test-qa-rss-feed/feeds/atom.xml"/>
+    <subtitle>企テスト・QA関連ブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://yoshikiito.github.io/test-qa-rss-feed/images/icon.png</logo>
+    <icon>https://yoshikiito.github.io/test-qa-rss-feed/images/favicon.ico</icon>
+    <rights>yoshikiito/test-qa-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[gpt-oss:20bでpromptfooのテストケースを試してみる | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/rounda_blog/articles/a03ee2f656c6cc</id>
+        <link href="https://zenn.dev/rounda_blog/articles/a03ee2f656c6cc"/>
+        <updated>2025-08-25T03:41:25.000Z</updated>
+        <summary type="html"><![CDATA[書き手・読み手のモチベーションgpt-ossをちょっと使ってみたいapache2.0なので、もしかしたら組み込みや自社利用もあるかももし使うとなった場合APIに比べて、アラインメントはどんな感じでされているのかせっかくなんで、CI的なテストも回していきたい、promptfooとか使ってみて promptfoohttps://www.promptfoo.dev/promptfooは、生成AIやLLM]]></summary>
+        <content type="html"><![CDATA[書き手・読み手のモチベーションgpt-ossをちょっと使ってみたいapache2.0なので、もしかしたら組み込みや自社利用もあるかももし使うとなった場合APIに比べて、アラインメントはどんな感じでされているのかせっかくなんで、CI的なテストも回していきたい、promptfooとか使ってみて promptfoohttps://www.promptfoo.dev/promptfooは、生成AIやLLMを評価・テストするためのオープンソースツールユーザーが用意したプロンプトや期待する出力をもとに、複数のモデルに対して同じ条件でテストを実施し、精度や一貫性...]]></content>
+        <author>
+            <name>stranglehello</name>
+        </author>
+        <published>2025-08-25T03:41:25.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Go】Goのテストに入門してみた！ ~環境変数編~ | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/tmyhrn/articles/0cdad99f2c7b51</id>
+        <link href="https://zenn.dev/tmyhrn/articles/0cdad99f2c7b51"/>
+        <updated>2025-08-24T22:45:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに前回は「httptest」を見ていきました。今回は「環境変数のセット」に入門します！前回の記事はこちら！ この記事でわかることGoのユニットテストにおける環境変数のセットの仕方と T.Setenv の特徴Goのベンチマークテストにおける環境変数のセットの仕方と B.Setenv の特徴 ユニットテストで環境変数を設定するには？テストをする際に、環境変数に依存した処理をテストすることがあるか]]></summary>
+        <content type="html"><![CDATA[はじめに前回は「httptest」を見ていきました。今回は「環境変数のセット」に入門します！前回の記事はこちら！ この記事でわかることGoのユニットテストにおける環境変数のセットの仕方と T.Setenv の特徴Goのベンチマークテストにおける環境変数のセットの仕方と B.Setenv の特徴 ユニットテストで環境変数を設定するには？テストをする際に、環境変数に依存した処理をテストすることがあるかと思います。ユニットテストで一時的な環境変数を設定するには、Go 1.17から導入された T.Setenv を使います。T.Setenv のドキュメントには以下...]]></content>
+        <author>
+            <name>ともやん</name>
+        </author>
+        <published>2025-08-24T22:45:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[感情のシフトチェンジ | yuden]]></title>
+        <id>https://note.com/ydn_/n/nea8b1f83c24f</id>
+        <link href="https://note.com/ydn_/n/nea8b1f83c24f"/>
+        <updated>2025-08-24T11:09:09.000Z</updated>
+        <summary type="html"><![CDATA[私たちはプラスな感情をポジティブと、マイナスな感情をネガティブと表現します。そしてこの感情上下を日々コントロールし、時にはこの波にコントロールされています。ポジティブとネガティブは別である続きをみる]]></summary>
+        <content type="html"><![CDATA[私たちはプラスな感情をポジティブと、マイナスな感情をネガティブと表現します。そしてこの感情上下を日々コントロールし、時にはこの波にコントロールされています。ポジティブとネガティブは別である続きをみる]]></content>
+        <published>2025-08-24T11:09:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソフトウェアテスト徹底指南書 〜開発の高品質と高スピードを両立させる実践アプローチ　の感想 | テストする人。]]></title>
+        <id>https://underscore42rina.hatenablog.com/entry/2025/08/24/135432</id>
+        <link href="https://underscore42rina.hatenablog.com/entry/2025/08/24/135432"/>
+        <updated>2025-08-24T04:54:32.000Z</updated>
+        <summary type="html"><![CDATA[※本文にはほとんどふれていないエントリーです。 ソフトウェアテスト徹底指南書 〜開発の高品質と高スピードを両立させる実践アプローチ gihyo.jp という本が今年発売されました。 全43章というのに周囲がどよめいたとんでもない本です。 なんとか全部読み終わった（と言えないので、ページを全部めくったの方が近いと思う）ので、感想エントリー 一言でいうと、著者の井芹洋輝さん（私はいつも いせりんと呼ん]]></summary>
+        <content type="html"><![CDATA[※本文にはほとんどふれていないエントリーです。 ソフトウェアテスト徹底指南書 〜開発の高品質と高スピードを両立させる実践アプローチ gihyo.jp という本が今年発売されました。 全43章というのに周囲がどよめいたとんでもない本です。 なんとか全部読み終わった（と言えないので、ページを全部めくったの方が近いと思う）ので、感想エントリー 一言でいうと、著者の井芹洋輝さん（私はいつも いせりんと呼んでいるので以降いせりんで）は国宝な本を出しちゃったな。って感想。 いせりんは、尊敬するソフトウェアテスト技術者の一人で、彼の素晴らしさは、圧倒的な知識量と探究心と守備範囲の広さ、そして丁寧で誠実、誰に…]]></content>
+        <published>2025-08-24T04:54:32.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[full-stack テスト | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/broombroom/articles/629f2f37452545</id>
+        <link href="https://zenn.dev/broombroom/articles/629f2f37452545"/>
+        <updated>2025-08-23T23:59:27.000Z</updated>
+        <summary type="html"><![CDATA[前提Fullstack: FEとBEをそれぞれ開発してるBEはclean architectureに準拠API定義書を満たす形で、FEとBEは実装を進めるunit test各レイヤーで、エッジケースも含めてビチビチにprogramでテストするホワイトボックス現在の形のスナップショットを撮るような目的integration testBE、FE内でそれぞれレイヤーを接続して、機能することを確認するブラ]]></summary>
+        <content type="html"><![CDATA[前提Fullstack: FEとBEをそれぞれ開発してるBEはclean architectureに準拠API定義書を満たす形で、FEとBEは実装を進めるunit test各レイヤーで、エッジケースも含めてビチビチにprogramでテストするホワイトボックス現在の形のスナップショットを撮るような目的integration testBE、FE内でそれぞれレイヤーを接続して、機能することを確認するブラックボックス。実際にリクエスト投げて動くかどうかみる。この時点で、理論上は、FEとBEを繋げれば全てがうまく動くただ、実際は、FEとBEチームで仕様の捉え方に...]]></content>
+        <author>
+            <name>BroomBroom</name>
+        </author>
+        <published>2025-08-23T23:59:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第348回：　「ALTTAのテキストをつくろう」31　（信頼性テスト　中編） | Kouichi Akiyama]]></title>
+        <id>https://note.com/akiyama924/n/n1ba7fd4f2419</id>
+        <link href="https://note.com/akiyama924/n/n1ba7fd4f2419"/>
+        <updated>2025-08-23T22:05:16.000Z</updated>
+        <summary type="html"><![CDATA[◀前の記事へ 次の記事へ▶︎≡ はじめに続きをみる]]></summary>
+        <content type="html"><![CDATA[◀前の記事へ 次の記事へ▶︎≡ はじめに続きをみる]]></content>
+        <published>2025-08-23T22:05:16.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Go】Goのテストに入門してみた！ ~httptest編②~ | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/tmyhrn/articles/b9523ddb2727ed</id>
+        <link href="https://zenn.dev/tmyhrn/articles/b9523ddb2727ed"/>
+        <updated>2025-08-21T23:00:01.000Z</updated>
+        <summary type="html"><![CDATA[はじめに前回は「httptest」を見ていきました。今回も「httptest」に入門します。前回の記事はこちら！ この記事でわかることGoの標準パッケージである httptest の概要や役割httptest を使ったHTTPハンドラーのテスト方法POSTメソッドでハンドラーをテストする際の注意点 httptestとは？httptest はGoに標準搭載されているパッケージです。（net/http]]></summary>
+        <content type="html"><![CDATA[はじめに前回は「httptest」を見ていきました。今回も「httptest」に入門します。前回の記事はこちら！ この記事でわかることGoの標準パッケージである httptest の概要や役割httptest を使ったHTTPハンドラーのテスト方法POSTメソッドでハンドラーをテストする際の注意点 httptestとは？httptest はGoに標準搭載されているパッケージです。（net/http/httptest が該当します。）httptest を使うことで、実際にHTTPサーバーを立ち上げることなく、HTTPハンドラーやWebアプリケーションの...]]></content>
+        <author>
+            <name>ともやん</name>
+        </author>
+        <published>2025-08-21T23:00:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next.jsへの移行をほぼ1週間でやりきる | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/socialplus/articles/8bbc6ffb96cacc</id>
+        <link href="https://zenn.dev/socialplus/articles/8bbc6ffb96cacc"/>
+        <updated>2025-08-21T09:00:01.000Z</updated>
+        <summary type="html"><![CDATA[どうもこんにちは、たくびーです。!この記事はAIを使わずに書かれています。弊社ではいくつかのアプリケーションが存在し、それらをモノレポで管理しています。今回はそのうちの1つのアプリケーションをReact + WebpackからNext.jsへ移行を行いました。 動機弊社にはいくつかのアプリケーションがあります。ここでは話を簡単にするために以下のようにしたいと思います。app1(Next.js Pa]]></summary>
+        <content type="html"><![CDATA[どうもこんにちは、たくびーです。!この記事はAIを使わずに書かれています。弊社ではいくつかのアプリケーションが存在し、それらをモノレポで管理しています。今回はそのうちの1つのアプリケーションをReact + WebpackからNext.jsへ移行を行いました。 動機弊社にはいくつかのアプリケーションがあります。ここでは話を簡単にするために以下のようにしたいと思います。app1(Next.js Pages Router)app2(Next.js Pages Router)app3(React + Webpack) きっかけapp3以外のアプリケーションはNe...]]></content>
+        <author>
+            <name>takubii</name>
+        </author>
+        <published>2025-08-21T09:00:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「人事は一生探索が必要な仕事」5,000人組織の変革をリードする“事業視点の戦略人事”とは | PTW／ポールトゥウィン【公式】]]></title>
+        <id>https://note.com/ptw_note/n/n9231dd249d88</id>
+        <link href="https://note.com/ptw_note/n/n9231dd249d88"/>
+        <updated>2025-08-21T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[創業から30年、成長を続けてきたポールトゥウィンは、2030年代に向けた組織進化プロジェクト「Shape the New PTW」を掲げている。その旗振り役を担うのは、採用・育成・組織づくりを通じて変革をリードする人事部門だ。ポールトゥウィンの成長を牽引するリーダーたちを紹介する「リ―ダーズインサイト」。今シリーズでは、入社2年目にして人事部門の執行役員を務める広瀬俊也を特集する。社員数一桁のスタ]]></summary>
+        <content type="html"><![CDATA[創業から30年、成長を続けてきたポールトゥウィンは、2030年代に向けた組織進化プロジェクト「Shape the New PTW」を掲げている。その旗振り役を担うのは、採用・育成・組織づくりを通じて変革をリードする人事部門だ。ポールトゥウィンの成長を牽引するリーダーたちを紹介する「リ―ダーズインサイト」。今シリーズでは、入社2年目にして人事部門の執行役員を務める広瀬俊也を特集する。社員数一桁のスタートアップ企業からキャリアをスタートし、業界黎明期から組織を牽引して取締役として上場も経験した。そんな彼がなぜ大企業の人事という道を選び、何を変えようとしているのか。「人事は一生探索が必要な仕事」という彼の言葉に込められた、ビジネスパーソンとしての美学に迫る。続きをみる]]></content>
+        <published>2025-08-21T08:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AppiumでAndroidのToastを無理やり取得する | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/jyoppomu/articles/f761020e739678</id>
+        <link href="https://zenn.dev/jyoppomu/articles/f761020e739678"/>
+        <updated>2025-08-20T07:28:41.000Z</updated>
+        <summary type="html"><![CDATA[はじめにAppiumを使用してAndroidアプリのテストを行う際、Toastの要素が表示されているかを確認できないという問題がありました。Appiumのバージョンがv1系ですが、同じ内容のissueがあります。例えば、以下のようにToastの要素の表示を確認しようとしてもselenium.common.exceptions.StaleElementReferenceExceptionが発生します]]></summary>
+        <content type="html"><![CDATA[はじめにAppiumを使用してAndroidアプリのテストを行う際、Toastの要素が表示されているかを確認できないという問題がありました。Appiumのバージョンがv1系ですが、同じ内容のissueがあります。例えば、以下のようにToastの要素の表示を確認しようとしてもselenium.common.exceptions.StaleElementReferenceExceptionが発生します。from appium.webdriver.common.appiumby import AppiumByfrom selenium.webdriver.support.wait ...]]></content>
+        <author>
+            <name>Yuki Yoshida</name>
+        </author>
+        <published>2025-08-20T07:28:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第3回】開発組織に品質技術を伝えるための2つのスキル｜QA活動のスキル伝達「イネイブリングQA」 | 品質 | Sqripts]]></title>
+        <id>https://sqripts.com/?p=105547</id>
+        <link href="https://sqripts.com/2025/08/20/105547/"/>
+        <updated>2025-08-20T03:18:48.000Z</updated>
+        <summary type="html"><![CDATA[イネイブリングQAについての連載、第3回となる今回は、イネイブリングQAに必要なスキルについて考えていきましょう。 前回の記事では、開発者に対するさまざまな「イネイブリング圧」がある状況のなか、単純に品質に関する知識やス...The post 【第3回】開発組織に品質技術を伝えるための2つのスキル｜QA活動のスキル伝達「イネイブリングQA」 first appeared on Sqripts.]]></summary>
+        <content type="html"><![CDATA[イネイブリングQAについての連載、第3回となる今回は、イネイブリングQAに必要なスキルについて考えていきましょう。 前回の記事では、開発者に対するさまざまな「イネイブリング圧」がある状況のなか、単純に品質に関する知識やス...The post 【第3回】開発組織に品質技術を伝えるための2つのスキル｜QA活動のスキル伝達「イネイブリングQA」 first appeared on Sqripts.]]></content>
+        <author>
+            <name>TAKIMOTO</name>
+        </author>
+        <category label="特集"/>
+        <category label="品質"/>
+        <category label="ソフトウェアテスト"/>
+        <category label="QAエンジニア"/>
+        <published>2025-08-20T03:18:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Go】Goのテストに入門してみた！ ~httptest編①~ | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/tmyhrn/articles/38756f9399025e</id>
+        <link href="https://zenn.dev/tmyhrn/articles/38756f9399025e"/>
+        <updated>2025-08-19T23:15:01.000Z</updated>
+        <summary type="html"><![CDATA[はじめに前回は「Fuzzingテスト」を見ていきました。今回は「httptest」に入門します。前回の記事はこちら！https://zenn.dev/tmyhrn/articles/f329b29e92faa7 この記事でわかることGoの標準パッケージである httptest の概要や役割httptest を使ったHTTPハンドラーのテスト方法 httptestとは？httptest はGoに標準]]></summary>
+        <content type="html"><![CDATA[はじめに前回は「Fuzzingテスト」を見ていきました。今回は「httptest」に入門します。前回の記事はこちら！https://zenn.dev/tmyhrn/articles/f329b29e92faa7 この記事でわかることGoの標準パッケージである httptest の概要や役割httptest を使ったHTTPハンドラーのテスト方法 httptestとは？httptest はGoに標準搭載されているパッケージです。（net/http/httptest が該当します。）httptest を使うことで、実際にHTTPサーバーを立ち上げることなく...]]></content>
+        <author>
+            <name>ともやん</name>
+        </author>
+        <published>2025-08-19T23:15:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新卒向けのソフトウェアテスト入門の資料が公開されました！ | テスターちゃん【4コマ漫画】]]></title>
+        <id>https://testerchan.hatenadiary.com/entry/2025/08/20/075507</id>
+        <link href="https://testerchan.hatenadiary.com/entry/2025/08/20/075507"/>
+        <updated>2025-08-19T22:55:07.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！ 作者です。 2025/8月現在勤めている会社で、開発エンジニアの新卒研修を担当していました。 資料が公開されましたのでここにも共有します。 資料や動画は、ぜひぜひ勉強会や社内の研修などでご自由にお使いいただければ幸いです～！ ただし、以下の注意は守ってくださるようお願いします。 受講者から参加費や授業料など金銭を集めるような場での利用（会場費や飲食費など勉強会の運営に必要な実費を集め]]></summary>
+        <content type="html"><![CDATA[こんにちは！ 作者です。 2025/8月現在勤めている会社で、開発エンジニアの新卒研修を担当していました。 資料が公開されましたのでここにも共有します。 資料や動画は、ぜひぜひ勉強会や社内の研修などでご自由にお使いいただければ幸いです～！ ただし、以下の注意は守ってくださるようお願いします。 受講者から参加費や授業料など金銭を集めるような場での利用（会場費や飲食費など勉強会の運営に必要な実費を集める場合は問題ありません） 出典を削除または改変しての利用 QAとは&amp;amp;ソフトウェアテスト入門 勉強会の動画(2時間くらいあります) 他、開発エンジニア向けの新卒研修全部 QAとは&amp;amp;ソフトウェアテスト入門…]]></content>
+        <published>2025-08-19T22:55:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「UT(単体テスト)って何？」から始める、JUnit 5 &amp;amp; Mockito 入門~実践 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/moetosu/articles/4898810ec47509</id>
+        <link href="https://zenn.dev/moetosu/articles/4898810ec47509"/>
+        <updated>2025-08-19T09:37:37.000Z</updated>
+        <summary type="html"><![CDATA[はじめにバグ修正コストは「要件定義時を 1 とすると運用時には 100 倍」とも言われる。単体テスト（Unit Test）は、クラスや関数など最小単位の振る舞いを検証する工程だ。テストピラミッドで最下層に位置し、数と実行速度を武器にプロダクト全体の品質を支える。「仕様をあとから変更できる安心感」──これこそ単体テストが開発者にもたらす最大の価値である。本記事は JUnit 5 と Mockito ]]></summary>
+        <content type="html"><![CDATA[はじめにバグ修正コストは「要件定義時を 1 とすると運用時には 100 倍」とも言われる。単体テスト（Unit Test）は、クラスや関数など最小単位の振る舞いを検証する工程だ。テストピラミッドで最下層に位置し、数と実行速度を武器にプロダクト全体の品質を支える。「仕様をあとから変更できる安心感」──これこそ単体テストが開発者にもたらす最大の価値である。本記事は JUnit 5 と Mockito を軸に、環境構築から実践的な応用技法まで解説するハンズオンガイドである。 UT(単体テスト)とは単体テスト（Unit Test） は、ソフトウェア開発において、プログラムの最小...]]></content>
+        <author>
+            <name>ぷる</name>
+        </author>
+        <published>2025-08-19T09:37:37.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[もうテストで迷わない。新人エンジニアの同志に贈る、『テストの教科書』を読んで見つけた「2つの観点」と「3種の神器」 | ソフトウェアテストタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/t-kanzo-ceres/items/0d1747336d5a43299198</id>
+        <link href="https://qiita.com/t-kanzo-ceres/items/0d1747336d5a43299198"/>
+        <updated>2025-08-19T05:20:23.000Z</updated>
+        <summary type="html"><![CDATA[0. はじめに新卒エンジニアの皆さん、この瞬間に心当たりはありませんか？先輩「よし、この機能の実装OKだね！じゃあ、テストお願い！」自分「はい！（よっしゃ終わったー！）」～数分後～自分「（仕様書の前で固まりながら）…で、何をテストすればいいんだ…？」僕は、...]]></summary>
+        <content type="html"><![CDATA[0. はじめに新卒エンジニアの皆さん、この瞬間に心当たりはありませんか？先輩「よし、この機能の実装OKだね！じゃあ、テストお願い！」自分「はい！（よっしゃ終わったー！）」～数分後～自分「（仕様書の前で固まりながら）…で、何をテストすればいいんだ…？」僕は、...]]></content>
+        <published>2025-08-19T05:20:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JSTQB(ソフトウェアテスト技術者資格認定組織)主催の無料オンラインイベント「20周年記念 JSTQB カンファレンス in 2025 Autumn」のご案内 | 特定非営利活動法人ソフトウェアテスト技術振興協会【プレスリリース】 by PR TIMES]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000045.000054604.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000045.000054604.html"/>
+        <updated>2025-08-19T05:00:02.000Z</updated>
+        <summary type="html"><![CDATA[[特定非営利活動法人ソフトウェアテスト技術振興協会][画像: https://prtimes.jp/i/54604/45/resize/d54604-45-ab9320aff39390400e11-0.png ]JSTQB（ソフトウェアテスト技術者資格認定組織）は、2025 年 10 月 10 日 （金） に設立20周年を記念し「JSTQB 20周年記念...]]></summary>
+        <content type="html"><![CDATA[[特定非営利活動法人ソフトウェアテスト技術振興協会][画像: https://prtimes.jp/i/54604/45/resize/d54604-45-ab9320aff39390400e11-0.png ]JSTQB（ソフトウェアテスト技術者資格認定組織）は、2025 年 10 月 10 日 （金） に設立20周年を記念し「JSTQB 20周年記念...]]></content>
+        <published>2025-08-19T05:00:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swift Testingの並列テスト実行にまつわる落とし穴 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/prevent/articles/f46c7361fb46aa</id>
+        <link href="https://zenn.dev/prevent/articles/f46c7361fb46aa"/>
+        <updated>2025-08-19T04:18:19.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。株式会社PREVENTでiOSエンジニアをしている佐藤です。弊社で開発しているiOS版のMystarアプリは、最近テストフレームワークをXCTestからSwift Testingへ移行しました。その対応の中で、並列テストにまつわる落とし穴にハマってしまい、やや大変だったのでその時の知見を記事として共有しようと思います。 並列テストそのものの注意点Swift Testingの大きな特徴の]]></summary>
+        <content type="html"><![CDATA[こんにちは。株式会社PREVENTでiOSエンジニアをしている佐藤です。弊社で開発しているiOS版のMystarアプリは、最近テストフレームワークをXCTestからSwift Testingへ移行しました。その対応の中で、並列テストにまつわる落とし穴にハマってしまい、やや大変だったのでその時の知見を記事として共有しようと思います。 並列テストそのものの注意点Swift Testingの大きな特徴の一つとして、デフォルトでテストケースの並列実行があります。テストケースを並列実行できると、テストの実行時間が高速化できるので、基本的には積極的に導入したいです。しかし、テストの実装...]]></content>
+        <author>
+            <name>てぃー</name>
+        </author>
+        <published>2025-08-19T04:18:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【実案件使用】Cursorプロンプト × コード公開！ ②バグ修正編 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/shotafukuyama/articles/180f6668578e79</id>
+        <link href="https://zenn.dev/shotafukuyama/articles/180f6668578e79"/>
+        <updated>2025-08-18T22:14:45.000Z</updated>
+        <summary type="html"><![CDATA[はじめにこんにちは。エンジニア 兼 講師のShotaです。普段はエンジニアとしてAIツールを実案件に適用しながら開発を行い、同時に講師として得られた知見を体系化して受講生の方にお伝えする活動をしています。AIツールを実案件に適用する際に事前に知っておくべき実践的なTipsのシリーズ第4回。今回のテーマは「【実案件使用】Cursorプロンプト × コード公開！ ②バグ修正編」です。なお、本記事は私が]]></summary>
+        <content type="html"><![CDATA[はじめにこんにちは。エンジニア 兼 講師のShotaです。普段はエンジニアとしてAIツールを実案件に適用しながら開発を行い、同時に講師として得られた知見を体系化して受講生の方にお伝えする活動をしています。AIツールを実案件に適用する際に事前に知っておくべき実践的なTipsのシリーズ第4回。今回のテーマは「【実案件使用】Cursorプロンプト × コード公開！ ②バグ修正編」です。なお、本記事は私が提供しているAI駆動開発実践コースの内容から一部を抜粋して無料公開しているもので、実際の開発現場での知見に基づいています。 前回の振り返りと課題前回は、AIツールを使ったリファ...]]></content>
+        <author>
+            <name>Shota Fukuyama｜Udemyベストセラー講師</name>
+        </author>
+        <published>2025-08-18T22:14:45.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【エンジニア必見】テストの真価は安心開発にあり！新人を支える環境づくりの実例 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/sakupanda/articles/cee53646e52ed7</id>
+        <link href="https://zenn.dev/sakupanda/articles/cee53646e52ed7"/>
+        <updated>2025-08-18T22:00:05.000Z</updated>
+        <summary type="html"><![CDATA[【エンジニア必見】テストの真価は安心開発にあり！新人を支える環境づくりの実例 💭 この記事を書こうと思ったきっかけ※この記事はテストの書き方や技術的な手法について解説するものではありません。テストが持つ「心理的な効果」や「チーム文化への影響」について、体験談をもとにお話しします。技術顧問として多数の企業の案件に関わっているのですが、現場を見るたびに感じることがあります。それは「テストが整備されてい]]></summary>
+        <content type="html"><![CDATA[【エンジニア必見】テストの真価は安心開発にあり！新人を支える環境づくりの実例 💭 この記事を書こうと思ったきっかけ※この記事はテストの書き方や技術的な手法について解説するものではありません。テストが持つ「心理的な効果」や「チーム文化への影響」について、体験談をもとにお話しします。技術顧問として多数の企業の案件に関わっているのですが、現場を見るたびに感じることがあります。それは「テストが整備されているチーム」と「そうでないチーム」での、新しいメンバーの成長スピードの圧倒的な違いです。特に、コード修正時の不安感に大きな差が出ます。「このコード修正、他の機能に影響しないかな......]]></content>
+        <author>
+            <name>さくさくパンダ</name>
+        </author>
+        <published>2025-08-18T22:00:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VASTのテスト画面をテストしやすいよう大きくする方法 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/yamaz/articles/db2d55bcd1c214</id>
+        <link href="https://zenn.dev/yamaz/articles/db2d55bcd1c214"/>
+        <updated>2025-08-18T21:20:51.000Z</updated>
+        <summary type="html"><![CDATA[モチベーションVASTの動作確認で下記テストページを使う際、画面が小さくて見切れるケースがあるので、テスト画面を大きくしてテストしやすくしたいhttps://googleads.github.io/googleads-ima-html5/vsi/ やり方ブラウザでconsole画面を出す(F12)コンソール画面でコピペできるようにするallow pastingconsole画面で下記を入力し、サイ]]></summary>
+        <content type="html"><![CDATA[モチベーションVASTの動作確認で下記テストページを使う際、画面が小さくて見切れるケースがあるので、テスト画面を大きくしてテストしやすくしたいhttps://googleads.github.io/googleads-ima-html5/vsi/ やり方ブラウザでconsole画面を出す(F12)コンソール画面でコピペできるようにするallow pastingconsole画面で下記を入力し、サイズを変更する(function() { const target = document.querySelector("#video-player video"...]]></content>
+        <author>
+            <name>yamaz</name>
+        </author>
+        <published>2025-08-18T21:20:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[続・動画をインプットに不具合再現手順を生成AIに書いてもらおう | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/team_soda/articles/885ceb5733c19f</id>
+        <link href="https://zenn.dev/team_soda/articles/885ceb5733c19f"/>
+        <updated>2025-08-18T08:30:01.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、SODAでクオリティエンジニアをしているokauchiです。今回は以前記事にした不具合再現手順を生成AIの力を借りて楽に書こうを実際にやってみた結果をシェアします。試作段階のプロンプトでのトライアルでしたが、やってみることで「想定と違ったこと」や「改善の余地」が多く見えてきました。 実際にやってみて見えてきたこと直近で検出した不具合20件弱を対象に、動画から手順の文字起こしを試みました]]></summary>
+        <content type="html"><![CDATA[こんにちは、SODAでクオリティエンジニアをしているokauchiです。今回は以前記事にした不具合再現手順を生成AIの力を借りて楽に書こうを実際にやってみた結果をシェアします。試作段階のプロンプトでのトライアルでしたが、やってみることで「想定と違ったこと」や「改善の余地」が多く見えてきました。 実際にやってみて見えてきたこと直近で検出した不具合20件弱を対象に、動画から手順の文字起こしを試みました。その際、動画が長くならないように「どの画面から読み取るか」をあらかじめ指定するなど、小さな工夫を入れています。率直に言うと、作業時間は通常の1.5倍ほどかかりました。慣れれば改善でき...]]></content>
+        <author>
+            <name>オカウチワニ</name>
+        </author>
+        <published>2025-08-18T08:30:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Go】Goのテストに入門してみた！ ~Fuzzingテスト編~ | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/tmyhrn/articles/f329b29e92faa7</id>
+        <link href="https://zenn.dev/tmyhrn/articles/f329b29e92faa7"/>
+        <updated>2025-08-17T23:30:01.000Z</updated>
+        <summary type="html"><![CDATA[はじめに前回は「テーブル駆動ベンチマークテスト」を見ていきました。今回は「Fuzzingテスト」に入門します。前回の記事はこちら！https://zenn.dev/tmyhrn/articles/28815a1296e856 この記事でわかることFuzzingテストの概要や役割GoでのFuzzingテストの実施と挙動GoでのFuzzingテストの実施ルール Fuzzingテストとは？Fuzzing]]></summary>
+        <content type="html"><![CDATA[はじめに前回は「テーブル駆動ベンチマークテスト」を見ていきました。今回は「Fuzzingテスト」に入門します。前回の記事はこちら！https://zenn.dev/tmyhrn/articles/28815a1296e856 この記事でわかることFuzzingテストの概要や役割GoでのFuzzingテストの実施と挙動GoでのFuzzingテストの実施ルール Fuzzingテストとは？Fuzzingテストとは、意図的に不正なデータや予期しないデータを入れて、システムの脆弱性を検出するテスト手法を指します。さまざまなテストケースを考慮していると思っていても、...]]></content>
+        <author>
+            <name>ともやん</name>
+        </author>
+        <published>2025-08-17T23:30:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バックエンドのテスト理論を学び、戦略を考える | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/sumasate_tec/articles/5ea4363aac1c3a</id>
+        <link href="https://zenn.dev/sumasate_tec/articles/5ea4363aac1c3a"/>
+        <updated>2025-08-17T22:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Hahnah こと 原井夏樹 です!Xをフォローしてくれると喜びます。本記事は私の所属するスマサテ株式会社で行ったテスト勉強会の内容と、テスト戦略策定について紹介するものです。バックエンドに焦点を当てて、テスト戦略やテストの流派について学びましょう！ 大前提: テストにおける大切なことテストすることが開発サイクルに組み込まれていることコードベースの特に重要な部分のみがテスト対象となっていること最小]]></summary>
+        <content type="html"><![CDATA[Hahnah こと 原井夏樹 です!Xをフォローしてくれると喜びます。本記事は私の所属するスマサテ株式会社で行ったテスト勉強会の内容と、テスト戦略策定について紹介するものです。バックエンドに焦点を当てて、テスト戦略やテストの流派について学びましょう！ 大前提: テストにおける大切なことテストすることが開発サイクルに組み込まれていることコードベースの特に重要な部分のみがテスト対象となっていること最小限の保守コストで最大限の価値を生み出せるようになっていること(書籍「単体テストの考え方/使い方」より)これらを達成するために必要なことは様々にありますが、それを分かるよう...]]></content>
+        <author>
+            <name>Hahnah</name>
+        </author>
+        <published>2025-08-17T22:00:01.000Z</published>
+    </entry>
+</feed>

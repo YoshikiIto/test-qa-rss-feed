@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>テスト・QA関連ブログRSS</title>
+        <link>https://yoshikiito.github.io/test-qa-rss-feed/</link>
+        <description>企テスト・QA関連ブログの更新をまとめたRSSフィード</description>
+        <lastBuildDate>Mon, 25 Aug 2025 15:05:19 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>yoshikiito/test-qa-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>テスト・QA関連ブログRSS</title>
+            <url>https://yoshikiito.github.io/test-qa-rss-feed/images/icon.png</url>
+            <link>https://yoshikiito.github.io/test-qa-rss-feed/</link>
+        </image>
+        <copyright>yoshikiito/test-qa-rss-feed</copyright>
+        <atom:link href="https://yoshikiito.github.io/test-qa-rss-feed/feeds/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[gpt-oss:20bでpromptfooのテストケースを試してみる | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/rounda_blog/articles/a03ee2f656c6cc</link>
+            <guid>https://zenn.dev/rounda_blog/articles/a03ee2f656c6cc</guid>
+            <pubDate>Mon, 25 Aug 2025 03:41:25 GMT</pubDate>
+            <description><![CDATA[書き手・読み手のモチベーションgpt-ossをちょっと使ってみたいapache2.0なので、もしかしたら組み込みや自社利用もあるかももし使うとなった場合APIに比べて、アラインメントはどんな感じでされているのかせっかくなんで、CI的なテストも回していきたい、promptfooとか使ってみて promptfoohttps://www.promptfoo.dev/promptfooは、生成AIやLLM]]></description>
+            <content:encoded><![CDATA[書き手・読み手のモチベーションgpt-ossをちょっと使ってみたいapache2.0なので、もしかしたら組み込みや自社利用もあるかももし使うとなった場合APIに比べて、アラインメントはどんな感じでされているのかせっかくなんで、CI的なテストも回していきたい、promptfooとか使ってみて promptfoohttps://www.promptfoo.dev/promptfooは、生成AIやLLMを評価・テストするためのオープンソースツールユーザーが用意したプロンプトや期待する出力をもとに、複数のモデルに対して同じ条件でテストを実施し、精度や一貫性...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--wLtMcAFk--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:gpt-oss%253A20b%25E3%2581%25A7promptfoo%25E3%2581%25AE%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25B1%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%2592%25E8%25A9%25A6%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:stranglehello%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Y4NWFjNjE2ZTAuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Rounda%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzlkNjcyNDhkMWEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[【Go】Goのテストに入門してみた！ ~環境変数編~ | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/tmyhrn/articles/0cdad99f2c7b51</link>
+            <guid>https://zenn.dev/tmyhrn/articles/0cdad99f2c7b51</guid>
+            <pubDate>Sun, 24 Aug 2025 22:45:05 GMT</pubDate>
+            <description><![CDATA[はじめに前回は「httptest」を見ていきました。今回は「環境変数のセット」に入門します！前回の記事はこちら！ この記事でわかることGoのユニットテストにおける環境変数のセットの仕方と T.Setenv の特徴Goのベンチマークテストにおける環境変数のセットの仕方と B.Setenv の特徴 ユニットテストで環境変数を設定するには？テストをする際に、環境変数に依存した処理をテストすることがあるか]]></description>
+            <content:encoded><![CDATA[はじめに前回は「httptest」を見ていきました。今回は「環境変数のセット」に入門します！前回の記事はこちら！ この記事でわかることGoのユニットテストにおける環境変数のセットの仕方と T.Setenv の特徴Goのベンチマークテストにおける環境変数のセットの仕方と B.Setenv の特徴 ユニットテストで環境変数を設定するには？テストをする際に、環境変数に依存した処理をテストすることがあるかと思います。ユニットテストで一時的な環境変数を設定するには、Go 1.17から導入された T.Setenv を使います。T.Setenv のドキュメントには以下...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--Ioz7akME--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Go%25E3%2580%2591Go%25E3%2581%25AE%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AB%25E5%2585%25A5%25E9%2596%2580%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25EF%25BC%2581%2520%7E%25E7%2592%25B0%25E5%25A2%2583%25E5%25A4%2589%25E6%2595%25B0%25E7%25B7%25A8%7E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25A8%25E3%2582%2582%25E3%2582%2584%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzY4ODIzYmE0YmIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[感情のシフトチェンジ | yuden]]></title>
+            <link>https://note.com/ydn_/n/nea8b1f83c24f</link>
+            <guid>https://note.com/ydn_/n/nea8b1f83c24f</guid>
+            <pubDate>Sun, 24 Aug 2025 11:09:09 GMT</pubDate>
+            <description><![CDATA[私たちはプラスな感情をポジティブと、マイナスな感情をネガティブと表現します。そしてこの感情上下を日々コントロールし、時にはこの波にコントロールされています。ポジティブとネガティブは別である続きをみる]]></description>
+            <content:encoded><![CDATA[私たちはプラスな感情をポジティブと、マイナスな感情をネガティブと表現します。そしてこの感情上下を日々コントロールし、時にはこの波にコントロールされています。ポジティブとネガティブは別である続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://d2l930y2yx77uc.cloudfront.net/production/social_images/9b49dc02f0172b32b98f34781b001c50b0a2b995.png"/>
+        </item>
+        <item>
+            <title><![CDATA[ソフトウェアテスト徹底指南書 〜開発の高品質と高スピードを両立させる実践アプローチ　の感想 | テストする人。]]></title>
+            <link>https://underscore42rina.hatenablog.com/entry/2025/08/24/135432</link>
+            <guid>https://underscore42rina.hatenablog.com/entry/2025/08/24/135432</guid>
+            <pubDate>Sun, 24 Aug 2025 04:54:32 GMT</pubDate>
+            <description><![CDATA[※本文にはほとんどふれていないエントリーです。 ソフトウェアテスト徹底指南書 〜開発の高品質と高スピードを両立させる実践アプローチ gihyo.jp という本が今年発売されました。 全43章というのに周囲がどよめいたとんでもない本です。 なんとか全部読み終わった（と言えないので、ページを全部めくったの方が近いと思う）ので、感想エントリー 一言でいうと、著者の井芹洋輝さん（私はいつも いせりんと呼ん]]></description>
+            <content:encoded><![CDATA[※本文にはほとんどふれていないエントリーです。 ソフトウェアテスト徹底指南書 〜開発の高品質と高スピードを両立させる実践アプローチ gihyo.jp という本が今年発売されました。 全43章というのに周囲がどよめいたとんでもない本です。 なんとか全部読み終わった（と言えないので、ページを全部めくったの方が近いと思う）ので、感想エントリー 一言でいうと、著者の井芹洋輝さん（私はいつも いせりんと呼んでいるので以降いせりんで）は国宝な本を出しちゃったな。って感想。 いせりんは、尊敬するソフトウェアテスト技術者の一人で、彼の素晴らしさは、圧倒的な知識量と探究心と守備範囲の広さ、そして丁寧で誠実、誰に…]]></content:encoded>
+            <enclosure length="0" type="image//12704830469097158543/6802418398560466651/1756011272" url="https://ogimage.blog.st-hatena.com/12704830469097158543/6802418398560466651/1756011272" alt="ソフトウェアテスト徹底指南書 〜開発の高品質と高スピードを両立させる実践アプローチ　の感想 - テストする人。"/>
+        </item>
+        <item>
+            <title><![CDATA[full-stack テスト | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/broombroom/articles/629f2f37452545</link>
+            <guid>https://zenn.dev/broombroom/articles/629f2f37452545</guid>
+            <pubDate>Sat, 23 Aug 2025 23:59:27 GMT</pubDate>
+            <description><![CDATA[前提Fullstack: FEとBEをそれぞれ開発してるBEはclean architectureに準拠API定義書を満たす形で、FEとBEは実装を進めるunit test各レイヤーで、エッジケースも含めてビチビチにprogramでテストするホワイトボックス現在の形のスナップショットを撮るような目的integration testBE、FE内でそれぞれレイヤーを接続して、機能することを確認するブラ]]></description>
+            <content:encoded><![CDATA[前提Fullstack: FEとBEをそれぞれ開発してるBEはclean architectureに準拠API定義書を満たす形で、FEとBEは実装を進めるunit test各レイヤーで、エッジケースも含めてビチビチにprogramでテストするホワイトボックス現在の形のスナップショットを撮るような目的integration testBE、FE内でそれぞれレイヤーを接続して、機能することを確認するブラックボックス。実際にリクエスト投げて動くかどうかみる。この時点で、理論上は、FEとBEを繋げれば全てがうまく動くただ、実際は、FEとBEチームで仕様の捉え方に...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--2s4_u8IB--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_72:full-stack%2520%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:BroomBroom%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSV92ZU9qTmNIaDY5ZDJJdmdEMWRzOTFsYlNJa21VTk9nR1dsMmNWOEpfUE1lT3RnaUk9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[第348回：　「ALTTAのテキストをつくろう」31　（信頼性テスト　中編） | Kouichi Akiyama]]></title>
+            <link>https://note.com/akiyama924/n/n1ba7fd4f2419</link>
+            <guid>https://note.com/akiyama924/n/n1ba7fd4f2419</guid>
+            <pubDate>Sat, 23 Aug 2025 22:05:16 GMT</pubDate>
+            <description><![CDATA[◀前の記事へ 次の記事へ▶︎≡ はじめに続きをみる]]></description>
+            <content:encoded><![CDATA[◀前の記事へ 次の記事へ▶︎≡ はじめに続きをみる]]></content:encoded>
+            <enclosure length="0" type="jpeg" url="https://assets.st-note.com/production/uploads/images/208864712/rectangle_large_type_2_a054ed41cd66876d7ff953424f4880d9.jpeg?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[【Go】Goのテストに入門してみた！ ~httptest編②~ | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/tmyhrn/articles/b9523ddb2727ed</link>
+            <guid>https://zenn.dev/tmyhrn/articles/b9523ddb2727ed</guid>
+            <pubDate>Thu, 21 Aug 2025 23:00:01 GMT</pubDate>
+            <description><![CDATA[はじめに前回は「httptest」を見ていきました。今回も「httptest」に入門します。前回の記事はこちら！ この記事でわかることGoの標準パッケージである httptest の概要や役割httptest を使ったHTTPハンドラーのテスト方法POSTメソッドでハンドラーをテストする際の注意点 httptestとは？httptest はGoに標準搭載されているパッケージです。（net/http]]></description>
+            <content:encoded><![CDATA[はじめに前回は「httptest」を見ていきました。今回も「httptest」に入門します。前回の記事はこちら！ この記事でわかることGoの標準パッケージである httptest の概要や役割httptest を使ったHTTPハンドラーのテスト方法POSTメソッドでハンドラーをテストする際の注意点 httptestとは？httptest はGoに標準搭載されているパッケージです。（net/http/httptest が該当します。）httptest を使うことで、実際にHTTPサーバーを立ち上げることなく、HTTPハンドラーやWebアプリケーションの...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--U8ODS8V3--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Go%25E3%2580%2591Go%25E3%2581%25AE%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AB%25E5%2585%25A5%25E9%2596%2580%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25EF%25BC%2581%2520%7Ehttptest%25E7%25B7%25A8%25E2%2591%25A1%7E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25A8%25E3%2582%2582%25E3%2582%2584%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzY4ODIzYmE0YmIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Next.jsへの移行をほぼ1週間でやりきる | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/socialplus/articles/8bbc6ffb96cacc</link>
+            <guid>https://zenn.dev/socialplus/articles/8bbc6ffb96cacc</guid>
+            <pubDate>Thu, 21 Aug 2025 09:00:01 GMT</pubDate>
+            <description><![CDATA[どうもこんにちは、たくびーです。!この記事はAIを使わずに書かれています。弊社ではいくつかのアプリケーションが存在し、それらをモノレポで管理しています。今回はそのうちの1つのアプリケーションをReact + WebpackからNext.jsへ移行を行いました。 動機弊社にはいくつかのアプリケーションがあります。ここでは話を簡単にするために以下のようにしたいと思います。app1(Next.js Pa]]></description>
+            <content:encoded><![CDATA[どうもこんにちは、たくびーです。!この記事はAIを使わずに書かれています。弊社ではいくつかのアプリケーションが存在し、それらをモノレポで管理しています。今回はそのうちの1つのアプリケーションをReact + WebpackからNext.jsへ移行を行いました。 動機弊社にはいくつかのアプリケーションがあります。ここでは話を簡単にするために以下のようにしたいと思います。app1(Next.js Pages Router)app2(Next.js Pages Router)app3(React + Webpack) きっかけapp3以外のアプリケーションはNe...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--xFh-q8_g--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Next.js%25E3%2581%25B8%25E3%2581%25AE%25E7%25A7%25BB%25E8%25A1%258C%25E3%2582%2592%25E3%2581%25BB%25E3%2581%25BC1%25E9%2580%25B1%25E9%2596%2593%25E3%2581%25A7%25E3%2582%2584%25E3%2582%258A%25E3%2581%258D%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:takubii%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I4Mjg2YmNjMDEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Social%2520PLUS%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ZiNGYwMWMzNmEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[「人事は一生探索が必要な仕事」5,000人組織の変革をリードする“事業視点の戦略人事”とは | PTW／ポールトゥウィン【公式】]]></title>
+            <link>https://note.com/ptw_note/n/n9231dd249d88</link>
+            <guid>https://note.com/ptw_note/n/n9231dd249d88</guid>
+            <pubDate>Thu, 21 Aug 2025 08:00:00 GMT</pubDate>
+            <description><![CDATA[創業から30年、成長を続けてきたポールトゥウィンは、2030年代に向けた組織進化プロジェクト「Shape the New PTW」を掲げている。その旗振り役を担うのは、採用・育成・組織づくりを通じて変革をリードする人事部門だ。ポールトゥウィンの成長を牽引するリーダーたちを紹介する「リ―ダーズインサイト」。今シリーズでは、入社2年目にして人事部門の執行役員を務める広瀬俊也を特集する。社員数一桁のスタ]]></description>
+            <content:encoded><![CDATA[創業から30年、成長を続けてきたポールトゥウィンは、2030年代に向けた組織進化プロジェクト「Shape the New PTW」を掲げている。その旗振り役を担うのは、採用・育成・組織づくりを通じて変革をリードする人事部門だ。ポールトゥウィンの成長を牽引するリーダーたちを紹介する「リ―ダーズインサイト」。今シリーズでは、入社2年目にして人事部門の執行役員を務める広瀬俊也を特集する。社員数一桁のスタートアップ企業からキャリアをスタートし、業界黎明期から組織を牽引して取締役として上場も経験した。そんな彼がなぜ大企業の人事という道を選び、何を変えようとしているのか。「人事は一生探索が必要な仕事」という彼の言葉に込められた、ビジネスパーソンとしての美学に迫る。続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/209232195/rectangle_large_type_2_5f76ef50b067fb0b0b0c4ca80dd04691.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[AppiumでAndroidのToastを無理やり取得する | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/jyoppomu/articles/f761020e739678</link>
+            <guid>https://zenn.dev/jyoppomu/articles/f761020e739678</guid>
+            <pubDate>Wed, 20 Aug 2025 07:28:41 GMT</pubDate>
+            <description><![CDATA[はじめにAppiumを使用してAndroidアプリのテストを行う際、Toastの要素が表示されているかを確認できないという問題がありました。Appiumのバージョンがv1系ですが、同じ内容のissueがあります。例えば、以下のようにToastの要素の表示を確認しようとしてもselenium.common.exceptions.StaleElementReferenceExceptionが発生します]]></description>
+            <content:encoded><![CDATA[はじめにAppiumを使用してAndroidアプリのテストを行う際、Toastの要素が表示されているかを確認できないという問題がありました。Appiumのバージョンがv1系ですが、同じ内容のissueがあります。例えば、以下のようにToastの要素の表示を確認しようとしてもselenium.common.exceptions.StaleElementReferenceExceptionが発生します。from appium.webdriver.common.appiumby import AppiumByfrom selenium.webdriver.support.wait ...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--wQy6f3ra--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Appium%25E3%2581%25A7Android%25E3%2581%25AEToast%25E3%2582%2592%25E7%2584%25A1%25E7%2590%2586%25E3%2582%2584%25E3%2582%258A%25E5%258F%2596%25E5%25BE%2597%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yuki%2520Yoshida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dWTk8taTFaYXc2blBpeUpQQi16cHN5SXRycEFBeDhObk9OajUxYUE9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[【第3回】開発組織に品質技術を伝えるための2つのスキル｜QA活動のスキル伝達「イネイブリングQA」 | 品質 | Sqripts]]></title>
+            <link>https://sqripts.com/2025/08/20/105547/</link>
+            <guid>https://sqripts.com/?p=105547</guid>
+            <pubDate>Wed, 20 Aug 2025 03:18:48 GMT</pubDate>
+            <description><![CDATA[イネイブリングQAについての連載、第3回となる今回は、イネイブリングQAに必要なスキルについて考えていきましょう。 前回の記事では、開発者に対するさまざまな「イネイブリング圧」がある状況のなか、単純に品質に関する知識やス...The post 【第3回】開発組織に品質技術を伝えるための2つのスキル｜QA活動のスキル伝達「イネイブリングQA」 first appeared on Sqripts.]]></description>
+            <content:encoded><![CDATA[イネイブリングQAについての連載、第3回となる今回は、イネイブリングQAに必要なスキルについて考えていきましょう。 前回の記事では、開発者に対するさまざまな「イネイブリング圧」がある状況のなか、単純に品質に関する知識やス...The post 【第3回】開発組織に品質技術を伝えるための2つのスキル｜QA活動のスキル伝達「イネイブリングQA」 first appeared on Sqripts.]]></content:encoded>
+            <category>特集</category>
+            <category>品質</category>
+            <category>ソフトウェアテスト</category>
+            <category>QAエンジニア</category>
+            <enclosure length="0" type="png" height="630" url="https://sqripts.com/wp-content/uploads/2025/08/itou_202506_thumb_03.png" width="1200"/>
+        </item>
+        <item>
+            <title><![CDATA[【Go】Goのテストに入門してみた！ ~httptest編①~ | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/tmyhrn/articles/38756f9399025e</link>
+            <guid>https://zenn.dev/tmyhrn/articles/38756f9399025e</guid>
+            <pubDate>Tue, 19 Aug 2025 23:15:01 GMT</pubDate>
+            <description><![CDATA[はじめに前回は「Fuzzingテスト」を見ていきました。今回は「httptest」に入門します。前回の記事はこちら！https://zenn.dev/tmyhrn/articles/f329b29e92faa7 この記事でわかることGoの標準パッケージである httptest の概要や役割httptest を使ったHTTPハンドラーのテスト方法 httptestとは？httptest はGoに標準]]></description>
+            <content:encoded><![CDATA[はじめに前回は「Fuzzingテスト」を見ていきました。今回は「httptest」に入門します。前回の記事はこちら！https://zenn.dev/tmyhrn/articles/f329b29e92faa7 この記事でわかることGoの標準パッケージである httptest の概要や役割httptest を使ったHTTPハンドラーのテスト方法 httptestとは？httptest はGoに標準搭載されているパッケージです。（net/http/httptest が該当します。）httptest を使うことで、実際にHTTPサーバーを立ち上げることなく...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--lI5ZoPJo--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Go%25E3%2580%2591Go%25E3%2581%25AE%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AB%25E5%2585%25A5%25E9%2596%2580%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25EF%25BC%2581%2520%7Ehttptest%25E7%25B7%25A8%25E2%2591%25A0%7E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25A8%25E3%2582%2582%25E3%2582%2584%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzY4ODIzYmE0YmIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[新卒向けのソフトウェアテスト入門の資料が公開されました！ | テスターちゃん【4コマ漫画】]]></title>
+            <link>https://testerchan.hatenadiary.com/entry/2025/08/20/075507</link>
+            <guid>https://testerchan.hatenadiary.com/entry/2025/08/20/075507</guid>
+            <pubDate>Tue, 19 Aug 2025 22:55:07 GMT</pubDate>
+            <description><![CDATA[こんにちは！ 作者です。 2025/8月現在勤めている会社で、開発エンジニアの新卒研修を担当していました。 資料が公開されましたのでここにも共有します。 資料や動画は、ぜひぜひ勉強会や社内の研修などでご自由にお使いいただければ幸いです～！ ただし、以下の注意は守ってくださるようお願いします。 受講者から参加費や授業料など金銭を集めるような場での利用（会場費や飲食費など勉強会の運営に必要な実費を集め]]></description>
+            <content:encoded><![CDATA[こんにちは！ 作者です。 2025/8月現在勤めている会社で、開発エンジニアの新卒研修を担当していました。 資料が公開されましたのでここにも共有します。 資料や動画は、ぜひぜひ勉強会や社内の研修などでご自由にお使いいただければ幸いです～！ ただし、以下の注意は守ってくださるようお願いします。 受講者から参加費や授業料など金銭を集めるような場での利用（会場費や飲食費など勉強会の運営に必要な実費を集める場合は問題ありません） 出典を削除または改変しての利用 QAとは&amp;amp;ソフトウェアテスト入門 勉強会の動画(2時間くらいあります) 他、開発エンジニア向けの新卒研修全部 QAとは&amp;amp;ソフトウェアテスト入門…]]></content:encoded>
+            <enclosure length="0" type="image//10328749687239133287/6802418398554340510/1755644140" url="https://ogimage.blog.st-hatena.com/10328749687239133287/6802418398554340510/1755644140" alt="新卒向けのソフトウェアテスト入門の資料が公開されました！ - テスターちゃん【4コマ漫画】"/>
+        </item>
+        <item>
+            <title><![CDATA[「UT(単体テスト)って何？」から始める、JUnit 5 &amp;amp; Mockito 入門~実践 | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/moetosu/articles/4898810ec47509</link>
+            <guid>https://zenn.dev/moetosu/articles/4898810ec47509</guid>
+            <pubDate>Tue, 19 Aug 2025 09:37:37 GMT</pubDate>
+            <description><![CDATA[はじめにバグ修正コストは「要件定義時を 1 とすると運用時には 100 倍」とも言われる。単体テスト（Unit Test）は、クラスや関数など最小単位の振る舞いを検証する工程だ。テストピラミッドで最下層に位置し、数と実行速度を武器にプロダクト全体の品質を支える。「仕様をあとから変更できる安心感」──これこそ単体テストが開発者にもたらす最大の価値である。本記事は JUnit 5 と Mockito ]]></description>
+            <content:encoded><![CDATA[はじめにバグ修正コストは「要件定義時を 1 とすると運用時には 100 倍」とも言われる。単体テスト（Unit Test）は、クラスや関数など最小単位の振る舞いを検証する工程だ。テストピラミッドで最下層に位置し、数と実行速度を武器にプロダクト全体の品質を支える。「仕様をあとから変更できる安心感」──これこそ単体テストが開発者にもたらす最大の価値である。本記事は JUnit 5 と Mockito を軸に、環境構築から実践的な応用技法まで解説するハンズオンガイドである。 UT(単体テスト)とは単体テスト（Unit Test） は、ソフトウェア開発において、プログラムの最小...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--rgGY1p-6--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258CUT%2528%25E5%258D%2598%25E4%25BD%2593%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%2529%25E3%2581%25A3%25E3%2581%25A6%25E4%25BD%2595%25EF%25BC%259F%25E3%2580%258D%25E3%2581%258B%25E3%2582%2589%25E5%25A7%258B%25E3%2582%2581%25E3%2582%258B%25E3%2580%2581JUnit%25205%2520%2526%2520Mockito%2520%25E5%2585%25A5%25E9%2596%2580%7E%25E5%25AE%259F%25E8%25B7%25B5%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25B7%25E3%2582%258B%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzZiNTllNTdmYzUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[もうテストで迷わない。新人エンジニアの同志に贈る、『テストの教科書』を読んで見つけた「2つの観点」と「3種の神器」 | ソフトウェアテストタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/t-kanzo-ceres/items/0d1747336d5a43299198</link>
+            <guid>https://qiita.com/t-kanzo-ceres/items/0d1747336d5a43299198</guid>
+            <pubDate>Tue, 19 Aug 2025 05:20:23 GMT</pubDate>
+            <description><![CDATA[0. はじめに新卒エンジニアの皆さん、この瞬間に心当たりはありませんか？先輩「よし、この機能の実装OKだね！じゃあ、テストお願い！」自分「はい！（よっしゃ終わったー！）」～数分後～自分「（仕様書の前で固まりながら）…で、何をテストすればいいんだ…？」僕は、...]]></description>
+            <content:encoded><![CDATA[0. はじめに新卒エンジニアの皆さん、この瞬間に心当たりはありませんか？先輩「よし、この機能の実装OKだね！じゃあ、テストお願い！」自分「はい！（よっしゃ終わったー！）」～数分後～自分「（仕様書の前で固まりながら）…で、何をテストすればいいんだ…？」僕は、...]]></content:encoded>
+            <enclosure length="0" type="image/0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MTU3NjQ3JTJGYjI2OTQxNTM3NmNhY2E4OGYyNTE4NGFkNWQ4YTU4ZTVmMzgxOGFiMSUyRnhfbGFyZ2UucG5nJTNGMTc1NDM5MzgyOT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NGYxZDBmNGFiZTc2YzQwNmZkMzhiNzUxOGNiYzZhOTI%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZlNWYwZTQ4ZjMxMWE3YjNiM2QyMzBiMjU2ZTA0M2U5YjQ5MDlmN2JiJTJGb3JpZ2luYWwuanBnJTNGMTQ3MTUxMjM4Nz9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz02YzUzMDE0ODkxOTY5OGQ4YWIwNzI4NGE5NzEyNGIwNA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Dbf97c8530f26b252f4d2dfc561ef2b35" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MTU3NjQ3JTJGYjI2OTQxNTM3NmNhY2E4OGYyNTE4NGFkNWQ4YTU4ZTVmMzgxOGFiMSUyRnhfbGFyZ2UucG5nJTNGMTc1NDM5MzgyOT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NGYxZDBmNGFiZTc2YzQwNmZkMzhiNzUxOGNiYzZhOTI%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZlNWYwZTQ4ZjMxMWE3YjNiM2QyMzBiMjU2ZTA0M2U5YjQ5MDlmN2JiJTJGb3JpZ2luYWwuanBnJTNGMTQ3MTUxMjM4Nz9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz02YzUzMDE0ODkxOTY5OGQ4YWIwNzI4NGE5NzEyNGIwNA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Dbf97c8530f26b252f4d2dfc561ef2b35?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJTgyJUUzJTgxJTg2JUUzJTgzJTg2JUUzJTgyJUI5JUUzJTgzJTg4JUUzJTgxJUE3JUU4JUJGJUI3JUUzJTgyJThGJUUzJTgxJUFBJUUzJTgxJTg0JUUzJTgwJTgyJUU2JTk2JUIwJUU0JUJBJUJBJUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUUzJTgxJUFFJUU1JTkwJThDJUU1JUJGJTk3JUUzJTgxJUFCJUU4JUI0JTg4JUUzJTgyJThCJUUzJTgwJTgxJUUzJTgwJThFJUUzJTgzJTg2JUUzJTgyJUI5JUUzJTgzJTg4JUUzJTgxJUFFJUU2JTk1JTk5JUU3JUE3JTkxJUU2JTlCJUI4JUUzJTgwJThGJUUzJTgyJTkyJUU4JUFBJUFEJUUzJTgyJTkzJUUzJTgxJUE3JUU4JUE2JThCJUUzJTgxJUE0JUUzJTgxJTkxJUUzJTgxJTlGJUUzJTgwJThDMiVFMyU4MSVBNCVFMyU4MSVBRSVFOCVBNiVCMyVFNyU4MiVCOSVFMyU4MCU4RCVFMyU4MSVBOCVFMiU4MCVBNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTg4Yzc2OTlmN2QzZTJjYjNmNWQ4OTRlZmU4NzUzZjRi&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB0LWthbnpvLWNlcmVzJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9YmQ3NTM3YThkMDlhNmY5Yjc4MDM3YTU4N2FkM2UwOWU&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-44K744Os44K5&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=2ba3e62c1802b98fc0fdb17ea65f0b8d"/>
+        </item>
+        <item>
+            <title><![CDATA[JSTQB(ソフトウェアテスト技術者資格認定組織)主催の無料オンラインイベント「20周年記念 JSTQB カンファレンス in 2025 Autumn」のご案内 | 特定非営利活動法人ソフトウェアテスト技術振興協会【プレスリリース】 by PR TIMES]]></title>
+            <link>https://prtimes.jp/main/html/rd/p/000000045.000054604.html</link>
+            <guid>https://prtimes.jp/main/html/rd/p/000000045.000054604.html</guid>
+            <pubDate>Tue, 19 Aug 2025 05:00:02 GMT</pubDate>
+            <description><![CDATA[[特定非営利活動法人ソフトウェアテスト技術振興協会][画像: https://prtimes.jp/i/54604/45/resize/d54604-45-ab9320aff39390400e11-0.png ]JSTQB（ソフトウェアテスト技術者資格認定組織）は、2025 年 10 月 10 日 （金） に設立20周年を記念し「JSTQB 20周年記念...]]></description>
+            <content:encoded><![CDATA[[特定非営利活動法人ソフトウェアテスト技術振興協会][画像: https://prtimes.jp/i/54604/45/resize/d54604-45-ab9320aff39390400e11-0.png ]JSTQB（ソフトウェアテスト技術者資格認定組織）は、2025 年 10 月 10 日 （金） に設立20周年を記念し「JSTQB 20周年記念...]]></content:encoded>
+            <enclosure length="0" type="image/jpeg" height="630" url="https://prcdn.freetls.fastly.net/release_image/54604/45/54604-45-87dce309fd4c90f3a60efd37dafe243b-2747x1441.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260" width="1200"/>
+        </item>
+        <item>
+            <title><![CDATA[Swift Testingの並列テスト実行にまつわる落とし穴 | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/prevent/articles/f46c7361fb46aa</link>
+            <guid>https://zenn.dev/prevent/articles/f46c7361fb46aa</guid>
+            <pubDate>Tue, 19 Aug 2025 04:18:19 GMT</pubDate>
+            <description><![CDATA[こんにちは。株式会社PREVENTでiOSエンジニアをしている佐藤です。弊社で開発しているiOS版のMystarアプリは、最近テストフレームワークをXCTestからSwift Testingへ移行しました。その対応の中で、並列テストにまつわる落とし穴にハマってしまい、やや大変だったのでその時の知見を記事として共有しようと思います。 並列テストそのものの注意点Swift Testingの大きな特徴の]]></description>
+            <content:encoded><![CDATA[こんにちは。株式会社PREVENTでiOSエンジニアをしている佐藤です。弊社で開発しているiOS版のMystarアプリは、最近テストフレームワークをXCTestからSwift Testingへ移行しました。その対応の中で、並列テストにまつわる落とし穴にハマってしまい、やや大変だったのでその時の知見を記事として共有しようと思います。 並列テストそのものの注意点Swift Testingの大きな特徴の一つとして、デフォルトでテストケースの並列実行があります。テストケースを並列実行できると、テストの実行時間が高速化できるので、基本的には積極的に導入したいです。しかし、テストの実装...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--8nKyYatN--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Swift%2520Testing%25E3%2581%25AE%25E4%25B8%25A6%25E5%2588%2597%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E5%25AE%259F%25E8%25A1%258C%25E3%2581%25AB%25E3%2581%25BE%25E3%2581%25A4%25E3%2582%258F%25E3%2582%258B%25E8%2590%25BD%25E3%2581%25A8%25E3%2581%2597%25E7%25A9%25B4%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%25A6%25E3%2581%2583%25E3%2583%25BC%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2QzNzQ5ZTRhYWYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BEPREVENT%25E9%2596%258B%25E7%2599%25BA%25E9%2583%25A8%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQyOTFmZTM2OTcuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[【実案件使用】Cursorプロンプト × コード公開！ ②バグ修正編 | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/shotafukuyama/articles/180f6668578e79</link>
+            <guid>https://zenn.dev/shotafukuyama/articles/180f6668578e79</guid>
+            <pubDate>Mon, 18 Aug 2025 22:14:45 GMT</pubDate>
+            <description><![CDATA[はじめにこんにちは。エンジニア 兼 講師のShotaです。普段はエンジニアとしてAIツールを実案件に適用しながら開発を行い、同時に講師として得られた知見を体系化して受講生の方にお伝えする活動をしています。AIツールを実案件に適用する際に事前に知っておくべき実践的なTipsのシリーズ第4回。今回のテーマは「【実案件使用】Cursorプロンプト × コード公開！ ②バグ修正編」です。なお、本記事は私が]]></description>
+            <content:encoded><![CDATA[はじめにこんにちは。エンジニア 兼 講師のShotaです。普段はエンジニアとしてAIツールを実案件に適用しながら開発を行い、同時に講師として得られた知見を体系化して受講生の方にお伝えする活動をしています。AIツールを実案件に適用する際に事前に知っておくべき実践的なTipsのシリーズ第4回。今回のテーマは「【実案件使用】Cursorプロンプト × コード公開！ ②バグ修正編」です。なお、本記事は私が提供しているAI駆動開発実践コースの内容から一部を抜粋して無料公開しているもので、実際の開発現場での知見に基づいています。 前回の振り返りと課題前回は、AIツールを使ったリファ...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--p1tL3O4w--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E5%25AE%259F%25E6%25A1%2588%25E4%25BB%25B6%25E4%25BD%25BF%25E7%2594%25A8%25E3%2580%2591Cursor%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2597%25E3%2583%2588%2520%25C3%2597%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E5%2585%25AC%25E9%2596%258B%25EF%25BC%2581%2520%25E2%2591%25A1%25E3%2583%2590%25E3%2582%25B0%25E4%25BF%25AE%25E6%25AD%25A3%25E7%25B7%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Shota%2520Fukuyama%25EF%25BD%259CUde...%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2NjMDQ5ZmY1NDEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[【エンジニア必見】テストの真価は安心開発にあり！新人を支える環境づくりの実例 | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/sakupanda/articles/cee53646e52ed7</link>
+            <guid>https://zenn.dev/sakupanda/articles/cee53646e52ed7</guid>
+            <pubDate>Mon, 18 Aug 2025 22:00:05 GMT</pubDate>
+            <description><![CDATA[【エンジニア必見】テストの真価は安心開発にあり！新人を支える環境づくりの実例 💭 この記事を書こうと思ったきっかけ※この記事はテストの書き方や技術的な手法について解説するものではありません。テストが持つ「心理的な効果」や「チーム文化への影響」について、体験談をもとにお話しします。技術顧問として多数の企業の案件に関わっているのですが、現場を見るたびに感じることがあります。それは「テストが整備されてい]]></description>
+            <content:encoded><![CDATA[【エンジニア必見】テストの真価は安心開発にあり！新人を支える環境づくりの実例 💭 この記事を書こうと思ったきっかけ※この記事はテストの書き方や技術的な手法について解説するものではありません。テストが持つ「心理的な効果」や「チーム文化への影響」について、体験談をもとにお話しします。技術顧問として多数の企業の案件に関わっているのですが、現場を見るたびに感じることがあります。それは「テストが整備されているチーム」と「そうでないチーム」での、新しいメンバーの成長スピードの圧倒的な違いです。特に、コード修正時の不安感に大きな差が出ます。「このコード修正、他の機能に影響しないかな......]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--1o5H0op6--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E5%25BF%2585%25E8%25A6%258B%25E3%2580%2591%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AE%25E7%259C%259F%25E4%25BE%25A1%25E3%2581%25AF%25E5%25AE%2589%25E5%25BF%2583%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25AB%25E3%2581%2582%25E3%2582%258A%25EF%25BC%2581%25E6%2596%25B0%25E4%25BA%25BA%25E3%2582%2592%25E6%2594%25AF%25E3%2581%2588%25E3%2582%258B%25E7%2592%25B0%25E5%25A2%2583%25E3%2581%25A5%25E3%2581%258F%25E3%2582%258A%25E3%2581%25AE%25E5%25AE%259F%25E4%25BE%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2595%25E3%2581%258F%25E3%2581%2595%25E3%2581%258F%25E3%2583%2591%25E3%2583%25B3%25E3%2583%2580%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JkZjVhZGNkMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[VASTのテスト画面をテストしやすいよう大きくする方法 | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/yamaz/articles/db2d55bcd1c214</link>
+            <guid>https://zenn.dev/yamaz/articles/db2d55bcd1c214</guid>
+            <pubDate>Mon, 18 Aug 2025 21:20:51 GMT</pubDate>
+            <description><![CDATA[モチベーションVASTの動作確認で下記テストページを使う際、画面が小さくて見切れるケースがあるので、テスト画面を大きくしてテストしやすくしたいhttps://googleads.github.io/googleads-ima-html5/vsi/ やり方ブラウザでconsole画面を出す(F12)コンソール画面でコピペできるようにするallow pastingconsole画面で下記を入力し、サイ]]></description>
+            <content:encoded><![CDATA[モチベーションVASTの動作確認で下記テストページを使う際、画面が小さくて見切れるケースがあるので、テスト画面を大きくしてテストしやすくしたいhttps://googleads.github.io/googleads-ima-html5/vsi/ やり方ブラウザでconsole画面を出す(F12)コンソール画面でコピペできるようにするallow pastingconsole画面で下記を入力し、サイズを変更する(function() { const target = document.querySelector("#video-player video"...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--fS76h5FA--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:VAST%25E3%2581%25AE%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E7%2594%25BB%25E9%259D%25A2%25E3%2582%2592%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%2597%25E3%2582%2584%25E3%2581%2599%25E3%2581%2584%25E3%2582%2588%25E3%2581%2586%25E5%25A4%25A7%25E3%2581%258D%25E3%2581%258F%25E3%2581%2599%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yamaz%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hyS2E1YzBOZFNoSHlsUGZhY3d2anJtdGFyQU9HRWZCQWpacFB4TGc9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[続・動画をインプットに不具合再現手順を生成AIに書いてもらおう | Zennの「QA」のフィード]]></title>
+            <link>https://zenn.dev/team_soda/articles/885ceb5733c19f</link>
+            <guid>https://zenn.dev/team_soda/articles/885ceb5733c19f</guid>
+            <pubDate>Mon, 18 Aug 2025 08:30:01 GMT</pubDate>
+            <description><![CDATA[こんにちは、SODAでクオリティエンジニアをしているokauchiです。今回は以前記事にした不具合再現手順を生成AIの力を借りて楽に書こうを実際にやってみた結果をシェアします。試作段階のプロンプトでのトライアルでしたが、やってみることで「想定と違ったこと」や「改善の余地」が多く見えてきました。 実際にやってみて見えてきたこと直近で検出した不具合20件弱を対象に、動画から手順の文字起こしを試みました]]></description>
+            <content:encoded><![CDATA[こんにちは、SODAでクオリティエンジニアをしているokauchiです。今回は以前記事にした不具合再現手順を生成AIの力を借りて楽に書こうを実際にやってみた結果をシェアします。試作段階のプロンプトでのトライアルでしたが、やってみることで「想定と違ったこと」や「改善の余地」が多く見えてきました。 実際にやってみて見えてきたこと直近で検出した不具合20件弱を対象に、動画から手順の文字起こしを試みました。その際、動画が長くならないように「どの画面から読み取るか」をあらかじめ指定するなど、小さな工夫を入れています。率直に言うと、作業時間は通常の1.5倍ほどかかりました。慣れれば改善でき...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--1192YgDv--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%25B6%259A%25E3%2583%25BB%25E5%258B%2595%25E7%2594%25BB%25E3%2582%2592%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2597%25E3%2583%2583%25E3%2583%2588%25E3%2581%25AB%25E4%25B8%258D%25E5%2585%25B7%25E5%2590%2588%25E5%2586%258D%25E7%258F%25BE%25E6%2589%258B%25E9%25A0%2586%25E3%2582%2592%25E7%2594%259F%25E6%2588%2590AI%25E3%2581%25AB%25E6%259B%25B8%25E3%2581%2584%25E3%2581%25A6%25E3%2582%2582%25E3%2582%2589%25E3%2581%258A%25E3%2581%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2582%25AA%25E3%2582%25AB%25E3%2582%25A6%25E3%2583%2581%25E3%2583%25AF%25E3%2583%258B%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2NmYTM5ODQ3MWIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:SODA%2520Engineering%2520Blog%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzRkNTk4OGE5MTEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[【Go】Goのテストに入門してみた！ ~Fuzzingテスト編~ | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/tmyhrn/articles/f329b29e92faa7</link>
+            <guid>https://zenn.dev/tmyhrn/articles/f329b29e92faa7</guid>
+            <pubDate>Sun, 17 Aug 2025 23:30:01 GMT</pubDate>
+            <description><![CDATA[はじめに前回は「テーブル駆動ベンチマークテスト」を見ていきました。今回は「Fuzzingテスト」に入門します。前回の記事はこちら！https://zenn.dev/tmyhrn/articles/28815a1296e856 この記事でわかることFuzzingテストの概要や役割GoでのFuzzingテストの実施と挙動GoでのFuzzingテストの実施ルール Fuzzingテストとは？Fuzzing]]></description>
+            <content:encoded><![CDATA[はじめに前回は「テーブル駆動ベンチマークテスト」を見ていきました。今回は「Fuzzingテスト」に入門します。前回の記事はこちら！https://zenn.dev/tmyhrn/articles/28815a1296e856 この記事でわかることFuzzingテストの概要や役割GoでのFuzzingテストの実施と挙動GoでのFuzzingテストの実施ルール Fuzzingテストとは？Fuzzingテストとは、意図的に不正なデータや予期しないデータを入れて、システムの脆弱性を検出するテスト手法を指します。さまざまなテストケースを考慮していると思っていても、...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--fU34DXBO--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Go%25E3%2580%2591Go%25E3%2581%25AE%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AB%25E5%2585%25A5%25E9%2596%2580%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25EF%25BC%2581%2520%7EFuzzing%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E7%25B7%25A8%7E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25A8%25E3%2582%2582%25E3%2582%2584%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzY4ODIzYmE0YmIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[バックエンドのテスト理論を学び、戦略を考える | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/sumasate_tec/articles/5ea4363aac1c3a</link>
+            <guid>https://zenn.dev/sumasate_tec/articles/5ea4363aac1c3a</guid>
+            <pubDate>Sun, 17 Aug 2025 22:00:01 GMT</pubDate>
+            <description><![CDATA[Hahnah こと 原井夏樹 です!Xをフォローしてくれると喜びます。本記事は私の所属するスマサテ株式会社で行ったテスト勉強会の内容と、テスト戦略策定について紹介するものです。バックエンドに焦点を当てて、テスト戦略やテストの流派について学びましょう！ 大前提: テストにおける大切なことテストすることが開発サイクルに組み込まれていることコードベースの特に重要な部分のみがテスト対象となっていること最小]]></description>
+            <content:encoded><![CDATA[Hahnah こと 原井夏樹 です!Xをフォローしてくれると喜びます。本記事は私の所属するスマサテ株式会社で行ったテスト勉強会の内容と、テスト戦略策定について紹介するものです。バックエンドに焦点を当てて、テスト戦略やテストの流派について学びましょう！ 大前提: テストにおける大切なことテストすることが開発サイクルに組み込まれていることコードベースの特に重要な部分のみがテスト対象となっていること最小限の保守コストで最大限の価値を生み出せるようになっていること(書籍「単体テストの考え方/使い方」より)これらを達成するために必要なことは様々にありますが、それを分かるよう...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--CrXW__QG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2590%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2581%25AE%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E7%2590%2586%25E8%25AB%2596%25E3%2582%2592%25E5%25AD%25A6%25E3%2581%25B3%25E3%2580%2581%25E6%2588%25A6%25E7%2595%25A5%25E3%2582%2592%25E8%2580%2583%25E3%2581%2588%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Hahnah%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzcxMWNlN2JhZTIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25B9%25E3%2583%259E%25E3%2582%25B5%25E3%2583%2586%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2FlZTU2Mjg0YWYuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+    </channel>
+</rss>
