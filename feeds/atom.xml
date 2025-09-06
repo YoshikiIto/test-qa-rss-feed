@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yoshikiito.github.io/test-qa-rss-feed/</id>
+    <title>テスト・QA関連ブログRSS</title>
+    <updated>2025-09-06T15:05:40.074Z</updated>
+    <generator>yoshikiito/test-qa-rss-feed</generator>
+    <link rel="alternate" href="https://yoshikiito.github.io/test-qa-rss-feed/"/>
+    <link rel="self" href="https://yoshikiito.github.io/test-qa-rss-feed/feeds/atom.xml"/>
+    <subtitle>企テスト・QA関連ブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://yoshikiito.github.io/test-qa-rss-feed/images/icon.png</logo>
+    <icon>https://yoshikiito.github.io/test-qa-rss-feed/images/favicon.ico</icon>
+    <rights>yoshikiito/test-qa-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[test | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/synergeee/articles/my-awesome-article-dd2c48406cebbb</id>
+        <link href="https://zenn.dev/synergeee/articles/my-awesome-article-dd2c48406cebbb"/>
+        <updated>2025-09-06T04:01:45.000Z</updated>
+        <summary type="html"><![CDATA[Hello world 2]]></summary>
+        <content type="html"><![CDATA[Hello world 2]]></content>
+        <author>
+            <name>arx8</name>
+        </author>
+        <published>2025-09-06T04:01:45.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フロントエンドのテストアーキテクチャ | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/toms74209200/articles/frontend-test-architecture</id>
+        <link href="https://zenn.dev/toms74209200/articles/frontend-test-architecture"/>
+        <updated>2025-09-06T00:00:01.000Z</updated>
+        <summary type="html"><![CDATA[近年 testing/library をはじめとしたフロントエンド向けのテストツールが普及し, フロントエンドでのテストが一般的になってきました.また手動テストとE2Eテストを中心としたアイスクリームコーン型のテスト構成から, Testing Trophy の普及によってフロントエンドでも適切なテストを考える機会が増えてきています. Testing TrophyThe Testing Trophy]]></summary>
+        <content type="html"><![CDATA[近年 testing/library をはじめとしたフロントエンド向けのテストツールが普及し, フロントエンドでのテストが一般的になってきました.また手動テストとE2Eテストを中心としたアイスクリームコーン型のテスト構成から, Testing Trophy の普及によってフロントエンドでも適切なテストを考える機会が増えてきています. Testing TrophyThe Testing Trophy and Testing Classifications よりTesting Trophy は Kent C. Dodds が提唱したテスト比率に関する考え方です[1]. Testi...]]></content>
+        <author>
+            <name>toms</name>
+        </author>
+        <published>2025-09-06T00:00:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Goテストで「同じモックを複数回呼ぶ／1回目成功→2回目エラー」をきっちり表現する | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/igusaya/articles/4f06ed6f7076d5</id>
+        <link href="https://zenn.dev/igusaya/articles/4f06ed6f7076d5"/>
+        <updated>2025-09-05T23:49:33.000Z</updated>
+        <summary type="html"><![CDATA[ループや再試行ロジックをテストするときに同じメソッドを複数回呼ぶ—「1回目は成功」「2回目はエラー」のように呼び出しごとに結果を切り替えるにはどう書く？本稿は初学者でも迷わないよう、最小コードで“順序と回数”を保証する実装パターンを3通りで示します。 TL;DRgomock 推奨：InOrder で順序を、Times/DoAndReturn で回数と挙動を制御。順序制約はデフォルトでは無効なので ]]></summary>
+        <content type="html"><![CDATA[ループや再試行ロジックをテストするときに同じメソッドを複数回呼ぶ—「1回目は成功」「2回目はエラー」のように呼び出しごとに結果を切り替えるにはどう書く？本稿は初学者でも迷わないよう、最小コードで“順序と回数”を保証する実装パターンを3通りで示します。 TL;DRgomock 推奨：InOrder で順序を、Times/DoAndReturn で回数と挙動を制御。順序制約はデフォルトでは無効なので InOrder/Call.After を使うのがコツ。Go Packagestestify/mock：mock.InOrder（v1.10+）と Once/Times の...]]></content>
+        <author>
+            <name>畳屋</name>
+        </author>
+        <published>2025-09-05T23:49:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[制度ではなく、関係性が人を育てる。変革人事が仕掛ける“カルチャー再定義” | PTW／ポールトゥウィン【公式】]]></title>
+        <id>https://note.com/ptw_note/n/ncae4cb49c485</id>
+        <link href="https://note.com/ptw_note/n/ncae4cb49c485"/>
+        <updated>2025-09-05T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[入社わずか2年で、5,000人規模の人事部門を担うこととなった執行役員 人事本部長の広瀬。社外で培った経験を新たな風としてポールトゥウィンへ持ち込んだ時、入社11年目の小野が社内のつなぎ役となり、変革の人事を支えてきました。前回の記事では、30年の歴史をもつポールトゥウィンが、企業カルチャーを再定義し“アップデートし続ける組織”へと進化するための構想と人事戦略の全体像に迫りました。今回のテーマは、]]></summary>
+        <content type="html"><![CDATA[入社わずか2年で、5,000人規模の人事部門を担うこととなった執行役員 人事本部長の広瀬。社外で培った経験を新たな風としてポールトゥウィンへ持ち込んだ時、入社11年目の小野が社内のつなぎ役となり、変革の人事を支えてきました。前回の記事では、30年の歴史をもつポールトゥウィンが、企業カルチャーを再定義し“アップデートし続ける組織”へと進化するための構想と人事戦略の全体像に迫りました。今回のテーマは、旗印として掲げられた「Shape the New PTW」が、現場でどのような具体的施策として展開されているのか。引き続き広瀬と小野の2人に話を聞きました。続きをみる]]></content>
+        <published>2025-09-05T05:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIでアンケートQAはどこまで自動化できるか？プロンプトエンジニアリングの試行錯誤と実践知 | QA - エムスリーテックブログ]]></title>
+        <id>https://www.m3tech.blog/entry/2025/09/05/110000</id>
+        <link href="https://www.m3tech.blog/entry/2025/09/05/110000"/>
+        <updated>2025-09-05T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[【Unit7 ブログリレー1日目】エムスリーエンジニアリンググループの秦野です。 Unit7というチームで、主に医師向けアンケートサービスの開発・運用を担当しています。 私たちのチームでは「ibis」というアンケート作成・配信システムを使っています。今回はこのシステムにおける業務改善の一環として、AIを活用してアンケートの品質保証（QA）プロセスを大幅に効率化した話をご紹介します。 ▼ibisにつ]]></summary>
+        <content type="html"><![CDATA[【Unit7 ブログリレー1日目】エムスリーエンジニアリンググループの秦野です。 Unit7というチームで、主に医師向けアンケートサービスの開発・運用を担当しています。 私たちのチームでは「ibis」というアンケート作成・配信システムを使っています。今回はこのシステムにおける業務改善の一環として、AIを活用してアンケートの品質保証（QA）プロセスを大幅に効率化した話をご紹介します。 ▼ibisについては次のブログ記事にて概要を説明しています 新しいアンケートシステムをつくった（Goとシステム概要編） - エムスリーテックブログ アンケート作成のプロセスと課題 AIによる「差分チェック」アプリケ…]]></content>
+        <published>2025-09-05T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[百聞百見は一験にしかず ──WACATEで見えた、知識から実践への道筋 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/medley/articles/7e8a68406483c5</id>
+        <link href="https://zenn.dev/medley/articles/7e8a68406483c5"/>
+        <updated>2025-09-04T22:58:18.000Z</updated>
+        <summary type="html"><![CDATA[こちらの記事は「MEDLEY Summer Tech Blog Relay」の10日目の記事です。https://developer.medley.jp/entry/2025/08/15/20250815/ はじめにこんにちは。株式会社メドレーでQAエンジニアをしている井津です。今年5月に開発者からQAエンジニアに転身し、現在は調剤薬局の基幹システムのQAをしています。6月に「WACATE2025]]></summary>
+        <content type="html"><![CDATA[こちらの記事は「MEDLEY Summer Tech Blog Relay」の10日目の記事です。https://developer.medley.jp/entry/2025/08/15/20250815/ はじめにこんにちは。株式会社メドレーでQAエンジニアをしている井津です。今年5月に開発者からQAエンジニアに転身し、現在は調剤薬局の基幹システムのQAをしています。6月に「WACATE2025夏」という1泊2日の合宿形式のワークショップに参加してきました。本記事では、WACATEのプログラム内容の詳細には触れず、私がWACATEを通じて、知識として理解しているだけの状態か...]]></content>
+        <author>
+            <name>izoo</name>
+        </author>
+        <published>2025-09-04T22:58:18.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[百聞百見は一験にしかず ──WACATEで見えた、知識から実践への道筋 | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/medley/articles/7e8a68406483c5</id>
+        <link href="https://zenn.dev/medley/articles/7e8a68406483c5"/>
+        <updated>2025-09-04T22:58:18.000Z</updated>
+        <summary type="html"><![CDATA[こちらの記事は「MEDLEY Summer Tech Blog Relay」の10日目の記事です。https://developer.medley.jp/entry/2025/08/15/20250815/ はじめにこんにちは。株式会社メドレーでQAエンジニアをしている井津です。今年5月に開発者からQAエンジニアに転身し、現在は調剤薬局の基幹システムのQAをしています。6月に「WACATE2025]]></summary>
+        <content type="html"><![CDATA[こちらの記事は「MEDLEY Summer Tech Blog Relay」の10日目の記事です。https://developer.medley.jp/entry/2025/08/15/20250815/ はじめにこんにちは。株式会社メドレーでQAエンジニアをしている井津です。今年5月に開発者からQAエンジニアに転身し、現在は調剤薬局の基幹システムのQAをしています。6月に「WACATE2025夏」という1泊2日の合宿形式のワークショップに参加してきました。本記事では、WACATEのプログラム内容の詳細には触れず、私がWACATEを通じて、知識として理解しているだけの状態か...]]></content>
+        <author>
+            <name>izoo</name>
+        </author>
+        <published>2025-09-04T22:58:18.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kotlinにおける快適なテスティングエコシステム | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/hondaya14/articles/kotlin-testing-ecosystem</id>
+        <link href="https://zenn.dev/hondaya14/articles/kotlin-testing-ecosystem"/>
+        <updated>2025-09-04T17:24:44.000Z</updated>
+        <summary type="html"><![CDATA[Open-source tools for your testing ecosystem持続可能なソフトウェアに欠かせないソフトウェアテスティングにおけるエコシステムにおいて、Kotlinプロジェクトで利用可能で人気のソフトウェアを紹介します。今回紹介するのは下記ですdetekt: Static Code Analyzer (静的解析)kover: Kotlin Coverage Tool (テス]]></summary>
+        <content type="html"><![CDATA[Open-source tools for your testing ecosystem持続可能なソフトウェアに欠かせないソフトウェアテスティングにおけるエコシステムにおいて、Kotlinプロジェクトで利用可能で人気のソフトウェアを紹介します。今回紹介するのは下記ですdetekt: Static Code Analyzer (静的解析)kover: Kotlin Coverage Tool (テストカバレッジ)allure: Testing Report (テストレポートのビジュアライズ) Detekthttps://github.com/detekt/de...]]></content>
+        <author>
+            <name>hondaya</name>
+        </author>
+        <published>2025-09-04T17:24:44.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kotlinにおける快適なテスティングエコシステム | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/hondaya14/articles/kotlin-testing-exosystem</id>
+        <link href="https://zenn.dev/hondaya14/articles/kotlin-testing-exosystem"/>
+        <updated>2025-09-04T17:22:15.000Z</updated>
+        <summary type="html"><![CDATA[Open-source tools for your testing ecosystem持続可能なソフトウェアに欠かせないソフトウェアテスティングにおけるエコシステムにおいて、Kotlinプロジェクトで利用可能で人気のソフトウェアを紹介します。今回紹介するのは下記ですdetekt: Static Code Analyzer (静的解析)kover: Kotlin Coverage Tool (テス]]></summary>
+        <content type="html"><![CDATA[Open-source tools for your testing ecosystem持続可能なソフトウェアに欠かせないソフトウェアテスティングにおけるエコシステムにおいて、Kotlinプロジェクトで利用可能で人気のソフトウェアを紹介します。今回紹介するのは下記ですdetekt: Static Code Analyzer (静的解析)kover: Kotlin Coverage Tool (テストカバレッジ)allure: Testing Report (テストレポートのビジュアライズ) Detekthttps://github.com/detekt/de...]]></content>
+        <author>
+            <name>hondaya</name>
+        </author>
+        <published>2025-09-04T17:22:15.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[third | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/riorio/articles/4c236eb9846113</id>
+        <link href="https://zenn.dev/riorio/articles/4c236eb9846113"/>
+        <updated>2025-09-04T14:12:45.000Z</updated>
+        <summary type="html"><![CDATA[third]]></summary>
+        <content type="html"><![CDATA[third]]></content>
+        <author>
+            <name>rio</name>
+        </author>
+        <published>2025-09-04T14:12:45.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[second | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/riorio/articles/48b3942f182679</id>
+        <link href="https://zenn.dev/riorio/articles/48b3942f182679"/>
+        <updated>2025-09-04T14:11:51.000Z</updated>
+        <summary type="html"><![CDATA[second]]></summary>
+        <content type="html"><![CDATA[second]]></content>
+        <author>
+            <name>rio</name>
+        </author>
+        <published>2025-09-04T14:11:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[first | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/riorio/articles/28293c0a52fee7</id>
+        <link href="https://zenn.dev/riorio/articles/28293c0a52fee7"/>
+        <updated>2025-09-04T14:10:11.000Z</updated>
+        <summary type="html"><![CDATA[テスト]]></summary>
+        <content type="html"><![CDATA[テスト]]></content>
+        <author>
+            <name>rio</name>
+        </author>
+        <published>2025-09-04T14:10:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Go】Goのテストに入門してみた！ ~go-cmp編~ | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/tmyhrn/articles/3a963b94fd847e</id>
+        <link href="https://zenn.dev/tmyhrn/articles/3a963b94fd847e"/>
+        <updated>2025-09-04T09:00:02.000Z</updated>
+        <summary type="html"><![CDATA[はじめに前回は「Testify」を見ていきました。今回は「go-cmp」に入門します！前回の記事はこちら！ この記事でわかることgo-cmp の概要go-cmp を使った構造体比較の基本go-cmp を使った複合体を含む構造体比較の方法 go-cmpとは？go-cmp は、Googleが提供しているGo用の比較ライブラリです。標準の reflect.DeepEqual() よりも柔軟で細かい制御が]]></summary>
+        <content type="html"><![CDATA[はじめに前回は「Testify」を見ていきました。今回は「go-cmp」に入門します！前回の記事はこちら！ この記事でわかることgo-cmp の概要go-cmp を使った構造体比較の基本go-cmp を使った複合体を含む構造体比較の方法 go-cmpとは？go-cmp は、Googleが提供しているGo用の比較ライブラリです。標準の reflect.DeepEqual() よりも柔軟で細かい制御が必要なケースで活躍します。特徴としては以下のような点があります。複雑な構造体やネストされたデータでも比較できるフィールド単位で無視（Ignore）...]]></content>
+        <author>
+            <name>ともやん</name>
+        </author>
+        <published>2025-09-04T09:00:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[過去のBtoC向けのエッジケースを整理し、BtoBサービスとの違いを考える。 | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/loglass/articles/b77d9f4ca8dca0</id>
+        <link href="https://zenn.dev/loglass/articles/b77d9f4ca8dca0"/>
+        <updated>2025-09-04T06:42:58.000Z</updated>
+        <summary type="html"><![CDATA[!この記事は毎週必ず記事がでるテックブログ Loglass Tech Blog Sprint の107週目の記事です！ 3年間連続達成まで残り52週となりました！ はじめに2025年6月に、株式会社ログラスへQAエンジニアとして入社しましたAkinovと申します。過去、ゲーム・エンターテイメント向けBtoCのウォーターフォール開発におけるQA業務に長年携わってきた事から、BtoB・アジャイル開発と]]></summary>
+        <content type="html"><![CDATA[!この記事は毎週必ず記事がでるテックブログ Loglass Tech Blog Sprint の107週目の記事です！ 3年間連続達成まで残り52週となりました！ はじめに2025年6月に、株式会社ログラスへQAエンジニアとして入社しましたAkinovと申します。過去、ゲーム・エンターテイメント向けBtoCのウォーターフォール開発におけるQA業務に長年携わってきた事から、BtoB・アジャイル開発ともにほぼ未経験、日々試行錯誤＆学びを得ながら業務に取り組んでおります。今回、本ブログの執筆に際して過去のテックブログを参照した所、エンジニア視点でのBtoBとBtoCの違いについて...]]></content>
+        <author>
+            <name>Akinov</name>
+        </author>
+        <published>2025-09-04T06:42:58.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テスト | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/icsvdma/articles/333160a192d169</id>
+        <link href="https://zenn.dev/icsvdma/articles/333160a192d169"/>
+        <updated>2025-09-04T06:39:09.000Z</updated>
+        <summary type="html"><![CDATA[てすと]]></summary>
+        <content type="html"><![CDATA[てすと]]></content>
+        <author>
+            <name>icsvdma</name>
+        </author>
+        <published>2025-09-04T06:39:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【登壇レポート】不具合は上流で止める！ ─ JaSST’25 Tokyoで語った最適な品質保証と第三者検証の価値 | PTW／ポールトゥウィン【公式】]]></title>
+        <id>https://note.com/ptw_note/n/ndf2512ff7b9a</id>
+        <link href="https://note.com/ptw_note/n/ndf2512ff7b9a"/>
+        <updated>2025-09-04T06:24:10.000Z</updated>
+        <summary type="html"><![CDATA[2025年3月27日、日本最大規模のソフトウェアテストシンポジウム 「JaSST’25 Tokyo」 に、ポールトゥウィンQAソリューション事業部 シニアマネージャー 木川 広基と、スペシャリスト 尾崎 由有子が登壇しました。今回のテーマは、「テストだけでは終わらない！継続的な品質向上を実現するために、事業会社、ツールベンダー、第三者検証の３社が考えるアプローチとは？」。本記事では、当日の講演内容]]></summary>
+        <content type="html"><![CDATA[2025年3月27日、日本最大規模のソフトウェアテストシンポジウム 「JaSST’25 Tokyo」 に、ポールトゥウィンQAソリューション事業部 シニアマネージャー 木川 広基と、スペシャリスト 尾崎 由有子が登壇しました。今回のテーマは、「テストだけでは終わらない！継続的な品質向上を実現するために、事業会社、ツールベンダー、第三者検証の３社が考えるアプローチとは？」。本記事では、当日の講演内容と議論のエッセンスをレポートします。続きをみる]]></content>
+        <published>2025-09-04T06:24:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テスト観点ってなに？はもう終わり。完全理解マンへの道 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/hokoripon/articles/dac147c267de1c</id>
+        <link href="https://zenn.dev/hokoripon/articles/dac147c267de1c"/>
+        <updated>2025-09-03T23:15:33.000Z</updated>
+        <summary type="html"><![CDATA[はじめにソフトウェアテストを行う際によく聞く「テスト観点」という言葉。しかし、その意味や「テスト項目」との違いについて曖昧な理解のままテストを行っている方も多いのではないでしょうか。この記事では、テスト観点の基本概念について整理し、実際のテスト設計にどう活用するかを解説します。!この記事は、筆者がソフトウェアテストの現場で実際に経験したことや、様々な方との議論を通じて得た気づきをもとに「テスト観点]]></summary>
+        <content type="html"><![CDATA[はじめにソフトウェアテストを行う際によく聞く「テスト観点」という言葉。しかし、その意味や「テスト項目」との違いについて曖昧な理解のままテストを行っている方も多いのではないでしょうか。この記事では、テスト観点の基本概念について整理し、実際のテスト設計にどう活用するかを解説します。!この記事は、筆者がソフトウェアテストの現場で実際に経験したことや、様々な方との議論を通じて得た気づきをもとに「テスト観点とは何か」について整理したものです。学術的な出典に基づくものではなく、実践の中で培った個人的な見解であることをご了承ください。 テスト観点とは何かテスト観点とは、ソフトウェアの...]]></content>
+        <author>
+            <name>ほこりぽん</name>
+        </author>
+        <published>2025-09-03T23:15:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Go】Goのテストに入門してみた！ ~Testify編~ | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/tmyhrn/articles/4ae17367427b44</id>
+        <link href="https://zenn.dev/tmyhrn/articles/4ae17367427b44"/>
+        <updated>2025-09-03T10:00:01.000Z</updated>
+        <summary type="html"><![CDATA[はじめに前回は「構造体の比較テスト」を見ていきました。今回は「Testify」に入門します！前回の記事はこちら！ この記事でわかることstretchr/testify の概要stretchr/testify を使った構造体比較の基本stretchr/testify を使った複合型構造体比較の方法 Testifyとは？stretchr/testify は、Goでテストを書くときによく使われる、アサー]]></summary>
+        <content type="html"><![CDATA[はじめに前回は「構造体の比較テスト」を見ていきました。今回は「Testify」に入門します！前回の記事はこちら！ この記事でわかることstretchr/testify の概要stretchr/testify を使った構造体比較の基本stretchr/testify を使った複合型構造体比較の方法 Testifyとは？stretchr/testify は、Goでテストを書くときによく使われる、アサーションライブラリ兼モックライブラリ です。標準の testing パッケージを補完し、テストコードを短く・読みやすく・書きやすくしてくれます。 Tes...]]></content>
+        <author>
+            <name>ともやん</name>
+        </author>
+        <published>2025-09-03T10:00:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『テストの7つの原則』 〜 パート⑦ final 〜 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/hide_yuki/articles/27bd961765f8e6</id>
+        <link href="https://zenn.dev/hide_yuki/articles/27bd961765f8e6"/>
+        <updated>2025-09-03T09:51:21.000Z</updated>
+        <summary type="html"><![CDATA[はじめに現在、アプリ開発者としてプロダクトの持続的な成長やユーザーへのコミットに寄与するためにも、SDLC全体を見渡して開発をすること、および、それにはテストに関する体系的な知識が必要だと考え、それを効率良く学べるJSTQB Foundation Levelの資格試験の勉強をしていました。この記事ではそこでの学びをアウトプットしたと思います。今回はその中でも「テストの7つの原則」の一部について記事]]></summary>
+        <content type="html"><![CDATA[はじめに現在、アプリ開発者としてプロダクトの持続的な成長やユーザーへのコミットに寄与するためにも、SDLC全体を見渡して開発をすること、および、それにはテストに関する体系的な知識が必要だと考え、それを効率良く学べるJSTQB Foundation Levelの資格試験の勉強をしていました。この記事ではそこでの学びをアウトプットしたと思います。今回はその中でも「テストの7つの原則」の一部について記事にしたいと思います。なお今回は集大成として 欠陥ゼロの落とし穴こちらの原則について記事にしてみようと思います。 欠陥ゼロの落とし穴とは 前提を疑うまずはこ...]]></content>
+        <author>
+            <name>Hideyuki Fujihara</name>
+        </author>
+        <published>2025-09-03T09:51:21.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『テストの7つの原則』 〜 パート⑦ final 〜 | ソフトウェアテストタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/fujihara_hideyuki/items/a56d55464769b7bfe44d</id>
+        <link href="https://qiita.com/fujihara_hideyuki/items/a56d55464769b7bfe44d"/>
+        <updated>2025-09-03T09:48:37.000Z</updated>
+        <summary type="html"><![CDATA[はじめに現在、アプリ開発者としてプロダクトの持続的な成長やユーザーへのコミットに寄与するためにも、SDLC全体を見渡して開発をすること、および、それにはテストに関する体系的な知識が必要だと考え、それを効率良く学べるJSTQB Foundation Levelの資...]]></summary>
+        <content type="html"><![CDATA[はじめに現在、アプリ開発者としてプロダクトの持続的な成長やユーザーへのコミットに寄与するためにも、SDLC全体を見渡して開発をすること、および、それにはテストに関する体系的な知識が必要だと考え、それを効率良く学べるJSTQB Foundation Levelの資...]]></content>
+        <published>2025-09-03T09:48:37.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QAエンジニアはAIに淘汰されないさ。だって実は、俺たちアーティストだから。 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/enjapan/articles/9df195c403730b</id>
+        <link href="https://zenn.dev/enjapan/articles/9df195c403730b"/>
+        <updated>2025-09-03T02:30:37.000Z</updated>
+        <summary type="html"><![CDATA[はじめにふざけた表題ですみません（笑）私が元々バンドマンだったからでもありません。3ヶ月ほどブログを書いていませんでした。シンプルに忙しかったというのもありますが、表題のようなことをずっと考えていたからでもあります。先日、私が非常に愛読している秋山さんのとあるブログの記事を拝読し、非常に深い共感を覚えました。QAという職種に対する洞察や捉え方に触れ、自分自身の経験や考えとも重なる部分が多く、改めて]]></summary>
+        <content type="html"><![CDATA[はじめにふざけた表題ですみません（笑）私が元々バンドマンだったからでもありません。3ヶ月ほどブログを書いていませんでした。シンプルに忙しかったというのもありますが、表題のようなことをずっと考えていたからでもあります。先日、私が非常に愛読している秋山さんのとあるブログの記事を拝読し、非常に深い共感を覚えました。QAという職種に対する洞察や捉え方に触れ、自分自身の経験や考えとも重なる部分が多く、改めてこの領域の奥深さを感じる機会となりました。秋山さんのブログは「QAとは何か？」と悩んだ時に必ず立ち返るブログです。他に井芹さんのブログやアシカさんのブログなどもよく参考にしています...]]></content>
+        <author>
+            <name>MAX</name>
+        </author>
+        <published>2025-09-03T02:30:37.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最終回【第11回】論理をスキルの引出しに｜実務三年目からの発見力と仮説力 | 品質 | Sqripts]]></title>
+        <id>https://sqripts.com/?p=105577</id>
+        <link href="https://sqripts.com/2025/09/03/105577/"/>
+        <updated>2025-09-03T01:33:40.000Z</updated>
+        <summary type="html"><![CDATA[帰納的な推論 と 発見的な推論(アブダクション) は、私たちがソフトウェア開発の現場/実務で（知らず知らずにでも）駆使している思考の形です（それどころか日々の暮らしでも使っています）。 それほど“自然な”思考の形ですが、...The post 最終回【第11回】論理をスキルの引出しに｜実務三年目からの発見力と仮説力 first appeared on Sqripts.]]></summary>
+        <content type="html"><![CDATA[帰納的な推論 と 発見的な推論(アブダクション) は、私たちがソフトウェア開発の現場/実務で（知らず知らずにでも）駆使している思考の形です（それどころか日々の暮らしでも使っています）。 それほど“自然な”思考の形ですが、...The post 最終回【第11回】論理をスキルの引出しに｜実務三年目からの発見力と仮説力 first appeared on Sqripts.]]></content>
+        <author>
+            <name>TAKIMOTO</name>
+        </author>
+        <category label="特集"/>
+        <category label="品質"/>
+        <category label="エンジニアリング"/>
+        <category label="ソフトウェアテスト"/>
+        <published>2025-09-03T01:33:40.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Go】Goのテストに入門してみた！ ~構造体の比較テスト編~ | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/tmyhrn/articles/0c73bc51456886</id>
+        <link href="https://zenn.dev/tmyhrn/articles/0c73bc51456886"/>
+        <updated>2025-09-02T10:00:02.000Z</updated>
+        <summary type="html"><![CDATA[はじめに前回は「スライスとマップの比較テスト」を見ていきました。今回は「構造体の比較テスト」に入門します！前回の記事はこちら！ この記事でわかること構造体比較の基本複合型を含む構造体の比較方法構造体の比較テストを行うシーン 構造体比較の基本構造体フィールドにスライスやマップなどの複合型が存在しない場合は、 == を使って比較することができます。main_test.gopackage mainimp]]></summary>
+        <content type="html"><![CDATA[はじめに前回は「スライスとマップの比較テスト」を見ていきました。今回は「構造体の比較テスト」に入門します！前回の記事はこちら！ この記事でわかること構造体比較の基本複合型を含む構造体の比較方法構造体の比較テストを行うシーン 構造体比較の基本構造体フィールドにスライスやマップなどの複合型が存在しない場合は、 == を使って比較することができます。main_test.gopackage mainimport ( "testing")type User struct { ID int Name string Age...]]></content>
+        <author>
+            <name>ともやん</name>
+        </author>
+        <published>2025-09-02T10:00:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ライブデモ＆全フロー実演】AI品質向上の全体像が超具体でわかる！ LLMOps 実践会 —　イベントレポート | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/daijobu/articles/fb58ffc0c90705</id>
+        <link href="https://zenn.dev/daijobu/articles/fb58ffc0c90705"/>
+        <updated>2025-09-02T05:57:57.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！DAIJOBU 代表の山中です。今回は 2025 年 8 月 19 日に開催したオフラインイベント【ライブデモ＆全フロー実演】AI品質向上の全体像が超具体でわかる！ LLMOps 実践会 のレポートをお届けします！https://connpass.com/event/363622/ ⏰️当日のタイムテーブル 発表内容今回の発表資料です。 【ライブデモ＆全フロー実演】AI品質向上の全体像]]></summary>
+        <content type="html"><![CDATA[こんにちは！DAIJOBU 代表の山中です。今回は 2025 年 8 月 19 日に開催したオフラインイベント【ライブデモ＆全フロー実演】AI品質向上の全体像が超具体でわかる！ LLMOps 実践会 のレポートをお届けします！https://connpass.com/event/363622/ ⏰️当日のタイムテーブル 発表内容今回の発表資料です。 【ライブデモ＆全フロー実演】AI品質向上の全体像が超具体でわかる！ LLMOps 実践会今回のイベントでは、弊社が実際に行っているQAプロセスを余すことなく公開しました！ネットや論文では得られない、DAIJOBU...]]></content>
+        <author>
+            <name>DAIJOBU株式会社 LLM QA事業部🧪</name>
+        </author>
+        <published>2025-09-02T05:57:57.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ライブデモ＆全フロー実演】AI品質向上の全体像が超具体でわかる！ LLMOps 実践会 —　イベントレポート | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/daijobu/articles/fb58ffc0c90705</id>
+        <link href="https://zenn.dev/daijobu/articles/fb58ffc0c90705"/>
+        <updated>2025-09-02T05:57:57.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！DAIJOBU 代表の山中です。今回は 2025 年 8 月 19 日に開催したオフラインイベント【ライブデモ＆全フロー実演】AI品質向上の全体像が超具体でわかる！ LLMOps 実践会 のレポートをお届けします！https://connpass.com/event/363622/ ⏰️当日のタイムテーブル 発表内容今回の発表資料です。 【ライブデモ＆全フロー実演】AI品質向上の全体像]]></summary>
+        <content type="html"><![CDATA[こんにちは！DAIJOBU 代表の山中です。今回は 2025 年 8 月 19 日に開催したオフラインイベント【ライブデモ＆全フロー実演】AI品質向上の全体像が超具体でわかる！ LLMOps 実践会 のレポートをお届けします！https://connpass.com/event/363622/ ⏰️当日のタイムテーブル 発表内容今回の発表資料です。 【ライブデモ＆全フロー実演】AI品質向上の全体像が超具体でわかる！ LLMOps 実践会今回のイベントでは、弊社が実際に行っているQAプロセスを余すことなく公開しました！ネットや論文では得られない、DAIJOBU...]]></content>
+        <author>
+            <name>DAIJOBU株式会社 LLM QA事業部🧪</name>
+        </author>
+        <published>2025-09-02T05:57:57.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テスト自動化の新たな地平：AIはテストエンジニアの日常をどう変えるのか？最新トレンドとツールの実態に迫る | 品質 | Sqripts]]></title>
+        <id>https://sqripts.com/?p=105603</id>
+        <link href="https://sqripts.com/2025/09/02/105603/"/>
+        <updated>2025-09-02T03:37:20.000Z</updated>
+        <summary type="html"><![CDATA[テストエンジニアのユッキーです。普段は自動化担当部署で、お客様のテスト自動化導入をご支援したり、社内の自動化技術の研究開発に携わっています。 皆さんの周りでも、「AI」という言葉を聞かない日はないのではないでしょうか。あ...The post テスト自動化の新たな地平：AIはテストエンジニアの日常をどう変えるのか？最新トレンドとツールの実態に迫る first appeared on Sqripts]]></summary>
+        <content type="html"><![CDATA[テストエンジニアのユッキーです。普段は自動化担当部署で、お客様のテスト自動化導入をご支援したり、社内の自動化技術の研究開発に携わっています。 皆さんの周りでも、「AI」という言葉を聞かない日はないのではないでしょうか。あ...The post テスト自動化の新たな地平：AIはテストエンジニアの日常をどう変えるのか？最新トレンドとツールの実態に迫る first appeared on Sqripts.]]></content>
+        <author>
+            <name>TAKIMOTO</name>
+        </author>
+        <category label="品質"/>
+        <category label="エンジニアリング"/>
+        <category label="ソフトウェアテスト"/>
+        <category label="テスト自動化"/>
+        <category label="AI"/>
+        <category label="エンジニアブログ"/>
+        <published>2025-09-02T03:37:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[探索的テスト補助用テストケースの自動生成 ー 使用したLLMプロンプトもご紹介 | QA - SmartHR Tech Blog]]></title>
+        <id>https://tech.smarthr.jp/entry/2025/09/01/181905</id>
+        <link href="https://tech.smarthr.jp/entry/2025/09/01/181905"/>
+        <updated>2025-09-01T09:19:05.000Z</updated>
+        <summary type="html"><![CDATA[探索的テスト補助用テストケースの自動生成 ー 使用したLLMプロンプトもご紹介 勤怠管理機能チームでQAエンジニアをしているringoです。 勤怠管理機能の開発では、1つの大きな単位での機能を複数のProduct Backlog Item(以下、PBI)に分割し、リリース前に「フィーチャーテスト」という、機能全体の探索的テストを行なうフェーズを設けています。ここで言う探索的テストは、テスト実行者が]]></summary>
+        <content type="html"><![CDATA[探索的テスト補助用テストケースの自動生成 ー 使用したLLMプロンプトもご紹介 勤怠管理機能チームでQAエンジニアをしているringoです。 勤怠管理機能の開発では、1つの大きな単位での機能を複数のProduct Backlog Item(以下、PBI)に分割し、リリース前に「フィーチャーテスト」という、機能全体の探索的テストを行なうフェーズを設けています。ここで言う探索的テストは、テスト実行者が機能を実際に操作しながら、事前に定義されていない観点や課題を能動的に発見していくテスト手法を指しています。 今回は、このフィーチャーテストのフェーズにおいて、Clineを用いて探索的テストの補助となる…]]></content>
+        <published>2025-09-01T09:19:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[test2 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/mutsuki_test/articles/22b96fb3f38bce</id>
+        <link href="https://zenn.dev/mutsuki_test/articles/22b96fb3f38bce"/>
+        <updated>2025-09-01T08:11:48.000Z</updated>
+        <summary type="html"><![CDATA[test]]></summary>
+        <content type="html"><![CDATA[test]]></content>
+        <author>
+            <name>test</name>
+        </author>
+        <published>2025-09-01T08:11:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[非エンジニアもMarkdownでテストを書ける — PlaywrightとGaugeによる自動テスト | QA - エムスリーテックブログ]]></title>
+        <id>https://www.m3tech.blog/entry/2025/09/01/120000</id>
+        <link href="https://www.m3tech.blog/entry/2025/09/01/120000"/>
+        <updated>2025-09-01T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに エムスリーテクノロジーズの永江 (@yukinagae)です。 2025年7月からエムスリーテクノロジーズに入社し、グループ会社への技術支援をしています。詳しい業務内容は、前回の記事でも紹介しました。 支援内容は、各グループ会社の状況や参画するエンジニアのスキルによって変わりますが、共通してCI/CDの強化から始めることが多いです。なかでも特に自動テストの強化は、最初に手がけるべき施策だ]]></summary>
+        <content type="html"><![CDATA[はじめに エムスリーテクノロジーズの永江 (@yukinagae)です。 2025年7月からエムスリーテクノロジーズに入社し、グループ会社への技術支援をしています。詳しい業務内容は、前回の記事でも紹介しました。 支援内容は、各グループ会社の状況や参画するエンジニアのスキルによって変わりますが、共通してCI/CDの強化から始めることが多いです。なかでも特に自動テストの強化は、最初に手がけるべき施策だと考えています。 その理由は、次の3つです。 導入ハードルが低い: 既存のコードに影響を与えずに導入できる 既存コードの理解が深まる: テストを書く過程で自然とコードの動きやドメイン知識が身につく 成…]]></content>
+        <published>2025-09-01T03:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[心理的安全性をつくらない | くぼぴー]]></title>
+        <id>https://note.com/kubopi/n/n0ce7054f5f73</id>
+        <link href="https://note.com/kubopi/n/n0ce7054f5f73"/>
+        <updated>2025-08-31T22:55:47.000Z</updated>
+        <summary type="html"><![CDATA[心理的安全性は“副作用”であるこんにちは。kubopです。「心理的安全性を作ろう！」最近よく耳にする言葉です。とても大事なテーマですが、私はここにちょっとした違和感を覚えます。なぜなら、心理的安全性は目指すべきゴールではなく、結果として現れる副作用だと思うからです。続きをみる]]></summary>
+        <content type="html"><![CDATA[心理的安全性は“副作用”であるこんにちは。kubopです。「心理的安全性を作ろう！」最近よく耳にする言葉です。とても大事なテーマですが、私はここにちょっとした違和感を覚えます。なぜなら、心理的安全性は目指すべきゴールではなく、結果として現れる副作用だと思うからです。続きをみる]]></content>
+        <published>2025-08-31T22:55:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[困った時に出会う本ほど身に沁みる | つとむ  QAエンジニア]]></title>
+        <id>https://note.com/26baca/n/n20a3112fa672</id>
+        <link href="https://note.com/26baca/n/n20a3112fa672"/>
+        <updated>2025-08-31T14:59:29.000Z</updated>
+        <summary type="html"><![CDATA[今、自分に足りないもの、困っている時に見つけた本、おすすめされた本は、自分のなかで大切な本になります。面白そうだから読んでみたい今話題になっているから、読んでみたい続きをみる]]></summary>
+        <content type="html"><![CDATA[今、自分に足りないもの、困っている時に見つけた本、おすすめされた本は、自分のなかで大切な本になります。面白そうだから読んでみたい今話題になっているから、読んでみたい続きをみる]]></content>
+        <published>2025-08-31T14:59:29.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テストを書くときにハマりがちなポイントまとめ（データ準備・assert・整理の仕方） | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/tajicode/articles/03f6e9b3054675</id>
+        <link href="https://zenn.dev/tajicode/articles/03f6e9b3054675"/>
+        <updated>2025-08-31T06:18:23.000Z</updated>
+        <summary type="html"><![CDATA[※本記事は ChatGPT による生成コンテンツをもとに、筆者が加筆・修正を行ったものです。 1) データ準備が複雑になる問題 痛みの正体「全部指定」地獄：テストごとに全フィールド埋めるコピペ肥大化：似た準備が散らばる意図が読めない：この値は意味があるの？ただのダミー？ 解決パターンTest Data Builder / Object Mother“最小限の正当データ”にデフォルトを持つビルダーを]]></summary>
+        <content type="html"><![CDATA[※本記事は ChatGPT による生成コンテンツをもとに、筆者が加筆・修正を行ったものです。 1) データ準備が複雑になる問題 痛みの正体「全部指定」地獄：テストごとに全フィールド埋めるコピペ肥大化：似た準備が散らばる意図が読めない：この値は意味があるの？ただのダミー？ 解決パターンTest Data Builder / Object Mother“最小限の正当データ”にデフォルトを持つビルダーを用意し、差分だけ上書きするシナリオ関数（Given系ヘルパ）「有効期限切れのユーザー」「在庫ゼロの商品」など意味で準備する階層化したファ...]]></content>
+        <author>
+            <name>tajima</name>
+        </author>
+        <published>2025-08-31T06:18:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第349回：　「ALTTAのテキストをつくろう」32　（信頼性テスト　後編：　QAWと品質特性シナリオ） | Kouichi Akiyama]]></title>
+        <id>https://note.com/akiyama924/n/n40da7015fcca</id>
+        <link href="https://note.com/akiyama924/n/n40da7015fcca"/>
+        <updated>2025-08-30T21:27:12.000Z</updated>
+        <summary type="html"><![CDATA[◀前の記事へ 次の記事へ▶︎≡ はじめに続きをみる]]></summary>
+        <content type="html"><![CDATA[◀前の記事へ 次の記事へ▶︎≡ はじめに続きをみる]]></content>
+        <published>2025-08-30T21:27:12.000Z</published>
+    </entry>
+</feed>
