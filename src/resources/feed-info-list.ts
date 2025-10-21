@@ -113,6 +113,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['PTW／ポールトゥウィン【公式】', 'https://note.com/ptw_note/rss'],
   //ま
   ['まこっちゃん', 'https://note.com/mark_hillfield/rss'],
+  ['MagicPod Blog', 'https://magicpod.com/blog/rss2.xml'],
   //['マネーフォワード エンジニアブログ - テスト', 'https://moneyforward.com/engineers_blog/feed/?s=%E3%83%86%E3%82%B9%E3%83%88&submit=%E6%A4%9C%E7%B4%A2'],
   //や
   ['ゆふてっく。', 'https://yufutech.hatenablog.com/feed'],
