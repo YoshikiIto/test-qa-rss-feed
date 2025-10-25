@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yoshikiito.github.io/test-qa-rss-feed/</id>
+    <title>テスト・QA関連ブログRSS</title>
+    <updated>2025-10-25T15:06:05.972Z</updated>
+    <generator>yoshikiito/test-qa-rss-feed</generator>
+    <link rel="alternate" href="https://yoshikiito.github.io/test-qa-rss-feed/"/>
+    <link rel="self" href="https://yoshikiito.github.io/test-qa-rss-feed/feeds/atom.xml"/>
+    <subtitle>企テスト・QA関連ブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://yoshikiito.github.io/test-qa-rss-feed/images/icon.png</logo>
+    <icon>https://yoshikiito.github.io/test-qa-rss-feed/images/favicon.ico</icon>
+    <rights>yoshikiito/test-qa-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[クラシフィケーションツリー技法ってなに？ | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/hide_yuki/articles/2e3b8d8de73270</id>
+        <link href="https://zenn.dev/hide_yuki/articles/2e3b8d8de73270"/>
+        <updated>2025-10-25T05:02:34.000Z</updated>
+        <summary type="html"><![CDATA[はじめに今回はテスト技法の一つ『クラシフィケーションツリー技法』についてまとめてみようと思います。 クラシフィケーションツリー技法とはこのテスト技法は以下のような特徴を持ちます。テスト対象の想定される振る舞いは複数の考慮要素の組み合わせにより導出される考慮要素の値は同値分割により分岐的にまとめることが出来る考慮要素は論理的に繋がりがあり飛躍がなくMECEであるテスト対象の想定される振る舞いを網羅す]]></summary>
+        <content type="html"><![CDATA[はじめに今回はテスト技法の一つ『クラシフィケーションツリー技法』についてまとめてみようと思います。 クラシフィケーションツリー技法とはこのテスト技法は以下のような特徴を持ちます。テスト対象の想定される振る舞いは複数の考慮要素の組み合わせにより導出される考慮要素の値は同値分割により分岐的にまとめることが出来る考慮要素は論理的に繋がりがあり飛躍がなくMECEであるテスト対象の想定される振る舞いを網羅する際、そのテストケースの導出時の論理的な切り口として同値分割の手法を用いることで、テストを網羅的で効率的に実施することが出来る技法です。同じブラックボックステスト技...]]></content>
+        <author>
+            <name>Hideyuki Fujihara</name>
+        </author>
+        <published>2025-10-25T05:02:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[クラシフィケーションツリー技法ってなに？ | ソフトウェアテストタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/fujihara_hideyuki/items/c92907aa08a1a8d4ecfa</id>
+        <link href="https://qiita.com/fujihara_hideyuki/items/c92907aa08a1a8d4ecfa"/>
+        <updated>2025-10-25T04:59:45.000Z</updated>
+        <summary type="html"><![CDATA[はじめに今回はテスト技法の一つ『クラシフィケーションツリー技法』についてまとめてみようと思います。クラシフィケーションツリー技法とはこのテスト技法は以下のような特徴を持ちます。テスト対象の想定される振る舞いは複数の考慮要素の組み合わせにより導出される考慮要素...]]></summary>
+        <content type="html"><![CDATA[はじめに今回はテスト技法の一つ『クラシフィケーションツリー技法』についてまとめてみようと思います。クラシフィケーションツリー技法とはこのテスト技法は以下のような特徴を持ちます。テスト対象の想定される振る舞いは複数の考慮要素の組み合わせにより導出される考慮要素...]]></content>
+        <published>2025-10-25T04:59:45.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プロポーザルを書くときに心がけ、採択するときに注目していること | ブロッコリーのブログ]]></title>
+        <id>https://nihonbuson.hatenadiary.jp/entry/How-to-write-a-proposal</id>
+        <link href="https://nihonbuson.hatenadiary.jp/entry/How-to-write-a-proposal"/>
+        <updated>2025-10-25T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 技術系カンファレンスでは、一般公募（プロポーザルの募集）を行い、運営が審査して採択をする形式があります。 プロポーザルを見たり、運営側として採択を決めたりするときに、「これってテーマは良さそうなんだけど、伝えたい内容が少し見えてこないから採択できないかな…」と思うものが多数あります。 そこで、私がプロポーザルを作成する際に気をつけていることや運営側として気にしていることを言語化してみたい]]></summary>
+        <content type="html"><![CDATA[はじめに 技術系カンファレンスでは、一般公募（プロポーザルの募集）を行い、運営が審査して採択をする形式があります。 プロポーザルを見たり、運営側として採択を決めたりするときに、「これってテーマは良さそうなんだけど、伝えたい内容が少し見えてこないから採択できないかな…」と思うものが多数あります。 そこで、私がプロポーザルを作成する際に気をつけていることや運営側として気にしていることを言語化してみたいと思います。あくまでも私の主観ですので、その点はご了承ください。 なお、私がどんな立場なのか（プロポーザルの応募者やカンファレンスの運営実績など）については、本記事末尾の注釈で紹介しています。（応募者…]]></content>
+        <published>2025-10-25T03:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソフトウェアテストがもたらす“安心”について考えてみた | ソフトウェアテストタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/YutoM/items/459cfbb7c0d44acc933f</id>
+        <link href="https://qiita.com/YutoM/items/459cfbb7c0d44acc933f"/>
+        <updated>2025-10-24T10:25:18.000Z</updated>
+        <summary type="html"><![CDATA[ソフトウェアテストが提供できるものは、そのソフトウェアを作る人や使う人にとっての「安心」だと思う。ただ、ソフトウェアテストがどんな性質で安心をもたらすかは、人によって異なる。ある人にとっては「このテストケースをPASSしたから安心」かもしれない。別の人にとっては「Q...]]></summary>
+        <content type="html"><![CDATA[ソフトウェアテストが提供できるものは、そのソフトウェアを作る人や使う人にとっての「安心」だと思う。ただ、ソフトウェアテストがどんな性質で安心をもたらすかは、人によって異なる。ある人にとっては「このテストケースをPASSしたから安心」かもしれない。別の人にとっては「Q...]]></content>
+        <published>2025-10-24T10:25:18.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ユニットテストがしやすいコード構成について過去を振り返って考えてみた | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/levtech/articles/feae08d88c039d</id>
+        <link href="https://zenn.dev/levtech/articles/feae08d88c039d"/>
+        <updated>2025-10-24T03:00:44.000Z</updated>
+        <summary type="html"><![CDATA[はじめにインテグレーションテスト主体でテストを書いていく場合、テスト実行時間が長い問題が出てきた。（インスタンスをたくさん並べてパラレル実行にするとかやりようはあると思う）解決するためには出来る限りユニットテストに寄せた方が良いが、どういったコード構成ならユニットテストに寄せやすいのか？考えた。 今あるアーキテクチャから選べばいいじゃんという話もあるが。。。既存アーキテクチャだとなんかしっくりこな]]></summary>
+        <content type="html"><![CDATA[はじめにインテグレーションテスト主体でテストを書いていく場合、テスト実行時間が長い問題が出てきた。（インスタンスをたくさん並べてパラレル実行にするとかやりようはあると思う）解決するためには出来る限りユニットテストに寄せた方が良いが、どういったコード構成ならユニットテストに寄せやすいのか？考えた。 今あるアーキテクチャから選べばいいじゃんという話もあるが。。。既存アーキテクチャだとなんかしっくりこないのでしっくりくるのを考えてみた。全部に当てはまる正解はないので、自分の関わってきたシステムを振り返り、それらを踏まえて考えてみる。実際に本番稼働していたシステムを元に考える...]]></content>
+        <author>
+            <name>daijinload</name>
+        </author>
+        <published>2025-10-24T03:00:44.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TMX Automation Helpers リファレンス１：数値の加算と減算 | Ranorex Blog - UIテスト自動化ツール 『Ranorex』]]></title>
+        <id>https://ranorex.techmatrix.jp/?p=29303</id>
+        <link href="https://ranorex.techmatrix.jp/blog/2025/10/24/tmx_automation_helpers_calculateaddition-calculatesubtraction/"/>
+        <updated>2025-10-24T02:00:44.000Z</updated>
+        <summary type="html"><![CDATA[2025年1月にリリースしたTMX版のオートメーションヘルパーについて、利用ケースや提供しているメソッドの使い方を「TMX Automation Helpers リファレンス」として解説していきたいと思います。今回の記事 […]The post TMX Automation Helpers リファレンス１：数値の加算と減算 first appeared on UIテスト自動化ツール 『Ranore]]></summary>
+        <content type="html"><![CDATA[2025年1月にリリースしたTMX版のオートメーションヘルパーについて、利用ケースや提供しているメソッドの使い方を「TMX Automation Helpers リファレンス」として解説していきたいと思います。今回の記事 […]The post TMX Automation Helpers リファレンス１：数値の加算と減算 first appeared on UIテスト自動化ツール 『Ranorex』.]]></content>
+        <author>
+            <name>user</name>
+        </author>
+        <category label="ノウハウ"/>
+        <published>2025-10-24T02:00:44.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vitest 4の新機能 expect.schemaMatching とHonoとZodでスキーマ駆動でテストをやる | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/assign/articles/vitest-4-schema-matching</id>
+        <link href="https://zenn.dev/assign/articles/vitest-4-schema-matching"/>
+        <updated>2025-10-23T12:25:33.000Z</updated>
+        <summary type="html"><![CDATA[はじめにこんにちは、株式会社アサインでエンジニアをしているうちほり(@showichiro0123)です。2025年10月22日にリリースされたVitest 4には、テスト駆動開発やスキーマ駆動開発を加速させる新機能が多数追加されました。中でも私の目を引いたのは、Zodなどのスキーマライブラリと統合できるexpect.schemaMatchingです。本記事では、Vitest 4の新機能を概観しつ]]></summary>
+        <content type="html"><![CDATA[はじめにこんにちは、株式会社アサインでエンジニアをしているうちほり(@showichiro0123)です。2025年10月22日にリリースされたVitest 4には、テスト駆動開発やスキーマ駆動開発を加速させる新機能が多数追加されました。中でも私の目を引いたのは、Zodなどのスキーマライブラリと統合できるexpect.schemaMatchingです。本記事では、Vitest 4の新機能を概観しつつ、expect.schemaMatchingを使ったスキーマ駆動テストの実践方法を、Honoを使ったWeb APIの開発例を交えて紹介します。 Vitest 4の主要な新機能ま...]]></content>
+        <author>
+            <name>showichiro</name>
+        </author>
+        <published>2025-10-23T12:25:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JaSST'25 Kyushu前夜祭で非同期の機能をテストする基盤について発表しました #jasst_kyushu | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/bun913/articles/4a40ec26312058</id>
+        <link href="https://zenn.dev/bun913/articles/4a40ec26312058"/>
+        <updated>2025-10-23T11:03:33.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。ダイの大冒険エンジョイ勢のbun913と申します。本日JaSST'25 Kyushu前夜祭というイベントにて、私がメールやSlackの通知を起点にした非同期な機能に対する自動テストの基盤を作成したことについて発表しました。内容としては、以下のブログに書いてあることをベースにこれまでの環境やインフラ面での工夫についても触れた形になります。https://zenn.dev/moneyfor]]></summary>
+        <content type="html"><![CDATA[こんにちは。ダイの大冒険エンジョイ勢のbun913と申します。本日JaSST'25 Kyushu前夜祭というイベントにて、私がメールやSlackの通知を起点にした非同期な機能に対する自動テストの基盤を作成したことについて発表しました。内容としては、以下のブログに書いてあることをベースにこれまでの環境やインフラ面での工夫についても触れた形になります。https://zenn.dev/moneyforward/articles/11b02308de20b1 発表の内容私たちのチームでは今実際に稼働しているシステムのAPIを順に実行して、返ってくる値を検証するAPIテストの自動化...]]></content>
+        <author>
+            <name>bun913</name>
+        </author>
+        <published>2025-10-23T11:03:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Storybook と Vitest で userEvent 取り違えをなくす | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/socialplus/articles/00894d6a16d834</id>
+        <link href="https://zenn.dev/socialplus/articles/00894d6a16d834"/>
+        <updated>2025-10-23T08:27:01.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは Social PLUS のフロントエンドエンジニアのまっくすです。先日、Storybook を v7 → v8 にアップデートをしていた際に、Vitest のテストファイルに Storybook 用のモジュール@storybook/testing-library が紛れていたことに気がつきました。Storybook のアップデートに際して、@storybook/testing-libr]]></summary>
+        <content type="html"><![CDATA[こんにちは Social PLUS のフロントエンドエンジニアのまっくすです。先日、Storybook を v7 → v8 にアップデートをしていた際に、Vitest のテストファイルに Storybook 用のモジュール@storybook/testing-library が紛れていたことに気がつきました。Storybook のアップデートに際して、@storybook/testing-library を @storybook/test に統合するために、@storybook/testing-library を devDependencies から削除したことで、Lintエラーが発...]]></content>
+        <author>
+            <name>まっくす</name>
+        </author>
+        <published>2025-10-23T08:27:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swift Testingで`@Test`のところにテスト準備の非同期副作用実行を書きたい | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/yimajo/articles/42936f7feccbd4</id>
+        <link href="https://zenn.dev/yimajo/articles/42936f7feccbd4"/>
+        <updated>2025-10-23T07:04:56.000Z</updated>
+        <summary type="html"><![CDATA[筋トレした後のサウナしながらの時間で考えたので、ツッコミどころはあるかもしれません。もし他に良い案があったらコメントに記載をお願いします。 はじめにテストコードでテストケース前に副作用を実行する際に、そのテストケース直前に書いてテストケース自体には書かないということをやりたいことがあると思います。SwiftTestingではArrangeをテストの直前にかけるようになりましたが、非同期処理や副作用]]></summary>
+        <content type="html"><![CDATA[筋トレした後のサウナしながらの時間で考えたので、ツッコミどころはあるかもしれません。もし他に良い案があったらコメントに記載をお願いします。 はじめにテストコードでテストケース前に副作用を実行する際に、そのテストケース直前に書いてテストケース自体には書かないということをやりたいことがあると思います。SwiftTestingではArrangeをテストの直前にかけるようになりましたが、非同期処理や副作用を実行できないのが惜しいなと思ってました。もちろんヘルパー関数などにしても良いですが、AAA(Arrange, Action, Assertion)をもっと目立つようにしたいのをSwif...]]></content>
+        <author>
+            <name>yimajo</name>
+        </author>
+        <published>2025-10-23T07:04:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI時代に備えるテストケース設計とTDD勉強会の実施記録 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/assign/articles/3896378bd6265b</id>
+        <link href="https://zenn.dev/assign/articles/3896378bd6265b"/>
+        <updated>2025-10-23T02:00:01.000Z</updated>
+        <summary type="html"><![CDATA[はじめに今回は、社内で実施した「テストケースの考え方・テスト駆動開発（TDD）勉強会」の内容や開催意図を紹介します。勉強会は私が座学用のスライドと演習課題を用意し、約2時間の枠で開催しました。参加者は10名弱で、前半を座学、後半を演習に充てて質問を受けつつ双方向で進めました。 背景と課題感なぜこのタイミングで「テストケースの考え方・テスト駆動開発（TDD）勉強会」を企画したのかというと、AI駆動開]]></summary>
+        <content type="html"><![CDATA[はじめに今回は、社内で実施した「テストケースの考え方・テスト駆動開発（TDD）勉強会」の内容や開催意図を紹介します。勉強会は私が座学用のスライドと演習課題を用意し、約2時間の枠で開催しました。参加者は10名弱で、前半を座学、後半を演習に充てて質問を受けつつ双方向で進めました。 背景と課題感なぜこのタイミングで「テストケースの考え方・テスト駆動開発（TDD）勉強会」を企画したのかというと、AI駆動開発により開発スピードが非常に高速化する中で、「人間の認知を超えて氾濫するコードに対して如何に品質を保証するのか？」という問いが自分の中にあり、一つの鍵としてTDDがあると考えている...]]></content>
+        <author>
+            <name>showichiro</name>
+        </author>
+        <published>2025-10-23T02:00:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テストの正しさは誰が保証する？——ミューテーションテストの実験 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/mima_ita/articles/6b4b0de4cfefea</id>
+        <link href="https://zenn.dev/mima_ita/articles/6b4b0de4cfefea"/>
+        <updated>2025-10-22T15:03:42.000Z</updated>
+        <summary type="html"><![CDATA[このドキュメントについて本記事はユニットテストが本当に有効なテストになっているかを調べるための手法のミューテーションテストについて紹介します。次にミューテーションテストを効率的に実行するために提案された手法を検討し、最後に実際にJava, JavaScript, Pythonでミューテーションテストを実施するツールの紹介をします。 擬似テスト済みメソッドとミューテーションテストユニットテストを書い]]></summary>
+        <content type="html"><![CDATA[このドキュメントについて本記事はユニットテストが本当に有効なテストになっているかを調べるための手法のミューテーションテストについて紹介します。次にミューテーションテストを効率的に実行するために提案された手法を検討し、最後に実際にJava, JavaScript, Pythonでミューテーションテストを実施するツールの紹介をします。 擬似テスト済みメソッドとミューテーションテストユニットテストを書いていると、そのテストが本当に有効なテストであるかという課題が発生します。一般的にはコードカバレッジを評価するケースが多いですが、テストでカバーされているにも関わらず、そのテストが...]]></content>
+        <author>
+            <name>mima_ita</name>
+        </author>
+        <published>2025-10-22T15:03:42.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rubyの拡張ライブラリーにはインストールできるかのテストも書こう | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/kitaitimakoto/articles/b0c0820b21cab0</id>
+        <link href="https://zenn.dev/kitaitimakoto/articles/b0c0820b21cab0"/>
+        <updated>2025-10-22T14:52:31.000Z</updated>
+        <summary type="html"><![CDATA[RubyGemを作っている時、ピュアRubyのgemでGitコミットしたファイルがそのまま配信されるようなのはあまり問題にならないですが、拡張ライブラリーみたいにユーザーのインストール時にコマンドが走ったり、Raccみたいにリリース直前にファイルを生成してパッケージに含めたりするような物は、リリースしてからインストールできなかったり動作しないことに気付いたりするものです（済みません……）。そういう]]></summary>
+        <content type="html"><![CDATA[RubyGemを作っている時、ピュアRubyのgemでGitコミットしたファイルがそのまま配信されるようなのはあまり問題にならないですが、拡張ライブラリーみたいにユーザーのインストール時にコマンドが走ったり、Raccみたいにリリース直前にファイルを生成してパッケージに含めたりするような物は、リリースしてからインストールできなかったり動作しないことに気付いたりするものです（済みません……）。そういうのを事前に防ぐため、ユニットテストで「ちゃんとインストールできること」も確認するようにしましょう。と、言いたいことはこれで全てなんですが、折角なので例も置いておきます。ここではテスティング...]]></content>
+        <author>
+            <name>北市真</name>
+        </author>
+        <published>2025-10-22T14:52:31.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テスト | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/okawamasahiro/books/33cccb9e2be7c4</id>
+        <link href="https://zenn.dev/okawamasahiro/books/33cccb9e2be7c4"/>
+        <updated>2025-10-22T14:17:38.000Z</updated>
+        <summary type="html"><![CDATA[ああああ]]></summary>
+        <content type="html"><![CDATA[ああああ]]></content>
+        <author>
+            <name>大川将広</name>
+        </author>
+        <published>2025-10-22T14:17:38.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[システムテスト仕様書：項目の選び方と作成する意味 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/kenya0126/articles/7817e90d3a4237</id>
+        <link href="https://zenn.dev/kenya0126/articles/7817e90d3a4237"/>
+        <updated>2025-10-22T12:30:01.000Z</updated>
+        <summary type="html"><![CDATA[このドキュメントは、システムテスト仕様書にどのような項目を選び、なぜそれらを作成するのかを説明するガイドです。実務で使える観点と優先順位付けの考え方、テンプレート例を含みます。 1. なぜシステムテスト仕様書を作るのか（目的）要件どおりにシステムが動作することを保証するための「設計された検証計画」を持つ。ステークホルダー（開発、QA、プロダクト、運用）で期待値を合わせるため。不具合の再現性を高め、]]></summary>
+        <content type="html"><![CDATA[このドキュメントは、システムテスト仕様書にどのような項目を選び、なぜそれらを作成するのかを説明するガイドです。実務で使える観点と優先順位付けの考え方、テンプレート例を含みます。 1. なぜシステムテスト仕様書を作るのか（目的）要件どおりにシステムが動作することを保証するための「設計された検証計画」を持つ。ステークホルダー（開発、QA、プロダクト、運用）で期待値を合わせるため。不具合の再現性を高め、修正と回帰テストを効率化するため。テストの自動化やCI連携を行う際の入力資料として使えるため。 2. 項目を選ぶ際の基本的な考え方項目選定は“すべてを網羅する”ではなく“...]]></content>
+        <author>
+            <name>hikacode1</name>
+        </author>
+        <published>2025-10-22T12:30:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DroidKaigi 2025に参加してきました | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/wed_engineering/articles/b2f647f12a24f9</id>
+        <link href="https://zenn.dev/wed_engineering/articles/b2f647f12a24f9"/>
+        <updated>2025-10-22T07:51:48.000Z</updated>
+        <summary type="html"><![CDATA[はじめにこんにちは！WED株式会社でAndroidの開発をしている松葉です！レシート買取アプリ「ONE」のAndroidの実装を担当しています。今回は9月に開催されたDroidKaigiに参加してきたので、参加した感想や心に残ったテーマを書いていこうと思います。毎年開催されているDroidKaigiですが、セッションや企業のブースを見て、KotlinMultiPlatFormなどを用いたクロスプラ]]></summary>
+        <content type="html"><![CDATA[はじめにこんにちは！WED株式会社でAndroidの開発をしている松葉です！レシート買取アプリ「ONE」のAndroidの実装を担当しています。今回は9月に開催されたDroidKaigiに参加してきたので、参加した感想や心に残ったテーマを書いていこうと思います。毎年開催されているDroidKaigiですが、セッションや企業のブースを見て、KotlinMultiPlatFormなどを用いたクロスプラットフォーム開発、AI Agentや各種AIアシスタントを利用した開発支援といったテーマが多く目につきつつも、様々な領域でのAndroidならではの課題も話されていて、トレンドを追い...]]></content>
+        <author>
+            <name>Jun Matsuba</name>
+        </author>
+        <published>2025-10-22T07:51:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ambassadorsに聞くクラウドリフト・モダナイズの処方箋（AWSぶっちゃけ討論会vol.4） | SHIFT EVOLVE グループの新着イベント]]></title>
+        <id>https://shiftevolve.connpass.com/event/370901/</id>
+        <link href="https://shiftevolve.connpass.com/event/370901/"/>
+        <updated>2025-10-22T02:19:49.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2025/11/27 19:30 ～ 20:50&amp;lt;br /&amp;gt;開催場所: オンライン&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;h2&amp;gt;Ambassadorsに聞くクラウドリフト・モダナイズの処方箋（AWSぶっちゃけ討論会vol.4）&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;Ambassadorsに聞くクラウドリフト・モダナイズの処方箋クラウドリフト・モダナイズの最適解を、AWS Ambassadorたちが本音ベースでディスカッショ]]></summary>
+        <content type="html"><![CDATA[開催日時: 2025/11/27 19:30 ～ 20:50&amp;lt;br /&amp;gt;開催場所: オンライン&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;h2&amp;gt;Ambassadorsに聞くクラウドリフト・モダナイズの処方箋（AWSぶっちゃけ討論会vol.4）&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;Ambassadorsに聞くクラウドリフト・モダナイズの処方箋クラウドリフト・モダナイズの最適解を、AWS Ambassadorたちが本音ベースでディスカッション！&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;AWS Ambassadorで、SHIFTのAWS CCoEをリードする大瀧が、各領域のエキスパートを招いて質問をぶつけ、教科書に載っていない、検索しても出てこない、リアルな現実を掘り下げます。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;今回のゲストは、富士ソフト株式会社の大槻 剛 氏、デロイト トーマツ ウェブサービス株式会社の佐藤 亨 氏、NRIネットコム株式会社の志水 友輔 氏。&amp;lt;br&amp;gt; 「クラウドリフト・モダナイズの処方箋」をテーマに、「クラウドリフト＆シフトのベストプラクティスは？」「クラウドネイティブ、モダン化の武勇伝は？」「今だからこそ話せる失敗談」など、ここだけでしか聞けないぶっちゃけトー]]></content>
+        <published>2025-10-22T02:19:49.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PlaywrightでUI×APIのE2Eテストを実装しよう | テスト自動化メンバー｜日本ナレッジ株式会社]]></title>
+        <id>https://note.com/nkc_ta/n/nfafbcec0c62e</id>
+        <link href="https://note.com/nkc_ta/n/nfafbcec0c62e"/>
+        <updated>2025-10-22T00:02:56.000Z</updated>
+        <summary type="html"><![CDATA[はじめにこんにちは。自動化メンバーのM.Hです。続きをみる]]></summary>
+        <content type="html"><![CDATA[はじめにこんにちは。自動化メンバーのM.Hです。続きをみる]]></content>
+        <published>2025-10-22T00:02:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[0からフロントエンドにテストを導入した話 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/eversteel_tech/articles/c510e3f036b2bf</id>
+        <link href="https://zenn.dev/eversteel_tech/articles/c510e3f036b2bf"/>
+        <updated>2025-10-21T01:07:58.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。株式会社EVERSTEELでソフトウェアエンジニアをしている日野原です。主にフロントエンドを担当しており、技術としてはNext.jsを使用しています。（詳しい技術内容はこちらを参照）少し前の話になりますが、ゼロからテストを導入したので、その過程や戦略について話していこうと思います。フロントエンドのテストを検討している方や、テストの運用方法を迷っている方の参考になるかと思います。 Rea]]></summary>
+        <content type="html"><![CDATA[こんにちは。株式会社EVERSTEELでソフトウェアエンジニアをしている日野原です。主にフロントエンドを担当しており、技術としてはNext.jsを使用しています。（詳しい技術内容はこちらを参照）少し前の話になりますが、ゼロからテストを導入したので、その過程や戦略について話していこうと思います。フロントエンドのテストを検討している方や、テストの運用方法を迷っている方の参考になるかと思います。 Reactアプリにおけるテスト戦略と実践ガイド一昔前はフロントエンド開発においてテストはあまり重要視されていませんでした。しかし、フロントエンドの複雑さが増したため、最近ではテストが重要...]]></content>
+        <author>
+            <name>ShinyaHinohara</name>
+        </author>
+        <published>2025-10-21T01:07:58.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[E2Eテストはどこまでやるべき？ 「テスト全体像」から範囲を決定する2つのヒント | MagicPod Blog]]></title>
+        <id>https://magicpod.com/blog/e2e-test-scope/</id>
+        <link href="https://magicpod.com/blog/e2e-test-scope/"/>
+        <updated>2025-10-20T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。MagicPodでエバンジェリストをしているYoshiki Itoです。MagicPodに限らず、E2Eテストの自動化に取り組み始めた方が疑問に思うのが「E2Eテストってどのくらい／どこまでやればいいの？」という点です。かつてシステムテストやE2Eテストの自動化がいまほど普及していなかった頃には、なんでもかんでも自動化！100％の自動化率！といった、それまで行っていたたくさんの手動テス]]></summary>
+        <content type="html"><![CDATA[こんにちは。MagicPodでエバンジェリストをしているYoshiki Itoです。MagicPodに限らず、E2Eテストの自動化に取り組み始めた方が疑問に思うのが「E2Eテストってどのくらい／どこまでやればいいの？」という点です。かつてシステムテストやE2Eテストの自動化がいまほど普及していなかった頃には、なんでもかんでも自動化！100％の自動化率！といった、それまで行っていたたくさんの手動テストケースを片っ端から自動化するようなチームもあったようです。しかし、テストピラミッドの考え方をはじめ、テスト自動化に関するさまざまな情報・ナレッジが普及するとともに、上記のような「E2Eテストをたくさん自動化しよう」というやり方はアンチパターンだと認識されるようになりました。]]></content>
+        <author>
+            <name>Yoshiki Ito</name>
+        </author>
+        <published>2025-10-20T15:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simplify Your Code: Functional Core, Imperative Shell | Google Testing Blog]]></title>
+        <id>http://testing.googleblog.com/2025/10/simplify-your-code-functional-core.html</id>
+        <link href="http://testing.googleblog.com/2025/10/simplify-your-code-functional-core.html"/>
+        <updated>2025-10-20T13:53:00.000Z</updated>
+        <summary type="html"><![CDATA[@media only screen and (max-width: 600px) { .body { overflow-x: auto; } .post-content table, .post-content td { width: auto !important; white-space: nowrap; }}This article was adapted from a Google Te]]></summary>
+        <content type="html"><![CDATA[@media only screen and (max-width: 600px) { .body { overflow-x: auto; } .post-content table, .post-content td { width: auto !important; white-space: nowrap; }}This article was adapted from a Google Tech on the Toilet (TotT) episode. You can download a printer-friendly version of this TotT episode and post it in your office.By Arham JainIs your code a tangled mess of business logic and side effects? Mixing database calls, network requests, and other external interactions directly with your core l]]></content>
+        <published>2025-10-20T13:53:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[社内ナレッジ検索は“索引づくり”が9割―RAGを長持ちさせる下ごしらえ | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/baobao1219/articles/853c673c5dc09e</id>
+        <link href="https://zenn.dev/baobao1219/articles/853c673c5dc09e"/>
+        <updated>2025-10-19T01:00:01.000Z</updated>
+        <summary type="html"><![CDATA[はじめに——答えは出るのに、肝心な時に外すのはなぜか社内のQ&amp;amp;Aや手順書を読ませると、最初はよく当たるのに、規模が増えるほど外れが混じる。よく見ると、文章の分け方やタグの付け方、検索キーワードの前提がバラバラで、索引（インデックス）の作りが弱い。道具を替える前に、土台を整える話をします。検索ベースの強化や“文脈を盛る”手法は各所で整理され、RAGの精度に直結することが報告されています。例えば「文脈]]></summary>
+        <content type="html"><![CDATA[はじめに——答えは出るのに、肝心な時に外すのはなぜか社内のQ&amp;amp;Aや手順書を読ませると、最初はよく当たるのに、規模が増えるほど外れが混じる。よく見ると、文章の分け方やタグの付け方、検索キーワードの前提がバラバラで、索引（インデックス）の作りが弱い。道具を替える前に、土台を整える話をします。検索ベースの強化や“文脈を盛る”手法は各所で整理され、RAGの精度に直結することが報告されています。例えば「文脈付き埋め込み／BM25」を併用する手法や、文書設計のベストプラクティスが公開されています。(Anthropic) まず決めるのは“どの質問に答えるか”万能な検索はありま...]]></content>
+        <author>
+            <name>宝宝 (baobao)</name>
+        </author>
+        <published>2025-10-19T01:00:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第356回：　「ALTTAのテキストをつくろう」39　（性能テスト　負荷/ストレス/拡張性テスト） | Kouichi Akiyama]]></title>
+        <id>https://note.com/akiyama924/n/n01d96f962036</id>
+        <link href="https://note.com/akiyama924/n/n01d96f962036"/>
+        <updated>2025-10-18T22:01:01.000Z</updated>
+        <summary type="html"><![CDATA[◀前の記事へ 次の記事へ▶︎続きをみる]]></summary>
+        <content type="html"><![CDATA[◀前の記事へ 次の記事へ▶︎続きをみる]]></content>
+        <published>2025-10-18T22:01:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アジャイルテストにおけるTesting Manifestについて自分なりに考えてみる | Go!Go!Gomaznさんのフィード]]></title>
+        <id>https://zenn.dev/55_ymzn/articles/testing_manifest_inmyopinbnion</id>
+        <link href="https://zenn.dev/55_ymzn/articles/testing_manifest_inmyopinbnion"/>
+        <updated>2025-10-18T09:03:25.000Z</updated>
+        <summary type="html"><![CDATA[はじめにアジャイルテストには"Testing Manifest"というものが存在します。詳しくは以下のブロッコリーさんのブログ＆紹介されている書籍をご覧ください。https://nihonbuson.hatenadiary.jp/entry/TestingManifestoこれらはRegistered Agile Testing研修というScrum Inc.のトレーニングでも扱われています。この記]]></summary>
+        <content type="html"><![CDATA[はじめにアジャイルテストには"Testing Manifest"というものが存在します。詳しくは以下のブロッコリーさんのブログ＆紹介されている書籍をご覧ください。https://nihonbuson.hatenadiary.jp/entry/TestingManifestoこれらはRegistered Agile Testing研修というScrum Inc.のトレーニングでも扱われています。この記事ではそれを引用します。(内容としては同等です)最後にテストするよりもずっとテストし続けるTesting throughout over testing at the end...]]></content>
+        <author>
+            <name>Go!Go!Gomazn</name>
+        </author>
+        <published>2025-10-18T09:03:25.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アジャイルテストにおけるTesting Manifestについて自分なりに考えてみる | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/55_ymzn/articles/testing_manifest_inmyopinbnion</id>
+        <link href="https://zenn.dev/55_ymzn/articles/testing_manifest_inmyopinbnion"/>
+        <updated>2025-10-18T09:03:25.000Z</updated>
+        <summary type="html"><![CDATA[はじめにアジャイルテストには"Testing Manifest"というものが存在します。詳しくは以下のブロッコリーさんのブログ＆紹介されている書籍をご覧ください。https://nihonbuson.hatenadiary.jp/entry/TestingManifestoこれらはRegistered Agile Testing研修というScrum Inc.のトレーニングでも扱われています。この記]]></summary>
+        <content type="html"><![CDATA[はじめにアジャイルテストには"Testing Manifest"というものが存在します。詳しくは以下のブロッコリーさんのブログ＆紹介されている書籍をご覧ください。https://nihonbuson.hatenadiary.jp/entry/TestingManifestoこれらはRegistered Agile Testing研修というScrum Inc.のトレーニングでも扱われています。この記事ではそれを引用します。(内容としては同等です)最後にテストするよりもずっとテストし続けるTesting throughout over testing at the end...]]></content>
+        <author>
+            <name>Go!Go!Gomazn</name>
+        </author>
+        <published>2025-10-18T09:03:25.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アジャイルテストにおけるTesting Manifestについて自分なりに考えてみる | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/55_ymzn/articles/testing_manifest_inmyopinbnion</id>
+        <link href="https://zenn.dev/55_ymzn/articles/testing_manifest_inmyopinbnion"/>
+        <updated>2025-10-18T09:03:25.000Z</updated>
+        <summary type="html"><![CDATA[はじめにアジャイルテストには"Testing Manifest"というものが存在します。詳しくは以下のブロッコリーさんのブログ＆紹介されている書籍をご覧ください。https://nihonbuson.hatenadiary.jp/entry/TestingManifestoこれらはRegistered Agile Testing研修というScrum Inc.のトレーニングでも扱われています。この記]]></summary>
+        <content type="html"><![CDATA[はじめにアジャイルテストには"Testing Manifest"というものが存在します。詳しくは以下のブロッコリーさんのブログ＆紹介されている書籍をご覧ください。https://nihonbuson.hatenadiary.jp/entry/TestingManifestoこれらはRegistered Agile Testing研修というScrum Inc.のトレーニングでも扱われています。この記事ではそれを引用します。(内容としては同等です)最後にテストするよりもずっとテストし続けるTesting throughout over testing at the end...]]></content>
+        <author>
+            <name>Go!Go!Gomazn</name>
+        </author>
+        <published>2025-10-18T09:03:25.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tips : SQL でデカルト積のテストデータを作成する | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/tomatommy/articles/6b606ad7d65b22</id>
+        <link href="https://zenn.dev/tomatommy/articles/6b606ad7d65b22"/>
+        <updated>2025-10-18T06:37:12.000Z</updated>
+        <summary type="html"><![CDATA[対象読者SQL を多少実務で使ったことがある人≒ SQL にあまり詳しくない人テストデータを効率よく作成したい人SQL でデカルト積の組み合わせでデータ作れるんだ、と最近気づいたので tips として共有 こんな課題ないですか例えば飲食店サイトの検索 API のテストを記述する場合で考えてみます。簡単な「不動産サイト」のつもりで、下記のような ERD で考えてみますPROPERTY : 物件マスタ]]></summary>
+        <content type="html"><![CDATA[対象読者SQL を多少実務で使ったことがある人≒ SQL にあまり詳しくない人テストデータを効率よく作成したい人SQL でデカルト積の組み合わせでデータ作れるんだ、と最近気づいたので tips として共有 こんな課題ないですか例えば飲食店サイトの検索 API のテストを記述する場合で考えてみます。簡単な「不動産サイト」のつもりで、下記のような ERD で考えてみますPROPERTY : 物件マスターテーブル について、検索 API を実装し、テストしたいとします。テストするには、テスト対象データが十分に豊かでないといけません。ここでいう十分に豊かとは...]]></content>
+        <author>
+            <name>とまとみ</name>
+        </author>
+        <published>2025-10-18T06:37:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xcode26の「Testing」の紹介 | tarappo]]></title>
+        <id>https://note.com/tarappo/n/na0d45874e1d1</id>
+        <link href="https://note.com/tarappo/n/na0d45874e1d1"/>
+        <updated>2025-10-18T04:54:28.000Z</updated>
+        <summary type="html"><![CDATA[Xcode26がリリースされてからある程度たってしまいましたが、そのリリースノートの「Testing」の内容について紹介します。 Xcode 26 Release Notes | Apple Developer DocumentationUpdate your apps to use new features, and test your apps agaideveloper.apple.com ]]></summary>
+        <content type="html"><![CDATA[Xcode26がリリースされてからある程度たってしまいましたが、そのリリースノートの「Testing」の内容について紹介します。 Xcode 26 Release Notes | Apple Developer DocumentationUpdate your apps to use new features, and test your apps agaideveloper.apple.com 続きをみる]]></content>
+        <published>2025-10-18T04:54:28.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI時代に求められる「EQ型組織」～リーダーとメンバー、それぞれに必要な感情知能～ | つーつー]]></title>
+        <id>https://note.com/ms_tsu_tsu/n/nb137b83ba3ab</id>
+        <link href="https://note.com/ms_tsu_tsu/n/nb137b83ba3ab"/>
+        <updated>2025-10-18T04:47:44.000Z</updated>
+        <summary type="html"><![CDATA[QAエンジニア（EMもやってます）のつーつーです😁少しずつ涼しくなってきて、食欲の秋！って感じが増してきましたね～😊今回はEQってなに？EQの重要性が増してきてない？ってことで、組織においてEQの重要度がどのように増してきているのかについて、少し整理してみました～👍続きをみる]]></summary>
+        <content type="html"><![CDATA[QAエンジニア（EMもやってます）のつーつーです😁少しずつ涼しくなってきて、食欲の秋！って感じが増してきましたね～😊今回はEQってなに？EQの重要性が増してきてない？ってことで、組織においてEQの重要度がどのように増してきているのかについて、少し整理してみました～👍続きをみる]]></content>
+        <published>2025-10-18T04:47:44.000Z</published>
+    </entry>
+</feed>
