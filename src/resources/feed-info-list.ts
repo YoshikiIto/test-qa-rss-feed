@@ -26,6 +26,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   // ['企業名・製品名など', 'RSS/AtomフィードのURL'],
   //あ
   // ['AGEST Engineers Blog', 'https://engineers-blog.agest.co.jp/feed'],
+  ['asoview! Tech Blog', 'https://tech.asoview.co.jp/feed/category/QA'],
   ['飴ブロ(仮', 'https://pineapplecandy.hatenadiary.jp/feed'],
   ['ANDPAD Tech Blog', 'https://tech.andpad.co.jp/feed/category/%E8%87%AA%E5%8B%95%E3%83%86%E3%82%B9%E3%83%88'],
   ['156', 'https://note.com/156musik_test/rss'],
@@ -39,6 +40,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['GIHOZ\'s blog', 'https://gihoz.hatenablog.com/feed'],
   ['CAT GETTING OUT OF A BAG', 'https://miwa719.hatenablog.com/feed'],
   ['杞憂', 'https://note.com/kiyou77/rss'],
+  ['note  #QAエンジニア','https://note.com/hashtag/QA%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2/rss'],
   //['Ques', 'https://quesqa.com/feed/'],
   ['クオリティアーツ', 'https://quality-arts.com/?feed=rss2'],
   ['Google Testing Blog', 'http://feeds.feedburner.com/blogspot/RLXA'],
@@ -124,6 +126,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   //ら
   ['RAKUS Developers Blog | ラクス エンジニアブログ - テスト', 'https://tech-blog.rakus.co.jp/feed/category/%E3%83%86%E3%82%B9%E3%83%88'],
   ['Ranorex Blog - UIテスト自動化ツール Ranorex', 'https://ranorex.techmatrix.jp/blog/feed/'],
+  ['Ryoma Seki','https://note.com/ryomaseki/rss'],
   ['LayerX エンジニアブログ - 品質', 'https://tech.layerx.co.jp/feed/category/%E5%93%81%E8%B3%AA'],
   //わ
   ['WACATE', 'https://wacate.jp/blog/feed/'],
