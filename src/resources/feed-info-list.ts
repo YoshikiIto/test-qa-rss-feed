@@ -31,12 +31,16 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['ANDPAD Tech Blog', 'https://tech.andpad.co.jp/feed/category/%E8%87%AA%E5%8B%95%E3%83%86%E3%82%B9%E3%83%88'],
   ['156', 'https://note.com/156musik_test/rss'],
   ['ICO（いこ）', 'https://note.com/ico_qa/rss'],
+  ['ICO|SpeakerDeck', 'https://speakerdeck.com/ico_penjelly.rss'],
+  ['Fuyuki Ishikawa / 石川 冬樹|SpeakerDeck', 'https://speakerdeck.com/ishikawafyu.rss'],
   ['AIテスト自動化プラットフォーム「MagicPod」公式note', 'https://note.com/magicpod/rss'],
   ['エムスリーテックブログ - カテゴリ：QA', 'https://www.m3tech.blog/feed/category/QA'],
   ['Autify', 'https://note.com/autify_official/rss'],
+  ['O3(ozono)|SpeakerDeck', 'https://speakerdeck.com/o3.rss'],
   //か
   ['かいり', 'https://note.com/kairiver/rss'],
   ['カカクコムTechBlog', 'https://kakaku-techblog.com/feed/category/QA'],
+  ['Kazuhiro SUZUKI|SpeakerDeck', 'https://speakerdeck.com/kzsuzuki.rss'],
   ['記録用ブログ', 'https://mejiro8.hatenablog.com/feed'],
   ['GIHOZ\'s blog', 'https://gihoz.hatenablog.com/feed'],
   ['CAT GETTING OUT OF A BAG', 'https://miwa719.hatenablog.com/feed'],
@@ -80,7 +84,8 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   //た
   ['tateishi', 'https://note.com/mt3_set/rss'],
   ['Tabelog Tech Blog', 'https://tech-blog.tabelog.com/feed/category/QA'],
-  ['tarappo', 'https://note.com/tarappo/rss'],
+  ['tarappo|note', 'https://note.com/tarappo/rss'],
+  ['tarappo|SpeakerDeck', 'https://speakerdeck.com/tarappo.rss'],
   ['チームスピリットデベロッパーブログ', 'https://teamspirit.hatenablog.com/feed/category/%E3%83%86%E3%82%B9%E3%83%88'],
   ['知識ゼロからソフトウェアテストをはじめた人', 'https://moyashinomegane.hatenablog.com/feed'],
   ['2106yoshikawa', 'https://note.com/2106yoshikawa/rss'],
@@ -101,8 +106,10 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['天の月', 'https://aki-m.hatenadiary.com/feed'],
   ['toshimana\'s diary', 'https://toshimana.hatenablog.com/feed'],
   ['Dreamland-夢と想いと小さな工夫', 'https://shiozi.hatenablog.com/feed'],
+  ['Tomo|SpeakerDeck', 'https://speakerdeck.com/tomasagi.rss'],
   //な
   ['テスト自動化メンバー｜日本ナレッジ株式会社', 'https://note.com/nkc_ta/rss'],
+  ['なそ|SpeakerDeck', 'https://speakerdeck.com/satohiroyuki.rss'],
   ['nemorineのブログ', 'https://nemorine.hateblo.jp/feed'],
   ['ねこ缶', 'https://note.com/pawcalico/rss'],
   //は
@@ -120,11 +127,13 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   //ま
   ['まこっちゃん', 'https://note.com/mark_hillfield/rss'],
   ['MagicPod Blog', 'https://magicpod.com/blog/rss2.xml'],
+  ['Matsu|SpeakerDeck', 'https://speakerdeck.com/mineo_matsuya.rss'],
   //['マネーフォワード エンジニアブログ - テスト', 'https://moneyforward.com/engineers_blog/feed/?s=%E3%83%86%E3%82%B9%E3%83%88&submit=%E6%A4%9C%E7%B4%A2'],
   //や
   ['ゆふてっく。', 'https://yufutech.hatenablog.com/feed'],
   ['yuden', 'https://note.com/ydn_/rss'],
   ['yoshitake_1201\'s diary', 'https://yoshitake-1201.hatenablog.com/feed'],
+  ['yoshitake_1201|SpeakerDeck', 'https://speakerdeck.com/yoshitake_1201.rss'],
   ['yoya', 'https://note.com/yoya_k/rss'],
   ['よこぴー', 'https://note.com/yoppy5965/rss'],
   //ら
