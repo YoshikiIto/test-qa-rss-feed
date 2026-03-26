@@ -128,15 +128,17 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['ぺぱち｜QAエンジニア', 'https://note.com/pepachi/rss'],
   ['ベリサーブ/VeriServe シリーズの新着イベント', 'https://veriserve-event.connpass.com/ja.atom'],
   ['honamin', 'https://note.com/honamin09/rss'],
-  ['Hello, Quality World!', 'https://www.happyou.info/fs/gen.php?u=-18888665&p=860923639'],
+  //['Hello, Quality World!', 'https://www.happyou.info/fs/gen.php?u=-18888665&p=860923639'],
   ['PTW／ポールトゥウィン【公式】', 'https://note.com/ptw_note/rss'],
   //ま
   ['まこっちゃん', 'https://note.com/mark_hillfield/rss'],
   ['MagicPod Blog', 'https://magicpod.com/blog/rss2.xml'],
   ['Matsu|SpeakerDeck', 'https://speakerdeck.com/mineo_matsuya.rss'],
   ['Makky|SpeakerDeck', 'https://speakerdeck.com/makky_tyuyan.rss'],
+  ['May', 'https://note.com/hinatours/rss'],
   //['マネーフォワード エンジニアブログ - テスト', 'https://moneyforward.com/engineers_blog/feed/?s=%E3%83%86%E3%82%B9%E3%83%88&submit=%E6%A4%9C%E7%B4%A2'],
   //や
+  ['QA - Yappli Tech Blog', 'https://tech.yappli.io/feed/category/QA'],
   ['ゆふてっく。', 'https://yufutech.hatenablog.com/feed'],
   ['yuden', 'https://note.com/ydn_/rss'],
   ['yoshitake_1201\'s diary', 'https://yoshitake-1201.hatenablog.com/feed'],
@@ -147,6 +149,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['RAKUS Developers Blog | ラクス エンジニアブログ - テスト', 'https://tech-blog.rakus.co.jp/feed/category/%E3%83%86%E3%82%B9%E3%83%88'],
   ['Ranorex Blog - UIテスト自動化ツール Ranorex', 'https://ranorex.techmatrix.jp/blog/feed/'],
   ['rina|SpeakerDeck', 'https://speakerdeck.com/____rina____.rss'],
+  ['QA - LegalOn Technologies Engineering Blog', 'https://tech.legalforce.co.jp/feed/category/QA'],
   ['Ryoma Seki', 'https://note.com/ryomaseki/rss'],
   ['LayerX エンジニアブログ - 品質', 'https://tech.layerx.co.jp/feed/category/%E5%93%81%E8%B3%AA'],
   //わ
