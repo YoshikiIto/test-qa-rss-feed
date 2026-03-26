@@ -26,6 +26,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   // ['企業名・製品名など', 'RSS/AtomフィードのURL'],
   //あ
   // ['AGEST Engineers Blog', 'https://engineers-blog.agest.co.jp/feed'],
+  ['arXiv - Software Testing', 'https://export.arxiv.org/api/query?search_query=all%3A%22software+testing%22&sortBy=lastUpdatedDate&sortOrder=descending&start=0&max_results=10'],
   ['asoview! Tech Blog', 'https://tech.asoview.co.jp/feed/category/QA'],
   ['飴ブロ(仮', 'https://pineapplecandy.hatenadiary.jp/feed'],
   ['ANDPAD Tech Blog', 'https://tech.andpad.co.jp/feed/category/%E8%87%AA%E5%8B%95%E3%83%86%E3%82%B9%E3%83%88'],
@@ -53,11 +54,13 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['Gunosy Tech Blog - カテゴリ：ソフトウェアテスト', 'https://tech.gunosy.io/feed/category/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%86%E3%82%B9%E3%83%88'],
   ['くぼぴー / note inc.', 'https://note.com/kubopi/rss'],
   ['ぐんちゃ', 'https://note.com/gun_chari/rss'],
+  ['k.i.|SpeakerDeck', 'https://speakerdeck.com/omn.rss'],
   ['Kouichi Akiyama', 'https://note.com/akiyama924/rss'],
   ['koppamijinko', 'https://note.com/mijinkosama/rss'],
   ['Go!Go!Gomazn', 'https://zenn.dev/55_ymzn/feed'],
   // ['ごまずん', 'https://note.com/usk_ymst_p/rss'],
   ['コヤマン', 'https://note.com/koyaman2/rss'],
+  ['koppamijinko|SpeakerDeck', 'https://speakerdeck.com/masasuna.rss'],
   //さ
   ['sae\'s blog', 'https://ito128.hatenablog.com/feed'],
   // ['Cちゃん', 'https://note.com/shinobear01/rss'],
@@ -110,12 +113,15 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   //な
   ['テスト自動化メンバー｜日本ナレッジ株式会社', 'https://note.com/nkc_ta/rss'],
   ['なそ|SpeakerDeck', 'https://speakerdeck.com/satohiroyuki.rss'],
+  ['nihonbuson|SpeakerDeck', 'https://speakerdeck.com/nihonbuson.rss'],
   ['nemorineのブログ', 'https://nemorine.hateblo.jp/feed'],
   ['ねこ缶', 'https://note.com/pawcalico/rss'],
   //は
   ['Hashi_Kazu@bb', 'https://note.com/hashi_kazu/rss'],
+  ['ぱいん|SpeakerDeck', 'https://speakerdeck.com/pineapplecandy.rss'],
   ['hgsgtk', 'https://note.com/hgsgtk/rss'],
   ['pikazakipika', 'https://note.com/pika123/rss'],
+  ['Hiroki Iseri|SpeakerDeck', 'https://speakerdeck.com/goyoki.rss'],
   ['freee Developers Hub - カテゴリ：QA', 'https://developers.freee.co.jp/feed/category/QA'],
   ['ブロッコリーのブログ', 'https://nihonbuson.hatenadiary.jp/feed'],
   ['Better Software Testing', 'https://better-software-testing.hatenablog.com/feed'],
@@ -128,6 +134,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['まこっちゃん', 'https://note.com/mark_hillfield/rss'],
   ['MagicPod Blog', 'https://magicpod.com/blog/rss2.xml'],
   ['Matsu|SpeakerDeck', 'https://speakerdeck.com/mineo_matsuya.rss'],
+  ['Makky|SpeakerDeck', 'https://speakerdeck.com/makky_tyuyan.rss'],
   //['マネーフォワード エンジニアブログ - テスト', 'https://moneyforward.com/engineers_blog/feed/?s=%E3%83%86%E3%82%B9%E3%83%88&submit=%E6%A4%9C%E7%B4%A2'],
   //や
   ['ゆふてっく。', 'https://yufutech.hatenablog.com/feed'],
@@ -139,6 +146,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   //ら
   ['RAKUS Developers Blog | ラクス エンジニアブログ - テスト', 'https://tech-blog.rakus.co.jp/feed/category/%E3%83%86%E3%82%B9%E3%83%88'],
   ['Ranorex Blog - UIテスト自動化ツール Ranorex', 'https://ranorex.techmatrix.jp/blog/feed/'],
+  ['rina|SpeakerDeck', 'https://speakerdeck.com/____rina____.rss'],
   ['Ryoma Seki', 'https://note.com/ryomaseki/rss'],
   ['LayerX エンジニアブログ - 品質', 'https://tech.layerx.co.jp/feed/category/%E5%93%81%E8%B3%AA'],
   //わ
