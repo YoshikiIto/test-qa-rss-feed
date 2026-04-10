@@ -62,6 +62,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['コヤマン', 'https://note.com/koyaman2/rss'],
   ['koppamijinko|SpeakerDeck', 'https://speakerdeck.com/masasuna.rss'],
   //さ
+  ['QA - Cybozu Inside Out | サイボウズエンジニアのブログ', 'https://blog.cybozu.io/feed/category/QA'],
   ['sae\'s blog', 'https://ito128.hatenablog.com/feed'],
   // ['Cちゃん', 'https://note.com/shinobear01/rss'],
   ['次世代ゲームテスト研究所', 'https://blog.aiqveone.co.jp/feed'],
