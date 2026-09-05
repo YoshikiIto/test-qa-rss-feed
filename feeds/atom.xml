@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yoshikiito.github.io/test-qa-rss-feed/</id>
+    <title>テスト・QA関連ブログRSS</title>
+    <updated>2026-09-05T15:53:11.245Z</updated>
+    <generator>yoshikiito/test-qa-rss-feed</generator>
+    <link rel="alternate" href="https://yoshikiito.github.io/test-qa-rss-feed/"/>
+    <link rel="self" href="https://yoshikiito.github.io/test-qa-rss-feed/feeds/atom.xml"/>
+    <subtitle>企テスト・QA関連ブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://yoshikiito.github.io/test-qa-rss-feed/images/icon.png</logo>
+    <icon>https://yoshikiito.github.io/test-qa-rss-feed/images/favicon.ico</icon>
+    <rights>yoshikiito/test-qa-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[Git と pytest で AI コーディングエージェントの開発用テストと独立評価を分ける | ソフトウェアテストタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/ynakayama/items/82ace591e496a11ec33a</id>
+        <link href="https://qiita.com/ynakayama/items/82ace591e496a11ec33a"/>
+        <updated>2026-09-05T15:01:34.000Z</updated>
+        <summary type="html"><![CDATA[AI コーディングエージェントでは開発用テストと採用評価を分けるAI コーディングエージェントは、コードを書くだけでなく、リポジトリを読み、ファイルを編集し、テストを実行して失敗結果を次の修正へ利用できます。SWE-agent でも、エージェントがコードの編集、リポジト...]]></summary>
+        <content type="html"><![CDATA[AI コーディングエージェントでは開発用テストと採用評価を分けるAI コーディングエージェントは、コードを書くだけでなく、リポジトリを読み、ファイルを編集し、テストを実行して失敗結果を次の修正へ利用できます。SWE-agent でも、エージェントがコードの編集、リポジト...]]></content>
+        <published>2026-09-05T15:01:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeScript で実践する FCIS。純粋関数と I/O の境界設計 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/denwaya/articles/fcis-typescript</id>
+        <link href="https://zenn.dev/denwaya/articles/fcis-typescript"/>
+        <updated>2026-09-05T05:21:48.000Z</updated>
+        <summary type="html"><![CDATA[! この記事の要点判断・計算は純粋関数へ。DB・時刻の取得は外側へ。計算に渡すのは db や clock ではなく、取得済みの値。実装時の参照用に分類早見表とコード・テスト例。純粋関数のメリットは分かっていても、DB の参照や時刻の取得が挟まると、切り出す境界に迷います。 FCIS の境界は引数と戻り値注文の「明細を取得する → 送料込みの金額を計算する → 保存する」を考えます。取得と保存を外側]]></summary>
+        <content type="html"><![CDATA[! この記事の要点判断・計算は純粋関数へ。DB・時刻の取得は外側へ。計算に渡すのは db や clock ではなく、取得済みの値。実装時の参照用に分類早見表とコード・テスト例。純粋関数のメリットは分かっていても、DB の参照や時刻の取得が挟まると、切り出す境界に迷います。 FCIS の境界は引数と戻り値注文の「明細を取得する → 送料込みの金額を計算する → 保存する」を考えます。取得と保存を外側に残し、計算だけを独立した関数に取り出します。矢印はデータの流れです。保存を呼ぶのは Shell で、Core は計算結果を返します。この分け方が F...]]></content>
+        <author>
+            <name>denwaya</name>
+        </author>
+        <published>2026-09-05T05:21:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[その安全装置、一度も作動したところを見ていないのでは —— わざと壊して確かめる | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/chiwapome/articles/fire-drill-safety-nets</id>
+        <link href="https://zenn.dev/chiwapome/articles/fire-drill-safety-nets"/>
+        <updated>2026-09-05T02:51:09.000Z</updated>
+        <summary type="html"><![CDATA[今日、自分のコードで緊急停止の2層目が丸ごと機能していないのを見つけた。呼び出す側は書いてあった。呼ばれる側のメソッドが存在しなかった。しかもドキュメントには「実地確認済み」と書いてあった。嘘ではない。接続を切って試して、期待どおりのエラーが出るのを確かめてある。メソッドが無い場合も、出力が一字一句同じだったというだけだ。この記事は、そういう「作ってあるが働いていない安全装置」を、わざと壊して確か]]></summary>
+        <content type="html"><![CDATA[今日、自分のコードで緊急停止の2層目が丸ごと機能していないのを見つけた。呼び出す側は書いてあった。呼ばれる側のメソッドが存在しなかった。しかもドキュメントには「実地確認済み」と書いてあった。嘘ではない。接続を切って試して、期待どおりのエラーが出るのを確かめてある。メソッドが無い場合も、出力が一字一句同じだったというだけだ。この記事は、そういう「作ってあるが働いていない安全装置」を、わざと壊して確かめる話を、動くコードで書く。前回（「落ちない」は安全ではない）が「黙って間違う経路を塞ぐ」なら、今回は「塞いだものが本当に働くか」。 まず：なぜ「実地確認済み」が嘘になったの...]]></content>
+        <author>
+            <name>ChiwaPome</name>
+        </author>
+        <published>2026-09-05T02:51:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【スプリング】インタラクター層のテスト | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/hashidev/articles/8dc58d13b1bf9b</id>
+        <link href="https://zenn.dev/hashidev/articles/8dc58d13b1bf9b"/>
+        <updated>2026-09-05T02:49:39.000Z</updated>
+        <summary type="html"><![CDATA[レイヤーごとに関心ごとは異なることを把握しようインタクラター層の最大の関心ごとは「ビジネスロジックの正確性・条件分岐・例外処理」だ。その上で、Springを起動させないピュアなJavaとしてテストが動作させることが絶対的な鉄則になる→さもなければ、数千ファイルであっても数秒で終わるという本来のインタラクターテストのメリットが逆にCI/CDのボトルネックになってしまうからだサンプルコードを見てみよう]]></summary>
+        <content type="html"><![CDATA[レイヤーごとに関心ごとは異なることを把握しようインタクラター層の最大の関心ごとは「ビジネスロジックの正確性・条件分岐・例外処理」だ。その上で、Springを起動させないピュアなJavaとしてテストが動作させることが絶対的な鉄則になる→さもなければ、数千ファイルであっても数秒で終わるという本来のインタラクターテストのメリットが逆にCI/CDのボトルネックになってしまうからだサンプルコードを見てみよう。外部APIなどのI/Oを伴う依存関係は全てモックして使う// Spring Bootのアノテーション(@SpringBootTestなど)は絶対に使わない🤯@ExtendWi...]]></content>
+        <author>
+            <name>ハシ</name>
+        </author>
+        <published>2026-09-05T02:49:39.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「落ちない」は安全ではない —— 自動化が黙って嘘をつく5つの型と、それを捕まえるテスト | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/chiwapome/articles/ai-automation-silent-failures</id>
+        <link href="https://zenn.dev/chiwapome/articles/ai-automation-silent-failures"/>
+        <updated>2026-09-05T02:41:31.000Z</updated>
+        <summary type="html"><![CDATA[自作の測定スクリプトに嘘をつかれた。エラーは出ていない。落ちてもいない。正しい形をした、間違った答えを返しただけだった。この記事は、そういう「黙って通る」壊れ方を5つの型に分けて、直し方と、それを捕まえるテストをセットで置いていく。直し方はどれも数行で済む。難しいのは直すことではなく、在ることに気づくほうなので、テストの書き方に重心を置く。 発端：語をひとつ替えたら、答えが100倍変わったYouT]]></summary>
+        <content type="html"><![CDATA[自作の測定スクリプトに嘘をつかれた。エラーは出ていない。落ちてもいない。正しい形をした、間違った答えを返しただけだった。この記事は、そういう「黙って通る」壊れ方を5つの型に分けて、直し方と、それを捕まえるテストをセットで置いていく。直し方はどれも数行で済む。難しいのは直すことではなく、在ることに気づくほうなので、テストの書き方に重心を置く。 発端：語をひとつ替えたら、答えが100倍変わったYouTubeの検索需要を測るスクリプトを書いた。検索語を渡すと上位の再生数の中央値を返す。主観で発信ネタを選ばないための道具だ。最初に「Claude Code 失敗」で引いたら、上位...]]></content>
+        <author>
+            <name>ChiwaPome</name>
+        </author>
+        <published>2026-09-05T02:41:31.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[エラーが出る失敗、空が返る失敗、それらしい数字が返る失敗 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/rapls/articles/05894e145f3cf5</id>
+        <link href="https://zenn.dev/rapls/articles/05894e145f3cf5"/>
+        <updated>2026-09-05T02:28:38.000Z</updated>
+        <summary type="html"><![CDATA[4,893記事、反響11,420。集計スクリプトが出した数字です。合っていません。わたしが書いた記事は186本です。出力はこうでした。全4893記事 / 反響合計 11420zenn 4800本 反響11379 中央値 0.0 0本2809 上位1本の占有 7.2%qiita 93本 反響 41 中央値 0.0 0本 62 上位1本の占有 12.2% ストック 32Qiita の93本は合っていま]]></summary>
+        <content type="html"><![CDATA[4,893記事、反響11,420。集計スクリプトが出した数字です。合っていません。わたしが書いた記事は186本です。出力はこうでした。全4893記事 / 反響合計 11420zenn 4800本 反響11379 中央値 0.0 0本2809 上位1本の占有 7.2%qiita 93本 反響 41 中央値 0.0 0本 62 上位1本の占有 12.2% ストック 32Qiita の93本は合っています。Zenn の4,800本は、Zenn 全体です。dev.to は1行も出ていません。エラーは1つも出ていません。 同じ間違いに、3つの返り方があ...]]></content>
+        <author>
+            <name>Rapls</name>
+        </author>
+        <published>2026-09-05T02:28:38.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[少しずつ変化するシステムこそ「定量指標」で評価する ― 文字起こし精度の検証基盤を作った話 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/smartcamp/articles/5579462474b806</id>
+        <link href="https://zenn.dev/smartcamp/articles/5579462474b806"/>
+        <updated>2026-09-05T01:45:50.000Z</updated>
+        <summary type="html"><![CDATA[はじめにこんにちは、りゅうです！今日は私が扱うプロダクトの機能のひとつとして音声（通話）をテキストに変換する「文字起こし」機能があります。この精度を継続的に改善していきたいという話が持ち上がったのですが、その時に改善を行なってもどう良くなったかが評価しずらいと感じていました。「モデルやパラメータをいじったら、精度が上がった 気がする」以上のことが言えない、というのが一番の問題です。いくつかのサンプ]]></summary>
+        <content type="html"><![CDATA[はじめにこんにちは、りゅうです！今日は私が扱うプロダクトの機能のひとつとして音声（通話）をテキストに変換する「文字起こし」機能があります。この精度を継続的に改善していきたいという話が持ち上がったのですが、その時に改善を行なってもどう良くなったかが評価しずらいと感じていました。「モデルやパラメータをいじったら、精度が上がった 気がする」以上のことが言えない、というのが一番の問題です。いくつかのサンプルを目視で見比べて「なんか良くなったっぽいね」と判断する。この状態のまま改善を積み重ねても、本当に良くなっているのかは客観的にはよく分からないままです。むしろ、ある施策が別のケー...]]></content>
+        <author>
+            <name>りゅう</name>
+        </author>
+        <published>2026-09-05T01:45:50.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コードが読めないまま、AIの書いたものを検収する — 非エンジニアの検査チェックリスト | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/omnikros/books/inspect-ai-written-code</id>
+        <link href="https://zenn.dev/omnikros/books/inspect-ai-written-code"/>
+        <updated>2026-09-04T16:17:17.000Z</updated>
+        <summary type="html"><![CDATA[実装をAIに任せると、出てくるものは驚くほどよく動きます。問題は、動いているのに目的が果たされていないときで、そこにはエラーが出ません。私はコードが読めないまま6つのサイトと1つの有料商品を公開して、索引から36ページを消し(データ3,449件ぶんの表示面)、公開直後2日間の記録を永久に失い、誰も来ていないサイトに年18,700円の課金を走らせ、内部ファイル10種を本番URLで半日公開しました。ど]]></summary>
+        <content type="html"><![CDATA[実装をAIに任せると、出てくるものは驚くほどよく動きます。問題は、動いているのに目的が果たされていないときで、そこにはエラーが出ません。私はコードが読めないまま6つのサイトと1つの有料商品を公開して、索引から36ページを消し(データ3,449件ぶんの表示面)、公開直後2日間の記録を永久に失い、誰も来ていないサイトに年18,700円の課金を走らせ、内部ファイル10種を本番URLで半日公開しました。どれもエラーは出ていません。画面も壊れていません。全部「動いて」いました。この本は、コードを一行も読まずにそれを見つける検査の手順書です。検収を5つの問い(動いたか/正しいか/壊れないか/出してよいか/引き継げるか)に割り、各検査に所要時間と、実際に起きた事故の日付と数字を付けました。最終章に、そのままコピーして使える15分版・30分版・60分版のチェックリスト(全18項目)を全文置いています。すべての項目に (a)公開されている一次資料で裏が取れたもの /(b)自分で試して結果が出たもの / (c)試して効かなかったもの のラベルを付け、ラベルの付かないものは書いていません。見ていない数字は「]]></content>
+        <author>
+            <name>omnikros</name>
+        </author>
+        <published>2026-09-04T16:17:17.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIにバックテストを書かせると、構造的に先読みバイアスが入る | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/shachidesk/articles/749210ba378529</id>
+        <link href="https://zenn.dev/shachidesk/articles/749210ba378529"/>
+        <updated>2026-09-04T14:44:52.000Z</updated>
+        <summary type="html"><![CDATA[症状から入るAI に「このルールで過去データを検証するコードを書いて」と頼む。返ってきたコードは動く。エラーも出ない。テストも通る。そして成績が良すぎる。これはバグではない。落ちないし、例外も投げない。ただ、その時点ではまだ知りようがなかった情報が、その時点の判断に混ざっている。先読みバイアス(look-ahead bias)と呼ばれる。厄介なのは、症状の出方が「壊れる」ではなく「良くなる」ことだ]]></summary>
+        <content type="html"><![CDATA[症状から入るAI に「このルールで過去データを検証するコードを書いて」と頼む。返ってきたコードは動く。エラーも出ない。テストも通る。そして成績が良すぎる。これはバグではない。落ちないし、例外も投げない。ただ、その時点ではまだ知りようがなかった情報が、その時点の判断に混ざっている。先読みバイアス(look-ahead bias)と呼ばれる。厄介なのは、症状の出方が「壊れる」ではなく「良くなる」ことだ。例外を出さない。数字が上振れするだけ「動くか」を見るテストは全部通るそして良い数字は、悪い数字より疑われにくいこの記事は株価データの検証を題材にするが、混入する経路そのも...]]></content>
+        <author>
+            <name>shachidesk</name>
+        </author>
+        <published>2026-09-04T14:44:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[エラー、欠陥、故障、根本原因とは？ | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/marmot/articles/62b3fb4f57e4f4</id>
+        <link href="https://zenn.dev/marmot/articles/62b3fb4f57e4f4"/>
+        <updated>2026-09-04T09:38:28.000Z</updated>
+        <summary type="html"><![CDATA[はじめに今回は、誤用しやすいエラー、欠陥、故障の違いや関係性と、根本原因に関して、私自身も誤用しやすいため、JSTQBに準拠した備忘録としてまとめてみました。正しい意味で用語を理解し、使うことは、コミュニケーションの疎通をスムーズに進める上でとても大切です。 エラーとはJSTQBシラバスでは、下記のように記載されています。人間はエラー（誤り）を起こす。そのエラーが、欠陥（フォールト、バグ）を生み出]]></summary>
+        <content type="html"><![CDATA[はじめに今回は、誤用しやすいエラー、欠陥、故障の違いや関係性と、根本原因に関して、私自身も誤用しやすいため、JSTQBに準拠した備忘録としてまとめてみました。正しい意味で用語を理解し、使うことは、コミュニケーションの疎通をスムーズに進める上でとても大切です。 エラーとはJSTQBシラバスでは、下記のように記載されています。人間はエラー（誤り）を起こす。そのエラーが、欠陥（フォールト、バグ）を生み出し、その欠陥は、故障につながることもある。人間は、時間的なプレッシャー、作業成果物、プロセス、インフラ、相互作用の複雑度、あるいは単に疲れていたり、十分なトレーニングを受けてい...]]></content>
+        <author>
+            <name>マーモット</name>
+        </author>
+        <published>2026-09-04T09:38:28.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[エラー、欠陥、故障、根本原因とは？ | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/marmot/articles/62b3fb4f57e4f4</id>
+        <link href="https://zenn.dev/marmot/articles/62b3fb4f57e4f4"/>
+        <updated>2026-09-04T09:38:28.000Z</updated>
+        <summary type="html"><![CDATA[はじめに今回は、誤用しやすいエラー、欠陥、故障の違いや関係性と、根本原因に関して、私自身も誤用しやすいため、JSTQBに準拠した備忘録としてまとめてみました。正しい意味で用語を理解し、使うことは、コミュニケーションの疎通をスムーズに進める上でとても大切です。 エラーとはJSTQBシラバスでは、下記のように記載されています。人間はエラー（誤り）を起こす。そのエラーが、欠陥（フォールト、バグ）を生み出]]></summary>
+        <content type="html"><![CDATA[はじめに今回は、誤用しやすいエラー、欠陥、故障の違いや関係性と、根本原因に関して、私自身も誤用しやすいため、JSTQBに準拠した備忘録としてまとめてみました。正しい意味で用語を理解し、使うことは、コミュニケーションの疎通をスムーズに進める上でとても大切です。 エラーとはJSTQBシラバスでは、下記のように記載されています。人間はエラー（誤り）を起こす。そのエラーが、欠陥（フォールト、バグ）を生み出し、その欠陥は、故障につながることもある。人間は、時間的なプレッシャー、作業成果物、プロセス、インフラ、相互作用の複雑度、あるいは単に疲れていたり、十分なトレーニングを受けてい...]]></content>
+        <author>
+            <name>マーモット</name>
+        </author>
+        <published>2026-09-04T09:38:28.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[偶然の一致が、間違った説明を「未確認」から「確認済み」に格上げした | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/matsutake_prgrm/articles/the-coincidence-promoted-a-wrong-explanation</id>
+        <link href="https://zenn.dev/matsutake_prgrm/articles/the-coincidence-promoted-a-wrong-explanation"/>
+        <updated>2026-09-04T09:00:05.000Z</updated>
+        <summary type="html"><![CDATA[!2作目のポートフォリオとして「Hubpin」（分散した発信を1か所に集めるハブサイト）を作りながら書いています。リポジトリ: https://github.com/Matsutake29/hubpinNext.js（App Router） + Supabase + Tailwind CSS 間違った説明を、自分でテストして「確認済み」にした話ですフォームのバリデーションを Zod で書いていたと]]></summary>
+        <content type="html"><![CDATA[!2作目のポートフォリオとして「Hubpin」（分散した発信を1か所に集めるハブサイト）を作りながら書いています。リポジトリ: https://github.com/Matsutake29/hubpinNext.js（App Router） + Supabase + Tailwind CSS 間違った説明を、自分でテストして「確認済み」にした話ですフォームのバリデーションを Zod で書いていたときのことです。.refine() の挙動について、AI からこう説明されました。フィールドの検証が落ちると .refine() は走らないこれは間違いでした。実際に...]]></content>
+        <author>
+            <name>まつたけ</name>
+        </author>
+        <published>2026-09-04T09:00:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#010 テストをしても品質は上がらない——「作り込み」の正体を、これまでの記事から振り返る | Zennの「品質」のフィード]]></title>
+        <id>https://zenn.dev/kmslab62/articles/cb28b5cb5bf69a</id>
+        <link href="https://zenn.dev/kmslab62/articles/cb28b5cb5bf69a"/>
+        <updated>2026-09-04T08:00:06.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、こまさ(KMSLAB)です。今回は、テストについて、私がいつも言っていることを書いてみます。 テストは何のためにあるのかみなさんは、ソフトウエアのテストを何のために実施していますか。バグを見つけるため、動作を確認するため、ソフトウエアの品質を上げるため。場合によっては、納品に必要だから、というのもあるかもしれません。現実的には、まさにその通りだと思います。テストを実施して、問題を見つけ]]></summary>
+        <content type="html"><![CDATA[こんにちは、こまさ(KMSLAB)です。今回は、テストについて、私がいつも言っていることを書いてみます。 テストは何のためにあるのかみなさんは、ソフトウエアのテストを何のために実施していますか。バグを見つけるため、動作を確認するため、ソフトウエアの品質を上げるため。場合によっては、納品に必要だから、というのもあるかもしれません。現実的には、まさにその通りだと思います。テストを実施して、問題を見つけて、問題処理票を書いて、不具合を直して。そして、増える一方の問題処理票と格闘する日々。振り返ってみると、あまり建設的ではありません。私も昔はテストで問題を発見することに励んでいました...]]></content>
+        <author>
+            <name>こまさ/kmslab62</name>
+        </author>
+        <published>2026-09-04T08:00:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#010 テストをしても品質は上がらない——「作り込み」の正体を、これまでの記事から振り返る | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/kmslab62/articles/cb28b5cb5bf69a</id>
+        <link href="https://zenn.dev/kmslab62/articles/cb28b5cb5bf69a"/>
+        <updated>2026-09-04T08:00:06.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、こまさ(KMSLAB)です。今回は、テストについて、私がいつも言っていることを書いてみます。 テストは何のためにあるのかみなさんは、ソフトウエアのテストを何のために実施していますか。バグを見つけるため、動作を確認するため、ソフトウエアの品質を上げるため。場合によっては、納品に必要だから、というのもあるかもしれません。現実的には、まさにその通りだと思います。テストを実施して、問題を見つけ]]></summary>
+        <content type="html"><![CDATA[こんにちは、こまさ(KMSLAB)です。今回は、テストについて、私がいつも言っていることを書いてみます。 テストは何のためにあるのかみなさんは、ソフトウエアのテストを何のために実施していますか。バグを見つけるため、動作を確認するため、ソフトウエアの品質を上げるため。場合によっては、納品に必要だから、というのもあるかもしれません。現実的には、まさにその通りだと思います。テストを実施して、問題を見つけて、問題処理票を書いて、不具合を直して。そして、増える一方の問題処理票と格闘する日々。振り返ってみると、あまり建設的ではありません。私も昔はテストで問題を発見することに励んでいました...]]></content>
+        <author>
+            <name>こまさ/kmslab62</name>
+        </author>
+        <published>2026-09-04T08:00:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「動けばよい」から「壊れにくい」設計へ。QA出身SEが学んだ「失敗を先回りする」視点 | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/jinjer_techblog/articles/f2f7cf347f39a3</id>
+        <link href="https://zenn.dev/jinjer_techblog/articles/f2f7cf347f39a3"/>
+        <updated>2026-09-04T03:00:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめにこんにちは！jinjerプロダクト開発部 SEの関根です。今年1月に双子の弟に誘われてjinjer株式会社に入社しました。今回は、開発未経験からSE（システムエンジニア）としてスタートし、前職のQA/QC（品質保証・品質管理）で培った視点を活かすことで、設計段階での手戻りを減らし、スムーズに設計書を作成できるようになったプロセスについて書いていきます。結論からお伝えすると、QA/QCの経験]]></summary>
+        <content type="html"><![CDATA[はじめにこんにちは！jinjerプロダクト開発部 SEの関根です。今年1月に双子の弟に誘われてjinjer株式会社に入社しました。今回は、開発未経験からSE（システムエンジニア）としてスタートし、前職のQA/QC（品質保証・品質管理）で培った視点を活かすことで、設計段階での手戻りを減らし、スムーズに設計書を作成できるようになったプロセスについて書いていきます。結論からお伝えすると、QA/QCの経験は単なる「テスト工程の知識」ではなく、「要件・設計段階から不具合を防ぎ、品質を作り込むための大きな武器」になります。 プロダクト設計の難しさと、最初にぶつかった壁SEとしてキ...]]></content>
+        <author>
+            <name>関根涼太</name>
+        </author>
+        <published>2026-09-04T03:00:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「JSTQB カンファレンス in 2026 Autumn」全登壇者を公開、同日午前にインフォメーションセッションを開催 | 特定非営利活動法人ソフトウェアテスト技術振興協会【プレスリリース】 by PR TIMES]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000058.000054604.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000058.000054604.html"/>
+        <updated>2026-09-04T02:00:02.000Z</updated>
+        <summary type="html"><![CDATA[[特定非営利活動法人ソフトウェアテスト技術振興協会][画像1: https://prtimes.jp/i/54604/58/resize/d54604-58-4ed08eff5524fb1f8ba9-0.png ]JSTQB（ソフトウェアテスト技術者資格認定組織）は、2026年10月16日（金）に開催する無料オンラインイベント「JSTQB カン...]]></summary>
+        <content type="html"><![CDATA[[特定非営利活動法人ソフトウェアテスト技術振興協会][画像1: https://prtimes.jp/i/54604/58/resize/d54604-58-4ed08eff5524fb1f8ba9-0.png ]JSTQB（ソフトウェアテスト技術者資格認定組織）は、2026年10月16日（金）に開催する無料オンラインイベント「JSTQB カン...]]></content>
+        <published>2026-09-04T02:00:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[読まない技術 第3回：単体テストを読まない技術 ― AIのテストは実装の写しになる | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/garplab/articles/e4ad91d2fd6c67</id>
+        <link href="https://zenn.dev/garplab/articles/e4ad91d2fd6c67"/>
+        <updated>2026-09-04T00:53:13.000Z</updated>
+        <summary type="html"><![CDATA[この記事は、連載「読まない技術」の第 3 回です。各回はファイルやスクリプトを一つ置けば完結します。連載の全体像と各回の一覧は序論にあります。今回は、AI が書いた単体テストの話です。通っているテストが本当に何かを守っているのかを、テストを読まずに確かめます。まず一つだけ、試してみてください。AI に書かせたテストが通っている実装を開き、実装の 1 行をわざと壊します。境界値を 1 つずらす、条件]]></summary>
+        <content type="html"><![CDATA[この記事は、連載「読まない技術」の第 3 回です。各回はファイルやスクリプトを一つ置けば完結します。連載の全体像と各回の一覧は序論にあります。今回は、AI が書いた単体テストの話です。通っているテストが本当に何かを守っているのかを、テストを読まずに確かめます。まず一つだけ、試してみてください。AI に書かせたテストが通っている実装を開き、実装の 1 行をわざと壊します。境界値を 1 つずらす、条件を反転する、定数を書き換える。それでテストを走らせてください（見終わったら、壊した 1 行は必ず元に戻します）。落ちれば正常です。通ってしまったら、そのテストは最初から何も見ていません...]]></content>
+        <author>
+            <name>garplab</name>
+        </author>
+        <published>2026-09-04T00:53:13.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「テストが通る」は「正しい」の証明にならない——AI協働で見つけた3つの静かなバグから固めたレビュー方針 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/yuninaka/articles/ai-review-philosophy</id>
+        <link href="https://zenn.dev/yuninaka/articles/ai-review-philosophy"/>
+        <updated>2026-09-03T13:18:21.000Z</updated>
+        <summary type="html"><![CDATA[1. はじめにこれまで2つのシリーズを書いてきた。1つはグラフRAG × ベクトルRAGによる設備保全ナレッジベース構築(全6回)、もう1つはAIエージェントによるレガシーJavaのリバースマイグレーション検証(全4回)。題材はまったく違うが、両方とも「AIエージェントに実装を任せながら、自分は何をどう検証するか」を実地で試した記録になっている。10記事分を振り返ると、テストやCIが通っている状態]]></summary>
+        <content type="html"><![CDATA[1. はじめにこれまで2つのシリーズを書いてきた。1つはグラフRAG × ベクトルRAGによる設備保全ナレッジベース構築(全6回)、もう1つはAIエージェントによるレガシーJavaのリバースマイグレーション検証(全4回)。題材はまったく違うが、両方とも「AIエージェントに実装を任せながら、自分は何をどう検証するか」を実地で試した記録になっている。10記事分を振り返ると、テストやCIが通っている状態で、実は中身が間違っていたというケースが何度も出てきた。この記事では、その具体例を3つ挙げ、そこから固まった「実務でAIと協働する上でのレビュー方針」を整理する。 2. 静かに通過し...]]></content>
+        <author>
+            <name>yuninaka</name>
+        </author>
+        <published>2026-09-03T13:18:21.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MagicPod MCPサーバーとClaude Skillsで実現する、QA定型業務の標準化 | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/genda_jp/articles/70c29cc3fed698</id>
+        <link href="https://zenn.dev/genda_jp/articles/70c29cc3fed698"/>
+        <updated>2026-09-03T08:29:23.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、Platform Engineering部 QAの池上です。GENDAではMagicPodを使ったE2Eテスト自動化を複数のプロダクトで運用しています。私はその中で、バッチ実行の結果確認やテスト環境の整備といったテスト自動化関連の業務を主に担当しています。GENDAでは自動テストのツールとしてMagicPodを採用しています。GENDAはM&amp;amp;Aによって取り扱うプロダクトの種類・数が時間]]></summary>
+        <content type="html"><![CDATA[こんにちは、Platform Engineering部 QAの池上です。GENDAではMagicPodを使ったE2Eテスト自動化を複数のプロダクトで運用しています。私はその中で、バッチ実行の結果確認やテスト環境の整備といったテスト自動化関連の業務を主に担当しています。GENDAでは自動テストのツールとしてMagicPodを採用しています。GENDAはM&amp;amp;Aによって取り扱うプロダクトの種類・数が時間とともに増えていく組織で、QA以外の職種のメンバーも含めて誰でも自動テストを実装できる体制を作りたいという狙いがありました。そのため、ノーコードツールであること、また社内で使われている...]]></content>
+        <author>
+            <name>GENDA 公式アカウント</name>
+        </author>
+        <published>2026-09-03T08:29:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MGT]要望という名のエピックから考える、ウォーターフォールとアジャイルの要件マッピング（構造編） | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/tsukimi_soba/articles/mgt-requirements-mapping-structure</id>
+        <link href="https://zenn.dev/tsukimi_soba/articles/mgt-requirements-mapping-structure"/>
+        <updated>2026-09-03T05:56:13.000Z</updated>
+        <summary type="html"><![CDATA[概要 執筆の意図ユーザーストーリーという体裁で提出された要望が、実態としてはエピック相当の大きさだった事例に遭遇したこの事例を構造的に分析すると、ウォーターフォールとアジャイルの成果物対応があいまいなまま運用されていることが根本原因だと考えた本記事では、両手法の成果物・粒度がどう対応するかという静的な構造マッピングを整理する実際に要望がどのタイミングでチケット化されるかという動的なフローについては]]></summary>
+        <content type="html"><![CDATA[概要 執筆の意図ユーザーストーリーという体裁で提出された要望が、実態としてはエピック相当の大きさだった事例に遭遇したこの事例を構造的に分析すると、ウォーターフォールとアジャイルの成果物対応があいまいなまま運用されていることが根本原因だと考えた本記事では、両手法の成果物・粒度がどう対応するかという静的な構造マッピングを整理する実際に要望がどのタイミングでチケット化されるかという動的なフローについては、続編のフロー編で扱う移行手順（Stage設計）や、要望の原因分解・判定フローの詳細設計は本記事のスコープ外とし、別記事で扱う 要約ウォーターフォールは粒度ごとに独...]]></content>
+        <author>
+            <name>つきみ</name>
+        </author>
+        <published>2026-09-03T05:56:13.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MGT]要望という名のエピックから考える、要望をチケット化するタイミングの整理（フロー編） | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/tsukimi_soba/articles/mgt-requirements-mapping-flow</id>
+        <link href="https://zenn.dev/tsukimi_soba/articles/mgt-requirements-mapping-flow"/>
+        <updated>2026-09-03T05:56:13.000Z</updated>
+        <summary type="html"><![CDATA[概要 執筆の意図前回の構造編では、ウォーターフォールとアジャイルの成果物が粒度としてどう対応するかという静的な構造を整理したしかし冒頭で紹介した事例で実際に起きたのは、この静的な対応関係が崩れたことではなかった要望というインプットが本来通るべき精査の工程を経ないまま、いきなり大きな受け皿であるストーリーに流し込まれたことが問題だった本記事では、要望が実際にどのタイミング、どのルートでチケット化され]]></summary>
+        <content type="html"><![CDATA[概要 執筆の意図前回の構造編では、ウォーターフォールとアジャイルの成果物が粒度としてどう対応するかという静的な構造を整理したしかし冒頭で紹介した事例で実際に起きたのは、この静的な対応関係が崩れたことではなかった要望というインプットが本来通るべき精査の工程を経ないまま、いきなり大きな受け皿であるストーリーに流し込まれたことが問題だった本記事では、要望が実際にどのタイミング、どのルートでチケット化されるかという動的なフローを整理する要望の原因分解・判定フローの詳細設計や、移行手順（Stage設計）は本記事のスコープ外とし、別記事で扱う 要約現場の要望がチケットに...]]></content>
+        <author>
+            <name>つきみ</name>
+        </author>
+        <published>2026-09-03T05:56:13.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond .WAV: Design and Software Verification of VocalCap, a Traceable Browser-Based Audio Capture System for Vocal Biomarker Research | arXiv Query: search_query=all:"software testing"&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10]]></title>
+        <id>https://arxiv.org/abs/2609.03320v1</id>
+        <link href="https://arxiv.org/abs/2609.03320v1"/>
+        <updated>2026-09-03T03:15:13.000Z</updated>
+        <summary type="html"><![CDATA[Remote voice studies often retain a final audio file with limited evidence about how it was captured, transferred, processed, and accepted. This paper presents VocalCap, an institution-controlled, bro]]></summary>
+        <content type="html"><![CDATA[Remote voice studies often retain a final audio file with limited evidence about how it was captured, transferred, processed, and accepted. This paper presents VocalCap, an institution-controlled, browser-based system for self-guided capture of voice and related acoustic signals by participants without technical training. A versioned protocol drives the workflow. Each accepted recording retains a browser-native object, a client-lossless Float32 WAV derived from the same MediaStream, and a server]]></content>
+        <published>2026-09-03T03:15:13.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bubble Tea の TUI をテストしたい？Charm の Tea Tests 入門 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/nonejp/articles/68a46497f122f1</id>
+        <link href="https://zenn.dev/nonejp/articles/68a46497f122f1"/>
+        <updated>2026-09-03T01:10:13.000Z</updated>
+        <summary type="html"><![CDATA[Bubble Tea で TUI を作ったあと、「これ、どうやってテストすればいいんだ？」と手が止まったことはありませんか。普通の Go の関数なら testing パッケージで自然に書けます。CLI の標準出力なら exec して stdout を見るのもわかりやすいです。ところが Bubble Tea のアプリは、tea.Model、Update、View に加えて、キー入力、端末サイズ、AN]]></summary>
+        <content type="html"><![CDATA[Bubble Tea で TUI を作ったあと、「これ、どうやってテストすればいいんだ？」と手が止まったことはありませんか。普通の Go の関数なら testing パッケージで自然に書けます。CLI の標準出力なら exec して stdout を見るのもわかりやすいです。ところが Bubble Tea のアプリは、tea.Model、Update、View に加えて、キー入力、端末サイズ、ANSI エスケープシーケンスまで絡みます。見た目と状態を一緒に確認したいとなると、少し悩ましいところです。そこで使えるのが、Charm が実験的に公開している Tea Tests です。公式ブ...]]></content>
+        <author>
+            <name>ousiass</name>
+        </author>
+        <published>2026-09-03T01:10:13.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[478件と497件 — 指定していない条件は、揃わない | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/wisevine/articles/a4d47135d2e531</id>
+        <link href="https://zenn.dev/wisevine/articles/a4d47135d2e531"/>
+        <updated>2026-09-02T23:59:20.000Z</updated>
+        <summary type="html"><![CDATA[同じリリースを数えて、478件と497件自治体向けの業務システムを作っていて、私はそのQAをしています。数か月ごとにメジャーリリースがあり、そのリリースに何が入るのかを、バックログの課題を数えて確認しています。リリース時期ごとにリリースブランチを切っているので、マージ先を間違えると、入るはずのものが漏れたり、まだ完成していないものが出ていったりします。数えているのは、それを防ぐためです。ある日、2]]></summary>
+        <content type="html"><![CDATA[同じリリースを数えて、478件と497件自治体向けの業務システムを作っていて、私はそのQAをしています。数か月ごとにメジャーリリースがあり、そのリリースに何が入るのかを、バックログの課題を数えて確認しています。リリース時期ごとにリリースブランチを切っているので、マージ先を間違えると、入るはずのものが漏れたり、まだ完成していないものが出ていったりします。数えているのは、それを防ぐためです。ある日、2つの作業スレッドが、同じリリースについて別の件数を報告しました。片方が478件、片方が497件。同じ課題管理ツールから、同じ日に、同じリリースの課題を数えたはずのものです。どちらもエ...]]></content>
+        <author>
+            <name>qafuku</name>
+        </author>
+        <published>2026-09-02T23:59:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[読まない技術 第1回：テスト結果を読まない技術 ― 26,147行の出力を29行にする | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/garplab/articles/cd93e0c5cac832</id>
+        <link href="https://zenn.dev/garplab/articles/cd93e0c5cac832"/>
+        <updated>2026-09-02T22:49:22.000Z</updated>
+        <summary type="html"><![CDATA[この記事は、連載「読まない技術」の第 1 回です。各回はファイルやスクリプトを一つ置けば完結します。連載の全体像と各回の一覧は序論にあります。今回は、テストの出力の話です。AI がテストを走らせるたびに、数万行の出力がそのコンテキストに流れ込みます。そのうち AI に要るのはどの行かを扱います。まず一つだけ、確かめてみてください。AI コーディングエージェントとの直近のセッションで、テストを実行し]]></summary>
+        <content type="html"><![CDATA[この記事は、連載「読まない技術」の第 1 回です。各回はファイルやスクリプトを一つ置けば完結します。連載の全体像と各回の一覧は序論にあります。今回は、テストの出力の話です。AI がテストを走らせるたびに、数万行の出力がそのコンテキストに流れ込みます。そのうち AI に要るのはどの行かを扱います。まず一つだけ、確かめてみてください。AI コーディングエージェントとの直近のセッションで、テストを実行した箇所の出力を探します。何行ありますか。その出力を最後まで読んだ人はいますか。読んだ人は、たぶんいません。ただし AI は別です。AI はツール出力を読み飛ばせません。届いた行は全部コ...]]></content>
+        <author>
+            <name>garplab</name>
+        </author>
+        <published>2026-09-02T22:49:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[入社3ヶ月のQAEが振り返る、立ち上がりの日々とこれから | QA - SmartHR Tech Blog]]></title>
+        <id>https://tech.smarthr.jp/entry/2026/09/03/070000</id>
+        <link href="https://tech.smarthr.jp/entry/2026/09/03/070000"/>
+        <updated>2026-09-02T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめまして！勤怠管理・給与計算ユニットでQAE（QAエンジニア）をしているjuniです。2026年5月にSmartHRへ入社し、給与計算プロダクトの品質保証を担当しています。 入社から3ヶ月が経ち、気づけば4ヶ月目に入っています。この記事では、最初の3ヶ月でやってきたことと、これから注力していくことを紹介します。立ち上がり方は担当プロダクトや状況によってさまざまだと思いますが、一つの例として、S]]></summary>
+        <content type="html"><![CDATA[はじめまして！勤怠管理・給与計算ユニットでQAE（QAエンジニア）をしているjuniです。2026年5月にSmartHRへ入社し、給与計算プロダクトの品質保証を担当しています。 入社から3ヶ月が経ち、気づけば4ヶ月目に入っています。この記事では、最初の3ヶ月でやってきたことと、これから注力していくことを紹介します。立ち上がり方は担当プロダクトや状況によってさまざまだと思いますが、一つの例として、SmartHRの品質保証に興味がある方に、入社後にどう立ち上がり、その先で何に取り組もうとしているのかを知ってもらえたら嬉しいです。 これまでの経歴 前職までの経歴を簡単にご紹介します。 1社目：SIe…]]></content>
+        <published>2026-09-02T22:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[誰も語っていないがAIはばかみたいにおもろい | 杞憂]]></title>
+        <id>https://note.com/kiyou77/n/nd850d721ed21</id>
+        <link href="https://note.com/kiyou77/n/nd850d721ed21"/>
+        <updated>2026-09-02T15:29:25.000Z</updated>
+        <summary type="html"><![CDATA[最近やっていることといえば、いま世界中のQAエンジニアが取り組んでいるであろうところの「AIにテスト活動をやらせるためのSkills開発」である。この作業、内実は品質保証プロセスの管理そのものであり、QAエンジニアとしてこれまでやってきたことと何一つ変わっていない。しかし、そのプロセスを実施する主体が人からAIに変わると、こうも見え方が違うのか、と強く思う。つまり、AIに読ませる自然言語で書かれた]]></summary>
+        <content type="html"><![CDATA[最近やっていることといえば、いま世界中のQAエンジニアが取り組んでいるであろうところの「AIにテスト活動をやらせるためのSkills開発」である。この作業、内実は品質保証プロセスの管理そのものであり、QAエンジニアとしてこれまでやってきたことと何一つ変わっていない。しかし、そのプロセスを実施する主体が人からAIに変わると、こうも見え方が違うのか、と強く思う。つまり、AIに読ませる自然言語で書かれた指示書──Agent Skillsという概念──が、めちゃめちゃに面白いのだ。より正確に言うなら、Skillsを複数組み合わせてシステムを作るというこの作業が、本当に面白い……。続きをみる]]></content>
+        <published>2026-09-02T15:29:25.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全部直したらテストが落ちた（本番データを前提にした検査の話） | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/hashitoz/articles/2026-08-24-fleet-devlog-cve-watch-recheck-zenn</id>
+        <link href="https://zenn.dev/hashitoz/articles/2026-08-24-fleet-devlog-cve-watch-recheck-zenn"/>
+        <updated>2026-09-02T15:00:50.000Z</updated>
+        <summary type="html"><![CDATA[背景昨日、自分のサイトのバグを1つ直しました。そのとき回帰テストも書きました。今朝それが落ちました。バグが再発したからではありません。直しきったから落ちました…。順を追って書きます。 何を作っているかCVE（Common Vulnerabilities and Exposures）というのは、ソフトウェアの脆弱性ひとつひとつに付く世界共通の識別子です。CVE-2026-73570 のような形をして]]></summary>
+        <content type="html"><![CDATA[背景昨日、自分のサイトのバグを1つ直しました。そのとき回帰テストも書きました。今朝それが落ちました。バグが再発したからではありません。直しきったから落ちました…。順を追って書きます。 何を作っているかCVE（Common Vulnerabilities and Exposures）というのは、ソフトウェアの脆弱性ひとつひとつに付く世界共通の識別子です。CVE-2026-73570 のような形をしている。私はその情報をまとめて出す小さなサイトを個人で運用しています。https://cve.autoarticles.net271件ぶんのデータを data/vul...]]></content>
+        <author>
+            <name>hashitoz</name>
+        </author>
+        <published>2026-09-02T15:00:50.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「該当ゼロ」と「読めていない」は見分けが付かない（検査を自分で緩めない作り） | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/bricks/articles/checks-that-cannot-be-loosened</id>
+        <link href="https://zenn.dev/bricks/articles/checks-that-cannot-be-loosened"/>
+        <updated>2026-09-02T14:10:17.000Z</updated>
+        <summary type="html"><![CDATA[設問671本を直すのに、先に検査を書きました。感覚で直し始めないためです。その過程で、自分が作った検査の欠陥が次々に出てきました。検査は書いた時点では全部正しく見えます。 直す前に検査を書く順序を逆にすると失敗します。対象を直してから検査を書くと、書いた結果に合わせて検査が緩みます。 自分の直し方が基準になってしまうからです。対象を1つも触らずに、基準だけコードで固定してから始めました。 在庫（a]]></summary>
+        <content type="html"><![CDATA[設問671本を直すのに、先に検査を書きました。感覚で直し始めないためです。その過程で、自分が作った検査の欠陥が次々に出てきました。検査は書いた時点では全部正しく見えます。 直す前に検査を書く順序を逆にすると失敗します。対象を直してから検査を書くと、書いた結果に合わせて検査が緩みます。 自分の直し方が基準になってしまうからです。対象を1つも触らずに、基準だけコードで固定してから始めました。 在庫（allowlist）を免罪符にしない既存の該当分は在庫ファイルへ退避します。ただし2つの向きを両方エラーにします。向き意味在庫に無い新しい該当基準が緩んだ合...]]></content>
+        <author>
+            <name>Renga</name>
+        </author>
+        <published>2026-09-02T14:10:17.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[メモ追記ツールは常に行の最後のセルに書いていた。表の一つでは最後のセルはメモ欄ではなく、77件が間違った列に入っていた | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/blueticks/articles/30e98d768d17f7</id>
+        <link href="https://zenn.dev/blueticks/articles/30e98d768d17f7"/>
+        <updated>2026-09-02T13:02:04.000Z</updated>
+        <summary type="html"><![CDATA[配信作業の記録はマークダウンの表で管理していて、行に一文を追記するだけの小さなツールがある。行を一意に指すキーと文を渡す。キーが0行か2行に一致すれば拒否する。禁止した文字が含まれていても拒否する。一か月間、慎重に働いてきた。今朝、別のツールが「その行は存在しない」と言った。行は明らかに存在していた。 読み手が探していたもの二つ目のツールが答える問いは単純だ。未公開の原稿のうち、公開日が決まってい]]></summary>
+        <content type="html"><![CDATA[配信作業の記録はマークダウンの表で管理していて、行に一文を追記するだけの小さなツールがある。行を一意に指すキーと文を渡す。キーが0行か2行に一致すれば拒否する。禁止した文字が含まれていても拒否する。一か月間、慎重に働いてきた。今朝、別のツールが「その行は存在しない」と言った。行は明らかに存在していた。 読み手が探していたもの二つ目のツールが答える問いは単純だ。未公開の原稿のうち、公開日が決まっているものはどれか。日付の表を一行ずつ歩き、三列目、つまりメモ欄にファイル名を探す。妥当だ。ファイル名はそこにあるべきものだ。私は新しい原稿の日付を追加したばかりで、文の中にファイル名も書...]]></content>
+        <author>
+            <name>Mathieu Ades</name>
+        </author>
+        <published>2026-09-02T13:02:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全部、開けました。ログイン不要の公開ギャラリーを作った話 | つーつー]]></title>
+        <id>https://note.com/ms_tsu_tsu/n/n82119bc31523</id>
+        <link href="https://note.com/ms_tsu_tsu/n/n82119bc31523"/>
+        <updated>2026-09-02T12:15:52.000Z</updated>
+        <summary type="html"><![CDATA[QAエンジニアのつーつーです😁まだまだ暑い日が続きますね。この夏はサウナと開発でだいたい終わりました🧖‍♂️前回、「知見は、なぜ共有されにくいのか」という話を書きました。知識を持っていることと、その知識が世の中で活きることの間には溝がある。その溝を埋めたくてWeProcessを作っている、という話です。書き終えてから、ずっと引っかかっていたことがあります。「知見を流通させたい」と言っておきながら、]]></summary>
+        <content type="html"><![CDATA[QAエンジニアのつーつーです😁まだまだ暑い日が続きますね。この夏はサウナと開発でだいたい終わりました🧖‍♂️前回、「知見は、なぜ共有されにくいのか」という話を書きました。知識を持っていることと、その知識が世の中で活きることの間には溝がある。その溝を埋めたくてWeProcessを作っている、という話です。書き終えてから、ずっと引っかかっていたことがあります。「知見を流通させたい」と言っておきながら、自分のサービスは、中身を見るのに会員登録が必要な状態でした。これはさすがに、筋が通らないよな…と😥なので、全部開けることにしました。続きをみる]]></content>
+        <published>2026-09-02T12:15:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIで前提が変わった。そのとき、何を見直すべきなのか | ソフトウェアテストタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/y0us91/items/b3fd1d601a04302995d8</id>
+        <link href="https://qiita.com/y0us91/items/b3fd1d601a04302995d8"/>
+        <updated>2026-09-02T11:37:22.000Z</updated>
+        <summary type="html"><![CDATA[最近、開発の現場では 「まずAIに任せてみよう」という空気 がかなり強くなってきました。コードを書く。既存のコードを調べる。テストを書く。レビューする。障害の原因を調べる。ドキュメントを書く。少し前まで人が時間をかけていた作業のかなりの部分を、AIが手伝え...]]></summary>
+        <content type="html"><![CDATA[最近、開発の現場では 「まずAIに任せてみよう」という空気 がかなり強くなってきました。コードを書く。既存のコードを調べる。テストを書く。レビューする。障害の原因を調べる。ドキュメントを書く。少し前まで人が時間をかけていた作業のかなりの部分を、AIが手伝え...]]></content>
+        <published>2026-09-02T11:37:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「なんか赤が強い気がする」を機械に判定させる — 鏡像等変性テストで対戦ゲームAIのバグを6件見つけた | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/genkunjc/articles/9f9ebc54a18544</id>
+        <link href="https://zenn.dev/genkunjc/articles/9f9ebc54a18544"/>
+        <updated>2026-09-02T11:15:46.000Z</updated>
+        <summary type="html"><![CDATA[対戦ゲームのAIを書いていると、こういう症状に必ず遭遇します。なんか赤チームの方が強い気がする左右対称のマップ、両チーム同じAIコード。理屈の上では勝率は五分になるはずなのに、実際に回すと片方が勝ち越す。でも「どこが原因か」は分からない。試合を何十回も眺めて、それらしい constants をいじって、また眺める。この記事は、その「気がする」を機械が PASS/FAIL で判定できる形に落とす方法]]></summary>
+        <content type="html"><![CDATA[対戦ゲームのAIを書いていると、こういう症状に必ず遭遇します。なんか赤チームの方が強い気がする左右対称のマップ、両チーム同じAIコード。理屈の上では勝率は五分になるはずなのに、実際に回すと片方が勝ち越す。でも「どこが原因か」は分からない。試合を何十回も眺めて、それらしい constants をいじって、また眺める。この記事は、その「気がする」を機械が PASS/FAIL で判定できる形に落とす方法と、それで実際に見つかった6件のバグの話です。前提として、筆者は Omega Strikers というゲームを3年ほど前に競技として遊んでいました。ラダーは最高で世界6〜7位でしたが...]]></content>
+        <author>
+            <name>genkunjc</name>
+        </author>
+        <published>2026-09-02T11:15:46.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「安全側に倒す」をコードの不変条件にする — 判定ロジックをビルドで守る | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/ukintech/articles/build-time-safety-invariants</id>
+        <link href="https://zenn.dev/ukintech/articles/build-time-safety-invariants"/>
+        <updated>2026-09-02T09:57:37.000Z</updated>
+        <summary type="html"><![CDATA[ユーザーの入力を受けて「次にどうすべきか」を出す画面を作りました。間違えると実害が出る種類の判定です。こういうものを作ると、最初はきれいに書けます。壊れるのは半年後で、条件を 1 つ足したときに順序が入れ替わったり、「この手順も出していいよね」と足したものが前提を満たしていないまま出たりします。そこで、安全側の挙動そのものを不変条件として書いて、ビルドで落とすようにしました。テストランナーは入れて]]></summary>
+        <content type="html"><![CDATA[ユーザーの入力を受けて「次にどうすべきか」を出す画面を作りました。間違えると実害が出る種類の判定です。こういうものを作ると、最初はきれいに書けます。壊れるのは半年後で、条件を 1 つ足したときに順序が入れ替わったり、「この手順も出していいよね」と足したものが前提を満たしていないまま出たりします。そこで、安全側の挙動そのものを不変条件として書いて、ビルドで落とすようにしました。テストランナーは入れていません。 何を守りたいか具体的には、こういう性質です。危険な入力は、他の条件を見る前に警告する（他がどう見えても優先する）判断できないときは、安全そうな結論を出さない前提を...]]></content>
+        <author>
+            <name>ukintech</name>
+        </author>
+        <published>2026-09-02T09:57:37.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テスト見積もりは掛け算2つで出せる | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/bitkey_dev/articles/test-estimation-formula</id>
+        <link href="https://zenn.dev/bitkey_dev/articles/test-estimation-formula"/>
+        <updated>2026-09-02T02:30:05.000Z</updated>
+        <summary type="html"><![CDATA[「だいたい○○ケースくらいですかね」の正体テスト計画でスケジュールを立てるとき、テストケース数の見積もりはどうやっているだろうか。正直なところ、多くの現場では「前回と同じくらいの規模感だから○○ケースくらい」「経験的にこの手の機能なら△△ケース」という見積もりが主流だと思う。自分もそうだった。これで困るのは3つの場面。初めての領域。 過去実績がないから「だいたい」が通用しない説明責任。 上席に「な]]></summary>
+        <content type="html"><![CDATA[「だいたい○○ケースくらいですかね」の正体テスト計画でスケジュールを立てるとき、テストケース数の見積もりはどうやっているだろうか。正直なところ、多くの現場では「前回と同じくらいの規模感だから○○ケースくらい」「経験的にこの手の機能なら△△ケース」という見積もりが主流だと思う。自分もそうだった。これで困るのは3つの場面。初めての領域。 過去実績がないから「だいたい」が通用しない説明責任。 上席に「なぜその工数なのか」と聞かれたとき、根拠を示せない精度のばらつき。 見積もる人によって2〜3倍の差が出る結局、見積もりの「勘と経験」の中身を分解してみたら、ちゃんと数式...]]></content>
+        <author>
+            <name>日下部 聡久</name>
+        </author>
+        <published>2026-09-02T02:30:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automated Testing of LLM-Based Post Hoc Explainers Using Model Checking as an Oracle | arXiv Query: search_query=all:"software testing"&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10]]></title>
+        <id>https://arxiv.org/abs/2608.30581v1</id>
+        <link href="https://arxiv.org/abs/2608.30581v1"/>
+        <updated>2026-08-31T10:54:37.000Z</updated>
+        <summary type="html"><![CDATA[Large language models (LLMs) are used as post hoc explainers of sequential decision-making policies, producing natural-language explanations of why an action was chosen. However, LLMs often generate p]]></summary>
+        <content type="html"><![CDATA[Large language models (LLMs) are used as post hoc explainers of sequential decision-making policies, producing natural-language explanations of why an action was chosen. However, LLMs often generate plausible but incorrect statements, and no existing approach systematically tests whether such explanations are faithful to the underlying environment. Two classic software testing challenges stand in the way: there is no oracle for the correctness of an explanation, and the test inputs, natural lang]]></content>
+        <published>2026-08-31T10:54:37.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第3回】『具体と抽象』から見る、デザインと直感 | 品質 | Sqripts]]></title>
+        <id>https://sqripts.com/?p=106463</id>
+        <link href="https://sqripts.com/2026/08/31/106463/"/>
+        <updated>2026-08-31T09:01:47.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 前回の記事では、分類学という一見するとソフトウェア開発やQAとは遠い学問を手がかりに、「抽象化とは、複数の具体から共通する本質を抜き出し、名前を与えることだ」という話を書きました。 クジラとカバが近縁であること...The post 【第3回】『具体と抽象』から見る、デザインと直感 first appeared on Sqripts.]]></summary>
+        <content type="html"><![CDATA[はじめに 前回の記事では、分類学という一見するとソフトウェア開発やQAとは遠い学問を手がかりに、「抽象化とは、複数の具体から共通する本質を抜き出し、名前を与えることだ」という話を書きました。 クジラとカバが近縁であること...The post 【第3回】『具体と抽象』から見る、デザインと直感 first appeared on Sqripts.]]></content>
+        <author>
+            <name>masashi.takamizawa_1785918787</name>
+        </author>
+        <category label="特集"/>
+        <category label="品質"/>
+        <category label="QAエンジニア"/>
+        <published>2026-08-31T09:01:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[品質を支える仕組みをチームで作る —— 開発プロセスの可視化と改善 | QA - SmartHR Tech Blog]]></title>
+        <id>https://tech.smarthr.jp/entry/2026/08/31/095924</id>
+        <link href="https://tech.smarthr.jp/entry/2026/08/31/095924"/>
+        <updated>2026-08-31T00:59:24.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！SmartHRでQAエンジニア（QAE）をしているyugeです。前回の記事で触れたDuolingoの連続記録が、ついに1,500日を超えました。日々の小さな積み重ねによって、以前は聞き取りづらかった音が聞こえるようになるなど、着実な変化を実感しています。 今回は、日々の開発プロセスで品質を守れる状態を目指し、チームで進めてきた改善の取り組みを紹介します。 体制変更で見えてきた、従来プロ]]></summary>
+        <content type="html"><![CDATA[こんにちは！SmartHRでQAエンジニア（QAE）をしているyugeです。前回の記事で触れたDuolingoの連続記録が、ついに1,500日を超えました。日々の小さな積み重ねによって、以前は聞き取りづらかった音が聞こえるようになるなど、着実な変化を実感しています。 今回は、日々の開発プロセスで品質を守れる状態を目指し、チームで進めてきた改善の取り組みを紹介します。 体制変更で見えてきた、従来プロセスの課題 個々の判断に支えられていたプロセス 私は現在、プロダクト基盤ユニット内で権限基盤チームのインプロセスQAとして活動しています。このチームでは、体制が変わり、複数の開発を並行して進めるなど、…]]></content>
+        <published>2026-08-31T00:59:24.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第403回：　「ALTM」17　（リスクベースドテストの技法）  | Kouichi Akiyama]]></title>
+        <id>https://note.com/akiyama924/n/n6030de41e49c</id>
+        <link href="https://note.com/akiyama924/n/n6030de41e49c"/>
+        <updated>2026-08-29T21:09:48.000Z</updated>
+        <summary type="html"><![CDATA[◀前の記事へ 次の記事へ▶︎続きをみる]]></summary>
+        <content type="html"><![CDATA[◀前の記事へ 次の記事へ▶︎続きをみる]]></content>
+        <published>2026-08-29T21:09:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIにテストを書かせると毎回同じ場所が抜ける理由と対策 | ソフトウェアテストタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/syun136_616/items/b8e94720d9259864b022</id>
+        <link href="https://qiita.com/syun136_616/items/b8e94720d9259864b022"/>
+        <updated>2026-08-29T03:38:07.000Z</updated>
+        <summary type="html"><![CDATA[この記事の要点AIにテストを書かせると、境界値・異常系・非同期処理・副作用の検証が毎回同じように抜けやすい傾向があります。原因は、AIが正常系の使われ方を推測してテストを組み立てるため、失敗パスや副作用の検証が後回しになりやすいことです。対策として、プロンプトに検証...]]></summary>
+        <content type="html"><![CDATA[この記事の要点AIにテストを書かせると、境界値・異常系・非同期処理・副作用の検証が毎回同じように抜けやすい傾向があります。原因は、AIが正常系の使われ方を推測してテストを組み立てるため、失敗パスや副作用の検証が後回しになりやすいことです。対策として、プロンプトに検証...]]></content>
+        <published>2026-08-29T03:38:07.000Z</published>
+    </entry>
+</feed>
