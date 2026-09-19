@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yoshikiito.github.io/test-qa-rss-feed/</id>
+    <title>テスト・QA関連ブログRSS</title>
+    <updated>2026-09-19T16:19:31.711Z</updated>
+    <generator>yoshikiito/test-qa-rss-feed</generator>
+    <link rel="alternate" href="https://yoshikiito.github.io/test-qa-rss-feed/"/>
+    <link rel="self" href="https://yoshikiito.github.io/test-qa-rss-feed/feeds/atom.xml"/>
+    <subtitle>企テスト・QA関連ブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://yoshikiito.github.io/test-qa-rss-feed/images/icon.png</logo>
+    <icon>https://yoshikiito.github.io/test-qa-rss-feed/images/favicon.ico</icon>
+    <rights>yoshikiito/test-qa-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[SRE への勘違いに気づいた後の話 | yuden]]></title>
+        <id>https://note.com/ydn_/n/nec734160fb82</id>
+        <link href="https://note.com/ydn_/n/nec734160fb82"/>
+        <updated>2026-09-19T08:16:09.000Z</updated>
+        <summary type="html"><![CDATA[先日、Tamachi.sre #6 で LT をしてきました。タイトルは「SRE への勘違いに気づいた後の話」です。 Tamachi.sre#6 (2026/09/17 19:05〜)# 開催概要 * 日時：2026/09/17 * 会場：株式会社ログラス オフィス * 参加費：無料 Tatamachi-sre.connpass.com 続きをみる]]></summary>
+        <content type="html"><![CDATA[先日、Tamachi.sre #6 で LT をしてきました。タイトルは「SRE への勘違いに気づいた後の話」です。 Tamachi.sre#6 (2026/09/17 19:05〜)# 開催概要 * 日時：2026/09/17 * 会場：株式会社ログラス オフィス * 参加費：無料 Tatamachi-sre.connpass.com 続きをみる]]></content>
+        <published>2026-09-19T08:16:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIがテストを書ける時代、「何をテストしないか」をどう決めるか | ソフトウェアテストタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/y0us91/items/61edde2960bd6cdbdfa9</id>
+        <link href="https://qiita.com/y0us91/items/61edde2960bd6cdbdfa9"/>
+        <updated>2026-09-19T07:41:57.000Z</updated>
+        <summary type="html"><![CDATA[Coding Agentに実装を任せていると、テストも簡単に増えていきます。コードを変更する。AIが変更に合わせてテストを書く。テストを実行してGreenになる。便利です。ただ、最近少し気になることがあります。そのテスト、本当に必要だったのだろうか。「変更し...]]></summary>
+        <content type="html"><![CDATA[Coding Agentに実装を任せていると、テストも簡単に増えていきます。コードを変更する。AIが変更に合わせてテストを書く。テストを実行してGreenになる。便利です。ただ、最近少し気になることがあります。そのテスト、本当に必要だったのだろうか。「変更し...]]></content>
+        <published>2026-09-19T07:41:57.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ClaudeCodeで品質を担保する仕組みを設計する — Hooks・CI・テストの役割分担 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/zenn_kado/articles/2ae20695cb1235</id>
+        <link href="https://zenn.dev/zenn_kado/articles/2ae20695cb1235"/>
+        <updated>2026-09-19T07:10:23.000Z</updated>
+        <summary type="html"><![CDATA[Hooksを使う理由CLAUDE.mdやSkillに書いた指示はお願いであって、強制ではない確実に実行されるのはHooksだけであるそのため、品質を担保するチェックは、確実に実行されるHooksに置くことを原則とした下記、各タイミングと実行、内容であるタイミング実行内容ファイル修正時Hookslint、typecheck、関連する単体テストコミット時Hooks単体テスト全体、結合テストマージ時CI]]></summary>
+        <content type="html"><![CDATA[Hooksを使う理由CLAUDE.mdやSkillに書いた指示はお願いであって、強制ではない確実に実行されるのはHooksだけであるそのため、品質を担保するチェックは、確実に実行されるHooksに置くことを原則とした下記、各タイミングと実行、内容であるタイミング実行内容ファイル修正時Hookslint、typecheck、関連する単体テストコミット時Hooks単体テスト全体、結合テストマージ時CI全テスト＋E2E 1.ファイル修正時のチェック（変更したファイルに関連する単体テストのみを実施）開発用ブランチでファイル修正...]]></content>
+        <author>
+            <name>kado</name>
+        </author>
+        <published>2026-09-19T07:10:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[非同期処理の品質を、どこで保証するか？ | ソフトウェアテストタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/y0us91/items/3a9595e3c1e1d5c74e9c</id>
+        <link href="https://qiita.com/y0us91/items/3a9595e3c1e1d5c74e9c"/>
+        <updated>2026-09-19T05:41:53.000Z</updated>
+        <summary type="html"><![CDATA[APIが 200 OK を返した。でも、その後ろで動く処理まで成功したとは限りません。非同期処理では、APIがリクエストを受け付けた後に、キューやワーカーを介して処理が続きます。例えば、こんな流れです。APIは「受け付けた」というところまでしか保証していません...]]></summary>
+        <content type="html"><![CDATA[APIが 200 OK を返した。でも、その後ろで動く処理まで成功したとは限りません。非同期処理では、APIがリクエストを受け付けた後に、キューやワーカーを介して処理が続きます。例えば、こんな流れです。APIは「受け付けた」というところまでしか保証していません...]]></content>
+        <published>2026-09-19T05:41:53.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIに営業プロセスを一周させた（7）API成功は視覚QAではない | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/scalar_sol_blog/articles/scalar-sales-ai-07-qa-delivery</id>
+        <link href="https://zenn.dev/scalar_sol_blog/articles/scalar-sales-ai-07-qa-delivery"/>
+        <updated>2026-09-19T04:54:09.000Z</updated>
+        <summary type="html"><![CDATA[最終回です。生成が成功したあとに何をしたか、という話をします。slide-forge の共通契約に、たった 1 行こう書かれています。API success is not visual QA.（API の成功は、視覚 QA ではない）この 1 行のために、今回 5 件の欠陥が見つかりました。 1. 検査は 2 段構えGate 1（オフライン）Gate 2（視覚 QA）いつ生成前生成後何を見る座標・]]></summary>
+        <content type="html"><![CDATA[最終回です。生成が成功したあとに何をしたか、という話をします。slide-forge の共通契約に、たった 1 行こう書かれています。API success is not visual QA.（API の成功は、視覚 QA ではない）この 1 行のために、今回 5 件の欠陥が見つかりました。 1. 検査は 2 段構えGate 1（オフライン）Gate 2（視覚 QA）いつ生成前生成後何を見る座標・文字量・重なりの計算サムネイル画像コストAPI を呼ばない（無料）画像を読むコマンド--dry-run --strict...]]></content>
+        <author>
+            <name>wfukatsu</name>
+        </author>
+        <published>2026-09-19T04:54:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テストケースの「十分性」を LLM に判定させる ── QA Gauge を作った理由と、最初の失敗 | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/lil_ikeda/articles/qa-gauge-01-llm-judges-test-sufficiency</id>
+        <link href="https://zenn.dev/lil_ikeda/articles/qa-gauge-01-llm-judges-test-sufficiency"/>
+        <updated>2026-09-19T04:54:00.000Z</updated>
+        <summary type="html"><![CDATA[テストケース群が「十分か」を判定する仕組みを作っています。社内では QA Gauge と呼んでいます。テストケースを生成する AI ではなく、提出されたテストケース群に過不足がないかを判定する AI です。まだ「委譲できた」とは言えない段階なので、この記事はその実況の 1 本目になります。一言でいうと、QA の「判断」を LLM に委譲できるか。判定器そのものより先に、判定結果を評価する仕組みを作]]></summary>
+        <content type="html"><![CDATA[テストケース群が「十分か」を判定する仕組みを作っています。社内では QA Gauge と呼んでいます。テストケースを生成する AI ではなく、提出されたテストケース群に過不足がないかを判定する AI です。まだ「委譲できた」とは言えない段階なので、この記事はその実況の 1 本目になります。一言でいうと、QA の「判断」を LLM に委譲できるか。判定器そのものより先に、判定結果を評価する仕組みを作っている、という話です。 なぜ作ろうと思ったかきっかけは、QA の関与が局所的になっていることでした。QA チームが見られるのは依頼された案件だけで、本当は全案件に関与したい。ですが ...]]></content>
+        <author>
+            <name>lil-ikeda</name>
+        </author>
+        <published>2026-09-19T04:54:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テストケースの「十分性」を LLM に判定させる ── QA Gauge を作った理由と、最初の失敗 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/lil_ikeda/articles/qa-gauge-01-llm-judges-test-sufficiency</id>
+        <link href="https://zenn.dev/lil_ikeda/articles/qa-gauge-01-llm-judges-test-sufficiency"/>
+        <updated>2026-09-19T04:54:00.000Z</updated>
+        <summary type="html"><![CDATA[テストケース群が「十分か」を判定する仕組みを作っています。社内では QA Gauge と呼んでいます。テストケースを生成する AI ではなく、提出されたテストケース群に過不足がないかを判定する AI です。まだ「委譲できた」とは言えない段階なので、この記事はその実況の 1 本目になります。一言でいうと、QA の「判断」を LLM に委譲できるか。判定器そのものより先に、判定結果を評価する仕組みを作]]></summary>
+        <content type="html"><![CDATA[テストケース群が「十分か」を判定する仕組みを作っています。社内では QA Gauge と呼んでいます。テストケースを生成する AI ではなく、提出されたテストケース群に過不足がないかを判定する AI です。まだ「委譲できた」とは言えない段階なので、この記事はその実況の 1 本目になります。一言でいうと、QA の「判断」を LLM に委譲できるか。判定器そのものより先に、判定結果を評価する仕組みを作っている、という話です。 なぜ作ろうと思ったかきっかけは、QA の関与が局所的になっていることでした。QA チームが見られるのは依頼された案件だけで、本当は全案件に関与したい。ですが ...]]></content>
+        <author>
+            <name>lil-ikeda</name>
+        </author>
+        <published>2026-09-19T04:54:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIサポートPoCの成功指標を事前に固定する — 重み付き評価ケースとLLMジャッジによる合否判定 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/jinno_ai/articles/poc-success-metrics</id>
+        <link href="https://zenn.dev/jinno_ai/articles/poc-success-metrics"/>
+        <updated>2026-09-18T11:07:09.000Z</updated>
+        <summary type="html"><![CDATA[生成AI製品のPoC (概念実証) の合否が「担当者の印象」で決まることがある。デモが雰囲気よく見えた、応答がそれっぽかった、で採用判断をしてしまう。この記事は、AIサポート (カスタマーサポート自動応答) のPoCの成功指標を開始前に固定し、重み付きの評価ケース通過率で合否を判定する測定設計の記録である。対象は、LLMの応答品質をPoCで判定したいエンジニアと評価担当。判定をLLMジャッジに委ね]]></summary>
+        <content type="html"><![CDATA[生成AI製品のPoC (概念実証) の合否が「担当者の印象」で決まることがある。デモが雰囲気よく見えた、応答がそれっぽかった、で採用判断をしてしまう。この記事は、AIサポート (カスタマーサポート自動応答) のPoCの成功指標を開始前に固定し、重み付きの評価ケース通過率で合否を判定する測定設計の記録である。対象は、LLMの応答品質をPoCで判定したいエンジニアと評価担当。判定をLLMジャッジに委ねる構成で、ジャッジ自身の出力もスキーマ検証する前提の話をする。検証日: 2026-09-03。評価対象は日本語のサポート応答、判定器はLLM + Valibot 1.4.2による出力検証。...]]></content>
+        <author>
+            <name>jinno_ai</name>
+        </author>
+        <published>2026-09-18T11:07:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乱数は直接参照しない | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/ushibutatory/articles/4624baa67a9acc</id>
+        <link href="https://zenn.dev/ushibutatory/articles/4624baa67a9acc"/>
+        <updated>2026-09-18T08:37:35.000Z</updated>
+        <summary type="html"><![CDATA[概要乱数はUnity標準のクラスが用意されていますが、各所で直接参照することはせず、インタフェース経由でアクセスするようにしています。直接参照インタフェース経由乱数アルゴリズムの変更面倒くさい実装クラスの改修、或いは差し替えで対応できる特定条件時のテスト相当難しいスタブで対応できる 準備乱数を使いたい処理が定義されているレイヤーにインタフェースを定義します。namespace MyGame.Dom]]></summary>
+        <content type="html"><![CDATA[概要乱数はUnity標準のクラスが用意されていますが、各所で直接参照することはせず、インタフェース経由でアクセスするようにしています。直接参照インタフェース経由乱数アルゴリズムの変更面倒くさい実装クラスの改修、或いは差し替えで対応できる特定条件時のテスト相当難しいスタブで対応できる 準備乱数を使いたい処理が定義されているレイヤーにインタフェースを定義します。namespace MyGame.Domain{ /// &amp;lt;summary&amp;gt; /// 乱数生成器のインターフェース /// &amp;lt;/su...]]></content>
+        <author>
+            <name>ushibutatory</name>
+        </author>
+        <published>2026-09-18T08:37:35.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIネイティブ開発は大規模でも同じQCDが出るのか — 決済移行を含む2週間の実測 | Zennの「品質」のフィード]]></title>
+        <id>https://zenn.dev/fixu/articles/ai-native-qcd-large-scale-two-weeks</id>
+        <link href="https://zenn.dev/fixu/articles/ai-native-qcd-large-scale-two-weeks"/>
+        <updated>2026-09-18T02:00:34.000Z</updated>
+        <summary type="html"><![CDATA[はじめに少し前に AIネイティブ開発でQCDはどう変わったか — 直近2週間を実測データで評価する という記事を書きました。人間中心の時代と比べて、AIが自走する体制で品質・コスト・納期がどう変わったかを、リリース記録と問い合わせ記録の突き合わせで評価したものです。その記事は、こんな問いで締めていました。現在こなしているのは不具合対応や画面高速化といった、比較的小規模で独立性の高いタスクが中心です]]></summary>
+        <content type="html"><![CDATA[はじめに少し前に AIネイティブ開発でQCDはどう変わったか — 直近2週間を実測データで評価する という記事を書きました。人間中心の時代と比べて、AIが自走する体制で品質・コスト・納期がどう変わったかを、リリース記録と問い合わせ記録の突き合わせで評価したものです。その記事は、こんな問いで締めていました。現在こなしているのは不具合対応や画面高速化といった、比較的小規模で独立性の高いタスクが中心です。この体制が大規模な機能開発——複数サービスを跨ぐ新機能や、数週間規模の設計を要する開発——でも同じQCDを出せるのか。 ここはまだ未知数です。本記事はその回答編です。あれから2...]]></content>
+        <author>
+            <name>fixU</name>
+        </author>
+        <published>2026-09-18T02:00:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PRのCI稼働時間を7割削減した話 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/innovation/articles/e84f8ccca8e6da</id>
+        <link href="https://zenn.dev/innovation/articles/e84f8ccca8e6da"/>
+        <updated>2026-09-18T00:00:07.000Z</updated>
+        <summary type="html"><![CDATA[はじめにイノベーション開発チームのkuniです！現在はITトレンドのリプレイスPJに従事しています。最近の開発ではAIエージェントに実装を任せることが多く、PRやテストコードが増えるようになりました。アウトプットが多くなった反面、CIの稼働時間が増えるという問題が発生しました。今回はCIの稼働時間を、CIの目的を維持したまま削減した話をしたいと思います。最終的にはCIの1runあたりの稼働時間を1]]></summary>
+        <content type="html"><![CDATA[はじめにイノベーション開発チームのkuniです！現在はITトレンドのリプレイスPJに従事しています。最近の開発ではAIエージェントに実装を任せることが多く、PRやテストコードが増えるようになりました。アウトプットが多くなった反面、CIの稼働時間が増えるという問題が発生しました。今回はCIの稼働時間を、CIの目的を維持したまま削減した話をしたいと思います。最終的にはCIの1runあたりの稼働時間を144分から39分（73%削減）にすることができました。この記事では、実際に行った3つの対応を紹介します。!記事に載せているコードは、要点だけを抜き出したものです。実際のコ...]]></content>
+        <author>
+            <name>kuni</name>
+        </author>
+        <published>2026-09-18T00:00:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[# LLMでテスト設計の意図や根拠を残すのが大事な理由 — 人間には作った本人に聞けるが、LLMは残さないと後付けの説明しか返ってこない | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/mumihatsu/articles/0f8e7dd20f1352</id>
+        <link href="https://zenn.dev/mumihatsu/articles/0f8e7dd20f1352"/>
+        <updated>2026-09-17T10:20:01.000Z</updated>
+        <summary type="html"><![CDATA[はじめにテストの根っこは、「なぜそのテストをするのか」の判断にあると考えています。技法を選ぶことも、値を決めることも、期待値を書くことも、その判断に続く作業です。LLMにテスト設計をさせると、テストケースは揃います。ところが、テストを選んだ理由は成果物から見えないことが多い。そしてレビューのためにコンテキスト（会話の履歴）を切ると、会話の中でだけ述べられていた理由は、レビューに届かなくなります。以]]></summary>
+        <content type="html"><![CDATA[はじめにテストの根っこは、「なぜそのテストをするのか」の判断にあると考えています。技法を選ぶことも、値を決めることも、期待値を書くことも、その判断に続く作業です。LLMにテスト設計をさせると、テストケースは揃います。ところが、テストを選んだ理由は成果物から見えないことが多い。そしてレビューのためにコンテキスト（会話の履歴）を切ると、会話の中でだけ述べられていた理由は、レビューに届かなくなります。以前の記事「生成AIにどう根拠を残させるか — ハルシネーション対策の話」の続きとして、この理由をどう残すかを書きます。 「なぜそのテストをするのか」が根っこである理由テストは全部...]]></content>
+        <author>
+            <name>りょうさん</name>
+        </author>
+        <published>2026-09-17T10:20:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[誤検出を避けるために書いた規則が、そのまま死角になっていた | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/quintetkit/articles/blind-spot-from-refusing-to-check</id>
+        <link href="https://zenn.dev/quintetkit/articles/blind-spot-from-refusing-to-check"/>
+        <updated>2026-09-17T09:10:43.000Z</updated>
+        <summary type="html"><![CDATA[設定ファイルの検査ツールを作っています。README の1画面目にこう書いてあります。指摘は、公式ドキュメントが「エラーになる」「スキップされる」「無視される」と明記しているものだけ。この方針の帰結として、あえて検査しないものの一覧があります。いちばん分かりやすいのはこれ。未知のキー。 公式が「スキーマは最新 CLI に遅れる」と明記しているので、検査すると新機能を使うたびに誤検出する。良い規則だ]]></summary>
+        <content type="html"><![CDATA[設定ファイルの検査ツールを作っています。README の1画面目にこう書いてあります。指摘は、公式ドキュメントが「エラーになる」「スキップされる」「無視される」と明記しているものだけ。この方針の帰結として、あえて検査しないものの一覧があります。いちばん分かりやすいのはこれ。未知のキー。 公式が「スキーマは最新 CLI に遅れる」と明記しているので、検査すると新機能を使うたびに誤検出する。良い規則だと思っています。いまも思っています。そしてこれが、自分の製品が4箇所で壊れた行を数日間配っていた理由です。 検査は通っていた有料ガイドに章を足そうとして、先に自分の製...]]></content>
+        <author>
+            <name>Quintet Kit</name>
+        </author>
+        <published>2026-09-17T09:10:43.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[テスト] テスト手順書の書き方 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/aew2sbee/articles/test-procedure-document</id>
+        <link href="https://zenn.dev/aew2sbee/articles/test-procedure-document"/>
+        <updated>2026-09-17T08:15:09.000Z</updated>
+        <summary type="html"><![CDATA[🌱 はじめに2026年8月27日に発売された『QAエンジニア入門 〜チームで品質を高める連携のしかた』（岩崎 駿 著）を読みました。テスト手順書の書き方について、誰にも教わることがなく「自分だけ分かればいいや」という手順書を作成しておりました。改めて再学習のために備忘録として残します。https://gihyo.jp/book/2026/978-4-297-15832-3「自分だけ分かればいいや」]]></summary>
+        <content type="html"><![CDATA[🌱 はじめに2026年8月27日に発売された『QAエンジニア入門 〜チームで品質を高める連携のしかた』（岩崎 駿 著）を読みました。テスト手順書の書き方について、誰にも教わることがなく「自分だけ分かればいいや」という手順書を作成しておりました。改めて再学習のために備忘録として残します。https://gihyo.jp/book/2026/978-4-297-15832-3「自分だけ分かればいいや」で書いた手順書は、次のような困り方をします。3か月後の自分が読んでも、どのアカウントで試したのか分からないレビュー時に「その手順で本当に不具合が再現するのか」を追えない他の...]]></content>
+        <author>
+            <name>ふるた</name>
+        </author>
+        <published>2026-09-17T08:15:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リアーキテクチャ後の障害ゼロを目指したShadow Testingの取り組み | nihonbuson]]></title>
+        <id>https://speakerdeck.com/nihonbuson/shadow-testing</id>
+        <link href="https://speakerdeck.com/nihonbuson/shadow-testing"/>
+        <updated>2026-09-17T04:00:00.000Z</updated>
+        <published>2026-09-17T04:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「たった今取得」を「最新データ」と表示しない：更新時刻UIの境界テスト | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/atlassystemtech/articles/33c863d520a15e</id>
+        <link href="https://zenn.dev/atlassystemtech/articles/33c863d520a15e"/>
+        <updated>2026-09-16T16:24:52.000Z</updated>
+        <summary type="html"><![CDATA[APIから応答を受け取った直後でも、その中身が最新とは限りません。キャッシュや集計処理を経たデータなら、「今取得した」と「今の状態を表している」は別の話です。この記事では、ダッシュボードの更新時刻を表示する小さな関数を作り、境界値を固定したテストで確かめます。対象はJavaScriptでAPIの取得結果を表示する開発者です。通信、ウォレット接続、外部ライブラリは使いません。 まず、何の時刻かを分け]]></summary>
+        <content type="html"><![CDATA[APIから応答を受け取った直後でも、その中身が最新とは限りません。キャッシュや集計処理を経たデータなら、「今取得した」と「今の状態を表している」は別の話です。この記事では、ダッシュボードの更新時刻を表示する小さな関数を作り、境界値を固定したテストで確かめます。対象はJavaScriptでAPIの取得結果を表示する開発者です。通信、ウォレット接続、外部ライブラリは使いません。 まず、何の時刻かを分ける同じ「更新時刻」というラベルに、次の値を混ぜないようにします。名前意味それだけでは分からないことreceivedAtMsこのクライアントが応答を受信した時刻デ...]]></content>
+        <author>
+            <name>Atlas System</name>
+        </author>
+        <published>2026-09-16T16:24:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Actions で Node.js プロジェクトの CI を構築する | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/akinori901/articles/20260911-plan033</id>
+        <link href="https://zenn.dev/akinori901/articles/20260911-plan033"/>
+        <updated>2026-09-16T06:52:51.000Z</updated>
+        <summary type="html"><![CDATA[GitHub Actions で Node.js プロジェクトの CI を構築する 概要Node.js プロジェクトに GitHub Actions で CI を導入し、「Pull Request を出したら自動で Lint・型チェック・テストが走る」状態をゼロから構築するハンズオンです。最小構成から始め、複数バージョンでのマトリクス実行、キャッシュによる高速化、必須チェック化まで段階的に進めます]]></summary>
+        <content type="html"><![CDATA[GitHub Actions で Node.js プロジェクトの CI を構築する 概要Node.js プロジェクトに GitHub Actions で CI を導入し、「Pull Request を出したら自動で Lint・型チェック・テストが走る」状態をゼロから構築するハンズオンです。最小構成から始め、複数バージョンでのマトリクス実行、キャッシュによる高速化、必須チェック化まで段階的に進めます。この記事のワークフローは、パブリックに公開されている GitHub Actions・npm の仕様のみに基づいています。 環境Node.js（LTS 系。この記事では Ac...]]></content>
+        <author>
+            <name>Akinori901</name>
+        </author>
+        <published>2026-09-16T06:52:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PoCで終わらせない最適化 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/kswr/books/opt_production</id>
+        <link href="https://zenn.dev/kswr/books/opt_production"/>
+        <updated>2026-09-16T05:22:55.000Z</updated>
+        <summary type="html"><![CDATA[PoCで動いた最適化モデルを、本番システムとして動かし続けるための本です。100行のシフト最適化PoCを題材に、モデルのテスト設計、入力データのバリデーション、実行不能の仕様化とシミュレーション評価、非同期API化と可観測性、解の説明責任・human-in-the-loop・ドリフト監視・効果検証までを扱います。求解だけで終わらせず、現場で使い続けられるシステムへ育てます。]]></summary>
+        <content type="html"><![CDATA[PoCで動いた最適化モデルを、本番システムとして動かし続けるための本です。100行のシフト最適化PoCを題材に、モデルのテスト設計、入力データのバリデーション、実行不能の仕様化とシミュレーション評価、非同期API化と可観測性、解の説明責任・human-in-the-loop・ドリフト監視・効果検証までを扱います。求解だけで終わらせず、現場で使い続けられるシステムへ育てます。]]></content>
+        <author>
+            <name>クテノポマ</name>
+        </author>
+        <published>2026-09-16T05:22:55.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仕様の考慮漏れをClaude Codeで洗い出す | QA視点による仕様策定フェーズでの不具合抑制 | QA - Yappli Tech Blog]]></title>
+        <id>https://tech.yappli.io/entry/create-qa-plan</id>
+        <link href="https://tech.yappli.io/entry/create-qa-plan"/>
+        <updated>2026-09-16T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、ヤプリでQAをしている今西(@TKNW_Hitsuji)です。 弊社ではQAフェーズになって考慮できていない仕様が見つかり、リリース後の後追い対応、場合によってはリリース遅延という状態になったことが過去数件ありました。 リリース後の振り返りで、それらほとんどは仕様策定のフェーズで発見・議論できていれば未然に防げた問題であったという結論が多く、どうにかできないかと悩んでいました。 そこで]]></summary>
+        <content type="html"><![CDATA[こんにちは、ヤプリでQAをしている今西(@TKNW_Hitsuji)です。 弊社ではQAフェーズになって考慮できていない仕様が見つかり、リリース後の後追い対応、場合によってはリリース遅延という状態になったことが過去数件ありました。 リリース後の振り返りで、それらほとんどは仕様策定のフェーズで発見・議論できていれば未然に防げた問題であったという結論が多く、どうにかできないかと悩んでいました。 そこで、仕様策定フェーズの段階で、QAフェーズの観点から内容を見て指摘・議論できれば先にあげたような状態は起きないはずという仮説を立てて、社内のQAナレッジリポジトリに、/create-test-plan …]]></content>
+        <published>2026-09-16T03:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIに「テストを書かせる」のをやめた｜QAプロセスごと渡して金銭系の大型施策を通した話と、その副作用 | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/rb_engineering/articles/08da796df3d58d</id>
+        <link href="https://zenn.dev/rb_engineering/articles/08da796df3d58d"/>
+        <updated>2026-09-16T02:22:18.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、d_arisan です。株式会社RebaseでQAとして参画しています。今回は、テスト設計のプロセスそのものをAIスキルとして組み立て、実務で回してみた話を書きたいと思います。うまくいった部分だけでなく、「半自動化したことで新しく発生した面倒」まで含めて共有できればと思います。3行サマリQA専任が少人数のまま複数プロダクトを見る限界がきて、QAプロセスごとAIスキルにした金銭の計算が絡]]></summary>
+        <content type="html"><![CDATA[こんにちは、d_arisan です。株式会社RebaseでQAとして参画しています。今回は、テスト設計のプロセスそのものをAIスキルとして組み立て、実務で回してみた話を書きたいと思います。うまくいった部分だけでなく、「半自動化したことで新しく発生した面倒」まで含めて共有できればと思います。3行サマリQA専任が少人数のまま複数プロダクトを見る限界がきて、QAプロセスごとAIスキルにした金銭の計算が絡む大規模施策を、リリース後の不具合報告なしで通せたただし検証コストは消えず、属人化は「スキルを書ける人が限られる」に置き換わっただけだったなお本記事は個人の実践記録で、参画先...]]></content>
+        <author>
+            <name>d_arisan</name>
+        </author>
+        <published>2026-09-16T02:22:18.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIに「テストを書かせる」のをやめた｜QAプロセスごと渡して金銭系の大型施策を通した話と、その副作用 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/rb_engineering/articles/08da796df3d58d</id>
+        <link href="https://zenn.dev/rb_engineering/articles/08da796df3d58d"/>
+        <updated>2026-09-16T02:22:18.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、d_arisan です。株式会社RebaseでQAとして参画しています。今回は、テスト設計のプロセスそのものをAIスキルとして組み立て、実務で回してみた話を書きたいと思います。うまくいった部分だけでなく、「半自動化したことで新しく発生した面倒」まで含めて共有できればと思います。3行サマリQA専任が少人数のまま複数プロダクトを見る限界がきて、QAプロセスごとAIスキルにした金銭の計算が絡]]></summary>
+        <content type="html"><![CDATA[こんにちは、d_arisan です。株式会社RebaseでQAとして参画しています。今回は、テスト設計のプロセスそのものをAIスキルとして組み立て、実務で回してみた話を書きたいと思います。うまくいった部分だけでなく、「半自動化したことで新しく発生した面倒」まで含めて共有できればと思います。3行サマリQA専任が少人数のまま複数プロダクトを見る限界がきて、QAプロセスごとAIスキルにした金銭の計算が絡む大規模施策を、リリース後の不具合報告なしで通せたただし検証コストは消えず、属人化は「スキルを書ける人が限られる」に置き換わっただけだったなお本記事は個人の実践記録で、参画先...]]></content>
+        <author>
+            <name>d_arisan</name>
+        </author>
+        <published>2026-09-16T02:22:18.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIのコードを工場で使う前の検証プロトコル——仕様トレース・机上トレース・独立レビュー | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/kensho_ya/articles/ai-code-factory-verification-protocol</id>
+        <link href="https://zenn.dev/kensho_ya/articles/ai-code-factory-verification-protocol"/>
+        <updated>2026-09-15T23:00:05.000Z</updated>
+        <summary type="html"><![CDATA[AIが書いたコードを、そのまま工場のラインに入れることはできない。Webのアプリなら、バグが出てもロールバックすれば済むことが多い。だがFAのコードは装置を物理的に動かす。誤動作は機械の破損や、最悪の場合は人の安全に関わる。だからAIに書かせるほど、検証の工程が重くなる。この記事では、自分がAI生成コードを実機に入れる前に通している検証の流れを書く。大きく3段あって、仕様トレース、机上トレース、独]]></summary>
+        <content type="html"><![CDATA[AIが書いたコードを、そのまま工場のラインに入れることはできない。Webのアプリなら、バグが出てもロールバックすれば済むことが多い。だがFAのコードは装置を物理的に動かす。誤動作は機械の破損や、最悪の場合は人の安全に関わる。だからAIに書かせるほど、検証の工程が重くなる。この記事では、自分がAI生成コードを実機に入れる前に通している検証の流れを書く。大きく3段あって、仕様トレース、机上トレース、独立レビューの順で絞り込んでいく。特別な道具はいらない。Claude Desktopの機能と、自分の目でできる範囲の話だ。 前提：生成しっぱなしにしないまず心構えとして、AIが出したコード...]]></content>
+        <author>
+            <name>検証屋</name>
+        </author>
+        <published>2026-09-15T23:00:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIエージェントの評価方法（AgentOps）を設計する時に調べた事と得られた知見 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/yymm/articles/20260915-agent-ops</id>
+        <link href="https://zenn.dev/yymm/articles/20260915-agent-ops"/>
+        <updated>2026-09-15T15:01:47.000Z</updated>
+        <summary type="html"><![CDATA[初めにどうも、某自社開発系の会社でエンジニアをしている者です。私は去年の年末ごろ、業務の方でAIエージェントが絡んだ機能の開発を担当していました。その際、AIエージェントの運用設計（AgentOps）、特にその中核となる「評価方法」についても設計する機会を頂けました。今でも勿論そうですが、当時は情報がかなり少なく自分でも一次情報を求めて奔走していました。この記事では、AgentOpsを設計する際に]]></summary>
+        <content type="html"><![CDATA[初めにどうも、某自社開発系の会社でエンジニアをしている者です。私は去年の年末ごろ、業務の方でAIエージェントが絡んだ機能の開発を担当していました。その際、AIエージェントの運用設計（AgentOps）、特にその中核となる「評価方法」についても設計する機会を頂けました。今でも勿論そうですが、当時は情報がかなり少なく自分でも一次情報を求めて奔走していました。この記事では、AgentOpsを設計する際に実際に調べた事やそこで得られた知見を備忘録的にまとめたいと思います。こういった0から1を考える際、生成AIに頼り切るのはまだ難しい現状があると思います。この記事では評価設計の知...]]></content>
+        <author>
+            <name>kouki_y</name>
+        </author>
+        <published>2026-09-15T15:01:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[テスト] 観点まとめ | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/aew2sbee/articles/test-perspectives</id>
+        <link href="https://zenn.dev/aew2sbee/articles/test-perspectives"/>
+        <updated>2026-09-15T12:53:20.000Z</updated>
+        <summary type="html"><![CDATA[🌱 はじめに2026年8月27日に発売された『QAエンジニア入門 〜チームで品質を高める連携のしかた』（岩崎 駿 著）を読みました。観点について綺麗にまとめられていたので、備忘録として残します。https://gihyo.jp/book/2026/978-4-297-15832-3本記事で言う「観点」は、テストで何を確認するかの切り口（テスト観点）を指します。説明が具体的になるよう、オンラインショ]]></summary>
+        <content type="html"><![CDATA[🌱 はじめに2026年8月27日に発売された『QAエンジニア入門 〜チームで品質を高める連携のしかた』（岩崎 駿 著）を読みました。観点について綺麗にまとめられていたので、備忘録として残します。https://gihyo.jp/book/2026/978-4-297-15832-3本記事で言う「観点」は、テストで何を確認するかの切り口（テスト観点）を指します。説明が具体的になるよう、オンラインショップ（商品を検索してカートに入れ、クーポンを使って購入するEC（電子商取引）サイト）を題材にします。!例文の - は観点が抜けた確認、+ は観点を踏まえた確認を表します例文...]]></content>
+        <author>
+            <name>ふるた</name>
+        </author>
+        <published>2026-09-15T12:53:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[テスト] 観点まとめ | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/aew2sbee/articles/test-perspectives</id>
+        <link href="https://zenn.dev/aew2sbee/articles/test-perspectives"/>
+        <updated>2026-09-15T12:53:20.000Z</updated>
+        <summary type="html"><![CDATA[🌱 はじめに2026年8月27日に発売された『QAエンジニア入門 〜チームで品質を高める連携のしかた』（岩崎 駿 著）を読みました。観点について綺麗にまとめられていたので、備忘録として残します。https://gihyo.jp/book/2026/978-4-297-15832-3本記事で言う「観点」は、テストで何を確認するかの切り口（テスト観点）を指します。説明が具体的になるよう、オンラインショ]]></summary>
+        <content type="html"><![CDATA[🌱 はじめに2026年8月27日に発売された『QAエンジニア入門 〜チームで品質を高める連携のしかた』（岩崎 駿 著）を読みました。観点について綺麗にまとめられていたので、備忘録として残します。https://gihyo.jp/book/2026/978-4-297-15832-3本記事で言う「観点」は、テストで何を確認するかの切り口（テスト観点）を指します。説明が具体的になるよう、オンラインショップ（商品を検索してカートに入れ、クーポンを使って購入するEC（電子商取引）サイト）を題材にします。!例文の - は観点が抜けた確認、+ は観点を踏まえた確認を表します例文...]]></content>
+        <author>
+            <name>ふるた</name>
+        </author>
+        <published>2026-09-15T12:53:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Search-Based Metamorphic Testing of Vision-Language Models in Autonomous Underwater Robotic Software | arXiv Query: search_query=all:"software testing"&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10]]></title>
+        <id>https://arxiv.org/abs/2609.17007v1</id>
+        <link href="https://arxiv.org/abs/2609.17007v1"/>
+        <updated>2026-09-15T11:19:57.000Z</updated>
+        <summary type="html"><![CDATA[Our industry partner focuses on quality assurance for industrial systems across multiple domains, including maritime systems, such as overwater vessels and autonomous underwater robots (AURs). Despite]]></summary>
+        <content type="html"><![CDATA[Our industry partner focuses on quality assurance for industrial systems across multiple domains, including maritime systems, such as overwater vessels and autonomous underwater robots (AURs). Despite the strong performance of vision-language models (VLMs) in scene understanding, image captioning, and object recognition, their use in AUR software operating in underwater environments is underexplored. Therefore, in this context, it is important to evaluate the quality of VLMs for integration into]]></content>
+        <published>2026-09-15T11:19:57.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テスト開始を待たない QA ー テスト以外でも価値を発揮するための実践例 | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/wn_engineering/articles/16d8ef255326fe</id>
+        <link href="https://zenn.dev/wn_engineering/articles/16d8ef255326fe"/>
+        <updated>2026-09-15T03:00:06.000Z</updated>
+        <summary type="html"><![CDATA[はじめにこんにちは。ウェルスナビで QA を担当している船場です。本記事では QA エンジニアが後工程のテストの実施以外でも品質向上に貢献した次の 3 つの取り組みについて紹介します。仕様共有のミーティングを「共同レビューの場」にするテストレベルごとの担当チームの振り分けテスト設計技法をチーム全員の仕様理解のために活用 想定読者テストの実施だけでなく、開発プロセスの改善にも関わりたい QA エンジ]]></summary>
+        <content type="html"><![CDATA[はじめにこんにちは。ウェルスナビで QA を担当している船場です。本記事では QA エンジニアが後工程のテストの実施以外でも品質向上に貢献した次の 3 つの取り組みについて紹介します。仕様共有のミーティングを「共同レビューの場」にするテストレベルごとの担当チームの振り分けテスト設計技法をチーム全員の仕様理解のために活用 想定読者テストの実施だけでなく、開発プロセスの改善にも関わりたい QA エンジニアシフトレフトに取り組みたいものの、具体的な始め方が分からない QA エンジニアQA チームと連携し、開発工程から品質を作り込む方法を検討しているエンジニア、P...]]></content>
+        <author>
+            <name>Funaba</name>
+        </author>
+        <published>2026-09-15T03:00:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テスト開始を待たない QA ー テスト以外でも価値を発揮するための実践例 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/wn_engineering/articles/16d8ef255326fe</id>
+        <link href="https://zenn.dev/wn_engineering/articles/16d8ef255326fe"/>
+        <updated>2026-09-15T03:00:06.000Z</updated>
+        <summary type="html"><![CDATA[はじめにこんにちは。ウェルスナビで QA を担当している船場です。本記事では QA エンジニアが後工程のテストの実施以外でも品質向上に貢献した次の 3 つの取り組みについて紹介します。仕様共有のミーティングを「共同レビューの場」にするテストレベルごとの担当チームの振り分けテスト設計技法をチーム全員の仕様理解のために活用 想定読者テストの実施だけでなく、開発プロセスの改善にも関わりたい QA エンジ]]></summary>
+        <content type="html"><![CDATA[はじめにこんにちは。ウェルスナビで QA を担当している船場です。本記事では QA エンジニアが後工程のテストの実施以外でも品質向上に貢献した次の 3 つの取り組みについて紹介します。仕様共有のミーティングを「共同レビューの場」にするテストレベルごとの担当チームの振り分けテスト設計技法をチーム全員の仕様理解のために活用 想定読者テストの実施だけでなく、開発プロセスの改善にも関わりたい QA エンジニアシフトレフトに取り組みたいものの、具体的な始め方が分からない QA エンジニアQA チームと連携し、開発工程から品質を作り込む方法を検討しているエンジニア、P...]]></content>
+        <author>
+            <name>Funaba</name>
+        </author>
+        <published>2026-09-15T03:00:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[チームの振る舞いをテストする - Ratcheting パターンで技術的負債解消の後戻りを防ぐ | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/herp_inc/articles/ratcheting-technical-debt</id>
+        <link href="https://zenn.dev/herp_inc/articles/ratcheting-technical-debt"/>
+        <updated>2026-09-15T02:45:05.000Z</updated>
+        <summary type="html"><![CDATA[借金は、返すこと以上に新たに借りないのが重要である。技術的負債でも同様で、解消が大変なことはもちろんだが、それ以上に解消したはずの負債が知らないうちに積み増されるのが一番キツい。誰かが地道に前に進めてくれているのに、別の誰かが悪気なく新たな負債を生みうる。また、一旦解消しても数年後に負債が復活することもある。AI コーディングの時代になって負債の解消は進めやすくなったが、確率的な手法に頼るかぎり、]]></summary>
+        <content type="html"><![CDATA[借金は、返すこと以上に新たに借りないのが重要である。技術的負債でも同様で、解消が大変なことはもちろんだが、それ以上に解消したはずの負債が知らないうちに積み増されるのが一番キツい。誰かが地道に前に進めてくれているのに、別の誰かが悪気なく新たな負債を生みうる。また、一旦解消しても数年後に負債が復活することもある。AI コーディングの時代になって負債の解消は進めやすくなったが、確率的な手法に頼るかぎり、負債が新たに生まれるリスクは避けきれない。これを防ぐため HERP Hire のコードベースでは、技術的負債の解消が後戻りしない「Ratcheting」と呼ばれる仕組みを入れてみた。...]]></content>
+        <author>
+            <name>mazamachi</name>
+        </author>
+        <published>2026-09-15T02:45:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IWC-Bench: Evaluating Web Application Generation from a Software Testing Perspective | arXiv Query: search_query=all:"software testing"&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10]]></title>
+        <id>https://arxiv.org/abs/2609.15387v2</id>
+        <link href="https://arxiv.org/abs/2609.15387v2"/>
+        <updated>2026-09-14T11:14:39.000Z</updated>
+        <summary type="html"><![CDATA[Human evaluation provides a direct measure of the quality of LLM-generated web applications. However, fitting human judgments through automated evaluation remains challenging. Static benchmarks can cr]]></summary>
+        <content type="html"><![CDATA[Human evaluation provides a direct measure of the quality of LLM-generated web applications. However, fitting human judgments through automated evaluation remains challenging. Static benchmarks can credit functionality that exists in source code but is unreachable at runtime. Interactive benchmarks exercise the application, yet incomplete exploration can cause them to miss implemented functionality and confound application defects with agent execution failures. To address these limitations, we p]]></content>
+        <published>2026-09-14T11:14:39.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フロントエンドカンファレンス福岡2026に参加してきました | pikazakipika]]></title>
+        <id>https://note.com/pika123/n/n6173ce659c9b</id>
+        <link href="https://note.com/pika123/n/n6173ce659c9b"/>
+        <updated>2026-09-14T08:50:15.000Z</updated>
+        <summary type="html"><![CDATA[フロントエンドカンファレンス福岡2026に参加した。2018年、2019年の開催から7年ぶりのオフライン開催で、会場は九州産業大学。自社がシルバースポンサーとしてブースを出すので、地元ということもあってブース対応要員として参加した。なので全部のセッションを聞けたわけではなかったが、合間に聞いた3つはどれも気づきがあってよかった。フロントエンドカンファレンス福岡は参加が初めてだったが、違う側面からテ]]></summary>
+        <content type="html"><![CDATA[フロントエンドカンファレンス福岡2026に参加した。2018年、2019年の開催から7年ぶりのオフライン開催で、会場は九州産業大学。自社がシルバースポンサーとしてブースを出すので、地元ということもあってブース対応要員として参加した。なので全部のセッションを聞けたわけではなかったが、合間に聞いた3つはどれも気づきがあってよかった。フロントエンドカンファレンス福岡は参加が初めてだったが、違う側面からテストを捉え直すことができていい機会だった。https://note.com/kaonavi_devs/n/n2d7ebe51b32b続きをみる]]></content>
+        <published>2026-09-14T08:50:15.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バグって言うな！不具合と言え！ | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/nugae/articles/00d5b969388742</id>
+        <link href="https://zenn.dev/nugae/articles/00d5b969388742"/>
+        <updated>2026-09-14T05:28:32.000Z</updated>
+        <summary type="html"><![CDATA[初心者 不具合 バグ テスト バグってなんだ？あなたがソフトウェアを使っていて、思ったように動いてくれない時がある。その時にバグだ！って思う人が多いだろうでも、バグは原因について踏み込んだ言葉なので、原因がわからない限り、バグという言葉は避けて「不具合」をつかえ。君が観測したのは、「自分が思っているように動作をしない挙動」であって、原因ではない。「バグ」と言うことにより、あなたは暗に原因はプログラ]]></summary>
+        <content type="html"><![CDATA[初心者 不具合 バグ テスト バグってなんだ？あなたがソフトウェアを使っていて、思ったように動いてくれない時がある。その時にバグだ！って思う人が多いだろうでも、バグは原因について踏み込んだ言葉なので、原因がわからない限り、バグという言葉は避けて「不具合」をつかえ。君が観測したのは、「自分が思っているように動作をしない挙動」であって、原因ではない。「バグ」と言うことにより、あなたは暗に原因はプログラマの責任と言ってしまっている。 では、料理だったらどうだろう？飲食店で、これは「不味い」というと料理人に喧嘩売ってるだろ？普通は「口に合わない」と言うものだ。 もっと客...]]></content>
+        <author>
+            <name>iscream</name>
+        </author>
+        <published>2026-09-14T05:28:32.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026_devsumi_ozono.pdf | O3(ozono)]]></title>
+        <id>https://speakerdeck.com/o3/2026-devsumi-ozono</id>
+        <link href="https://speakerdeck.com/o3/2026-devsumi-ozono"/>
+        <updated>2026-09-14T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[デブサミ福岡2026の登壇資料ですhttps://event.shoeisha.jp/devsumi/20260911/session/7157]]></summary>
+        <content type="html"><![CDATA[デブサミ福岡2026の登壇資料ですhttps://event.shoeisha.jp/devsumi/20260911/session/7157]]></content>
+        <published>2026-09-14T04:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Playwright MCPでAI生成テストコードはどう変わる？コード品質を比較してみた | テスト自動化メンバー｜日本ナレッジ株式会社]]></title>
+        <id>https://note.com/nkc_ta/n/nec9a7638f842</id>
+        <link href="https://note.com/nkc_ta/n/nec9a7638f842"/>
+        <updated>2026-09-14T00:25:45.000Z</updated>
+        <summary type="html"><![CDATA[はじめに続きをみる]]></summary>
+        <content type="html"><![CDATA[はじめに続きをみる]]></content>
+        <published>2026-09-14T00:25:45.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第305回 『頭が赤い魚を食べる猫 』日本語の曖昧さの話 &amp;amp; XP祭り現地参加レポ #テストラジオ | テストラジオ]]></title>
+        <id>https://testradio.fm/?p=1809</id>
+        <link href="https://testradio.fm/testradio-no/1809/"/>
+        <updated>2026-09-13T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今回はまずよしたけのXP祭り現地参加レポート。ずっとオンライン参加だっ …]]></summary>
+        <content type="html"><![CDATA[今回はまずよしたけのXP祭り現地参加レポート。ずっとオンライン参加だっ …]]></content>
+        <author>
+            <name>なそ＠さとうひろゆき</name>
+        </author>
+        <category label="なそ回"/>
+        <category label="よしたけ回"/>
+        <published>2026-09-13T23:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ゼロから構築！プロパティベーステストで堅牢なコードを導く | ソフトウェアテストタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/fd_ai_teacher/items/eedfdb420e8e27efada6</id>
+        <link href="https://qiita.com/fd_ai_teacher/items/eedfdb420e8e27efada6"/>
+        <updated>2026-09-13T17:00:59.000Z</updated>
+        <summary type="html"><![CDATA[多くのエンジニアが経験する「なぜか本番環境でだけ発生するバグ」や「テストでは見つけられなかったエッジケース」に、頭を抱えたことはありませんか？ 従来の例ベースのテストだけでは、開発者が想定しうるシナリオしかカバーできず、思わぬ入力パターンによって潜在的なバグが露呈することが...]]></summary>
+        <content type="html"><![CDATA[多くのエンジニアが経験する「なぜか本番環境でだけ発生するバグ」や「テストでは見つけられなかったエッジケース」に、頭を抱えたことはありませんか？ 従来の例ベースのテストだけでは、開発者が想定しうるシナリオしかカバーできず、思わぬ入力パターンによって潜在的なバグが露呈することが...]]></content>
+        <published>2026-09-13T17:00:59.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Laravelで複数DB接続のmigrateをProcess::poolで並列化する | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/orisend/articles/laravel-multiple-db-migrate-parallel</id>
+        <link href="https://zenn.dev/orisend/articles/laravel-multiple-db-migrate-parallel"/>
+        <updated>2026-09-13T13:01:48.000Z</updated>
+        <summary type="html"><![CDATA[!この記事のサンプルコードは以下のリポジトリにあります。https://github.com/st-man-hori/laravel-multiple-databases はじめにマルチテナントや外部システム連携などで、1つのLaravelアプリケーションが複数のDB接続を持つ構成になることがあると思います。こうした構成では、DB接続ごとに独立したmigrationディレクトリを持たせる方法があり]]></summary>
+        <content type="html"><![CDATA[!この記事のサンプルコードは以下のリポジトリにあります。https://github.com/st-man-hori/laravel-multiple-databases はじめにマルチテナントや外部システム連携などで、1つのLaravelアプリケーションが複数のDB接続を持つ構成になることがあると思います。こうした構成では、DB接続ごとに独立したmigrationディレクトリを持たせる方法がありますが、php artisan migrateはデフォルトでは接続を1つずつ順番にマイグレーションします。接続数が増えたり、1つ1つのマイグレーションが重かったりすると、この「直列...]]></content>
+        <author>
+            <name>st-man-hori</name>
+        </author>
+        <published>2026-09-13T13:01:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テスト設計チュートリアル2026でいただいた質問の補足 | Tsuyoshi Yumoto]]></title>
+        <id>https://note.com/yumotsuyo/n/nac22a05297ef</id>
+        <link href="https://note.com/yumotsuyo/n/nac22a05297ef"/>
+        <updated>2026-09-13T08:55:54.000Z</updated>
+        <summary type="html"><![CDATA[最近、テストを開発するプロセスの一連の流れを再確認する必要があり、2026年の5月に自分が話した、テスト設計チュートリアルの動画を聞き直しました。（AIエージェントのナレッジにこういうプロセスの定義をちゃんと追加した方が良いと思ったのでやってます） 続きをみる]]></summary>
+        <content type="html"><![CDATA[最近、テストを開発するプロセスの一連の流れを再確認する必要があり、2026年の5月に自分が話した、テスト設計チュートリアルの動画を聞き直しました。（AIエージェントのナレッジにこういうプロセスの定義をちゃんと追加した方が良いと思ったのでやってます） 続きをみる]]></content>
+        <published>2026-09-13T08:55:54.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[自分用メモ] pytest の骨格を理解したい | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/noah11/articles/d7248386582cc5</id>
+        <link href="https://zenn.dev/noah11/articles/d7248386582cc5"/>
+        <updated>2026-09-13T01:20:10.000Z</updated>
+        <summary type="html"><![CDATA[自分用のメモですAPI のテストフォルダを開くと、conftest.py と test_*.py が並んでいます。フィーチャーテストという言葉は聞いたことがあっても、いま見ているファイルが何のスタックの上で、何を書いて、何を通しているのかが先に揃っていないと、後半の fixture や yield が浮きます。この記事では、よくある API プロジェクトを架空の構成で置いたあと、フィーチャーテスト]]></summary>
+        <content type="html"><![CDATA[自分用のメモですAPI のテストフォルダを開くと、conftest.py と test_*.py が並んでいます。フィーチャーテストという言葉は聞いたことがあっても、いま見ているファイルが何のスタックの上で、何を書いて、何を通しているのかが先に揃っていないと、後半の fixture や yield が浮きます。この記事では、よくある API プロジェクトを架空の構成で置いたあと、フィーチャーテストの位置づけを整理し、pytest がそれをどう実行するかを人に渡せる粒度まで落とします。コードはすべて架空です。想定読了時間は 10〜15 分です。 前提：スタック、構成、書いている...]]></content>
+        <author>
+            <name>yusuken</name>
+        </author>
+        <published>2026-09-13T01:20:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コードレビューで毎回指摘するApexアンチパターン5つ──なぜ本番で爆発するのか | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/muranyanta/articles/sf-20260907-44c18b</id>
+        <link href="https://zenn.dev/muranyanta/articles/sf-20260907-44c18b"/>
+        <updated>2026-09-13T00:00:09.000Z</updated>
+        <summary type="html"><![CDATA[アンチパターンと本番障害は表裏一体結論から言うと、コードレビューで指摘される項目のほとんどは「可読性」や「お作法」の話ではありません。「これを放置すると本番でオンコールが鳴る」という話です。レビューを受ける側になると、指摘が細かく感じる瞬間がある。「動いてるのに何がダメなんだ」と。その感覚は、指摘の先にある障害シナリオが見えていないだけ、というケースがほとんど。逆に言えば、シナリオが見えていれば指]]></summary>
+        <content type="html"><![CDATA[アンチパターンと本番障害は表裏一体結論から言うと、コードレビューで指摘される項目のほとんどは「可読性」や「お作法」の話ではありません。「これを放置すると本番でオンコールが鳴る」という話です。レビューを受ける側になると、指摘が細かく感じる瞬間がある。「動いてるのに何がダメなんだ」と。その感覚は、指摘の先にある障害シナリオが見えていないだけ、というケースがほとんど。逆に言えば、シナリオが見えていれば指摘は納得できるし、次からは自分で気づけるようになる。ここで挙げる5つは、私がこれまで中規模（数百ユーザー）環境で実際にオンコール対応やデバッグで踏み抜いたものに絞っています。一般的なア...]]></content>
+        <author>
+            <name>むらん</name>
+        </author>
+        <published>2026-09-13T00:00:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第405回：　「ALTM」19　（プロジェクトテスト戦略 - イントロダクション）  | Kouichi Akiyama]]></title>
+        <id>https://note.com/akiyama924/n/n9d17a0b92bbf</id>
+        <link href="https://note.com/akiyama924/n/n9d17a0b92bbf"/>
+        <updated>2026-09-12T21:42:00.000Z</updated>
+        <summary type="html"><![CDATA[◀前の記事へ 次の記事へ▶︎続きをみる]]></summary>
+        <content type="html"><![CDATA[◀前の記事へ 次の記事へ▶︎続きをみる]]></content>
+        <published>2026-09-12T21:42:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[テスト] 良いbug Issueと悪いbug Issue | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/aew2sbee/articles/good-and-bad-bug-issues</id>
+        <link href="https://zenn.dev/aew2sbee/articles/good-and-bad-bug-issues"/>
+        <updated>2026-09-12T13:32:20.000Z</updated>
+        <summary type="html"><![CDATA[🌱 はじめに2026年8月27日に発売された『QAエンジニア入門 〜チームで品質を高める連携のしかた』（岩崎 駿 著）を読みました。bug Issueについて素敵な内容が書かれていたため、備忘録として残します。https://gihyo.jp/book/2026/978-4-297-15832-3自分のためではなく、チームのためのbug Issueだったのでまとめます。また、自分の経験も併せて記載]]></summary>
+        <content type="html"><![CDATA[🌱 はじめに2026年8月27日に発売された『QAエンジニア入門 〜チームで品質を高める連携のしかた』（岩崎 駿 著）を読みました。bug Issueについて素敵な内容が書かれていたため、備忘録として残します。https://gihyo.jp/book/2026/978-4-297-15832-3自分のためではなく、チームのためのbug Issueだったのでまとめます。また、自分の経験も併せて記載します。 🌱 結論bug Issueには、下記の要素があると良いと思います。!事象再現率再現手順実際の結果期待する結果環境情報ユーザー影響添付資料タイ...]]></content>
+        <author>
+            <name>ふるた</name>
+        </author>
+        <published>2026-09-12T13:32:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Self-Admitted Technical Debt Tested? An Empirical Study of Coverage, Co-change, and Impact | arXiv Query: search_query=all:"software testing"&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10]]></title>
+        <id>https://arxiv.org/abs/2609.13485v1</id>
+        <link href="https://arxiv.org/abs/2609.13485v1"/>
+        <updated>2026-09-11T19:53:47.000Z</updated>
+        <summary type="html"><![CDATA[When developers write a TODO or FIXME comment, they are explicitly admitting that the code is suboptimal: a built-in warning that this logic deserves extra scrutiny. Yet it is an open question whether]]></summary>
+        <content type="html"><![CDATA[When developers write a TODO or FIXME comment, they are explicitly admitting that the code is suboptimal: a built-in warning that this logic deserves extra scrutiny. Yet it is an open question whether Self-Admitted Technical Debt (SATD) actually receives that scrutiny in the form of software testing. We aim to characterize the relationship between SATD and testing across three dimensions: the extent to which SATD-affected code is covered by existing tests, whether developers synchronize test add]]></content>
+        <published>2026-09-11T19:53:47.000Z</published>
+    </entry>
+</feed>
