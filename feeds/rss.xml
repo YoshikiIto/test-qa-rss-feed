@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>テスト・QA関連ブログRSS</title>
+        <link>https://yoshikiito.github.io/test-qa-rss-feed/</link>
+        <description>企テスト・QA関連ブログの更新をまとめたRSSフィード</description>
+        <lastBuildDate>Sun, 11 Oct 2026 01:42:07 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>yoshikiito/test-qa-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>テスト・QA関連ブログRSS</title>
+            <url>https://yoshikiito.github.io/test-qa-rss-feed/images/icon.png</url>
+            <link>https://yoshikiito.github.io/test-qa-rss-feed/</link>
+        </image>
+        <copyright>yoshikiito/test-qa-rss-feed</copyright>
+        <atom:link href="https://yoshikiito.github.io/test-qa-rss-feed/feeds/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[第409回：　「ALTM」23　（テストプロセス改善: イントロダクション）  | Kouichi Akiyama]]></title>
+            <link>https://note.com/akiyama924/n/n17f2b41918f0</link>
+            <guid>https://note.com/akiyama924/n/n17f2b41918f0</guid>
+            <pubDate>Sat, 10 Oct 2026 22:12:07 GMT</pubDate>
+            <description><![CDATA[◀前の記事へ 次の記事へ▶︎続きをみる]]></description>
+            <content:encoded><![CDATA[◀前の記事へ 次の記事へ▶︎続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/321000030/rectangle_large_type_2_28cc1744e86cf99e956e098c47186ce0.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[AIが書いたコード、ビルドが通れば問題ないと思っていませんか？ | ソフトウェアテストタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/YuukiYoshida/items/ca4b49b847825f6971e2</link>
+            <guid>https://qiita.com/YuukiYoshida/items/ca4b49b847825f6971e2</guid>
+            <pubDate>Sat, 10 Oct 2026 10:16:51 GMT</pubDate>
+            <description><![CDATA[最近はAIを使ってコードを書く機会がかなり増えてきました。自分も日常的にAIを活用していますが、開発速度が上がった一方で、コードレビューの難しさは以前より増しているように感じています。というのも、AIが生成するコードは一見すると非常によくできているからです。命名も自然...]]></description>
+            <content:encoded><![CDATA[最近はAIを使ってコードを書く機会がかなり増えてきました。自分も日常的にAIを活用していますが、開発速度が上がった一方で、コードレビューの難しさは以前より増しているように感じています。というのも、AIが生成するコードは一見すると非常によくできているからです。命名も自然...]]></content:encoded>
+            <enclosure length="0" type="image/1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFtYXpvbmF3cy5jb20lMkYwJTJGMzU0NTIyJTJGcHJvZmlsZS1pbWFnZXMlMkYxNTQ5MjQzOTYwP2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz0wZjFjNTQ0Yjg1NzVjOTZiMDFlNGE2OGRiMWJlY2Q0Ng%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZlNWFkOGZiMGZmNDE4YmU2NzgzYTg5ZDBkNTM1ZTZmNTY1MjhmMDE4JTJGb3JpZ2luYWwuanBnJTNGMTY0NjEyNzYxNT9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz03Nzk3MDlkOGU1YTg3N2NjMjQwYTc1YTA4M2U2Yzc1NA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Dc610d4b8854fbcad359e6b38e26b6624" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFtYXpvbmF3cy5jb20lMkYwJTJGMzU0NTIyJTJGcHJvZmlsZS1pbWFnZXMlMkYxNTQ5MjQzOTYwP2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz0wZjFjNTQ0Yjg1NzVjOTZiMDFlNGE2OGRiMWJlY2Q0Ng%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZlNWFkOGZiMGZmNDE4YmU2NzgzYTg5ZDBkNTM1ZTZmNTY1MjhmMDE4JTJGb3JpZ2luYWwuanBnJTNGMTY0NjEyNzYxNT9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz03Nzk3MDlkOGU1YTg3N2NjMjQwYTc1YTA4M2U2Yzc1NA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Dc610d4b8854fbcad359e6b38e26b6624?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODElOEMlRTYlOUIlQjglRTMlODElODQlRTMlODElOUYlRTMlODIlQjMlRTMlODMlQkMlRTMlODMlODklRTMlODAlODElRTMlODMlOTMlRTMlODMlQUIlRTMlODMlODklRTMlODElOEMlRTklODAlOUElRTMlODIlOEMlRTMlODElQjAlRTUlOTUlOEYlRTklQTElOEMlRTMlODElQUElRTMlODElODQlRTMlODElQTglRTYlODAlOUQlRTMlODElQTMlRTMlODElQTYlRTMlODElODQlRTMlODElQkUlRTMlODElOUIlRTMlODIlOTMlRTMlODElOEIlRUYlQkMlOUYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1iYWZlNWQ0MjVlNzM1OTNlMDU4NDdiOTE2YWM2MjhkNQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBZdXVraVlvc2hpZGEmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0xNzhiNTkwZWViNzJmOTgzMjhlY2Q1NWExYjllZDY0Zg&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-SW5mcmVlZA&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=93f1771c182c55ecbc691487b11a5d3f"/>
+        </item>
+        <item>
+            <title><![CDATA[AIコーディングエージェントは「失敗から戻る時間」で測る | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/heftykoo/articles/c4866f6b416ea8</link>
+            <guid>https://zenn.dev/heftykoo/articles/c4866f6b416ea8</guid>
+            <pubDate>Sat, 10 Oct 2026 07:29:40 GMT</pubDate>
+            <description><![CDATA[テストが落ちた。通知を見て、エージェントが出したパッチを開く。差分を読み、テストをやり直す。パッチが数分でできても、この確認が済むまで開発者の作業は止まったままだ。Google社内のpre-submitテスト修復を扱ったFlowAgentのプレプリントには、失敗通知から開発者の次のコード編集まで中央値27.48分という観測値がある。手動評価では195件中131件の修正提案が正しく、正答率は67.1]]></description>
+            <content:encoded><![CDATA[テストが落ちた。通知を見て、エージェントが出したパッチを開く。差分を読み、テストをやり直す。パッチが数分でできても、この確認が済むまで開発者の作業は止まったままだ。Google社内のpre-submitテスト修復を扱ったFlowAgentのプレプリントには、失敗通知から開発者の次のコード編集まで中央値27.48分という観測値がある。手動評価では195件中131件の修正提案が正しく、正答率は67.18%。一方、エージェントが成功した修正を得るまでの中央値は9.85分と報告されている。ここで数字を足し引きして「これだけ時短した」とは言えない。27.48分は開発者側の次の編集までの観測であ...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--kR6nZRmM--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25AF%25E3%2580%258C%25E5%25A4%25B1%25E6%2595%2597%25E3%2581%258B%25E3%2582%2589%25E6%2588%25BB%25E3%2582%258B%25E6%2599%2582%25E9%2596%2593%25E3%2580%258D%25E3%2581%25A7%25E6%25B8%25AC%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:heftykoo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2UzMjg5NzNmZjUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[AIと書いた判定を、AIが書いた期待値ではなく、PHP本人の答えでテストしています | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/rapls/articles/949cf199a26b07</link>
+            <guid>https://zenn.dev/rapls/articles/949cf199a26b07</guid>
+            <pubDate>Sat, 10 Oct 2026 03:37:35 GMT</pubDate>
+            <description><![CDATA[テストの期待値は、誰が書いていますか。自作の WordPress プラグイン Rapls PDF Image Creator のコードは、ほとんど Claude と一緒に書いています。テストも同じです。そうすると、判定のコードと、その判定が正しいかを確かめる期待値を、同じ相手と同じ理解のまま書くことになります。理解がずれていれば、コードと期待値は同じ方向にずれて、テストは緑のままです。10月7日の]]></description>
+            <content:encoded><![CDATA[テストの期待値は、誰が書いていますか。自作の WordPress プラグイン Rapls PDF Image Creator のコードは、ほとんど Claude と一緒に書いています。テストも同じです。そうすると、判定のコードと、その判定が正しいかを確かめる期待値を、同じ相手と同じ理解のまま書くことになります。理解がずれていれば、コードと期待値は同じ方向にずれて、テストは緑のままです。10月7日の 1.4.25 で、それを避ける形のテストを1つ入れました。期待値を書くのをやめて、PHP 本人に答えさせています。 直したのは、disable_functions の読み方プラグイン...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--8Q3Iq16c--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25A8%25E6%259B%25B8%25E3%2581%2584%25E3%2581%259F%25E5%2588%25A4%25E5%25AE%259A%25E3%2582%2592%25E3%2580%2581AI%25E3%2581%258C%25E6%259B%25B8%25E3%2581%2584%25E3%2581%259F%25E6%259C%259F%25E5%25BE%2585%25E5%2580%25A4%25E3%2581%25A7%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%258F%25E3%2580%2581PHP%25E6%259C%25AC%25E4%25BA%25BA%25E3%2581%25AE%25E7%25AD%2594%25E3%2581%2588%25E3%2581%25A7%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%2597%25E3%2581%25A6%25E3%2581%2584%25E3%2581%25BE%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Rapls%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2RlODIyZTEyOWEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[結局、単体テストってどうやって書くの？ AIに任せても要件がぶれにくい書き方 | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/nozeon/articles/unit-test-minimum-understanding</link>
+            <guid>https://zenn.dev/nozeon/articles/unit-test-minimum-understanding</guid>
+            <pubDate>Sat, 10 Oct 2026 00:33:23 GMT</pubDate>
+            <description><![CDATA[AIエージェントを使った開発は楽だし、とにかく早いです。が、気づけば要件が増えていたり削れていたりということもしばしば。要件のズレを見つける手段の一つが単体テストで、ここさえ見ればOKとは言えませんが、いくらかの検出には役立つ実感があります。しかし正しい単体テストの設計や書き方ってなんなのか？ 改めて考えてみると割と雰囲気で押し切っている部分が個人的にはあります。というわけで、単体テストはどう書け]]></description>
+            <content:encoded><![CDATA[AIエージェントを使った開発は楽だし、とにかく早いです。が、気づけば要件が増えていたり削れていたりということもしばしば。要件のズレを見つける手段の一つが単体テストで、ここさえ見ればOKとは言えませんが、いくらかの検出には役立つ実感があります。しかし正しい単体テストの設計や書き方ってなんなのか？ 改めて考えてみると割と雰囲気で押し切っている部分が個人的にはあります。というわけで、単体テストはどう書けばよいのかを資料に当たりながら整理しよう。というのがこの記事の趣旨です。 単体テストとはどこまでを指すのか 「単体」に決まった定義はない単体テストの「単体」が何を指すのか、厳密な...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--z_OmFTuX--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%25B5%2590%25E5%25B1%2580%25E3%2580%2581%25E5%258D%2598%25E4%25BD%2593%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25A9%25E3%2581%2586%25E3%2582%2584%25E3%2581%25A3%25E3%2581%25A6%25E6%259B%25B8%25E3%2581%258F%25E3%2581%25AE%25EF%25BC%259F%2520AI%25E3%2581%25AB%25E4%25BB%25BB%25E3%2581%259B%25E3%2581%25A6%25E3%2582%2582%25E8%25A6%2581%25E4%25BB%25B6%25E3%2581%258C%25E3%2581%25B6%25E3%2582%258C%25E3%2581%25AB%25E3%2581%258F%25E3%2581%2584%25E6%259B%25B8%25E3%2581%258D%25E6%2596%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:nozeon%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSXZwRW5SaXlsbE5EZ1A4UWpIT3pwX3N2UXY5Q2pxM2NFTWM4UnZ4ZXFaVkQyaEdDWT1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[「儲かる理由がはっきりしている」3つの方法を調べたら、2つはもう取り尽くされていた | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/codecraft/articles/event-driven-edges-already-taken</link>
+            <guid>https://zenn.dev/codecraft/articles/event-driven-edges-already-taken</guid>
+            <pubDate>Fri, 09 Oct 2026 23:24:20 GMT</pubDate>
+            <description><![CDATA[日本株のBotを作っていて、値動きから次の値動きを当てる戦略を200通り以上試しましたが、どれも基準を通りませんでした。そこで狩り場を変えることにしました。値動きを当てるのではなく、「決まっている出来事」で稼ぐ方法です。日経平均の銘柄入れ替え: 採用された銘柄は、決まった日に指数連動の資金が必ず買うTOB(株式公開買付): 買付価格が決まっていて、市場価格との差を取る株主優待クロス: 現物買いと信]]></description>
+            <content:encoded><![CDATA[日本株のBotを作っていて、値動きから次の値動きを当てる戦略を200通り以上試しましたが、どれも基準を通りませんでした。そこで狩り場を変えることにしました。値動きを当てるのではなく、「決まっている出来事」で稼ぐ方法です。日経平均の銘柄入れ替え: 採用された銘柄は、決まった日に指数連動の資金が必ず買うTOB(株式公開買付): 買付価格が決まっていて、市場価格との差を取る株主優待クロス: 現物買いと信用売りを同時に入れて、値動きのリスクなしに優待だけを受け取るどれも「なぜ儲かるのか」の理由がはっきりしています。実弾は入れず、過去のデータで調べました。結論を先に書くと、理由が...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--yYA_hQik--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258C%25E5%2584%25B2%25E3%2581%258B%25E3%2582%258B%25E7%2590%2586%25E7%2594%25B1%25E3%2581%258C%25E3%2581%25AF%25E3%2581%25A3%25E3%2581%258D%25E3%2582%258A%25E3%2581%2597%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B%25E3%2580%258D3%25E3%2581%25A4%25E3%2581%25AE%25E6%2596%25B9%25E6%25B3%2595%25E3%2582%2592%25E8%25AA%25BF%25E3%2581%25B9%25E3%2581%259F%25E3%2582%2589%25E3%2580%25812%25E3%2581%25A4%25E3%2581%25AF%25E3%2582%2582%25E3%2581%2586%25E5%258F%2596%25E3%2582%258A%25E5%25B0%25BD%25E3%2581%258F%25E3%2581%2595%25E3%2582%258C%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:CodeCraft%25EF%25BD%259C%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25A0%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2I3NThjMWQ2NjUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[起票する前に、重複バグを見つけよう | Zennの「QA」のフィード]]></title>
+            <link>https://zenn.dev/bugitdev/articles/dbfa1909be1dec</link>
+            <guid>https://zenn.dev/bugitdev/articles/dbfa1909be1dec</guid>
+            <pubDate>Fri, 09 Oct 2026 19:44:16 GMT</pubDate>
+            <description><![CDATA[ログイン画面のバグを例に考えてみます。月曜日にテスターが「ログインのスピナーが回り続ける」と書きました。火曜日にはサポート担当が「パスワード画面の後でサインインできない」と書きました。水曜日には開発者が、トークン更新のタイムアウトに触れた3件目の報告を見つけました。チケットは3件、担当者は3人、バグは1つです。それぞれのチケットが答えの一部を持っています。1件目には手順があり、2件目には待っている]]></description>
+            <content:encoded><![CDATA[ログイン画面のバグを例に考えてみます。月曜日にテスターが「ログインのスピナーが回り続ける」と書きました。火曜日にはサポート担当が「パスワード画面の後でサインインできない」と書きました。水曜日には開発者が、トークン更新のタイムアウトに触れた3件目の報告を見つけました。チケットは3件、担当者は3人、バグは1つです。それぞれのチケットが答えの一部を持っています。1件目には手順があり、2件目には待っているお客様がいて、3件目にはログがあります。全体像を誰も見られないまま、同じ問題を誰かが3回トリアージすることになります。重複は不注意の表れではありません。違う人が同じことを違う言葉で表現すると...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--JhLm-Mk5--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%25B5%25B7%25E7%25A5%25A8%25E3%2581%2599%25E3%2582%258B%25E5%2589%258D%25E3%2581%25AB%25E3%2580%2581%25E9%2587%258D%25E8%25A4%2587%25E3%2583%2590%25E3%2582%25B0%25E3%2582%2592%25E8%25A6%258B%25E3%2581%25A4%25E3%2581%2591%25E3%2582%2588%25E3%2581%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:BugIt%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvYi5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[テスト記事 | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/kokeshi_gnome/articles/104b1a96566716</link>
+            <guid>https://zenn.dev/kokeshi_gnome/articles/104b1a96566716</guid>
+            <pubDate>Fri, 09 Oct 2026 14:59:02 GMT</pubDate>
+            <description><![CDATA[この記事についてZenn + GitHub + VS code で作成した、テスト用の記事です。]]></description>
+            <content:encoded><![CDATA[この記事についてZenn + GitHub + VS code で作成した、テスト用の記事です。]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--FUNE6cxR--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_66:%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E8%25A8%2598%25E4%25BA%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2593%25E3%2581%2591%25E3%2581%2597%25E3%2581%25AE%25E5%25A6%2596%25E7%25B2%25BE%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSThONENaeHJpR21HMjU5WW91YWxuRHZnaFVtcEt5RW5aWjdZNVpGU1Q3ei1uZFFBPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[ffmpeg 1コマンドで10分動画を1枚画像にして、AIに検品させる | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/anikuma/articles/ffmpeg-contact-sheet-review</link>
+            <guid>https://zenn.dev/anikuma/articles/ffmpeg-contact-sheet-review</guid>
+            <pubDate>Fri, 09 Oct 2026 09:03:49 GMT</pubDate>
+            <description><![CDATA[AIに動画を量産させ始めて、すぐに壁に当たった。検品だ。10分の動画を2本、毎回通しで見ていたら20分かかる。かといって見ないと、「背景が数分間真っ黒」のような、機械チェックをすり抜ける見た目の事故を出荷してしまう。結論から書くと、ffmpegのコンタクトシート（一定間隔のフレームをタイル状に並べた1枚画像）を作り、それをマルチモーダルなAIに見せる方法で、10分動画の目視相当の検品が1〜2分で終]]></description>
+            <content:encoded><![CDATA[AIに動画を量産させ始めて、すぐに壁に当たった。検品だ。10分の動画を2本、毎回通しで見ていたら20分かかる。かといって見ないと、「背景が数分間真っ黒」のような、機械チェックをすり抜ける見た目の事故を出荷してしまう。結論から書くと、ffmpegのコンタクトシート（一定間隔のフレームをタイル状に並べた1枚画像）を作り、それをマルチモーダルなAIに見せる方法で、10分動画の目視相当の検品が1〜2分で終わるようになった。かかるのはffmpegコマンド1回と、画像1枚ぶんの推論だけだ。 コマンドはこれだけffmpeg -i input.mp4 \ -vf "fps=1/5,scal...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--wusKz42s--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:ffmpeg%25201%25E3%2582%25B3%25E3%2583%259E%25E3%2583%25B3%25E3%2583%2589%25E3%2581%25A710%25E5%2588%2586%25E5%258B%2595%25E7%2594%25BB%25E3%2582%25921%25E6%259E%259A%25E7%2594%25BB%25E5%2583%258F%25E3%2581%25AB%25E3%2581%2597%25E3%2581%25A6%25E3%2580%2581AI%25E3%2581%25AB%25E6%25A4%259C%25E5%2593%2581%25E3%2581%2595%25E3%2581%259B%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25A2%25E3%2583%258B%25E3%2582%25AF%25E3%2583%259E%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkyN2ZjOWVkMTQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[動かしても見つからない穴は、読んで探す。AIが書いたコードで最初に見る3か所 | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/ritsuhayase/articles/049a2f6659e777</link>
+            <guid>https://zenn.dev/ritsuhayase/articles/049a2f6659e777</guid>
+            <pubDate>Fri, 09 Oct 2026 04:15:01 GMT</pubDate>
+            <description><![CDATA[以前、「AIに書かせたコードは、読まずに6つ試すだけでかなりの穴が見つかる」という記事を書きました。https://zenn.dev/ritsuhayase/articles/ab8e0c9f2dd66eただ、試すだけでは見つからない穴もあります。手元の回線が速い、相手のサーバーが元気、テストが緑。この条件がそろっていると、何度動かしても問題は出てきません。そういう穴は、コードの決まった場所を読み]]></description>
+            <content:encoded><![CDATA[以前、「AIに書かせたコードは、読まずに6つ試すだけでかなりの穴が見つかる」という記事を書きました。https://zenn.dev/ritsuhayase/articles/ab8e0c9f2dd66eただ、試すだけでは見つからない穴もあります。手元の回線が速い、相手のサーバーが元気、テストが緑。この条件がそろっていると、何度動かしても問題は出てきません。そういう穴は、コードの決まった場所を読みに行くほうが早く見つかります。この記事では、その場所を3つに絞って出します。どれも検索1回で該当箇所に飛べます。載せた出力は、すべて実際に実行して採取したものです（Windows 10 ...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--nPf0UDXh--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%258B%2595%25E3%2581%258B%25E3%2581%2597%25E3%2581%25A6%25E3%2582%2582%25E8%25A6%258B%25E3%2581%25A4%25E3%2581%258B%25E3%2582%2589%25E3%2581%25AA%25E3%2581%2584%25E7%25A9%25B4%25E3%2581%25AF%25E3%2580%2581%25E8%25AA%25AD%25E3%2582%2593%25E3%2581%25A7%25E6%258E%25A2%25E3%2581%2599%25E3%2580%2582AI%25E3%2581%258C%25E6%259B%25B8%25E3%2581%2584%25E3%2581%259F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2581%25A7%25E6%259C%2580%25E5%2588%259D%25E3%2581%25AB%25E8%25A6%258B%25E3%2582%258B3%25E3%2581%258B%25E6%2589%2580%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E6%2597%25A9%25E7%2580%25AC%2520%25E5%25BE%258B%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzU0MDM2NTE1ZTguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[ローカルLLMが1文も答えていないのに、精度テストは満点だった | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/gzer0/articles/local-llm-fallback-hides-context-overflow</link>
+            <guid>https://zenn.dev/gzer0/articles/local-llm-fallback-hides-context-overflow</guid>
+            <pubDate>Fri, 09 Oct 2026 03:18:25 GMT</pubDate>
+            <description><![CDATA[TL;DRローカルLLMの解釈に失敗したときは、キーワードで判定する規則パーサに切り替える作りにしていました。そして精度を測るベンチも、同じ規則パーサの出力を正解として使っていました。この組み合わせだと、LLMが1文も答えていなくてもベンチは満点になります。切り替え先の答えと正解が、同じものから出てくるからです。実際にfew-shotを1例足したところ、プロンプトが文脈長の1024トークンを超え、]]></description>
+            <content:encoded><![CDATA[TL;DRローカルLLMの解釈に失敗したときは、キーワードで判定する規則パーサに切り替える作りにしていました。そして精度を測るベンチも、同じ規則パーサの出力を正解として使っていました。この組み合わせだと、LLMが1文も答えていなくてもベンチは満点になります。切り替え先の答えと正解が、同じものから出てくるからです。実際にfew-shotを1例足したところ、プロンプトが文脈長の1024トークンを超え、すべての入力が規則パーサに回っていました。そのあいだもベンチは16/16を示していて、異変に気づけたのは、本番と同じ経路を通すスモークテストが落ちたからでした。 日本語の指示をJSO...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--PntPGopC--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25ABLLM%25E3%2581%258C1%25E6%2596%2587%25E3%2582%2582%25E7%25AD%2594%25E3%2581%2588%25E3%2581%25A6%25E3%2581%2584%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25AE%25E3%2581%25AB%25E3%2580%2581%25E7%25B2%25BE%25E5%25BA%25A6%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AF%25E6%25BA%2580%25E7%2582%25B9%25E3%2581%25A0%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:gzer0%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhmYjY3ZGI4ZGUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[agent-browserとPlaywrightで、探索と検証を分ける | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/gyu07/articles/cb07e6d4a8ed81</link>
+            <guid>https://zenn.dev/gyu07/articles/cb07e6d4a8ed81</guid>
+            <pubDate>Fri, 09 Oct 2026 02:07:12 GMT</pubDate>
+            <description><![CDATA[!本記事は、dev.toに公開した"Why agent-browser and Playwright Work So Well Together"を日本語向けに一部再構成したものです。最近UIの評価フローにagent-browserを導入することがあります。通常のE2Eテストは、操作経路が決まっている場面で有効です。await page.getByRole("button", { name: "S]]></description>
+            <content:encoded><![CDATA[!本記事は、dev.toに公開した"Why agent-browser and Playwright Work So Well Together"を日本語向けに一部再構成したものです。最近UIの評価フローにagent-browserを導入することがあります。通常のE2Eテストは、操作経路が決まっている場面で有効です。await page.getByRole("button", { name: "Settings" }).click();await expect( page.getByRole("dialog", { name: "Settings" })).toBeV...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--4ly63cH8--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:agent-browser%25E3%2581%25A8Playwright%25E3%2581%25A7%25E3%2580%2581%25E6%258E%25A2%25E7%25B4%25A2%25E3%2581%25A8%25E6%25A4%259C%25E8%25A8%25BC%25E3%2582%2592%25E5%2588%2586%25E3%2581%2591%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E9%2581%25A0%25E8%2597%25A4%2520%25E5%25B4%2587%25E5%258F%25B2%2520Takafumi%2520End...%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkzZGI0NjUwYzQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[CloudflareのGoogle OAuthが失敗した原因はfetchのredirect指定だった | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/jisaku_net/articles/cloudflare-oauth-fetch-redirect-manual</link>
+            <guid>https://zenn.dev/jisaku_net/articles/cloudflare-oauth-fetch-redirect-manual</guid>
+            <pubDate>Thu, 08 Oct 2026 20:27:24 GMT</pubDate>
+            <description><![CDATA[「場所メモ」は、行きたい場所の候補と訪問履歴を分けて残す、自分用のWebアプリです。現在は開発中で、本番には未公開です。端末間で記録を同期するため、Cloudflare Pages FunctionsにGoogleサインインを実装しました。ところが、Googleの画面から戻ったあとに認証が失敗します。Nodeで通っていたテストでは、この問題を拾えていませんでした。修正したのは、トークン取得と署名検]]></description>
+            <content:encoded><![CDATA[「場所メモ」は、行きたい場所の候補と訪問履歴を分けて残す、自分用のWebアプリです。現在は開発中で、本番には未公開です。端末間で記録を同期するため、Cloudflare Pages FunctionsにGoogleサインインを実装しました。ところが、Googleの画面から戻ったあとに認証が失敗します。Nodeで通っていたテストでは、この問題を拾えていませんでした。修正したのは、トークン取得と署名検証用の公開鍵取得に指定していた redirect: 'error' です。workerdで使える manual に変え、3xx応答を受けたら処理を止めるようにしました。 通信エラーの表示...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--BH187J0N--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Cloudflare%25E3%2581%25AEGoogle%2520OAuth%25E3%2581%258C%25E5%25A4%25B1%25E6%2595%2597%25E3%2581%2597%25E3%2581%259F%25E5%258E%259F%25E5%259B%25A0%25E3%2581%25AFfetch%25E3%2581%25AEredirect%25E6%258C%2587%25E5%25AE%259A%25E3%2581%25A0%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E4%25BD%2595%25E3%2581%25A7%25E3%2582%2582%25E8%2587%25AA%25E4%25BD%259C%25E3%2581%2599%25E3%2582%258B%25E4%25BA%25BA%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZkYTc3MDIzMjguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[テスト | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/pgm/articles/db37ecf6c9996a</link>
+            <guid>https://zenn.dev/pgm/articles/db37ecf6c9996a</guid>
+            <pubDate>Thu, 08 Oct 2026 09:38:11 GMT</pubDate>
+            <description><![CDATA[test]]></description>
+            <content:encoded><![CDATA[test]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--eGXFKXLJ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_76:%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:PENTAGRAM%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hyeF9ZSU05RlJXM1B3ckVNNm44dk85TUFfTUkwMmZQR3k5RU93MVE9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[JSTQB（ソフトウェアテスト技術者資格認定組織）、Advanced Level シラバス 日本語版 テスト自動化エンジニア Version 2.0 を公開 | 特定非営利活動法人ソフトウェアテスト技術振興協会【プレスリリース】 by PR TIMES]]></title>
+            <link>https://prtimes.jp/main/html/rd/p/000000059.000054604.html</link>
+            <guid>https://prtimes.jp/main/html/rd/p/000000059.000054604.html</guid>
+            <pubDate>Thu, 08 Oct 2026 05:00:01 GMT</pubDate>
+            <description><![CDATA[[特定非営利活動法人ソフトウェアテスト技術振興協会]JSTQB（ソフトウェアテスト技術者資格認定組織）は、2026 年 10 月 7 日（水）に Advanced Level シラバス 日本語版 テスト自動化エンジニア（CTAL-TAE）の最新版、Version 2.0を公開しました。本シラバスは、テ...]]></description>
+            <content:encoded><![CDATA[[特定非営利活動法人ソフトウェアテスト技術振興協会]JSTQB（ソフトウェアテスト技術者資格認定組織）は、2026 年 10 月 7 日（水）に Advanced Level シラバス 日本語版 テスト自動化エンジニア（CTAL-TAE）の最新版、Version 2.0を公開しました。本シラバスは、テ...]]></content:encoded>
+            <enclosure length="0" type="image/jpeg" height="630" url="https://prcdn.freetls.fastly.net/release_image/54604/59/54604-59-e04877dc7574227099b7ced88b9c45df-775x340.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260" width="1200"/>
+        </item>
+        <item>
+            <title><![CDATA[A User-Triggered UAV Dispatching System for Precise and Timely Mountain Search Missions | arXiv Query: search_query=all:"software testing"&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10]]></title>
+            <link>https://arxiv.org/abs/2610.11130v1</link>
+            <guid>https://arxiv.org/abs/2610.11130v1</guid>
+            <pubDate>Thu, 08 Oct 2026 02:56:49 GMT</pubDate>
+            <description><![CDATA[Smartphones carried by hikers routinely record routes, locations, and requests for assistance, and these records can provide precise clues for mountain search. However, they are rarely transformed in ]]></description>
+            <content:encoded><![CDATA[Smartphones carried by hikers routinely record routes, locations, and requests for assistance, and these records can provide precise clues for mountain search. However, they are rarely transformed in a direct and timely way into unmanned aerial vehicle (UAV) missions that support search and rescue. This paper presents a user-triggered UAV dispatching system that integrates mobile information collection, ground station mission management, and UAV search into a single workflow. In our system, a mo]]></content:encoded>
+            <enclosure length="0" type="png" height="700" url="https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png" width="1200" alt="arXiv logo"/>
+        </item>
+        <item>
+            <title><![CDATA[Bugbash改め『デモ会』へ。CSメンバーが参加するようになって変わったこと | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/aldagram_tech/articles/b34049a1af68ec</link>
+            <guid>https://zenn.dev/aldagram_tech/articles/b34049a1af68ec</guid>
+            <pubDate>Thu, 08 Oct 2026 00:30:05 GMT</pubDate>
+            <description><![CDATA[こんにちは！アルダグラムでQAエンジニアをしているshige_sです。2024年から取り組んでいる「Bugbash」について、以前こちらの記事でご紹介しました。https://zenn.dev/aldagram_tech/articles/7f4f7e5a1f3b97あれから2年以上が経ち、このイベントは今では開発プロセスに欠かせないものとして定着しています。今回は、今年7月から新たに加わった変化]]></description>
+            <content:encoded><![CDATA[こんにちは！アルダグラムでQAエンジニアをしているshige_sです。2024年から取り組んでいる「Bugbash」について、以前こちらの記事でご紹介しました。https://zenn.dev/aldagram_tech/articles/7f4f7e5a1f3b97あれから2年以上が経ち、このイベントは今では開発プロセスに欠かせないものとして定着しています。今回は、今年7月から新たに加わった変化と、それにあわせて変更したイベント名「デモ会」についてご紹介します。 これまでの参加メンバーこれまでBugbashに参加してもらっていたのは、以下のような開発に近いメンバーでした。...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--0bVqXne2--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Bugbash%25E6%2594%25B9%25E3%2582%2581%25E3%2580%258E%25E3%2583%2587%25E3%2583%25A2%25E4%25BC%259A%25E3%2580%258F%25E3%2581%25B8%25E3%2580%2582CS%25E3%2583%25A1%25E3%2583%25B3%25E3%2583%2590%25E3%2583%25BC%25E3%2581%258C%25E5%258F%2582%25E5%258A%25A0%25E3%2581%2599%25E3%2582%258B%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%25A6%25E5%25A4%2589%25E3%2582%258F%25E3%2581%25A3%25E3%2581%259F%25E3%2581%2593%25E3%2581%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:shige_s%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JiM2FkMDk1NzUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25A2%25E3%2583%25AB%25E3%2583%2580%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A0%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSWMyb1FQaWVwWm1zTzgtMXU1SlpBclgzUWswbi1rYjBOZlRGeV9TR25GPXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[Bugbash改め『デモ会』へ。CSメンバーが参加するようになって変わったこと | Zennの「QA」のフィード]]></title>
+            <link>https://zenn.dev/aldagram_tech/articles/b34049a1af68ec</link>
+            <guid>https://zenn.dev/aldagram_tech/articles/b34049a1af68ec</guid>
+            <pubDate>Thu, 08 Oct 2026 00:30:05 GMT</pubDate>
+            <description><![CDATA[こんにちは！アルダグラムでQAエンジニアをしているshige_sです。2024年から取り組んでいる「Bugbash」について、以前こちらの記事でご紹介しました。https://zenn.dev/aldagram_tech/articles/7f4f7e5a1f3b97あれから2年以上が経ち、このイベントは今では開発プロセスに欠かせないものとして定着しています。今回は、今年7月から新たに加わった変化]]></description>
+            <content:encoded><![CDATA[こんにちは！アルダグラムでQAエンジニアをしているshige_sです。2024年から取り組んでいる「Bugbash」について、以前こちらの記事でご紹介しました。https://zenn.dev/aldagram_tech/articles/7f4f7e5a1f3b97あれから2年以上が経ち、このイベントは今では開発プロセスに欠かせないものとして定着しています。今回は、今年7月から新たに加わった変化と、それにあわせて変更したイベント名「デモ会」についてご紹介します。 これまでの参加メンバーこれまでBugbashに参加してもらっていたのは、以下のような開発に近いメンバーでした。...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--0bVqXne2--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Bugbash%25E6%2594%25B9%25E3%2582%2581%25E3%2580%258E%25E3%2583%2587%25E3%2583%25A2%25E4%25BC%259A%25E3%2580%258F%25E3%2581%25B8%25E3%2580%2582CS%25E3%2583%25A1%25E3%2583%25B3%25E3%2583%2590%25E3%2583%25BC%25E3%2581%258C%25E5%258F%2582%25E5%258A%25A0%25E3%2581%2599%25E3%2582%258B%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%25A6%25E5%25A4%2589%25E3%2582%258F%25E3%2581%25A3%25E3%2581%259F%25E3%2581%2593%25E3%2581%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:shige_s%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JiM2FkMDk1NzUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25A2%25E3%2583%25AB%25E3%2583%2580%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A0%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSWMyb1FQaWVwWm1zTzgtMXU1SlpBclgzUWswbi1rYjBOZlRGeV9TR25GPXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[245秒待って、あと2秒足りずに落ちた | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/sutokei/articles/wait-two-seconds-short</link>
+            <guid>https://zenn.dev/sutokei/articles/wait-two-seconds-short</guid>
+            <pubDate>Wed, 07 Oct 2026 23:00:05 GMT</pubDate>
+            <description><![CDATA[全国20都市・435館の公共図書館で「いまどの本が貸出中か」を毎朝数えるシステムを個人で動かしています。データはカーリルの図書館APIから取っていて、仕組みは別の記事に書きました。このAPIには 1,000書籍リクエスト/時 の上限があります。観測は 284冊 × 20自治体 = 5,680リクエスト/日 なので、1時間に1バッチずつ、7回に分けて夜中から朝にかけて流しています。先日、そのうちの1]]></description>
+            <content:encoded><![CDATA[全国20都市・435館の公共図書館で「いまどの本が貸出中か」を毎朝数えるシステムを個人で動かしています。データはカーリルの図書館APIから取っていて、仕組みは別の記事に書きました。このAPIには 1,000書籍リクエスト/時 の上限があります。観測は 284冊 × 20自治体 = 5,680リクエスト/日 なので、1時間に1バッチずつ、7回に分けて夜中から朝にかけて流しています。先日、そのうちの1バッチが 2秒足りずに死にました。 朝7時の通知🚨 異常: 当日の観測が公開基準を満たしません影響: ランキングと記事の生成を停止公開のゲートは「欠測が1件でもあったら止める」にし...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--7tvZtHm0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:245%25E7%25A7%2592%25E5%25BE%2585%25E3%2581%25A3%25E3%2581%25A6%25E3%2580%2581%25E3%2581%2582%25E3%2581%25A82%25E7%25A7%2592%25E8%25B6%25B3%25E3%2582%258A%25E3%2581%259A%25E3%2581%25AB%25E8%2590%25BD%25E3%2581%25A1%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2599%25E3%2581%2585%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzU5ODc1YjlhMDUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[MemoCare: An Interactive Multimodal Mobile System for Automated Cognitive Screening | arXiv Query: search_query=all:"software testing"&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10]]></title>
+            <link>https://arxiv.org/abs/2610.10448v1</link>
+            <guid>https://arxiv.org/abs/2610.10448v1</guid>
+            <pubDate>Wed, 07 Oct 2026 17:19:46 GMT</pubDate>
+            <description><![CDATA[MemoCare is an interactive mobile system for automated multimodal cognitive screening. A React Native application combines spoken responses, temporal and spatial orientation, touchscreen actions, and ]]></description>
+            <content:encoded><![CDATA[MemoCare is an interactive mobile system for automated multimodal cognitive screening. A React Native application combines spoken responses, temporal and spatial orientation, touchscreen actions, and visuoconstruction in complete English and Vietnamese workflows. Speech is transcribed by Google Speech-to-Text and scored locally with deterministic task-specific natural language processing rules; GPS coordinates are resolved by the MemoCare spatial module before answer matching; touch tasks are sc]]></content:encoded>
+            <enclosure length="0" type="png" height="700" url="https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png" width="1200" alt="arXiv logo"/>
+        </item>
+        <item>
+            <title><![CDATA[入会手続きが止まった本番事故 — 同じ計算を 3 か所に持ち、片側だけ直した代償 | Zennの「品質」のフィード]]></title>
+            <link>https://zenn.dev/fixu/articles/duplicated-pricing-logic-signup-stopped-incident</link>
+            <guid>https://zenn.dev/fixu/articles/duplicated-pricing-logic-signup-stopped-incident</guid>
+            <pubDate>Wed, 07 Oct 2026 11:18:34 GMT</pubDate>
+            <description><![CDATA[はじめに以前 AIネイティブ開発でQCDはどう変わったか — 直近2週間を実測データで評価する で、不具合の発生率を実測し、「不具合が頻発して見える主因は発生率の悪化ではなく検出率の向上と分母の増加だった」と書きました。その記事の最後に「検出率が上がった状態が定常化すれば、次は発生率そのものを下げるフェーズに入る」とも書いています。こうした事象がどの程度の頻度で起きるのかは、1 件ごとの振り返りを]]></description>
+            <content:encoded><![CDATA[はじめに以前 AIネイティブ開発でQCDはどう変わったか — 直近2週間を実測データで評価する で、不具合の発生率を実測し、「不具合が頻発して見える主因は発生率の悪化ではなく検出率の向上と分母の増加だった」と書きました。その記事の最後に「検出率が上がった状態が定常化すれば、次は発生率そのものを下げるフェーズに入る」とも書いています。こうした事象がどの程度の頻度で起きるのかは、1 件ごとの振り返りを積み重ねないと分かりません。検証と改善を続けながら、結果を良いものも悪いものも正直に公開していくつもりです。その具体的な事案として、少し前に 犯人のいない本番事故 — AI レビューも ...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--WIOpsPtY--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%2585%25A5%25E4%25BC%259A%25E6%2589%258B%25E7%25B6%259A%25E3%2581%258D%25E3%2581%258C%25E6%25AD%25A2%25E3%2581%25BE%25E3%2581%25A3%25E3%2581%259F%25E6%259C%25AC%25E7%2595%25AA%25E4%25BA%258B%25E6%2595%2585%2520%25E2%2580%2594%2520%25E5%2590%258C%25E3%2581%2598%25E8%25A8%2588%25E7%25AE%2597%25E3%2582%2592%25203%2520%25E3%2581%258B%25E6%2589%2580%25E3%2581%25AB%25E6%258C%2581%25E3%2581%25A1%25E3%2580%2581%25E7%2589%2587%25E5%2581%25B4%25E3%2581%25A0%25E3%2581%2591%25E7%259B%25B4%25E3%2581%2597%25E3%2581%259F%25E4%25BB%25A3%25E5%2584%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:fixU%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzIwZWJiNTRiY2UuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[LocalStackを活用したAWSインフラの統合テスト | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/inflab/articles/927ba40fedd02e</link>
+            <guid>https://zenn.dev/inflab/articles/927ba40fedd02e</guid>
+            <pubDate>Wed, 07 Oct 2026 09:51:01 GMT</pubDate>
+            <description><![CDATA[こんにちは。Inflabでバックエンド開発を担当しているINTです。私は最近オープンした採用サービスRallitのプロジェクトに参加しました。既存のInflearnのサービスとは異なるスタックと環境で開発されており、その過程で多くの試行錯誤と検討を重ねました。本記事では、その中からAWSサービスを使うロジックの統合テストのために localstack を導入した過程を共有したいと思います。 統合テ]]></description>
+            <content:encoded><![CDATA[こんにちは。Inflabでバックエンド開発を担当しているINTです。私は最近オープンした採用サービスRallitのプロジェクトに参加しました。既存のInflearnのサービスとは異なるスタックと環境で開発されており、その過程で多くの試行錯誤と検討を重ねました。本記事では、その中からAWSサービスを使うロジックの統合テストのために localstack を導入した過程を共有したいと思います。 統合テスト私たちは、正しく動作するきれいなコードのためにテストを書きます。テストは依存関係の有無によって、大きく3種類に分けられます。e2eintegrationunit本記...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s---hCts-fv--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:LocalStack%25E3%2582%2592%25E6%25B4%25BB%25E7%2594%25A8%25E3%2581%2597%25E3%2581%259FAWS%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2595%25E3%2583%25A9%25E3%2581%25AE%25E7%25B5%25B1%25E5%2590%2588%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Inflab%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzliZWU4OWFiZmIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[AIが書いたコードは「β版」：設計書から実装・単体テストまでをエージェントに任せる仕組み | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/shoyomayabot/articles/ai-coding-beta-quality-gates</link>
+            <guid>https://zenn.dev/shoyomayabot/articles/ai-coding-beta-quality-gates</guid>
+            <pubDate>Wed, 07 Oct 2026 08:51:50 GMT</pubDate>
+            <description><![CDATA[AIにコードを書かせると、驚くほど速く形になります。一方で、「本当に設計書どおり？」「テストは意味のあることを確かめている？」という不安も残ります。この記事では、設計書（Markdown）からSpring Bootのバッチ・APIのコードと単体テストをAIに作らせ、機械のチェックと人のレビューで品質を担保する仕組みを紹介します。実物は ai-coding リポジトリで公開しています。サンプルの業務]]></description>
+            <content:encoded><![CDATA[AIにコードを書かせると、驚くほど速く形になります。一方で、「本当に設計書どおり？」「テストは意味のあることを確かめている？」という不安も残ります。この記事では、設計書（Markdown）からSpring Bootのバッチ・APIのコードと単体テストをAIに作らせ、機械のチェックと人のレビューで品質を担保する仕組みを紹介します。実物は ai-coding リポジトリで公開しています。サンプルの業務（会員・注文）とIDは、すべて架空です。 前提：AIの生成物は「β版」この仕組みでは、最初に立場をはっきりさせています。AI（GitHub Copilot のエージェント）は、設計書...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--C8nO46US--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%258C%25E6%259B%25B8%25E3%2581%2584%25E3%2581%259F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2581%25AF%25E3%2580%258C%25CE%25B2%25E7%2589%2588%25E3%2580%258D%25EF%25BC%259A%25E8%25A8%25AD%25E8%25A8%2588%25E6%259B%25B8%25E3%2581%258B%25E3%2582%2589%25E5%25AE%259F%25E8%25A3%2585%25E3%2583%25BB%25E5%258D%2598%25E4%25BD%2593%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25BE%25E3%2581%25A7%25E3%2582%2592%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25AB%25E4%25BB%25BB%25E3%2581%259B%25E3%2582%258B%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mayabot%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2Rhcmsvcy5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[RLSが壊れてもテストは緑のまま。漏れても気づけない非公開データを、pgTAPで「落ちるテスト」にする | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/tzp/articles/db03567f248575</link>
+            <guid>https://zenn.dev/tzp/articles/db03567f248575</guid>
+            <pubDate>Wed, 07 Oct 2026 05:49:11 GMT</pubDate>
+            <description><![CDATA[はじめに🤔「RLS のポリシー、ちゃんと効いているかどうやって確かめよう…」😥「テストは通っているけど、本当に守れているのか自信がない…」🫠「そもそも、データが漏れていたら気づけるんだろうか…？」RLS（Row Level Security）は、書くこと自体はそれほど難しくありません。難しいのは、書いたルールが正しく効き続けているかを確かめることです。個人開発している口コミサービス あじぴた には]]></description>
+            <content:encoded><![CDATA[はじめに🤔「RLS のポリシー、ちゃんと効いているかどうやって確かめよう…」😥「テストは通っているけど、本当に守れているのか自信がない…」🫠「そもそも、データが漏れていたら気づけるんだろうか…？」RLS（Row Level Security）は、書くこと自体はそれほど難しくありません。難しいのは、書いたルールが正しく効き続けているかを確かめることです。個人開発している口コミサービス あじぴた には、本人以外には絶対に見せてはいけないデータがあります🔒そして、このデータが漏れても、エラーは 1 つも出ません。この記事では、そういうデータを守るためにRLS のテスト...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--TWtoqT7f--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:RLS%25E3%2581%258C%25E5%25A3%258A%25E3%2582%258C%25E3%2581%25A6%25E3%2582%2582%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AF%25E7%25B7%2591%25E3%2581%25AE%25E3%2581%25BE%25E3%2581%25BE%25E3%2580%2582%25E6%25BC%258F%25E3%2582%258C%25E3%2581%25A6%25E3%2582%2582%25E6%25B0%2597%25E3%2581%25A5%25E3%2581%2591%25E3%2581%25AA%25E3%2581%2584%25E9%259D%259E%25E5%2585%25AC%25E9%2596%258B%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2582%2592%25E3%2580%2581pgTAP%25E3%2581%25A7%25E3%2580%258C%25E8%2590%25BD%25E3%2581%25A1%25E3%2582%258B%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2580%258D%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25A6%25E3%2581%25A5%25E3%2581%25A3%25E3%2581%25B4%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZiM2RjNzM1M2YuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[AIが書いたコード、テストは通るのに危険でした：Jestでデータ混入を見つける | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/yatsumi823/articles/testing-ai-generated-code-with-jest</link>
+            <guid>https://zenn.dev/yatsumi823/articles/testing-ai-generated-code-with-jest</guid>
+            <pubDate>Tue, 06 Oct 2026 14:08:30 GMT</pubDate>
+            <description><![CDATA[はじめにAIに「注文をCSVで出力する関数を作って」と頼んだとします。返ってきたコードは読みやすく、サンプルデータでも正しいCSVを出力します。それでも、実際の仕様に合っているとは限りません。この記事では、別テナントの注文がCSVに混ざるという、正常系だけでは見落としやすいバグをJestのテストで見つけます。AIが生成したという想定の実装を使いますが、同じ方法は人が書いたコードにも使えます。Jes]]></description>
+            <content:encoded><![CDATA[はじめにAIに「注文をCSVで出力する関数を作って」と頼んだとします。返ってきたコードは読みやすく、サンプルデータでも正しいCSVを出力します。それでも、実際の仕様に合っているとは限りません。この記事では、別テナントの注文がCSVに混ざるという、正常系だけでは見落としやすいバグをJestのテストで見つけます。AIが生成したという想定の実装を使いますが、同じ方法は人が書いたコードにも使えます。Jestの導入や基本構文から確認したい方は、別記事「Jestの使い方を基礎から学ぶ」も参照してください。!この記事の結論は、AI生成コードには大量のテストが必要ということではありません...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--A09rh0sx--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%258C%25E6%259B%25B8%25E3%2581%2584%25E3%2581%259F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2580%2581%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AF%25E9%2580%259A%25E3%2582%258B%25E3%2581%25AE%25E3%2581%25AB%25E5%258D%25B1%25E9%2599%25BA%25E3%2581%25A7%25E3%2581%2597%25E3%2581%259F%25EF%25BC%259AJest%25E3%2581%25A7%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E6%25B7%25B7%25E5%2585%25A5%25E3%2582%2592%25E8%25A6%258B%25E3%2581%25A4%25E3%2581%2591%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:YATSUM%2521%2528%25E3%2582%2584%25E3%2581%25A4%25E3%2581%25BF%2529%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQ0ZjE0NzZhY2MuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[プログラミングが好きな、すべてのエンジニアへ（もっと良くなる日本のIT vol.4） | SHIFT EVOLVE グループの新着イベント]]></title>
+            <link>https://shiftevolve.connpass.com/event/408225/</link>
+            <guid>https://shiftevolve.connpass.com/event/408225/</guid>
+            <pubDate>Tue, 06 Oct 2026 08:58:24 GMT</pubDate>
+            <description><![CDATA[開催日時: 2026/11/05 19:00 ～ 20:30&amp;lt;br /&amp;gt;開催場所: 港区麻布台1-3-1(麻布台ヒルズ森JPタワー)&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;h2&amp;gt;プログラミングが好きな、すべてのエンジニアへ（もっと良くなる日本のIT vol.4）&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;SHIFTの技術顧問川口耕介氏による対談企画。お相手は川口氏が自ら選出！&amp;lt;br&amp;gt;アメリカで最先端の技術を開発し活躍してきた彼が思う、日本]]></description>
+            <content:encoded><![CDATA[開催日時: 2026/11/05 19:00 ～ 20:30&amp;lt;br /&amp;gt;開催場所: 港区麻布台1-3-1(麻布台ヒルズ森JPタワー)&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;h2&amp;gt;プログラミングが好きな、すべてのエンジニアへ（もっと良くなる日本のIT vol.4）&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;SHIFTの技術顧問川口耕介氏による対談企画。お相手は川口氏が自ら選出！&amp;lt;br&amp;gt;アメリカで最先端の技術を開発し活躍してきた彼が思う、日本のITの未来とは。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;今回は、Rubyコミッターとして世界的に知られるSTORES株式会社 フェローの笹田耕一氏をゲストにお迎えします。 &amp;lt;br&amp;gt;Rubyの処理速度を劇的に向上させた仮想マシンYARVを開発し、世界中の開発者を支え続ける笹田氏と、継続的インテグレーションツールJenkinsを開発し、ソフトウェア開発の現場に革命を起こした川口耕介氏。 &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;世界のソフトウェア開発現場に絶大な影響を与えてきたお二人が、AI時代におけるOSSとエンジニアの未来について語り合います。経済合理性を超えてなぜ私たちは創り続けるのか、エンジニアの本質に迫ります。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;本イベントは、]]></content:encoded>
+            <enclosure length="0" type="png" url="https://media.connpass.com/thumbs/ab/d3/abd3750463e40dfd62b8434c6d6cb9d1.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Swiftで全体の最新20件を選び、表示フィルターと分けて扱う | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/deskferryguides/articles/30ad7beb68b462</link>
+            <guid>https://zenn.dev/deskferryguides/articles/30ad7beb68b462</guid>
+            <pubDate>Tue, 06 Oct 2026 04:01:41 GMT</pubDate>
+            <description><![CDATA[履歴の一覧に「最新 N 件」という条件を付けるときは、何を数えるかを最初に決めておくと境界のテストを作りやすくなります。ここでは、種類をまたぐ一つの履歴から最新20件の ID を決め、その後で画像だけを表示する、小さな Swift モデルを作ります。Deskferry チームの開発メモとして、AI の支援を受けて執筆し、コードと参照資料を確認しました。以下のコードは人工データだけで実行しました。D]]></description>
+            <content:encoded><![CDATA[履歴の一覧に「最新 N 件」という条件を付けるときは、何を数えるかを最初に決めておくと境界のテストを作りやすくなります。ここでは、種類をまたぐ一つの履歴から最新20件の ID を決め、その後で画像だけを表示する、小さな Swift モデルを作ります。Deskferry チームの開発メモとして、AI の支援を受けて執筆し、コードと参照資料を確認しました。以下のコードは人工データだけで実行しました。Deskferry の本番コードを抜き出したものではなく、アプリの実機検証も含みません。 1. 入力は「同じ時点の全履歴」にそろえるこのモデルの入力契約は次のとおりです。notes ...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--3ujn2fts--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Swift%25E3%2581%25A7%25E5%2585%25A8%25E4%25BD%2593%25E3%2581%25AE%25E6%259C%2580%25E6%2596%25B020%25E4%25BB%25B6%25E3%2582%2592%25E9%2581%25B8%25E3%2581%25B3%25E3%2580%2581%25E8%25A1%25A8%25E7%25A4%25BA%25E3%2583%2595%25E3%2582%25A3%25E3%2583%25AB%25E3%2582%25BF%25E3%2583%25BC%25E3%2581%25A8%25E5%2588%2586%25E3%2581%2591%25E3%2581%25A6%25E6%2589%25B1%25E3%2581%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:rex%2520tayor%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS0owSF9LaFBEM2UyOUFzUkpubnFoVTg0bkFIUzJOZFk5LWRvTTFMNTM2bXdfZEJYST1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[dotsに複数工程を任せる開発の型 取り決めと1回の承認と独立レビュー | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/ishizakahiroshi/articles/20261005-dots-dev-flow</link>
+            <guid>https://zenn.dev/ishizakahiroshi/articles/20261005-dots-dev-flow</guid>
+            <pubDate>Tue, 06 Oct 2026 01:50:24 GMT</pubDate>
+            <description><![CDATA[この記事自体もdotsが執筆しています。事実整理・独立検収・公開は手元の担当です。前作の「ChatGPTとClaudeからSlack経由でdotsに指示を出す仕組み」では、AIへの依頼を渡し、結果を受け取る入口を作りました。案件番号を付け、GitHubの固定commitに指示書を置き、進捗は看板のPROGRESS.mdで追います。Slackの同じ会話で受付と報告をつなぎ、独立レビューと手元の検収で]]></description>
+            <content:encoded><![CDATA[この記事自体もdotsが執筆しています。事実整理・独立検収・公開は手元の担当です。前作の「ChatGPTとClaudeからSlack経由でdotsに指示を出す仕組み」では、AIへの依頼を渡し、結果を受け取る入口を作りました。案件番号を付け、GitHubの固定commitに指示書を置き、進捗は看板のPROGRESS.mdで追います。Slackの同じ会話で受付と報告をつなぎ、独立レビューと手元の検収で受け取る仕組みです。今回はその仕組みで、作り直し途中のDesklyに載せる機能を開発しました。複数工程を最初の1回の承認で任せるには何を決める必要があるか、CIが成功した後に何を見るかを、...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--hBLrpIpF--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:dots%25E3%2581%25AB%25E8%25A4%2587%25E6%2595%25B0%25E5%25B7%25A5%25E7%25A8%258B%25E3%2582%2592%25E4%25BB%25BB%25E3%2581%259B%25E3%2582%258B%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25AE%25E5%259E%258B%2520%25E5%258F%2596%25E3%2582%258A%25E6%25B1%25BA%25E3%2582%2581%25E3%2581%25A81%25E5%259B%259E%25E3%2581%25AE%25E6%2589%25BF%25E8%25AA%258D%25E3%2581%25A8%25E7%258B%25AC%25E7%25AB%258B%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ishizakahiroshi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzFkOWRlM2Q3NzMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[テスト841件が全部緑でも、遊びの決まりは2つ間違っていた ― AI が書いたコードに「外の物差し」を当てる | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/paledde/articles/2ea792d4dff7d1</link>
+            <guid>https://zenn.dev/paledde/articles/2ea792d4dff7d1</guid>
+            <pubDate>Mon, 05 Oct 2026 23:31:54 GMT</pubDate>
+            <description><![CDATA[はじめにブラウザだけで遊べるボードゲームの遊び場「棋楽軒」を作っています。https://kirakuken.com将棋・チェス・大富豪・花札など15種類が、登録なしで遊べます。前の記事で、Claude Code に実装を任せて、人は判断と評価だけをする回し方を書きました。https://zenn.dev/paledde/articles/f7bbf9082e5109今回はその続きで、書かせたコー]]></description>
+            <content:encoded><![CDATA[はじめにブラウザだけで遊べるボードゲームの遊び場「棋楽軒」を作っています。https://kirakuken.com将棋・チェス・大富豪・花札など15種類が、登録なしで遊べます。前の記事で、Claude Code に実装を任せて、人は判断と評価だけをする回し方を書きました。https://zenn.dev/paledde/articles/f7bbf9082e5109今回はその続きで、書かせたコードをどうやって確かめるかの話です。見直しを始めた時点でテストは841件あって、走らせると全部通っていました。それでも、遊びの決まりが2つ間違っていました。以下、店主（僕）と番...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--4nG5Z1sV--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588841%25E4%25BB%25B6%25E3%2581%258C%25E5%2585%25A8%25E9%2583%25A8%25E7%25B7%2591%25E3%2581%25A7%25E3%2582%2582%25E3%2580%2581%25E9%2581%258A%25E3%2581%25B3%25E3%2581%25AE%25E6%25B1%25BA%25E3%2581%25BE%25E3%2582%258A%25E3%2581%25AF2%25E3%2581%25A4%25E9%2596%2593%25E9%2581%2595%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%2520%25E2%2580%2595%2520AI%2520%25E3%2581%258C%25E6%259B%25B8%25E3%2581%2584%25E3%2581%259F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2581%25AB%25E3%2580%258C%25E5%25A4%2596%25E3%2581%25AE%25E7%2589%25A9%25E5%25B7%25AE%25E3%2581%2597%25E3%2580%258D%25E3%2582%2592%25E5%25BD%2593%25E3%2581%25A6%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:paledde%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E1M2U3NDA1YmYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[MagicPod MCPとAIエージェントで実現するAIネイティブなE2Eテストワークフロー例 | MagicPod Blog]]></title>
+            <link>https://magicpod.com/blog/e2e-test-workflow/</link>
+            <guid>https://magicpod.com/blog/e2e-test-workflow/</guid>
+            <pubDate>Mon, 05 Oct 2026 23:17:20 GMT</pubDate>
+            <description><![CDATA[こんにちは。MagicPodでエバンジェリストをしている伊藤由貴です。目次 --&amp;gt;目次ワークフローの全体像今回はMagicPod MCPを使い、Claude CodeとMagicPod等を連携させながら、仕様変更をもとにMagicPodのテストをアップデートして実⾏するまでの流れを作ってみます。テスト対象今回はテスト対象として、HOTEL PLANISPHERE - テスト⾃動化練習サイトHOTE]]></description>
+            <content:encoded><![CDATA[こんにちは。MagicPodでエバンジェリストをしている伊藤由貴です。目次 --&amp;gt;目次ワークフローの全体像今回はMagicPod MCPを使い、Claude CodeとMagicPod等を連携させながら、仕様変更をもとにMagicPodのテストをアップデートして実⾏するまでの流れを作ってみます。テスト対象今回はテスト対象として、HOTEL PLANISPHERE - テスト⾃動化練習サイトHOTEL PLANISPHERE - テスト⾃動化練習サイト（仕様変更版）実際の流れここからは、実際に概要図の流れに沿って使い⽅の例を⾒ていきましょう。1. 仕様変更の記載今回の仕様変更の内容をNotionに書いたものが以下です。あくまでもワークフローの例なので、⾮常にシンプルな変更です。2. 仕様変更をもとにテストの変更内容を把握し、テストケース⼀覧をアップデートNotionにあらかじめテストケースの概要が記載されている、とします。このページに対して、先の仕様変更内容をAIを⽤いて反映させます。Notionの「[DesignDoc] 宿泊予約システム：予約可能期間の仕様変更」ページに記載された仕様]]></content:encoded>
+            <enclosure length="0" type="png" height="670" url="https://magicpod.com/acms-media/005/202609/Copy_of_MagicPod_Blog_thumbnail.png" width="1280" alt="MagicPod MCPとAIエージェントで実現するAIネイティブなE2Eテストワークフロー例"/>
+        </item>
+        <item>
+            <title><![CDATA[【MagicPod MCP Server活用】毎朝のCI失敗の調査をAIエージェントに任せる | MagicPod Blog]]></title>
+            <link>https://magicpod.com/blog/failure-investigation-with-ai-agent/</link>
+            <guid>https://magicpod.com/blog/failure-investigation-with-ai-agent/</guid>
+            <pubDate>Mon, 05 Oct 2026 23:16:58 GMT</pubDate>
+            <description><![CDATA[AIエージェントは、ここ1年だけを見ても驚くほどの速度で進化しています。Claude、Cursor、Codexといったツールは、数ヶ月前にはできなかったことを当たり前のようにこなすようになりました。目次 --&amp;gt;目次MagicPod MCP Serverを刷新しましたMagicPod MCP Server（MCPサーバー）は、AIエージェント（Claude、Cursorなど）から自然言語でMagic]]></description>
+            <content:encoded><![CDATA[AIエージェントは、ここ1年だけを見ても驚くほどの速度で進化しています。Claude、Cursor、Codexといったツールは、数ヶ月前にはできなかったことを当たり前のようにこなすようになりました。目次 --&amp;gt;目次MagicPod MCP Serverを刷新しましたMagicPod MCP Server（MCPサーバー）は、AIエージェント（Claude、Cursorなど）から自然言語でMagicPodを操作できるようにする仕組みです。テスト編集まわりでは、他にもできることが増えています。エージェントが実際の画面をキャプチャし、そこから安定して動くロケータを提案したり、既存のロケータがまだ有効かを検証したりできます。テストが落ちたときの「アプリ側の不具合なのか、ロケータが古くなっただけなのか」という切り分けを、エージェントと一緒に進められます。QRコードの読み取りのように、画像をテストデータとして使うテストであれば、その画像のアップロードもできます。開始と終了のステップを指定した部分的な実行もできるので、直したい箇所だけを繰り返し試せます。テストケースや共有ステップの整理も任せられます]]></content:encoded>
+            <enclosure length="0" type="png" height="670" url="https://magicpod.com/acms-media/005/202609/MagicPod_Blog_thumbnail.png" width="1280" alt="【MagicPod MCP Server活用】毎朝のCI失敗の調査をAIエージェントに任せる"/>
+        </item>
+        <item>
+            <title><![CDATA[Two-Way Doors: Don’t Code Yourself into a Corner | Google Testing Blog]]></title>
+            <link>http://testing.googleblog.com/2026/10/two-way-doors-dont-code-yourself-into.html</link>
+            <guid>http://testing.googleblog.com/2026/10/two-way-doors-dont-code-yourself-into.html</guid>
+            <pubDate>Mon, 05 Oct 2026 12:47:12 GMT</pubDate>
+            <description><![CDATA[@media only screen and (max-width: 600px) { .body { overflow-x: auto; } .post-content table, .post-content td { width: auto !important; white-space: nowrap; }}This article was adapted from a Google Te]]></description>
+            <content:encoded><![CDATA[@media only screen and (max-width: 600px) { .body { overflow-x: auto; } .post-content table, .post-content td { width: auto !important; white-space: nowrap; }}This article was adapted from a Google Tech on the Toilet (TotT) episode. You can download a printer-friendly version of this TotT episode and post it in your office.By Nimit Khandelwal and Chris KennellyOn large software projects, even seemingly trivial choices can set assumptions that the codebase naturally evolves around, making them in]]></content:encoded>
+            <enclosure length="0" type="png" url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNWyw4Y5_hwMmvzu2TQN_NRQe6-nor1zoNerbGFZMkuXilBwORhKLK4Cf75dRPb_c_xrgglRKORxnGEMbEzIhylpLol-Z0DvG047859hcp2m3ZB1TXgQAbFp4rAJ7w1TsYsb7ZNw/s1600/googlelogo_color_200x200.png"/>
+        </item>
+        <item>
+            <title><![CDATA[MESCIUS(旧GrapeCity)コンポーネントを使用したデスクトップアプリのテスト自動化 | Ranorex Blog - テスト自動化ツール 『Ranorex』]]></title>
+            <link>https://ranorex.techmatrix.jp/blog/2026/10/05/mescius/</link>
+            <guid>https://ranorex.techmatrix.jp/?p=32505</guid>
+            <pubDate>Mon, 05 Oct 2026 06:24:04 GMT</pubDate>
+            <description><![CDATA[MESCIUS（メシウス）社のコンポーネントは、多くのデスクトップおよびWebアプリケーションで採用されています。アプリケーションの品質維持にはUIテストが不可欠であり、その自動化には、利用するツールが対象のコンポーネン […]The post MESCIUS(旧GrapeCity)コンポーネントを使用したデスクトップアプリのテスト自動化 first appeared on テスト自動化ツール 『]]></description>
+            <content:encoded><![CDATA[MESCIUS（メシウス）社のコンポーネントは、多くのデスクトップおよびWebアプリケーションで採用されています。アプリケーションの品質維持にはUIテストが不可欠であり、その自動化には、利用するツールが対象のコンポーネン […]The post MESCIUS(旧GrapeCity)コンポーネントを使用したデスクトップアプリのテスト自動化 first appeared on テスト自動化ツール 『Ranorex』.]]></content:encoded>
+            <category>Ranorex機能</category>
+            <category>ニュース</category>
+            <category>事例・ソリューション</category>
+            <enclosure length="0" type="png" url="https://57.180.23.150/wp-content/uploads/rx-logo-desktop-dark.png"/>
+        </item>
+        <item>
+            <title><![CDATA[How疲れには地に足ついた話を添えよう #freee技術の日 | yuden]]></title>
+            <link>https://note.com/ydn_/n/n58a7fc3500d2</link>
+            <guid>https://note.com/ydn_/n/n58a7fc3500d2</guid>
+            <pubDate>Sun, 04 Oct 2026 07:15:36 GMT</pubDate>
+            <description><![CDATA[freee技術の日2026に参加してきました。 freee 技術の日 2026freee 技術の日 は、エンジニアリング、プロダクトマネジメント、デザイン、QAなど、freeeのあらゆる技術をご紹介すfreee-tech-day.freee.co.jp 続きをみる]]></description>
+            <content:encoded><![CDATA[freee技術の日2026に参加してきました。 freee 技術の日 2026freee 技術の日 は、エンジニアリング、プロダクトマネジメント、デザイン、QAなど、freeeのあらゆる技術をご紹介すfreee-tech-day.freee.co.jp 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://d2l930y2yx77uc.cloudfront.net/production/social_images/944ad7a4663d43afe7bf846847855e714c6591ad.png"/>
+        </item>
+        <item>
+            <title><![CDATA[第408回：　「ALTM」22　（テスト目的の定義）  | Kouichi Akiyama]]></title>
+            <link>https://note.com/akiyama924/n/n94dbe9d32301</link>
+            <guid>https://note.com/akiyama924/n/n94dbe9d32301</guid>
+            <pubDate>Sat, 03 Oct 2026 21:38:01 GMT</pubDate>
+            <description><![CDATA[◀前の記事へ 次の記事へ▶︎続きをみる]]></description>
+            <content:encoded><![CDATA[◀前の記事へ 次の記事へ▶︎続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/318387479/rectangle_large_type_2_52400277f8d7887d77f1fd9d71a35b10.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[Noise-Resilient Testing of Quantum Programs Based on Output Dominance | arXiv Query: search_query=all:"software testing"&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10]]></title>
+            <link>https://arxiv.org/abs/2610.04461v1</link>
+            <guid>https://arxiv.org/abs/2610.04461v1</guid>
+            <pubDate>Sat, 03 Oct 2026 11:55:07 GMT</pubDate>
+            <description><![CDATA[Quantum software testing (QST) is a central quality-assurance activity for checking whether quantum programs conform to their specifications. In the noisy intermediate-scale quantum (NISQ) era, gate, ]]></description>
+            <content:encoded><![CDATA[Quantum software testing (QST) is a central quality-assurance activity for checking whether quantum programs conform to their specifications. In the noisy intermediate-scale quantum (NISQ) era, gate, decoherence, and measurement errors distort observed outputs, making it difficult to distinguish program defects from noise. The existing noise-aware QST literature typically mitigates or models noise before applying a test oracle. However, these strategies can incur substantial cost and depend on c]]></content:encoded>
+            <enclosure length="0" type="png" height="700" url="https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png" width="1200" alt="arXiv logo"/>
+        </item>
+    </channel>
+</rss>
