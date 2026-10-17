@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>テスト・QA関連ブログRSS</title>
+        <link>https://yoshikiito.github.io/test-qa-rss-feed/</link>
+        <description>企テスト・QA関連ブログの更新をまとめたRSSフィード</description>
+        <lastBuildDate>Sat, 17 Oct 2026 16:13:10 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>yoshikiito/test-qa-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>テスト・QA関連ブログRSS</title>
+            <url>https://yoshikiito.github.io/test-qa-rss-feed/images/icon.png</url>
+            <link>https://yoshikiito.github.io/test-qa-rss-feed/</link>
+        </image>
+        <copyright>yoshikiito/test-qa-rss-feed</copyright>
+        <atom:link href="https://yoshikiito.github.io/test-qa-rss-feed/feeds/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[インボイス3割特例の判定を、国税庁のフローチャートどおりに関数化して、納付税額を3方式で比較するツールを作成しました | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/tsumu26/articles/7fb72c2a79a0d8</link>
+            <guid>https://zenn.dev/tsumu26/articles/7fb72c2a79a0d8</guid>
+            <pubDate>Sat, 17 Oct 2026 08:47:51 GMT</pubDate>
+            <description><![CDATA[はじめにインボイス制度を機に課税事業者になった個人事業者向けの特例が、2026年度の税制改正で変わります。令和8年分(2027年3月の申告)が2割特例の最後の年で、令和9年分・令和10年分は、新設された3割特例の対象です。「この特例は使えるのか」「一般課税や簡易課税と納付税額がどう違うのか」を、ひと目で比べられる計算ツールを作りました。ツール: https://seidolab.com/tools]]></description>
+            <content:encoded><![CDATA[はじめにインボイス制度を機に課税事業者になった個人事業者向けの特例が、2026年度の税制改正で変わります。令和8年分(2027年3月の申告)が2割特例の最後の年で、令和9年分・令和10年分は、新設された3割特例の対象です。「この特例は使えるのか」「一般課税や簡易課税と納付税額がどう違うのか」を、ひと目で比べられる計算ツールを作りました。ツール: https://seidolab.com/tools/invoice-3wari/フロントエンドだけの静的サイトで、入力した内容はブラウザの中だけで計算し、送信しません。この記事では、制度の要点と、判定を関数にした過程、端数処理の...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--BXCV_INP--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%259C%25E3%2582%25A4%25E3%2582%25B93%25E5%2589%25B2%25E7%2589%25B9%25E4%25BE%258B%25E3%2581%25AE%25E5%2588%25A4%25E5%25AE%259A%25E3%2582%2592%25E3%2580%2581%25E5%259B%25BD%25E7%25A8%258E%25E5%25BA%2581%25E3%2581%25AE%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2581%25E3%2583%25A3%25E3%2583%25BC%25E3%2583%2588%25E3%2581%25A9%25E3%2581%258A%25E3%2582%258A%25E3%2581%25AB%25E9%2596%25A2%25E6%2595%25B0%25E5%258C%2596%25E3%2581%2597%25E3%2581%25A6%25E3%2580%2581%25E7%25B4%258D%25E4%25BB%2598%25E7%25A8%258E%25E9%25A1%258D%25E3%2582%25923%25E6%2596%25B9%25E5%25BC%258F%25E3%2581%25A7%25E6%25AF%2594%25E8%25BC%2583%25E3%2581%2599%25E3%2582%258B%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%2592%25E4%25BD%259C%25E6%2588%2590%25E3%2581%2597%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25A4%25E3%2582%2580%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS1BROF9vN2g1TG9NRkpHU0o4c0tfREJHRnkzbUtDNndKS2xhSUs0TjByWGpDMGNYcz1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[AI がコミットに「mutation-checked」と書いたテストを、もう一度壊して確かめました | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/rapls/articles/7c6221a96e847d</link>
+            <guid>https://zenn.dev/rapls/articles/7c6221a96e847d</guid>
+            <pubDate>Sat, 17 Oct 2026 02:04:02 GMT</pubDate>
+            <description><![CDATA[AI にコードを直してもらうと、テストも一緒に書いてくれます。そのテストが本当に効いているかは、テストが通ったことからは分かりません。直した行を壊しても通るテストは、何も見張っていないからです。自作の WordPress プラグイン PDF Image Creator の 1.4.33 で、Claude はコミットメッセージの最後にこう書きました。- Dead code removed; tran]]></description>
+            <content:encoded><![CDATA[AI にコードを直してもらうと、テストも一緒に書いてくれます。そのテストが本当に効いているかは、テストが通ったことからは分かりません。直した行を壊しても通るテストは、何も見張っていないからです。自作の WordPress プラグイン PDF Image Creator の 1.4.33 で、Claude はコミットメッセージの最後にこう書きました。- Dead code removed; translations (263); tests for each fix, mutation-checked.直したところごとにテストを足し、それを mutation で確かめた、という意味で...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--UBAO7q-r--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%2520%25E3%2581%258C%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2583%2588%25E3%2581%25AB%25E3%2580%258Cmutation-checked%25E3%2580%258D%25E3%2581%25A8%25E6%259B%25B8%25E3%2581%2584%25E3%2581%259F%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2582%2592%25E3%2580%2581%25E3%2582%2582%25E3%2581%2586%25E4%25B8%2580%25E5%25BA%25A6%25E5%25A3%258A%25E3%2581%2597%25E3%2581%25A6%25E7%25A2%25BA%25E3%2581%258B%25E3%2582%2581%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Rapls%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2RlODIyZTEyOWEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[複数端末Pushの移行は、旧版のログアウトが残る間は終わらない | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/hirodeath/articles/expo-multi-device-push-rollout</link>
+            <guid>https://zenn.dev/hirodeath/articles/expo-multi-device-push-rollout</guid>
+            <pubDate>Sat, 17 Oct 2026 01:47:59 GMT</pubDate>
+            <description><![CDATA[サーバーで一人に複数のPush Tokenを保存できるようにしても、旧版アプリのログアウトが全端末解除を呼べば、ほかの端末の登録も消えます。APIの新しい動作だけでは、移行後の利用状態を説明できません。SquadNoteの複数端末対応を、変更前後のAPIと旧版・新版の解除方法を組み合わせて確認しました。この記事の焦点は、登録や解除の実装方法そのものではなく、どの組み合わせまで残り得るかと、移行の完]]></description>
+            <content:encoded><![CDATA[サーバーで一人に複数のPush Tokenを保存できるようにしても、旧版アプリのログアウトが全端末解除を呼べば、ほかの端末の登録も消えます。APIの新しい動作だけでは、移行後の利用状態を説明できません。SquadNoteの複数端末対応を、変更前後のAPIと旧版・新版の解除方法を組み合わせて確認しました。この記事の焦点は、登録や解除の実装方法そのものではなく、どの組み合わせまで残り得るかと、移行の完了条件です。対象はcircle-hubの0cda1e8と、変更コミットad0a669の親です。2026年9月11日にローカルでテストしました。OTA配布や実端末への通知送信は行っていません。...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--w2iPlHpX--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%25A4%2587%25E6%2595%25B0%25E7%25AB%25AF%25E6%259C%25ABPush%25E3%2581%25AE%25E7%25A7%25BB%25E8%25A1%258C%25E3%2581%25AF%25E3%2580%2581%25E6%2597%25A7%25E7%2589%2588%25E3%2581%25AE%25E3%2583%25AD%25E3%2582%25B0%25E3%2582%25A2%25E3%2582%25A6%25E3%2583%2588%25E3%2581%258C%25E6%25AE%258B%25E3%2582%258B%25E9%2596%2593%25E3%2581%25AF%25E7%25B5%2582%25E3%2582%258F%25E3%2582%2589%25E3%2581%25AA%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2583%2592%25E3%2583%25AD%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQ3MzZmYmQ0NzAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[AIが書いたRailsのどこを読むか - 不変条件とミューテーションテストでレビューを絞る | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/okamyuji/books/rails-ai-review-invariants</link>
+            <guid>https://zenn.dev/okamyuji/books/rails-ai-review-invariants</guid>
+            <pubDate>Fri, 16 Oct 2026 23:29:14 GMT</pubDate>
+            <description><![CDATA[AIエージェントにRailsの実装とRSpecを任せると、読み切れない量のコードが届きます。人間が設計で契約を表にまとめ、evilutionによるミューテーションテストとCRAP値でテストの強さを機械的に検証すると、レビューで読む場所を、契約の表と、検証ツールが指摘した箇所に絞れます。その手順を、動くRailsアプリと実測した件数で1歩ずつ説明する本です。]]></description>
+            <content:encoded><![CDATA[AIエージェントにRailsの実装とRSpecを任せると、読み切れない量のコードが届きます。人間が設計で契約を表にまとめ、evilutionによるミューテーションテストとCRAP値でテストの強さを機械的に検証すると、レビューで読む場所を、契約の表と、検証ツールが指摘した箇所に絞れます。その手順を、動くRailsアプリと実測した件数で1歩ずつ説明する本です。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://res.cloudinary.com/zenn/image/upload/s--WAIf2u1y--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci82NDE3MjVjMDJhLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[JSONの再取り込みで重複させない：元のIDを保ち、端末の編集を残す | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/jisaku_net/articles/json-import-stable-id-local-edits</link>
+            <guid>https://zenn.dev/jisaku_net/articles/json-import-stable-id-local-edits</guid>
+            <pubDate>Fri, 16 Oct 2026 22:32:32 GMT</pubDate>
+            <description><![CDATA[「場所メモ」は、行きたい場所の候補と訪問履歴を残す、自分用のWebアプリです。現在は開発中で、本番には未公開です。整理した記録をJSONファイルから取り込む機能を追加しました。同じファイルをもう一度選んでも記録を増やさず、取り込み後に端末で直した内容も残すようにしています。今回は、整理済みJSONを追加する処理の実装とテストを紹介します。クラウド同期の版番号ではなく、ファイル内の1件ずつをどう扱う]]></description>
+            <content:encoded><![CDATA[「場所メモ」は、行きたい場所の候補と訪問履歴を残す、自分用のWebアプリです。現在は開発中で、本番には未公開です。整理した記録をJSONファイルから取り込む機能を追加しました。同じファイルをもう一度選んでも記録を増やさず、取り込み後に端末で直した内容も残すようにしています。今回は、整理済みJSONを追加する処理の実装とテストを紹介します。クラウド同期の版番号ではなく、ファイル内の1件ずつをどう扱うかが題材です。 同じ訪問と、別の日の再訪を分けるたとえば、取り込み元に次の2件があるとします。説明用に項目を省略しています。[ { "id": "source-1", "labe...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--K5-SIaZj--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:JSON%25E3%2581%25AE%25E5%2586%258D%25E5%258F%2596%25E3%2582%258A%25E8%25BE%25BC%25E3%2581%25BF%25E3%2581%25A7%25E9%2587%258D%25E8%25A4%2587%25E3%2581%2595%25E3%2581%259B%25E3%2581%25AA%25E3%2581%2584%25EF%25BC%259A%25E5%2585%2583%25E3%2581%25AEID%25E3%2582%2592%25E4%25BF%259D%25E3%2581%25A1%25E3%2580%2581%25E7%25AB%25AF%25E6%259C%25AB%25E3%2581%25AE%25E7%25B7%25A8%25E9%259B%2586%25E3%2582%2592%25E6%25AE%258B%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E4%25BD%2595%25E3%2581%25A7%25E3%2582%2582%25E8%2587%25AA%25E4%25BD%259C%25E3%2581%2599%25E3%2582%258B%25E4%25BA%25BA%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZkYTc3MDIzMjguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[本番DBに不要なレコードを数千万件登録してしまった話 | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/geekplus/articles/a615dfe41557d8</link>
+            <guid>https://zenn.dev/geekplus/articles/a615dfe41557d8</guid>
+            <pubDate>Fri, 16 Oct 2026 09:00:09 GMT</pubDate>
+            <description><![CDATA[ある日、普段数分以内で完了するはずのバッチジョブからレイテンシーアラートが上がってきました。調査すると、出荷明細の補足情報を登録する処理で、大量のINSERTが発生しています。このままでは、他の入出荷等にも影響を及ぼすため、早急な解消が必要な状況です。この記事では、無駄に増殖してしまったデータとの戦いについてご紹介します。 何が起きていたのか問題のINSERTが発生している箇所を調査したところ、出]]></description>
+            <content:encoded><![CDATA[ある日、普段数分以内で完了するはずのバッチジョブからレイテンシーアラートが上がってきました。調査すると、出荷明細の補足情報を登録する処理で、大量のINSERTが発生しています。このままでは、他の入出荷等にも影響を及ぼすため、早急な解消が必要な状況です。この記事では、無駄に増殖してしまったデータとの戦いについてご紹介します。 何が起きていたのか問題のINSERTが発生している箇所を調査したところ、出荷の明細に紐づく補足情報を保持するテーブルに対して大量のINSERTが行われていました。本来は、1出荷明細に対して多くても数十レコードです。一体何故？※補足です。アラートの...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--PkERTqD6--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%259C%25AC%25E7%2595%25AADB%25E3%2581%25AB%25E4%25B8%258D%25E8%25A6%2581%25E3%2581%25AA%25E3%2583%25AC%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2582%2592%25E6%2595%25B0%25E5%258D%2583%25E4%25B8%2587%25E4%25BB%25B6%25E7%2599%25BB%25E9%258C%25B2%25E3%2581%2597%25E3%2581%25A6%25E3%2581%2597%25E3%2581%25BE%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E9%2595%25B7%25E8%25B0%25B7%25E9%2583%25A8%25E4%25B8%2580%25E5%25B8%258C%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzk5YzFhOGMxY2UuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Geekplus%2520Tech%2520Blog%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS3JoWVR3WWd6OC1UVnF4MFgybDN2MDU4NjRzS2VpbjdZYkp3NmJxZkJ5dEdJY05nPXMyNTAtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[職能を越えてデザインの品質と向き合うことの難しさとこれから | Zennの「QA」のフィード]]></title>
+            <link>https://zenn.dev/sonicmoov/articles/design-standardization-project-collaboration</link>
+            <guid>https://zenn.dev/sonicmoov/articles/design-standardization-project-collaboration</guid>
+            <pubDate>Thu, 15 Oct 2026 21:30:05 GMT</pubDate>
+            <description><![CDATA[はじめに2025年12月に、社内のデザイン標準化プロジェクトの振り返りと今後の展望をまとめました。https://zenn.dev/sonicmoov/articles/design-standardization-project-look-back-2025前回の記事では、今後の方向性として下記の4つを挙げていました。問い合わせの対応フローの自動化デザインデータの品質基準の策定デザインレビューの]]></description>
+            <content:encoded><![CDATA[はじめに2025年12月に、社内のデザイン標準化プロジェクトの振り返りと今後の展望をまとめました。https://zenn.dev/sonicmoov/articles/design-standardization-project-look-back-2025前回の記事では、今後の方向性として下記の4つを挙げていました。問い合わせの対応フローの自動化デザインデータの品質基準の策定デザインレビューの観点の整理、フローの整備デザイントークンやライブラリの活用促進今回はその続きとして、各項目の進捗と、デザイナーとの協働を通じて見えてきた難しさ、これからの課題をまとめます...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--QXGqieWF--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%2581%25B7%25E8%2583%25BD%25E3%2582%2592%25E8%25B6%258A%25E3%2581%2588%25E3%2581%25A6%25E3%2583%2587%25E3%2582%25B6%25E3%2582%25A4%25E3%2583%25B3%25E3%2581%25AE%25E5%2593%2581%25E8%25B3%25AA%25E3%2581%25A8%25E5%2590%2591%25E3%2581%258D%25E5%2590%2588%25E3%2581%2586%25E3%2581%2593%25E3%2581%25A8%25E3%2581%25AE%25E9%259B%25A3%25E3%2581%2597%25E3%2581%2595%25E3%2581%25A8%25E3%2581%2593%25E3%2582%258C%25E3%2581%258B%25E3%2582%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:pugipugiii%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzY0YjYwNGE3MzguanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2582%25BD%25E3%2583%258B%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25A0%25E3%2583%25BC%25E3%2583%2596%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzJlZWVkMzdmNzQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[Are We Testing the Wrong Quantum Bugs? A Study of Fault Representation Gaps in Quantum Software Testing | arXiv Query: search_query=all:"software testing"&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10]]></title>
+            <link>https://arxiv.org/abs/2610.22089v1</link>
+            <guid>https://arxiv.org/abs/2610.22089v1</guid>
+            <pubDate>Thu, 15 Oct 2026 15:41:56 GMT</pubDate>
+            <description><![CDATA[Quantum software relies on compilers, intermediate representations, and execution frameworks that transform programs before execution. Faults in these components can change the behavior of otherwise c]]></description>
+            <content:encoded><![CDATA[Quantum software relies on compilers, intermediate representations, and execution frameworks that transform programs before execution. Faults in these components can change the behavior of otherwise correct quantum programs. Yet quantum testing techniques are often evaluated using mutation-generated faults and curated bug benchmarks. We investigate how well the faults represented by these artifacts reflect those encountered in modern quantum software. We audit four quantum mutation-testing tools]]></content:encoded>
+            <enclosure length="0" type="png" height="700" url="https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png" width="1200" alt="arXiv logo"/>
+        </item>
+        <item>
+            <title><![CDATA[CSVを選び直したら、前の比較結果を使わせない | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/bricks/articles/csv-results-expire-with-inputs</link>
+            <guid>https://zenn.dev/bricks/articles/csv-results-expire-with-inputs</guid>
+            <pubDate>Thu, 15 Oct 2026 14:55:41 GMT</pubDate>
+            <description><![CDATA[CSVを2つ選び、キーと列の対応を決めて差分を見る。比較が終わったあとで片方のCSVを選び直したら、さっきの結果はいつ消えるべきでしょうか。新しい比較が終わるまで残すと、画面のファイル名は新しく、差分は古いという状態になります。その間に保存ボタンを押せば、別の入力から作った結果を持ち出せます。ブラウザー内でCSVを比較する非公開試作では、ファイルや比較設定の変更と同時に旧結果を無効にし、遅い応答で]]></description>
+            <content:encoded><![CDATA[CSVを2つ選び、キーと列の対応を決めて差分を見る。比較が終わったあとで片方のCSVを選び直したら、さっきの結果はいつ消えるべきでしょうか。新しい比較が終わるまで残すと、画面のファイル名は新しく、差分は古いという状態になります。その間に保存ボタンを押せば、別の入力から作った結果を持ち出せます。ブラウザー内でCSVを比較する非公開試作では、ファイルや比較設定の変更と同時に旧結果を無効にし、遅い応答で復活しないようにしました。この記事は、その実装と保存済みの試験記録から結果の寿命を整理したものです。この試作はプレビュー、比較、HTMLレポート生成をWorkerで行い、画面側のcontr...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--xFJ47C00--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:CSV%25E3%2582%2592%25E9%2581%25B8%25E3%2581%25B3%25E7%259B%25B4%25E3%2581%2597%25E3%2581%259F%25E3%2582%2589%25E3%2580%2581%25E5%2589%258D%25E3%2581%25AE%25E6%25AF%2594%25E8%25BC%2583%25E7%25B5%2590%25E6%259E%259C%25E3%2582%2592%25E4%25BD%25BF%25E3%2582%258F%25E3%2581%259B%25E3%2581%25AA%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Renga%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2IyYzI4MDZiNDEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[テスト設計初心者向け エラー後の保存データと業務ログをどう確認するか | ソフトウェアテストタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/manabi_biyori/items/8b96994de4ddf9d9a894</link>
+            <guid>https://qiita.com/manabi_biyori/items/8b96994de4ddf9d9a894</guid>
+            <pubDate>Thu, 15 Oct 2026 10:29:11 GMT</pubDate>
+            <description><![CDATA[テストケースに「エラーメッセージが表示されること」と書いて、レビューで「保存されたデータも確認しましょう」と指摘されたことはありませんか。それなら、エラーが出た後はすべてのデータが変わらないことを確認すればよいのでしょうか。失敗の記録を残す設計なら、ログは増えるはずです。...]]></description>
+            <content:encoded><![CDATA[テストケースに「エラーメッセージが表示されること」と書いて、レビューで「保存されたデータも確認しましょう」と指摘されたことはありませんか。それなら、エラーが出た後はすべてのデータが変わらないことを確認すればよいのでしょうか。失敗の記録を残す設計なら、ログは増えるはずです。...]]></content:encoded>
+            <enclosure length="0" type="image/1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jSWsxV29ZYnl2Nko1WWNKWWVPM21Ib2cxMGNGNGt1THZWd1VPTVpxTEZ4VW9VaFJRJTNEczk2LWM_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTgwNmYyYWVmZjljYWE0NGEyMGMxNmNmNGQ4ZWQyZmI0%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Da99ae0e63d45aaed1cc58f8a6696e181" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jSWsxV29ZYnl2Nko1WWNKWWVPM21Ib2cxMGNGNGt1THZWd1VPTVpxTEZ4VW9VaFJRJTNEczk2LWM_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTgwNmYyYWVmZjljYWE0NGEyMGMxNmNmNGQ4ZWQyZmI0%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Da99ae0e63d45aaed1cc58f8a6696e181?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJTg2JUUzJTgyJUI5JUUzJTgzJTg4JUU4JUE4JUFEJUU4JUE4JTg4JUU1JTg4JTlEJUU1JUJGJTgzJUU4JTgwJTg1JUU1JTkwJTkxJUUzJTgxJTkxJTIwJUUzJTgyJUE4JUUzJTgzJUE5JUUzJTgzJUJDJUU1JUJFJThDJUUzJTgxJUFFJUU0JUJGJTlEJUU1JUFEJTk4JUUzJTgzJTg3JUUzJTgzJUJDJUUzJTgyJUJGJUUzJTgxJUE4JUU2JUE1JUFEJUU1JThCJTk5JUUzJTgzJUFEJUUzJTgyJUIwJUUzJTgyJTkyJUUzJTgxJUE5JUUzJTgxJTg2JUU3JUEyJUJBJUU4JUFBJThEJUUzJTgxJTk5JUUzJTgyJThCJUUzJTgxJThCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MDVmMzZlNjQ2MWJkMDBjNmZlM2VhNjJlYmEyZTA5ZjE&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtYW5hYmlfYml5b3JpJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NzdlOWM4YWY0MTkwOGMyYTQ2MmUyZDZlYTVjY2ZhYTg&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=64b213422e630bcf3d1b3f15170dd256"/>
+        </item>
+        <item>
+            <title><![CDATA[Godot 4の--write-movieで、プレイ画面を音つきで自動録画する | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/gzer0/articles/godot-write-movie-script-capture-with-audio</link>
+            <guid>https://zenn.dev/gzer0/articles/godot-write-movie-script-capture-with-audio</guid>
+            <pubDate>Thu, 15 Oct 2026 07:24:27 GMT</pubDate>
+            <description><![CDATA[TL;DR撮影スクリプトで動かしたゲームを、Godot 4.6.1の--write-movieで音つきのmp4にしました。godot --write-movie out.avi --fixed-fps 60 --disable-vsync --script tools/capture_clip.gdffmpeg -i out.avi -vf fps=30 -c:v libx264 -pix_fmt]]></description>
+            <content:encoded><![CDATA[TL;DR撮影スクリプトで動かしたゲームを、Godot 4.6.1の--write-movieで音つきのmp4にしました。godot --write-movie out.avi --fixed-fps 60 --disable-vsync --script tools/capture_clip.gdffmpeg -i out.avi -vf fps=30 -c:v libx264 -pix_fmt yuv420p -crf 20 -c:a aac -b:a 160k out.mp4手元のMac（Apple Silicon）で試した結果です。11.3秒の場面が、起動から終了...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--iurDFR_6--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Godot%25204%25E3%2581%25AE--write-movie%25E3%2581%25A7%25E3%2580%2581%25E3%2583%2597%25E3%2583%25AC%25E3%2582%25A4%25E7%2594%25BB%25E9%259D%25A2%25E3%2582%2592%25E9%259F%25B3%25E3%2581%25A4%25E3%2581%258D%25E3%2581%25A7%25E8%2587%25AA%25E5%258B%2595%25E9%258C%25B2%25E7%2594%25BB%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:gzer0%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhmYjY3ZGI4ZGUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[AI時代、何をもってソフトウェアの品質を担保するのか | ソフトウェアテストタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/acsuzuki/items/a1f4533a4d7c724c097f</link>
+            <guid>https://qiita.com/acsuzuki/items/a1f4533a4d7c724c097f</guid>
+            <pubDate>Thu, 15 Oct 2026 07:23:05 GMT</pubDate>
+            <description><![CDATA[最近は、Claude CodeやCodexなどを使ってAIにコードを書かせることが当たり前になってきました。そんな中で皆さんは、何をもって「システムの品質が担保されている」と考えるでしょうか。以前はどうやって品質を説明していたかちょっと昔のシステム開発では、以下のよ...]]></description>
+            <content:encoded><![CDATA[最近は、Claude CodeやCodexなどを使ってAIにコードを書かせることが当たり前になってきました。そんな中で皆さんは、何をもって「システムの品質が担保されている」と考えるでしょうか。以前はどうやって品質を説明していたかちょっと昔のシステム開発では、以下のよ...]]></content:encoded>
+            <enclosure length="0" type="image/1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MzQyODU3JTJGNjc4OGNiZDkxMDViNTExNTg5ZTM5ZjZlZmFjMmYxYzAwOTViNTVlZCUyRnhfbGFyZ2UucG5nJTNGMTc2OTE0MjcxOD9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MjFiOWMyYzU3ZjZkOWQ3NDdlM2Y0YzJkMTIxMDU2MmI%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZiZDg5ZDYxNmIzYzQ1OGQ0ZTQ0NTA1OWNjN2E5MzExNmQ4NTMwMDg2JTJGb3JpZ2luYWwuanBnJTNGMTc2NDA2MDQ0Nz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz01Y2MxNWQzM2QxZTYzMWUyMDQyOWI3MzMxNDgyOTI1Ng%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D3728540477d909505c4ae817abaf4339" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MzQyODU3JTJGNjc4OGNiZDkxMDViNTExNTg5ZTM5ZjZlZmFjMmYxYzAwOTViNTVlZCUyRnhfbGFyZ2UucG5nJTNGMTc2OTE0MjcxOD9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MjFiOWMyYzU3ZjZkOWQ3NDdlM2Y0YzJkMTIxMDU2MmI%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZiZDg5ZDYxNmIzYzQ1OGQ0ZTQ0NTA1OWNjN2E5MzExNmQ4NTMwMDg2JTJGb3JpZ2luYWwuanBnJTNGMTc2NDA2MDQ0Nz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz01Y2MxNWQzM2QxZTYzMWUyMDQyOWI3MzMxNDgyOTI1Ng%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D3728540477d909505c4ae817abaf4339?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTYlOTklODIlRTQlQkIlQTMlRTMlODAlODElRTQlQkQlOTUlRTMlODIlOTIlRTMlODIlODIlRTMlODElQTMlRTMlODElQTYlRTMlODIlQkQlRTMlODMlOTUlRTMlODMlODglRTMlODIlQTYlRTMlODIlQTclRTMlODIlQTIlRTMlODElQUUlRTUlOTMlODElRTglQjMlQUElRTMlODIlOTIlRTYlOEIlODUlRTQlQkYlOUQlRTMlODElOTklRTMlODIlOEIlRTMlODElQUUlRTMlODElOEImdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1kMTZlZjMxN2Y3ODc3MjA2ZTBhYzc5YTc2NWM2YzBiYw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBhY3N1enVraSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTY3YmRkNWIwYWJjZDA0MWNhNTkyOWE3ZWRmNjlhMjdi&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-QUNTSFU&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=a6dc38c56f15205f04d742934329f967"/>
+        </item>
+        <item>
+            <title><![CDATA[QAによるハーネスエンジニアリングとQA組織の未来像 | MagicPod Blog]]></title>
+            <link>https://magicpod.com/blog/qa-organization-future/</link>
+            <guid>https://magicpod.com/blog/qa-organization-future/</guid>
+            <pubDate>Thu, 15 Oct 2026 05:11:36 GMT</pubDate>
+            <description><![CDATA[こんにちは、MagicPodメンバーのIkariです。目次 --&amp;gt;目次スピーカー西田 泰明 氏 ｜ 株式会社TOKIUM QA電気通信大学大学院卒業後、2013年から株式会社ベリサーブで第三者検証に従事。2021年に株式会社BearTail（現TOKIUM）に一人目QAエンジニアとして参画し、全プロダクトのQAをしながらQA組織を立ち上げる。伊藤 由貴 ｜ 株式会社MagicPod エバンジェリス]]></description>
+            <content:encoded><![CDATA[こんにちは、MagicPodメンバーのIkariです。目次 --&amp;gt;目次スピーカー西田 泰明 氏 ｜ 株式会社TOKIUM QA電気通信大学大学院卒業後、2013年から株式会社ベリサーブで第三者検証に従事。2021年に株式会社BearTail（現TOKIUM）に一人目QAエンジニアとして参画し、全プロダクトのQAをしながらQA組織を立ち上げる。伊藤 由貴 ｜ 株式会社MagicPod エバンジェリスト（@yoshikiito）TOKIUMにおけるハーネスエンジニアリングの挑戦と課題TOKIUMのプロダクトとテストの難しさまずは、TOKIUMにおけるプロダクトの特徴やQAの背景についてお話しいただきました。TOKIUMでは、支出管理クラウド（SaaS）と、それと紐づく経理AIエージェントを提供されており、相互に連携する複雑なプロダクト群をテストするにあたり、主に次の3つの難しさが存在するといいます。プロダクト間連携：連携が多く、1つの修正が及ぼす影響範囲が広く複雑。金額計算：経理業務を扱うため、1円のミスも許されない。会計データの形式：会社ごとに形式が異なり、どれでテストするか選びきれない]]></content:encoded>
+            <enclosure length="0" type="png" height="270" url="https://magicpod.com/acms-media/005/202610/0f0ee8d08ec4eaeddf0bbad1d62bd55e_(2).png" width="660" alt="QAによるハーネスエンジニアリングとQA組織の未来像"/>
+        </item>
+        <item>
+            <title><![CDATA[【git-qa】テスト仕様書を AI に流させて、合否は人が 1 打鍵で置く（human-in-the-loop QA） | Zennの「QA」のフィード]]></title>
+            <link>https://zenn.dev/dokokade/articles/8d7756c7056a24</link>
+            <guid>https://zenn.dev/dokokade/articles/8d7756c7056a24</guid>
+            <pubDate>Thu, 15 Oct 2026 04:29:11 GMT</pubDate>
+            <description><![CDATA[AI に「全部通りました」と言わせたくないAI でテストを自動化すると、最後に AI が「全部通りました」と言います。でも、出したものが壊れていたとき責任を持つのは人です。「AI が通したので」は通りません。git-qa は、その前提のまま作った 人が判定する QA ランナー（human-in-the-loop QA・オープンソース）です。AI がテスト仕様書（検証シート）を流す —— 端末・ブラ]]></description>
+            <content:encoded><![CDATA[AI に「全部通りました」と言わせたくないAI でテストを自動化すると、最後に AI が「全部通りました」と言います。でも、出したものが壊れていたとき責任を持つのは人です。「AI が通したので」は通りません。git-qa は、その前提のまま作った 人が判定する QA ランナー（human-in-the-loop QA・オープンソース）です。AI がテスト仕様書（検証シート）を流す —— 端末・ブラウザ・デスクトップアプリを操作する人はライブ映像を見て、1 ケースずつ 1 打鍵で合否を置く誰が何を確かめたかが証跡に残る 「誰が確認したか」が残る結果の語は 5 ...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--cseZdMXf--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590git-qa%25E3%2580%2591%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E4%25BB%2595%25E6%25A7%2598%25E6%259B%25B8%25E3%2582%2592%2520AI%2520%25E3%2581%25AB%25E6%25B5%2581%25E3%2581%2595%25E3%2581%259B%25E3%2581%25A6%25E3%2580%2581%25E5%2590%2588%25E5%2590%25A6%25E3%2581%25AF%25E4%25BA%25BA%25E3%2581%258C%25201%2520%25E6%2589%2593%25E9%258D%25B5%25E3%2581%25A7%25E7%25BD%25AE%25E3%2581%258F%25EF%25BC%2588human-in-the-loop%2520QA%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Dokokade%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhmOTJkNWI2ZDkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[【git-qa】テスト仕様書を AI に流させて、合否は人が 1 打鍵で置く（human-in-the-loop QA） | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/dokokade/articles/8d7756c7056a24</link>
+            <guid>https://zenn.dev/dokokade/articles/8d7756c7056a24</guid>
+            <pubDate>Thu, 15 Oct 2026 04:29:11 GMT</pubDate>
+            <description><![CDATA[AI に「全部通りました」と言わせたくないAI でテストを自動化すると、最後に AI が「全部通りました」と言います。でも、出したものが壊れていたとき責任を持つのは人です。「AI が通したので」は通りません。git-qa は、その前提のまま作った 人が判定する QA ランナー（human-in-the-loop QA・オープンソース）です。AI がテスト仕様書（検証シート）を流す —— 端末・ブラ]]></description>
+            <content:encoded><![CDATA[AI に「全部通りました」と言わせたくないAI でテストを自動化すると、最後に AI が「全部通りました」と言います。でも、出したものが壊れていたとき責任を持つのは人です。「AI が通したので」は通りません。git-qa は、その前提のまま作った 人が判定する QA ランナー（human-in-the-loop QA・オープンソース）です。AI がテスト仕様書（検証シート）を流す —— 端末・ブラウザ・デスクトップアプリを操作する人はライブ映像を見て、1 ケースずつ 1 打鍵で合否を置く誰が何を確かめたかが証跡に残る 「誰が確認したか」が残る結果の語は 5 ...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--cseZdMXf--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590git-qa%25E3%2580%2591%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E4%25BB%2595%25E6%25A7%2598%25E6%259B%25B8%25E3%2582%2592%2520AI%2520%25E3%2581%25AB%25E6%25B5%2581%25E3%2581%2595%25E3%2581%259B%25E3%2581%25A6%25E3%2580%2581%25E5%2590%2588%25E5%2590%25A6%25E3%2581%25AF%25E4%25BA%25BA%25E3%2581%258C%25201%2520%25E6%2589%2593%25E9%258D%25B5%25E3%2581%25A7%25E7%25BD%25AE%25E3%2581%258F%25EF%25BC%2588human-in-the-loop%2520QA%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Dokokade%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhmOTJkNWI2ZDkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[106万円の壁の撤廃後に残る判定を関数にして、都道府県別料率と等級表で手取りを計算するツールを作成しました | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/tsumu26/articles/d8321d5adfe42e</link>
+            <guid>https://zenn.dev/tsumu26/articles/d8321d5adfe42e</guid>
+            <pubDate>Thu, 15 Oct 2026 00:53:13 GMT</pubDate>
+            <description><![CDATA[はじめに2026年10月1日に、パートやアルバイトが社会保険に加入する条件のうち、賃金要件(月8.8万円以上)が撤廃されました。「自分は社会保険に入るのか」「入ると手取りはいくら変わるのか」を確認できる計算ツールを作りました。ツール: https://seidolab.com/tools/shaho-106/フロントエンドだけの静的サイトで、入力した内容はブラウザの中だけで計算し、送信しません。こ]]></description>
+            <content:encoded><![CDATA[はじめに2026年10月1日に、パートやアルバイトが社会保険に加入する条件のうち、賃金要件(月8.8万円以上)が撤廃されました。「自分は社会保険に入るのか」「入ると手取りはいくら変わるのか」を確認できる計算ツールを作りました。ツール: https://seidolab.com/tools/shaho-106/フロントエンドだけの静的サイトで、入力した内容はブラウザの中だけで計算し、送信しません。この記事では、制度の要点と、判定フローの組み方、数字の落とし穴、競合を調べて決めた方針をまとめます。 何が変わったのか厚生労働省と日本年金機構の資料によると、撤廃されたのは賃...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--jXCtYbaz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:106%25E4%25B8%2587%25E5%2586%2586%25E3%2581%25AE%25E5%25A3%2581%25E3%2581%25AE%25E6%2592%25A4%25E5%25BB%2583%25E5%25BE%258C%25E3%2581%25AB%25E6%25AE%258B%25E3%2582%258B%25E5%2588%25A4%25E5%25AE%259A%25E3%2582%2592%25E9%2596%25A2%25E6%2595%25B0%25E3%2581%25AB%25E3%2581%2597%25E3%2581%25A6%25E3%2580%2581%25E9%2583%25BD%25E9%2581%2593%25E5%25BA%259C%25E7%259C%258C%25E5%2588%25A5%25E6%2596%2599%25E7%258E%2587%25E3%2581%25A8%25E7%25AD%2589%25E7%25B4%259A%25E8%25A1%25A8%25E3%2581%25A7%25E6%2589%258B%25E5%258F%2596%25E3%2582%258A%25E3%2582%2592%25E8%25A8%2588%25E7%25AE%2597%25E3%2581%2599%25E3%2582%258B%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%2592%25E4%25BD%259C%25E6%2588%2590%25E3%2581%2597%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25A4%25E3%2582%2580%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS1BROF9vN2g1TG9NRkpHU0o4c0tfREJHRnkzbUtDNndKS2xhSUs0TjByWGpDMGNYcz1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[iOSのTestFlightによる課金のテストでの課金取消方法 | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/nekomimimi/articles/80246eab6410b0</link>
+            <guid>https://zenn.dev/nekomimimi/articles/80246eab6410b0</guid>
+            <pubDate>Thu, 15 Oct 2026 00:09:22 GMT</pubDate>
+            <description><![CDATA[XcodeのStoreKit Testingを使うと、開発環境で購入状態を変えながらテストできます。一方、TestFlightでの課金テストには、アカウントの切り替えや購入履歴の反映など、はまりどころがあります。消費型アイテムは繰り返し購入できますが、非消費型アイテムの初回購入や、サブスクリプションの新規購入を再現したいときは、購入履歴を消去してテストし直すことがあります。その際のポイントをまとめ]]></description>
+            <content:encoded><![CDATA[XcodeのStoreKit Testingを使うと、開発環境で購入状態を変えながらテストできます。一方、TestFlightでの課金テストには、アカウントの切り替えや購入履歴の反映など、はまりどころがあります。消費型アイテムは繰り返し購入できますが、非消費型アイテムの初回購入や、サブスクリプションの新規購入を再現したいときは、購入履歴を消去してテストし直すことがあります。その際のポイントをまとめます。 事前準備App Store Connectの「ユーザとアクセス」→「Sandbox」で、テスト用アカウントを作成しておきます。 ポイント 1. 普段のApple Acco...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--uCPJfpBS--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:iOS%25E3%2581%25AETestFlight%25E3%2581%25AB%25E3%2582%2588%25E3%2582%258B%25E8%25AA%25B2%25E9%2587%2591%25E3%2581%25AE%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25A7%25E3%2581%25AE%25E8%25AA%25B2%25E9%2587%2591%25E5%258F%2596%25E6%25B6%2588%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:nekomimimi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzJjNjEyMjg4NzMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[AIにTDDをやらせても、その価値は残るのか──手順ではなく利益を引き継ぐ | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/akring/articles/2bca6f38f3a347</link>
+            <guid>https://zenn.dev/akring/articles/2bca6f38f3a347</guid>
+            <pubDate>Wed, 14 Oct 2026 23:00:05 GMT</pubDate>
+            <description><![CDATA[AIにTDDをやらせると、何が起こりうるかAIに、ユーザーを無効化する機能を作らせるとします。人間が書いて承認した受け入れ条件は、次の三つです。無効化されたユーザーは、新たにログインできない無効化されたユーザーの既存のセッションは、失効する無効化されていないユーザーのセッションには、影響しないTDDに倣って、AIにテストを先に書かせ、それを通す実装を書かせます。手順は、人間が書いていたときと同じで]]></description>
+            <content:encoded><![CDATA[AIにTDDをやらせると、何が起こりうるかAIに、ユーザーを無効化する機能を作らせるとします。人間が書いて承認した受け入れ条件は、次の三つです。無効化されたユーザーは、新たにログインできない無効化されたユーザーの既存のセッションは、失効する無効化されていないユーザーのセッションには、影響しないTDDに倣って、AIにテストを先に書かせ、それを通す実装を書かせます。手順は、人間が書いていたときと同じです。こんな流れを想像してみてください。AIは、1と2を実装してテストを通します。ところが2の実装で、無効化したユーザーだけでなく、すべてのユーザーのセッションを失効させてしま...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--KmxyOFeA--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25ABTDD%25E3%2582%2592%25E3%2582%2584%25E3%2582%2589%25E3%2581%259B%25E3%2581%25A6%25E3%2582%2582%25E3%2580%2581%25E3%2581%259D%25E3%2581%25AE%25E4%25BE%25A1%25E5%2580%25A4%25E3%2581%25AF%25E6%25AE%258B%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25E2%2594%2580%25E2%2594%2580%25E6%2589%258B%25E9%25A0%2586%25E3%2581%25A7%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%258F%25E5%2588%25A9%25E7%259B%258A%25E3%2582%2592%25E5%25BC%2595%25E3%2581%258D%25E7%25B6%2599%25E3%2581%2590%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mahitotsu%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUdObXl4YlNHZHlEUlp4WmdETF81ZE1pcklOZkwyN1ExSHZKX2hVa3p5SzQ9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[1週間の計算を1分ずつ総当たりし、増減と合計のずれをテストする | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/jisaku_net/articles/weekly-calculation-exhaustive-tests</link>
+            <guid>https://zenn.dev/jisaku_net/articles/weekly-calculation-exhaustive-tests</guid>
+            <pubDate>Wed, 14 Oct 2026 20:24:34 GMT</pubDate>
+            <description><![CDATA[AI利用枠シミュレーターは、利用枠が回復する時刻を動かして、1週間に使う量を比較する自作Webアプリです。公開済みで、日付と時刻、スライダーから条件を指定できます。このアプリは、決めた使い方をもとに計算する試算ツールです。実サービスの利用枠を取得する機能はなく、各社の回復仕様を保証するものでもありません。計算モデルを変更したとき、代表的な時刻だけをテストするのではなく、スライダーの全位置を調べまし]]></description>
+            <content:encoded><![CDATA[AI利用枠シミュレーターは、利用枠が回復する時刻を動かして、1週間に使う量を比較する自作Webアプリです。公開済みで、日付と時刻、スライダーから条件を指定できます。このアプリは、決めた使い方をもとに計算する試算ツールです。実サービスの利用枠を取得する機能はなく、各社の回復仕様を保証するものでもありません。計算モデルを変更したとき、代表的な時刻だけをテストするのではなく、スライダーの全位置を調べました。1週間を1分単位にすると10,080通りです。この規模なら、すべて計算してもテストは短時間で終わります。 何を計算しているか比較する期間は、入力した週間リセット日時までの7日間です...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--xYYNRvZN--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:1%25E9%2580%25B1%25E9%2596%2593%25E3%2581%25AE%25E8%25A8%2588%25E7%25AE%2597%25E3%2582%25921%25E5%2588%2586%25E3%2581%259A%25E3%2581%25A4%25E7%25B7%258F%25E5%25BD%2593%25E3%2581%259F%25E3%2582%258A%25E3%2581%2597%25E3%2580%2581%25E5%25A2%2597%25E6%25B8%259B%25E3%2581%25A8%25E5%2590%2588%25E8%25A8%2588%25E3%2581%25AE%25E3%2581%259A%25E3%2582%258C%25E3%2582%2592%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E4%25BD%2595%25E3%2581%25A7%25E3%2582%2582%25E8%2587%25AA%25E4%25BD%259C%25E3%2581%2599%25E3%2582%258B%25E4%25BA%25BA%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZkYTc3MDIzMjguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[PoCで終わらせない最適化 | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/ctenopoma/books/optimization_production</link>
+            <guid>https://zenn.dev/ctenopoma/books/optimization_production</guid>
+            <pubDate>Wed, 14 Oct 2026 12:19:26 GMT</pubDate>
+            <description><![CDATA[PoCで動いた最適化モデルを、本番システムとして動かし続けるための本です。100行のシフト最適化PoCを題材に、モデルのテスト設計、入力データのバリデーションなど、求解だけで終わらせず現場で使い続けられるシステムへ育てます。]]></description>
+            <content:encoded><![CDATA[PoCで動いた最適化モデルを、本番システムとして動かし続けるための本です。100行のシフト最適化PoCを題材に、モデルのテスト設計、入力データのバリデーションなど、求解だけで終わらせず現場で使い続けられるシステムへ育てます。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://res.cloudinary.com/zenn/image/upload/s--fHp4Kl3k--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci8yMGZlZWI3OWM2LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[Playwright MCPを使ってアドホックテストを行ってみた | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/kishimin/articles/ad61bdb2397f13</link>
+            <guid>https://zenn.dev/kishimin/articles/ad61bdb2397f13</guid>
+            <pubDate>Wed, 14 Oct 2026 12:04:56 GMT</pubDate>
+            <description><![CDATA[なぜ調べたかPlaywright MCPとCodexを使って、アドホックテストを行ってみたかったため。 学んだこと Playwright MCPとはPlaywright MCPは、AIエージェントがブラウザを操作するためのMCPサーバーです。ページのアクセシビリティ情報を利用して、画面遷移やクリック、フォームへの入力などを行えます。今回はCodexと組み合わせて、アドホックテストを実施しました。 ]]></description>
+            <content:encoded><![CDATA[なぜ調べたかPlaywright MCPとCodexを使って、アドホックテストを行ってみたかったため。 学んだこと Playwright MCPとはPlaywright MCPは、AIエージェントがブラウザを操作するためのMCPサーバーです。ページのアクセシビリティ情報を利用して、画面遷移やクリック、フォームへの入力などを行えます。今回はCodexと組み合わせて、アドホックテストを実施しました。 Playwright MCPの導入方法CodexでPlaywright MCPを利用できるようにします。前提として、Node.jsとCodexが必要です。以下のコマ...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--0p6fF_o---/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Playwright%2520MCP%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2582%25A2%25E3%2583%2589%25E3%2583%259B%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2582%2592%25E8%25A1%258C%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kishimin%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzUyMzYxNDE0MmUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[点を線にして、QA組織の次の「当たり前」をつくっていく | QA - SmartHR Tech Blog]]></title>
+            <link>https://tech.smarthr.jp/entry/2026/10/14/145752</link>
+            <guid>https://tech.smarthr.jp/entry/2026/10/14/145752</guid>
+            <pubDate>Wed, 14 Oct 2026 05:57:52 GMT</pubDate>
+            <description><![CDATA[こんにちは、品質保証本部のtarappo です。 2024年9月にSmartHR 品質保証部のActing Managerとして入社して、現在は品質保証本部のDirectorとして働いています。 入社してからあっという間に2年が経ちました。 その間にいろいろなことを経験しつつ、さまざまなことに取り組んできました。 それらは別々の施策を次々と進めたというより、多くの「点」をつなぎ、組織として継続的に]]></description>
+            <content:encoded><![CDATA[こんにちは、品質保証本部のtarappo です。 2024年9月にSmartHR 品質保証部のActing Managerとして入社して、現在は品質保証本部のDirectorとして働いています。 入社してからあっという間に2年が経ちました。 その間にいろいろなことを経験しつつ、さまざまなことに取り組んできました。 それらは別々の施策を次々と進めたというより、多くの「点」をつなぎ、組織として継続的に品質を高められる一本の「線」にしていく取り組みだったと考えています。 個々の取り組みについては、ブログや登壇などでその都度発信してきました。 今回はそれらの詳細を説明するのではなく、これまでの記事も参…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/cae0f363514f576684bf1f542982948d6ab009fa/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmarthr%2F20261014%2F20261014145753.png" alt="点を線にして、QA組織の次の「当たり前」をつくっていく - SmartHR Tech Blog"/>
+        </item>
+        <item>
+            <title><![CDATA[「いま押せるボタン」を、状態から推し量らない | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/miyakona/articles/buttons-from-posted-panel</link>
+            <guid>https://zenn.dev/miyakona/articles/buttons-from-posted-panel</guid>
+            <pubDate>Wed, 14 Oct 2026 05:30:18 GMT</pubDate>
+            <description><![CDATA[定例作業をチャットBotで案内しています。担当者がスレッドに出たボタンを順に押し、Botが次の操作を案内する流れです。ここでは、このボタン付きメッセージを「操作盤」と呼びます。ところが、再投稿したときの案内は、こんな言い方のままでした。このスレッドに操作用のボタンが残っている場合は、先にそちらで終わらせてください。Bot自身が出したボタンなのに、名前を言えない。毎日のリマインドでも押すものを名指し]]></description>
+            <content:encoded><![CDATA[定例作業をチャットBotで案内しています。担当者がスレッドに出たボタンを順に押し、Botが次の操作を案内する流れです。ここでは、このボタン付きメッセージを「操作盤」と呼びます。ところが、再投稿したときの案内は、こんな言い方のままでした。このスレッドに操作用のボタンが残っている場合は、先にそちらで終わらせてください。Bot自身が出したボタンなのに、名前を言えない。毎日のリマインドでも押すものを名指しできず、担当者がスレッドを遡って確認する必要がありました。この記事は、ボタン付きメッセージを投稿・更新するBotを保守し、案内文と表示のずれに困っている人に向けて書きます。Pytho...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--snzr-xgi--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258C%25E3%2581%2584%25E3%2581%25BE%25E6%258A%25BC%25E3%2581%259B%25E3%2582%258B%25E3%2583%259C%25E3%2582%25BF%25E3%2583%25B3%25E3%2580%258D%25E3%2582%2592%25E3%2580%2581%25E7%258A%25B6%25E6%2585%258B%25E3%2581%258B%25E3%2582%2589%25E6%258E%25A8%25E3%2581%2597%25E9%2587%258F%25E3%2582%2589%25E3%2581%25AA%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:miyakona%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzc0MzEzNDFiODYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[AIが生成したテストコードを、レビューでどう扱うか | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/vaonvn/articles/0fbeb2f9a2e57d</link>
+            <guid>https://zenn.dev/vaonvn/articles/0fbeb2f9a2e57d</guid>
+            <pubDate>Wed, 14 Oct 2026 01:27:20 GMT</pubDate>
+            <description><![CDATA[LLM にテストコードを書かせると、プルリクエストには緑のチェックが並んだ状態で届きます。テストが全部通っているので、レビューする側もつい「テストもあるし大丈夫そう」と承認したくなります。ところが、通っているテストが何を守っているのかは、緑のチェックからは分かりません。Qiita や Zenn は、AI が生成した内容を人が確かめてから公開することを求めています。テストコードも同じで、AI が書い]]></description>
+            <content:encoded><![CDATA[LLM にテストコードを書かせると、プルリクエストには緑のチェックが並んだ状態で届きます。テストが全部通っているので、レビューする側もつい「テストもあるし大丈夫そう」と承認したくなります。ところが、通っているテストが何を守っているのかは、緑のチェックからは分かりません。Qiita や Zenn は、AI が生成した内容を人が確かめてから公開することを求めています。テストコードも同じで、AI が書いたものは、人が中身を確かめてから取り込みたいものです。この記事では、AI が生成したテストコードをレビューするときに見落としやすいパターンを、架空の小さな例で実際に動かしながら整理します。確...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--8Cca2WVB--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%258C%25E7%2594%259F%25E6%2588%2590%25E3%2581%2597%25E3%2581%259F%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2582%2592%25E3%2580%2581%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2581%25A7%25E3%2581%25A9%25E3%2581%2586%25E6%2589%25B1%25E3%2581%2586%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:VAON%2520VIET%2520NAM%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSmJkeEs0VF9XdW9ubWdHelEycFQ4ZGtYZ1FOdjRoVG4zbkNmR2E0VF9SRHhoNy03OD1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[CLAUDE.md の「無料版を体験版にしない」をテストに移しました。それでも、画面の置き場所が門になっていました | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/rapls/articles/359c2c49d9b764</link>
+            <guid>https://zenn.dev/rapls/articles/359c2c49d9b764</guid>
+            <pubDate>Wed, 14 Oct 2026 01:16:58 GMT</pubDate>
+            <description><![CDATA[AI と一緒にコードを書いていると、守ってほしい方針を CLAUDE.md に書いておくことになります。書いておけば、毎回読んでくれる。ただ、読んでくれることと、守られていることは別です。自作の WordPress プラグインのうち、AI Chatbot と PDF Image Creator には、無料版と、追加で買う Pro 版があります。どちらにも共通の方針が1つあります。無料版を、有料版を]]></description>
+            <content:encoded><![CDATA[AI と一緒にコードを書いていると、守ってほしい方針を CLAUDE.md に書いておくことになります。書いておけば、毎回読んでくれる。ただ、読んでくれることと、守られていることは別です。自作の WordPress プラグインのうち、AI Chatbot と PDF Image Creator には、無料版と、追加で買う Pro 版があります。どちらにも共通の方針が1つあります。無料版を、有料版を売るための体験版にしない。無料版でできていたことを Pro 版に移さないし、無料版の既定値を下げて Pro 版を良く見せることもしない。この方針を、PDF Image Creator ではテ...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--gAeIV89u--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:CLAUDE.md%2520%25E3%2581%25AE%25E3%2580%258C%25E7%2584%25A1%25E6%2596%2599%25E7%2589%2588%25E3%2582%2592%25E4%25BD%2593%25E9%25A8%2593%25E7%2589%2588%25E3%2581%25AB%25E3%2581%2597%25E3%2581%25AA%25E3%2581%2584%25E3%2580%258D%25E3%2582%2592%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AB%25E7%25A7%25BB%25E3%2581%2597%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%25E3%2580%2582%25E3%2581%259D%25E3%2582%258C%25E3%2581%25A7%25E3%2582%2582%25E3%2580%2581%25E7%2594%25BB%25E9%259D%25A2%25E3%2581%25AE%25E7%25BD%25AE%25E3%2581%258D%25E5%25A0%25B4%25E6%2589%2580%25E3%2581%258C%25E9%2596%2580%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%2584%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Rapls%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2RlODIyZTEyOWEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[厚生年金の標準報酬月額の上限引き上げ(2027〜2029年)の保険料を、時点別の等級表とテストで計算するツールを作成しました | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/tsumu26/articles/526ce667f80d21</link>
+            <guid>https://zenn.dev/tsumu26/articles/526ce667f80d21</guid>
+            <pubDate>Wed, 14 Oct 2026 01:09:03 GMT</pubDate>
+            <description><![CDATA[はじめに厚生年金の標準報酬月額の上限が、2027年9月から3段階で上がります。自分の月の報酬だと、保険料がいくら変わるのかを、現行と並べて確認できる計算ツールを作りました。ツール: https://seidolab.com/tools/pension-cap/月の報酬別の一覧: https://seidolab.com/tools/pension-cap/tsuki/フロントエンドだけの静的サイト]]></description>
+            <content:encoded><![CDATA[はじめに厚生年金の標準報酬月額の上限が、2027年9月から3段階で上がります。自分の月の報酬だと、保険料がいくら変わるのかを、現行と並べて確認できる計算ツールを作りました。ツール: https://seidolab.com/tools/pension-cap/月の報酬別の一覧: https://seidolab.com/tools/pension-cap/tsuki/フロントエンドだけの静的サイトで、入力した内容はブラウザの中だけで計算し、送信しません。この記事では、制度の要点と、「時点によって等級表が変わる」計算をどう組んだかをまとめます。 何が変わるのか厚生...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--UYzvT4Uq--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%258E%259A%25E7%2594%259F%25E5%25B9%25B4%25E9%2587%2591%25E3%2581%25AE%25E6%25A8%2599%25E6%25BA%2596%25E5%25A0%25B1%25E9%2585%25AC%25E6%259C%2588%25E9%25A1%258D%25E3%2581%25AE%25E4%25B8%258A%25E9%2599%2590%25E5%25BC%2595%25E3%2581%258D%25E4%25B8%258A%25E3%2581%2592%25282027%25E3%2580%259C2029%25E5%25B9%25B4%2529%25E3%2581%25AE%25E4%25BF%259D%25E9%2599%25BA%25E6%2596%2599%25E3%2582%2592%25E3%2580%2581%25E6%2599%2582%25E7%2582%25B9%25E5%2588%25A5%25E3%2581%25AE%25E7%25AD%2589%25E7%25B4%259A%25E8%25A1%25A8%25E3%2581%25A8%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25A7%25E8%25A8%2588%25E7%25AE%2597%25E3%2581%2599%25E3%2582%258B%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%2592%25E4%25BD%259C...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25A4%25E3%2582%2580%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS1BROF9vN2g1TG9NRkpHU0o4c0tfREJHRnkzbUtDNndKS2xhSUs0TjByWGpDMGNYcz1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[【第1回】AI時代に、「場」を通してつながる①～関係性で生じる「違和感」と、場をつくるという手段～│専門家2人による往復書簡 | 品質 | Sqripts]]></title>
+            <link>https://sqripts.com/2026/10/14/106538/</link>
+            <guid>https://sqripts.com/?p=106538</guid>
+            <pubDate>Wed, 14 Oct 2026 00:47:27 GMT</pubDate>
+            <description><![CDATA[はじめに 皆さんは普段、テストや品質に携わっていて、関係性を感じることはありますか？ 「Connecting The Dots」では、今まで現場やコミュニティの中で出会ってきた専門家の皆様と、往復書簡のような形で意見を交...The post 【第1回】AI時代に、「場」を通してつながる①～関係性で生じる「違和感」と、場をつくるという手段～│専門家2人による往復書簡 first appeared ]]></description>
+            <content:encoded><![CDATA[はじめに 皆さんは普段、テストや品質に携わっていて、関係性を感じることはありますか？ 「Connecting The Dots」では、今まで現場やコミュニティの中で出会ってきた専門家の皆様と、往復書簡のような形で意見を交...The post 【第1回】AI時代に、「場」を通してつながる①～関係性で生じる「違和感」と、場をつくるという手段～│専門家2人による往復書簡 first appeared on Sqripts.]]></content:encoded>
+            <category>特集</category>
+            <category>品質</category>
+            <category>ソフトウェアテスト</category>
+            <category>QAエンジニア</category>
+            <category>スクラム</category>
+            <enclosure length="0" type="png" height="630" url="https://sqripts.com/wp-content/uploads/2026/09/Connecting_the_dots_202610_thumb_01.png" width="1200"/>
+        </item>
+        <item>
+            <title><![CDATA[AI の「テストが通りました」を信じない:終了コードを証拠にする | Zennの「Test」のフィード]]></title>
+            <link>https://zenn.dev/k_iijima/articles/c93db4323345ec</link>
+            <guid>https://zenn.dev/k_iijima/articles/c93db4323345ec</guid>
+            <pubDate>Tue, 13 Oct 2026 22:07:41 GMT</pubDate>
+            <description><![CDATA[はじめに私は、小さな事業者むけの業務ソフトを一人で作っています。開発は AI エージェント(Claude Code)にまかせています。AI にまかせていると、テストの結果は AI の言葉で届きます。「テストが通りました」「すべて成功しました」。ところが一度、通ったと報告されたテストが、実際には失敗していた ことがありました。この記事では、そのしくみと、それから AI に守らせていることを書きます。]]></description>
+            <content:encoded><![CDATA[はじめに私は、小さな事業者むけの業務ソフトを一人で作っています。開発は AI エージェント(Claude Code)にまかせています。AI にまかせていると、テストの結果は AI の言葉で届きます。「テストが通りました」「すべて成功しました」。ところが一度、通ったと報告されたテストが、実際には失敗していた ことがありました。この記事では、そのしくみと、それから AI に守らせていることを書きます。前の記事(Claude Code の deny だけでは git push を止めきれない話)の続きで、今回は「AI の勘違いをどう防ぐか」の話です。 終了コードとは命令は、終...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--2tGisUOu--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%2520%25E3%2581%25AE%25E3%2580%258C%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%258C%25E9%2580%259A%25E3%2582%258A%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%25E3%2580%258D%25E3%2582%2592%25E4%25BF%25A1%25E3%2581%2598%25E3%2581%25AA%25E3%2581%2584%253A%25E7%25B5%2582%25E4%25BA%2586%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2582%2592%25E8%25A8%25BC%25E6%258B%25A0%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E9%25A3%25AF%25E5%25B3%25B6%25E7%25B4%2598%25E4%25B8%2580%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSmVEalRwUXNtSHZQTnVVRXpyUGphUE1mSWJOVU9LRWNDM2pzUlVKS2tfb0JoclRIbz1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[SWEPatchTest: Evaluating Software Tests Beyond Reproduction | arXiv Query: search_query=all:"software testing"&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10]]></title>
+            <link>https://arxiv.org/abs/2610.18004v1</link>
+            <guid>https://arxiv.org/abs/2610.18004v1</guid>
+            <pubDate>Tue, 13 Oct 2026 09:04:57 GMT</pubDate>
+            <description><![CDATA[Coding agents use generated tests to decide whether a proposed patch satisfies an issue's requirements. A suite that fails on the buggy program and passes after applying the reference patch can still ]]></description>
+            <content:encoded><![CDATA[Coding agents use generated tests to decide whether a proposed patch satisfies an issue's requirements. A suite that fails on the buggy program and passes after applying the reference patch can still accept an incorrect patch or reject a correct patch. We introduce SWEPATCHTEST, a test-generation benchmark with 619 tasks from SWE-bench Pro, SWE-bench Multilingual, and DeepSWE and 82,579 candidate patches collected from coding-agent trajectories. By replaying each suite on the buggy and patched c]]></content:encoded>
+            <enclosure length="0" type="png" height="700" url="https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png" width="1200" alt="arXiv logo"/>
+        </item>
+        <item>
+            <title><![CDATA[JSTQB（ソフトウェアテスト技術者資格認定組織）、テスト自動化戦略スペシャリスト（CT-TAS）Version 1.0 J01 シラバスの日本語翻訳版を公開 | 特定非営利活動法人ソフトウェアテスト技術振興協会【プレスリリース】 by PR TIMES]]></title>
+            <link>https://prtimes.jp/main/html/rd/p/000000060.000054604.html</link>
+            <guid>https://prtimes.jp/main/html/rd/p/000000060.000054604.html</guid>
+            <pubDate>Tue, 13 Oct 2026 05:00:02 GMT</pubDate>
+            <description><![CDATA[[特定非営利活動法人ソフトウェアテスト技術振興協会]JSTQB（ソフトウェアテスト技術者資格認定組織）は、2026 年 10 月 13 日（火）にテスト自動化戦略スペシャリスト（CT-TAS）Version 1.0 J01 シラバスの日本語翻訳版を公開しました。本シラバスは、組織内でテス...]]></description>
+            <content:encoded><![CDATA[[特定非営利活動法人ソフトウェアテスト技術振興協会]JSTQB（ソフトウェアテスト技術者資格認定組織）は、2026 年 10 月 13 日（火）にテスト自動化戦略スペシャリスト（CT-TAS）Version 1.0 J01 シラバスの日本語翻訳版を公開しました。本シラバスは、組織内でテス...]]></content:encoded>
+            <enclosure length="0" type="image/jpeg" height="630" url="https://prcdn.freetls.fastly.net/release_image/54604/60/54604-60-2b634883faf7a09a90359ededda4b265-775x340.jpg?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260" width="1200"/>
+        </item>
+        <item>
+            <title><![CDATA[良いテストを書き、良いテストを見分ける ─『単体テストの考え方/使い方』のエッセンス | Zennの「品質」のフィード]]></title>
+            <link>https://zenn.dev/nexta_/articles/unit-testing-principles-essence</link>
+            <guid>https://zenn.dev/nexta_/articles/unit-testing-principles-essence</guid>
+            <pubDate>Tue, 13 Oct 2026 02:30:05 GMT</pubDate>
+            <description><![CDATA[はじめに株式会社ネクスタの tetsu.k です。生産管理SaaS「スマートF」の開発に携わっており、受注・発注・出荷・見積などのドメインを担当するチームに所属しています。ネクスタでは、事業の拡大とともにアプリケーションが複雑になっていくなかで、より速く、より良い価値を届け続けるために、「品質」に力を入れています。品質を支える手段の一つが、単体テストです。いまはAIに頼めば、テストを数秒で何十本も]]></description>
+            <content:encoded><![CDATA[はじめに株式会社ネクスタの tetsu.k です。生産管理SaaS「スマートF」の開発に携わっており、受注・発注・出荷・見積などのドメインを担当するチームに所属しています。ネクスタでは、事業の拡大とともにアプリケーションが複雑になっていくなかで、より速く、より良い価値を届け続けるために、「品質」に力を入れています。品質を支える手段の一つが、単体テストです。いまはAIに頼めば、テストを数秒で何十本も書いてくれます。では、テストを増やせば品質は上がるのでしょうか。結論から言うと、大切なのはテストの数を増やすことではなく、次の2つです。良いテストを書くこと目の前のテスト...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--cr56N4Ll--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%2589%25AF%25E3%2581%2584%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2582%2592%25E6%259B%25B8%25E3%2581%258D%25E3%2580%2581%25E8%2589%25AF%25E3%2581%2584%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2582%2592%25E8%25A6%258B%25E5%2588%2586%25E3%2581%2591%25E3%2582%258B%2520%25E2%2594%2580%25E3%2580%258E%25E5%258D%2598%25E4%25BD%2593%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AE%25E8%2580%2583%25E3%2581%2588%25E6%2596%25B9%252F%25E4%25BD%25BF%25E3%2581%2584%25E6%2596%25B9%25E3%2580%258F%25E3%2581%25AE%25E3%2582%25A8%25E3%2583%2583%25E3%2582%25BB%25E3%2583%25B3%25E3%2582%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:tetsu.k%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U0ZGE2N2U3OWYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Nexta%2520Tech%2520Blog%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzgzM2EzY2M1MTMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[AI Agentの交差検証：複数の視点で、根拠を確かめる | ソフトウェアテストタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/engchina/items/e0049b71d34a6c53d3d5</link>
+            <guid>https://qiita.com/engchina/items/e0049b71d34a6c53d3d5</guid>
+            <pubDate>Mon, 12 Oct 2026 11:21:52 GMT</pubDate>
+            <description><![CDATA[初めにAgentがコードを書き、最後に「問題ありません」と報告する。ただ、そのAgent自身が見落とした問題を、自分で見つけられるとは限りません。そこで、作成する役割と、検証する役割を分ける方法を考えます。この記事では、別のAgentが成果物と根拠を確認する仕組...]]></description>
+            <content:encoded><![CDATA[初めにAgentがコードを書き、最後に「問題ありません」と報告する。ただ、そのAgent自身が見落とした問題を、自分で見つけられるとは限りません。そこで、作成する役割と、検証する役割を分ける方法を考えます。この記事では、別のAgentが成果物と根拠を確認する仕組...]]></content:encoded>
+            <enclosure length="0" type="image/1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzOTMyNzgxJTJGOTA5ODgyYWQ5YTcwNWVmZjI2ZmM5NDBmMzg0MzQwMWU3OWQyNjY4YyUyRnhfbGFyZ2UucG5nJTNGMTc2OTAzODc0OD9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NjlhZjBhYTliMGQ4ZGI2ODU0N2Q1MmJiNzIxZjNhOWQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dcd90e93143b337f0499d992a3f230c37" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzOTMyNzgxJTJGOTA5ODgyYWQ5YTcwNWVmZjI2ZmM5NDBmMzg0MzQwMWU3OWQyNjY4YyUyRnhfbGFyZ2UucG5nJTNGMTc2OTAzODc0OD9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NjlhZjBhYTliMGQ4ZGI2ODU0N2Q1MmJiNzIxZjNhOWQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dcd90e93143b337f0499d992a3f230c37?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklMjBBZ2VudCVFMyU4MSVBRSVFNCVCQSVBNCVFNSVCNyVBRSVFNiVBNCU5QyVFOCVBOCVCQyVFRiVCQyU5QSVFOCVBNCU4NyVFNiU5NSVCMCVFMyU4MSVBRSVFOCVBNiU5NiVFNyU4MiVCOSVFMyU4MSVBNyVFMyU4MCU4MSVFNiVBMCVCOSVFNiU4QiVBMCVFMyU4MiU5MiVFNyVBMiVCQSVFMyU4MSU4QiVFMyU4MiU4MSVFMyU4MiU4QiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWM2MmNkY2U2ODAwZTRkMTVmYjBkZWQ2MzE4YzdhY2Y3&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBlbmdjaGluYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWJjNzFmYTUzNmUwM2I1OWMzMmYzZjlmMDM3ZTI5MTcz&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=2182bf8afbb9fec47aa3f61f6204c26a"/>
+        </item>
+        <item>
+            <title><![CDATA[Software Testing Meets Bayesian Workflow: A Literature-Driven Artifact Study of Probabilistic Programs | arXiv Query: search_query=all:"software testing"&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10]]></title>
+            <link>https://arxiv.org/abs/2610.16594v1</link>
+            <guid>https://arxiv.org/abs/2610.16594v1</guid>
+            <pubDate>Mon, 12 Oct 2026 11:16:51 GMT</pubDate>
+            <description><![CDATA[Automated testing is an effective software quality assurance method, but it is rarely used for probabilistic models. This is despite the heavy use of probabilistic programming for data analytics in re]]></description>
+            <content:encoded><![CDATA[Automated testing is an effective software quality assurance method, but it is rarely used for probabilistic models. This is despite the heavy use of probabilistic programming for data analytics in research and engineering, where the consequences of errors are dire. A key obstacle is the specification of testable correctness properties for probabilistic models, known as the oracle problem. Like machine learning, probabilistic programming is used precisely where no analytical specification exists]]></content:encoded>
+            <enclosure length="0" type="png" height="700" url="https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png" width="1200" alt="arXiv logo"/>
+        </item>
+        <item>
+            <title><![CDATA[QAエンジニアの歌つくっちゃった | QAを楽しむ者]]></title>
+            <link>https://note.com/qa_tpen/n/n84d0d4713ceb</link>
+            <guid>https://note.com/qa_tpen/n/n84d0d4713ceb</guid>
+            <pubDate>Sun, 11 Oct 2026 10:54:15 GMT</pubDate>
+            <description><![CDATA[最近、個人的に suno.ai が楽しくて、課金するくらいハマっています。ちょっと仕事で、QAについて他部署にもわかってもらえるようなドキュメント作成というのがあり、やっていました。続きをみる]]></description>
+            <content:encoded><![CDATA[最近、個人的に suno.ai が楽しくて、課金するくらいハマっています。ちょっと仕事で、QAについて他部署にもわかってもらえるようなドキュメント作成というのがあり、やっていました。続きをみる]]></content:encoded>
+            <enclosure length="0" type="jpeg" url="https://assets.st-note.com/production/uploads/images/323240067/rectangle_large_type_2_e17651ea3610a1a26fbeb4472b77f19d.jpeg?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[Agentに向いているタスクは？「目標の明確さ」と「自動検証」で4分類してみる | ソフトウェアテストタグが付けられた新着記事 - Qiita]]></title>
+            <link>https://qiita.com/engchina/items/94d33d0f1e4bf91cac01</link>
+            <guid>https://qiita.com/engchina/items/94d33d0f1e4bf91cac01</guid>
+            <pubDate>Sun, 11 Oct 2026 08:05:47 GMT</pubDate>
+            <description><![CDATA[初めにコード修正、資料作成、調査、業務改善。AI Agentに任せたい作業はたくさんあります。ただ、同じように依頼しても、自律的に進めやすいタスクと、人の判断が必要なタスクがあります。今回は、**「目標が明確か」×「自動で検証できるか」**の2軸で整理します。Ag...]]></description>
+            <content:encoded><![CDATA[初めにコード修正、資料作成、調査、業務改善。AI Agentに任せたい作業はたくさんあります。ただ、同じように依頼しても、自律的に進めやすいタスクと、人の判断が必要なタスクがあります。今回は、**「目標が明確か」×「自動で検証できるか」**の2軸で整理します。Ag...]]></content:encoded>
+            <enclosure length="0" type="image/1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzOTMyNzgxJTJGOTA5ODgyYWQ5YTcwNWVmZjI2ZmM5NDBmMzg0MzQwMWU3OWQyNjY4YyUyRnhfbGFyZ2UucG5nJTNGMTc2OTAzODc0OD9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NjlhZjBhYTliMGQ4ZGI2ODU0N2Q1MmJiNzIxZjNhOWQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dcd90e93143b337f0499d992a3f230c37" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzOTMyNzgxJTJGOTA5ODgyYWQ5YTcwNWVmZjI2ZmM5NDBmMzg0MzQwMWU3OWQyNjY4YyUyRnhfbGFyZ2UucG5nJTNGMTc2OTAzODc0OD9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NjlhZjBhYTliMGQ4ZGI2ODU0N2Q1MmJiNzIxZjNhOWQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dcd90e93143b337f0499d992a3f230c37?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QWdlbnQlRTMlODElQUIlRTUlOTAlOTElRTMlODElODQlRTMlODElQTYlRTMlODElODQlRTMlODIlOEIlRTMlODIlQkYlRTMlODIlQjklRTMlODIlQUYlRTMlODElQUYlRUYlQkMlOUYlRTMlODAlOEMlRTclOUIlQUUlRTYlQTglOTklRTMlODElQUUlRTYlOTglOEUlRTclQTIlQkElRTMlODElOTUlRTMlODAlOEQlRTMlODElQTglRTMlODAlOEMlRTglODclQUElRTUlOEIlOTUlRTYlQTQlOUMlRTglQTglQkMlRTMlODAlOEQlRTMlODElQTc0JUU1JTg4JTg2JUU5JUExJTlFJUUzJTgxJTk3JUUzJTgxJUE2JUUzJTgxJUJGJUUzJTgyJThCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZThmYzRhMjhlZDE4ZGI0NWRhNDg0Yjk5NGYwNWIyMWY&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBlbmdjaGluYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWJjNzFmYTUzNmUwM2I1OWMzMmYzZjlmMDM3ZTI5MTcz&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=2dbcdbe62a62dc7a3c43389e798fd232"/>
+        </item>
+        <item>
+            <title><![CDATA[第409回：　「ALTM」23　（テストプロセス改善: イントロダクション）  | Kouichi Akiyama]]></title>
+            <link>https://note.com/akiyama924/n/n17f2b41918f0</link>
+            <guid>https://note.com/akiyama924/n/n17f2b41918f0</guid>
+            <pubDate>Sat, 10 Oct 2026 22:12:07 GMT</pubDate>
+            <description><![CDATA[◀前の記事へ 次の記事へ▶︎続きをみる]]></description>
+            <content:encoded><![CDATA[◀前の記事へ 次の記事へ▶︎続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/321000030/rectangle_large_type_2_28cc1744e86cf99e956e098c47186ce0.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[起票する前に、重複バグを見つけよう | Zennの「QA」のフィード]]></title>
+            <link>https://zenn.dev/bugitdev/articles/dbfa1909be1dec</link>
+            <guid>https://zenn.dev/bugitdev/articles/dbfa1909be1dec</guid>
+            <pubDate>Fri, 09 Oct 2026 19:44:16 GMT</pubDate>
+            <description><![CDATA[ログイン画面のバグを例に考えてみます。月曜日にテスターが「ログインのスピナーが回り続ける」と書きました。火曜日にはサポート担当が「パスワード画面の後でサインインできない」と書きました。水曜日には開発者が、トークン更新のタイムアウトに触れた3件目の報告を見つけました。チケットは3件、担当者は3人、バグは1つです。それぞれのチケットが答えの一部を持っています。1件目には手順があり、2件目には待っている]]></description>
+            <content:encoded><![CDATA[ログイン画面のバグを例に考えてみます。月曜日にテスターが「ログインのスピナーが回り続ける」と書きました。火曜日にはサポート担当が「パスワード画面の後でサインインできない」と書きました。水曜日には開発者が、トークン更新のタイムアウトに触れた3件目の報告を見つけました。チケットは3件、担当者は3人、バグは1つです。それぞれのチケットが答えの一部を持っています。1件目には手順があり、2件目には待っているお客様がいて、3件目にはログがあります。全体像を誰も見られないまま、同じ問題を誰かが3回トリアージすることになります。重複は不注意の表れではありません。違う人が同じことを違う言葉で表現すると...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--JhLm-Mk5--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%25B5%25B7%25E7%25A5%25A8%25E3%2581%2599%25E3%2582%258B%25E5%2589%258D%25E3%2581%25AB%25E3%2580%2581%25E9%2587%258D%25E8%25A4%2587%25E3%2583%2590%25E3%2582%25B0%25E3%2582%2592%25E8%25A6%258B%25E3%2581%25A4%25E3%2581%2591%25E3%2582%2588%25E3%2581%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:BugIt%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvYi5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+    </channel>
+</rss>

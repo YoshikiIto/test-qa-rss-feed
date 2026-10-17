@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yoshikiito.github.io/test-qa-rss-feed/</id>
+    <title>テスト・QA関連ブログRSS</title>
+    <updated>2026-10-17T16:13:10.945Z</updated>
+    <generator>yoshikiito/test-qa-rss-feed</generator>
+    <link rel="alternate" href="https://yoshikiito.github.io/test-qa-rss-feed/"/>
+    <link rel="self" href="https://yoshikiito.github.io/test-qa-rss-feed/feeds/atom.xml"/>
+    <subtitle>企テスト・QA関連ブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://yoshikiito.github.io/test-qa-rss-feed/images/icon.png</logo>
+    <icon>https://yoshikiito.github.io/test-qa-rss-feed/images/favicon.ico</icon>
+    <rights>yoshikiito/test-qa-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[インボイス3割特例の判定を、国税庁のフローチャートどおりに関数化して、納付税額を3方式で比較するツールを作成しました | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/tsumu26/articles/7fb72c2a79a0d8</id>
+        <link href="https://zenn.dev/tsumu26/articles/7fb72c2a79a0d8"/>
+        <updated>2026-10-17T08:47:51.000Z</updated>
+        <summary type="html"><![CDATA[はじめにインボイス制度を機に課税事業者になった個人事業者向けの特例が、2026年度の税制改正で変わります。令和8年分(2027年3月の申告)が2割特例の最後の年で、令和9年分・令和10年分は、新設された3割特例の対象です。「この特例は使えるのか」「一般課税や簡易課税と納付税額がどう違うのか」を、ひと目で比べられる計算ツールを作りました。ツール: https://seidolab.com/tools]]></summary>
+        <content type="html"><![CDATA[はじめにインボイス制度を機に課税事業者になった個人事業者向けの特例が、2026年度の税制改正で変わります。令和8年分(2027年3月の申告)が2割特例の最後の年で、令和9年分・令和10年分は、新設された3割特例の対象です。「この特例は使えるのか」「一般課税や簡易課税と納付税額がどう違うのか」を、ひと目で比べられる計算ツールを作りました。ツール: https://seidolab.com/tools/invoice-3wari/フロントエンドだけの静的サイトで、入力した内容はブラウザの中だけで計算し、送信しません。この記事では、制度の要点と、判定を関数にした過程、端数処理の...]]></content>
+        <author>
+            <name>つむ</name>
+        </author>
+        <published>2026-10-17T08:47:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI がコミットに「mutation-checked」と書いたテストを、もう一度壊して確かめました | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/rapls/articles/7c6221a96e847d</id>
+        <link href="https://zenn.dev/rapls/articles/7c6221a96e847d"/>
+        <updated>2026-10-17T02:04:02.000Z</updated>
+        <summary type="html"><![CDATA[AI にコードを直してもらうと、テストも一緒に書いてくれます。そのテストが本当に効いているかは、テストが通ったことからは分かりません。直した行を壊しても通るテストは、何も見張っていないからです。自作の WordPress プラグイン PDF Image Creator の 1.4.33 で、Claude はコミットメッセージの最後にこう書きました。- Dead code removed; tran]]></summary>
+        <content type="html"><![CDATA[AI にコードを直してもらうと、テストも一緒に書いてくれます。そのテストが本当に効いているかは、テストが通ったことからは分かりません。直した行を壊しても通るテストは、何も見張っていないからです。自作の WordPress プラグイン PDF Image Creator の 1.4.33 で、Claude はコミットメッセージの最後にこう書きました。- Dead code removed; translations (263); tests for each fix, mutation-checked.直したところごとにテストを足し、それを mutation で確かめた、という意味で...]]></content>
+        <author>
+            <name>Rapls</name>
+        </author>
+        <published>2026-10-17T02:04:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[複数端末Pushの移行は、旧版のログアウトが残る間は終わらない | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/hirodeath/articles/expo-multi-device-push-rollout</id>
+        <link href="https://zenn.dev/hirodeath/articles/expo-multi-device-push-rollout"/>
+        <updated>2026-10-17T01:47:59.000Z</updated>
+        <summary type="html"><![CDATA[サーバーで一人に複数のPush Tokenを保存できるようにしても、旧版アプリのログアウトが全端末解除を呼べば、ほかの端末の登録も消えます。APIの新しい動作だけでは、移行後の利用状態を説明できません。SquadNoteの複数端末対応を、変更前後のAPIと旧版・新版の解除方法を組み合わせて確認しました。この記事の焦点は、登録や解除の実装方法そのものではなく、どの組み合わせまで残り得るかと、移行の完]]></summary>
+        <content type="html"><![CDATA[サーバーで一人に複数のPush Tokenを保存できるようにしても、旧版アプリのログアウトが全端末解除を呼べば、ほかの端末の登録も消えます。APIの新しい動作だけでは、移行後の利用状態を説明できません。SquadNoteの複数端末対応を、変更前後のAPIと旧版・新版の解除方法を組み合わせて確認しました。この記事の焦点は、登録や解除の実装方法そのものではなく、どの組み合わせまで残り得るかと、移行の完了条件です。対象はcircle-hubの0cda1e8と、変更コミットad0a669の親です。2026年9月11日にローカルでテストしました。OTA配布や実端末への通知送信は行っていません。...]]></content>
+        <author>
+            <name>ヒロ</name>
+        </author>
+        <published>2026-10-17T01:47:59.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIが書いたRailsのどこを読むか - 不変条件とミューテーションテストでレビューを絞る | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/okamyuji/books/rails-ai-review-invariants</id>
+        <link href="https://zenn.dev/okamyuji/books/rails-ai-review-invariants"/>
+        <updated>2026-10-16T23:29:14.000Z</updated>
+        <summary type="html"><![CDATA[AIエージェントにRailsの実装とRSpecを任せると、読み切れない量のコードが届きます。人間が設計で契約を表にまとめ、evilutionによるミューテーションテストとCRAP値でテストの強さを機械的に検証すると、レビューで読む場所を、契約の表と、検証ツールが指摘した箇所に絞れます。その手順を、動くRailsアプリと実測した件数で1歩ずつ説明する本です。]]></summary>
+        <content type="html"><![CDATA[AIエージェントにRailsの実装とRSpecを任せると、読み切れない量のコードが届きます。人間が設計で契約を表にまとめ、evilutionによるミューテーションテストとCRAP値でテストの強さを機械的に検証すると、レビューで読む場所を、契約の表と、検証ツールが指摘した箇所に絞れます。その手順を、動くRailsアプリと実測した件数で1歩ずつ説明する本です。]]></content>
+        <author>
+            <name>okamyuji</name>
+        </author>
+        <published>2026-10-16T23:29:14.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JSONの再取り込みで重複させない：元のIDを保ち、端末の編集を残す | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/jisaku_net/articles/json-import-stable-id-local-edits</id>
+        <link href="https://zenn.dev/jisaku_net/articles/json-import-stable-id-local-edits"/>
+        <updated>2026-10-16T22:32:32.000Z</updated>
+        <summary type="html"><![CDATA[「場所メモ」は、行きたい場所の候補と訪問履歴を残す、自分用のWebアプリです。現在は開発中で、本番には未公開です。整理した記録をJSONファイルから取り込む機能を追加しました。同じファイルをもう一度選んでも記録を増やさず、取り込み後に端末で直した内容も残すようにしています。今回は、整理済みJSONを追加する処理の実装とテストを紹介します。クラウド同期の版番号ではなく、ファイル内の1件ずつをどう扱う]]></summary>
+        <content type="html"><![CDATA[「場所メモ」は、行きたい場所の候補と訪問履歴を残す、自分用のWebアプリです。現在は開発中で、本番には未公開です。整理した記録をJSONファイルから取り込む機能を追加しました。同じファイルをもう一度選んでも記録を増やさず、取り込み後に端末で直した内容も残すようにしています。今回は、整理済みJSONを追加する処理の実装とテストを紹介します。クラウド同期の版番号ではなく、ファイル内の1件ずつをどう扱うかが題材です。 同じ訪問と、別の日の再訪を分けるたとえば、取り込み元に次の2件があるとします。説明用に項目を省略しています。[ { "id": "source-1", "labe...]]></content>
+        <author>
+            <name>何でも自作する人</name>
+        </author>
+        <published>2026-10-16T22:32:32.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[本番DBに不要なレコードを数千万件登録してしまった話 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/geekplus/articles/a615dfe41557d8</id>
+        <link href="https://zenn.dev/geekplus/articles/a615dfe41557d8"/>
+        <updated>2026-10-16T09:00:09.000Z</updated>
+        <summary type="html"><![CDATA[ある日、普段数分以内で完了するはずのバッチジョブからレイテンシーアラートが上がってきました。調査すると、出荷明細の補足情報を登録する処理で、大量のINSERTが発生しています。このままでは、他の入出荷等にも影響を及ぼすため、早急な解消が必要な状況です。この記事では、無駄に増殖してしまったデータとの戦いについてご紹介します。 何が起きていたのか問題のINSERTが発生している箇所を調査したところ、出]]></summary>
+        <content type="html"><![CDATA[ある日、普段数分以内で完了するはずのバッチジョブからレイテンシーアラートが上がってきました。調査すると、出荷明細の補足情報を登録する処理で、大量のINSERTが発生しています。このままでは、他の入出荷等にも影響を及ぼすため、早急な解消が必要な状況です。この記事では、無駄に増殖してしまったデータとの戦いについてご紹介します。 何が起きていたのか問題のINSERTが発生している箇所を調査したところ、出荷の明細に紐づく補足情報を保持するテーブルに対して大量のINSERTが行われていました。本来は、1出荷明細に対して多くても数十レコードです。一体何故？※補足です。アラートの...]]></content>
+        <author>
+            <name>長谷部一希</name>
+        </author>
+        <published>2026-10-16T09:00:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[職能を越えてデザインの品質と向き合うことの難しさとこれから | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/sonicmoov/articles/design-standardization-project-collaboration</id>
+        <link href="https://zenn.dev/sonicmoov/articles/design-standardization-project-collaboration"/>
+        <updated>2026-10-15T21:30:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに2025年12月に、社内のデザイン標準化プロジェクトの振り返りと今後の展望をまとめました。https://zenn.dev/sonicmoov/articles/design-standardization-project-look-back-2025前回の記事では、今後の方向性として下記の4つを挙げていました。問い合わせの対応フローの自動化デザインデータの品質基準の策定デザインレビューの]]></summary>
+        <content type="html"><![CDATA[はじめに2025年12月に、社内のデザイン標準化プロジェクトの振り返りと今後の展望をまとめました。https://zenn.dev/sonicmoov/articles/design-standardization-project-look-back-2025前回の記事では、今後の方向性として下記の4つを挙げていました。問い合わせの対応フローの自動化デザインデータの品質基準の策定デザインレビューの観点の整理、フローの整備デザイントークンやライブラリの活用促進今回はその続きとして、各項目の進捗と、デザイナーとの協働を通じて見えてきた難しさ、これからの課題をまとめます...]]></content>
+        <author>
+            <name>pugipugiii</name>
+        </author>
+        <published>2026-10-15T21:30:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are We Testing the Wrong Quantum Bugs? A Study of Fault Representation Gaps in Quantum Software Testing | arXiv Query: search_query=all:"software testing"&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10]]></title>
+        <id>https://arxiv.org/abs/2610.22089v1</id>
+        <link href="https://arxiv.org/abs/2610.22089v1"/>
+        <updated>2026-10-15T15:41:56.000Z</updated>
+        <summary type="html"><![CDATA[Quantum software relies on compilers, intermediate representations, and execution frameworks that transform programs before execution. Faults in these components can change the behavior of otherwise c]]></summary>
+        <content type="html"><![CDATA[Quantum software relies on compilers, intermediate representations, and execution frameworks that transform programs before execution. Faults in these components can change the behavior of otherwise correct quantum programs. Yet quantum testing techniques are often evaluated using mutation-generated faults and curated bug benchmarks. We investigate how well the faults represented by these artifacts reflect those encountered in modern quantum software. We audit four quantum mutation-testing tools]]></content>
+        <published>2026-10-15T15:41:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSVを選び直したら、前の比較結果を使わせない | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/bricks/articles/csv-results-expire-with-inputs</id>
+        <link href="https://zenn.dev/bricks/articles/csv-results-expire-with-inputs"/>
+        <updated>2026-10-15T14:55:41.000Z</updated>
+        <summary type="html"><![CDATA[CSVを2つ選び、キーと列の対応を決めて差分を見る。比較が終わったあとで片方のCSVを選び直したら、さっきの結果はいつ消えるべきでしょうか。新しい比較が終わるまで残すと、画面のファイル名は新しく、差分は古いという状態になります。その間に保存ボタンを押せば、別の入力から作った結果を持ち出せます。ブラウザー内でCSVを比較する非公開試作では、ファイルや比較設定の変更と同時に旧結果を無効にし、遅い応答で]]></summary>
+        <content type="html"><![CDATA[CSVを2つ選び、キーと列の対応を決めて差分を見る。比較が終わったあとで片方のCSVを選び直したら、さっきの結果はいつ消えるべきでしょうか。新しい比較が終わるまで残すと、画面のファイル名は新しく、差分は古いという状態になります。その間に保存ボタンを押せば、別の入力から作った結果を持ち出せます。ブラウザー内でCSVを比較する非公開試作では、ファイルや比較設定の変更と同時に旧結果を無効にし、遅い応答で復活しないようにしました。この記事は、その実装と保存済みの試験記録から結果の寿命を整理したものです。この試作はプレビュー、比較、HTMLレポート生成をWorkerで行い、画面側のcontr...]]></content>
+        <author>
+            <name>Renga</name>
+        </author>
+        <published>2026-10-15T14:55:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テスト設計初心者向け エラー後の保存データと業務ログをどう確認するか | ソフトウェアテストタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/manabi_biyori/items/8b96994de4ddf9d9a894</id>
+        <link href="https://qiita.com/manabi_biyori/items/8b96994de4ddf9d9a894"/>
+        <updated>2026-10-15T10:29:11.000Z</updated>
+        <summary type="html"><![CDATA[テストケースに「エラーメッセージが表示されること」と書いて、レビューで「保存されたデータも確認しましょう」と指摘されたことはありませんか。それなら、エラーが出た後はすべてのデータが変わらないことを確認すればよいのでしょうか。失敗の記録を残す設計なら、ログは増えるはずです。...]]></summary>
+        <content type="html"><![CDATA[テストケースに「エラーメッセージが表示されること」と書いて、レビューで「保存されたデータも確認しましょう」と指摘されたことはありませんか。それなら、エラーが出た後はすべてのデータが変わらないことを確認すればよいのでしょうか。失敗の記録を残す設計なら、ログは増えるはずです。...]]></content>
+        <published>2026-10-15T10:29:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Godot 4の--write-movieで、プレイ画面を音つきで自動録画する | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/gzer0/articles/godot-write-movie-script-capture-with-audio</id>
+        <link href="https://zenn.dev/gzer0/articles/godot-write-movie-script-capture-with-audio"/>
+        <updated>2026-10-15T07:24:27.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR撮影スクリプトで動かしたゲームを、Godot 4.6.1の--write-movieで音つきのmp4にしました。godot --write-movie out.avi --fixed-fps 60 --disable-vsync --script tools/capture_clip.gdffmpeg -i out.avi -vf fps=30 -c:v libx264 -pix_fmt]]></summary>
+        <content type="html"><![CDATA[TL;DR撮影スクリプトで動かしたゲームを、Godot 4.6.1の--write-movieで音つきのmp4にしました。godot --write-movie out.avi --fixed-fps 60 --disable-vsync --script tools/capture_clip.gdffmpeg -i out.avi -vf fps=30 -c:v libx264 -pix_fmt yuv420p -crf 20 -c:a aac -b:a 160k out.mp4手元のMac（Apple Silicon）で試した結果です。11.3秒の場面が、起動から終了...]]></content>
+        <author>
+            <name>gzer0</name>
+        </author>
+        <published>2026-10-15T07:24:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI時代、何をもってソフトウェアの品質を担保するのか | ソフトウェアテストタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/acsuzuki/items/a1f4533a4d7c724c097f</id>
+        <link href="https://qiita.com/acsuzuki/items/a1f4533a4d7c724c097f"/>
+        <updated>2026-10-15T07:23:05.000Z</updated>
+        <summary type="html"><![CDATA[最近は、Claude CodeやCodexなどを使ってAIにコードを書かせることが当たり前になってきました。そんな中で皆さんは、何をもって「システムの品質が担保されている」と考えるでしょうか。以前はどうやって品質を説明していたかちょっと昔のシステム開発では、以下のよ...]]></summary>
+        <content type="html"><![CDATA[最近は、Claude CodeやCodexなどを使ってAIにコードを書かせることが当たり前になってきました。そんな中で皆さんは、何をもって「システムの品質が担保されている」と考えるでしょうか。以前はどうやって品質を説明していたかちょっと昔のシステム開発では、以下のよ...]]></content>
+        <published>2026-10-15T07:23:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QAによるハーネスエンジニアリングとQA組織の未来像 | MagicPod Blog]]></title>
+        <id>https://magicpod.com/blog/qa-organization-future/</id>
+        <link href="https://magicpod.com/blog/qa-organization-future/"/>
+        <updated>2026-10-15T05:11:36.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、MagicPodメンバーのIkariです。目次 --&amp;gt;目次スピーカー西田 泰明 氏 ｜ 株式会社TOKIUM QA電気通信大学大学院卒業後、2013年から株式会社ベリサーブで第三者検証に従事。2021年に株式会社BearTail（現TOKIUM）に一人目QAエンジニアとして参画し、全プロダクトのQAをしながらQA組織を立ち上げる。伊藤 由貴 ｜ 株式会社MagicPod エバンジェリス]]></summary>
+        <content type="html"><![CDATA[こんにちは、MagicPodメンバーのIkariです。目次 --&amp;gt;目次スピーカー西田 泰明 氏 ｜ 株式会社TOKIUM QA電気通信大学大学院卒業後、2013年から株式会社ベリサーブで第三者検証に従事。2021年に株式会社BearTail（現TOKIUM）に一人目QAエンジニアとして参画し、全プロダクトのQAをしながらQA組織を立ち上げる。伊藤 由貴 ｜ 株式会社MagicPod エバンジェリスト（@yoshikiito）TOKIUMにおけるハーネスエンジニアリングの挑戦と課題TOKIUMのプロダクトとテストの難しさまずは、TOKIUMにおけるプロダクトの特徴やQAの背景についてお話しいただきました。TOKIUMでは、支出管理クラウド（SaaS）と、それと紐づく経理AIエージェントを提供されており、相互に連携する複雑なプロダクト群をテストするにあたり、主に次の3つの難しさが存在するといいます。プロダクト間連携：連携が多く、1つの修正が及ぼす影響範囲が広く複雑。金額計算：経理業務を扱うため、1円のミスも許されない。会計データの形式：会社ごとに形式が異なり、どれでテストするか選びきれない]]></content>
+        <author>
+            <name>Liu, Ta-Wei</name>
+        </author>
+        <published>2026-10-15T05:11:36.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【git-qa】テスト仕様書を AI に流させて、合否は人が 1 打鍵で置く（human-in-the-loop QA） | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/dokokade/articles/8d7756c7056a24</id>
+        <link href="https://zenn.dev/dokokade/articles/8d7756c7056a24"/>
+        <updated>2026-10-15T04:29:11.000Z</updated>
+        <summary type="html"><![CDATA[AI に「全部通りました」と言わせたくないAI でテストを自動化すると、最後に AI が「全部通りました」と言います。でも、出したものが壊れていたとき責任を持つのは人です。「AI が通したので」は通りません。git-qa は、その前提のまま作った 人が判定する QA ランナー（human-in-the-loop QA・オープンソース）です。AI がテスト仕様書（検証シート）を流す —— 端末・ブラ]]></summary>
+        <content type="html"><![CDATA[AI に「全部通りました」と言わせたくないAI でテストを自動化すると、最後に AI が「全部通りました」と言います。でも、出したものが壊れていたとき責任を持つのは人です。「AI が通したので」は通りません。git-qa は、その前提のまま作った 人が判定する QA ランナー（human-in-the-loop QA・オープンソース）です。AI がテスト仕様書（検証シート）を流す —— 端末・ブラウザ・デスクトップアプリを操作する人はライブ映像を見て、1 ケースずつ 1 打鍵で合否を置く誰が何を確かめたかが証跡に残る 「誰が確認したか」が残る結果の語は 5 ...]]></content>
+        <author>
+            <name>Dokokade</name>
+        </author>
+        <published>2026-10-15T04:29:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【git-qa】テスト仕様書を AI に流させて、合否は人が 1 打鍵で置く（human-in-the-loop QA） | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/dokokade/articles/8d7756c7056a24</id>
+        <link href="https://zenn.dev/dokokade/articles/8d7756c7056a24"/>
+        <updated>2026-10-15T04:29:11.000Z</updated>
+        <summary type="html"><![CDATA[AI に「全部通りました」と言わせたくないAI でテストを自動化すると、最後に AI が「全部通りました」と言います。でも、出したものが壊れていたとき責任を持つのは人です。「AI が通したので」は通りません。git-qa は、その前提のまま作った 人が判定する QA ランナー（human-in-the-loop QA・オープンソース）です。AI がテスト仕様書（検証シート）を流す —— 端末・ブラ]]></summary>
+        <content type="html"><![CDATA[AI に「全部通りました」と言わせたくないAI でテストを自動化すると、最後に AI が「全部通りました」と言います。でも、出したものが壊れていたとき責任を持つのは人です。「AI が通したので」は通りません。git-qa は、その前提のまま作った 人が判定する QA ランナー（human-in-the-loop QA・オープンソース）です。AI がテスト仕様書（検証シート）を流す —— 端末・ブラウザ・デスクトップアプリを操作する人はライブ映像を見て、1 ケースずつ 1 打鍵で合否を置く誰が何を確かめたかが証跡に残る 「誰が確認したか」が残る結果の語は 5 ...]]></content>
+        <author>
+            <name>Dokokade</name>
+        </author>
+        <published>2026-10-15T04:29:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[106万円の壁の撤廃後に残る判定を関数にして、都道府県別料率と等級表で手取りを計算するツールを作成しました | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/tsumu26/articles/d8321d5adfe42e</id>
+        <link href="https://zenn.dev/tsumu26/articles/d8321d5adfe42e"/>
+        <updated>2026-10-15T00:53:13.000Z</updated>
+        <summary type="html"><![CDATA[はじめに2026年10月1日に、パートやアルバイトが社会保険に加入する条件のうち、賃金要件(月8.8万円以上)が撤廃されました。「自分は社会保険に入るのか」「入ると手取りはいくら変わるのか」を確認できる計算ツールを作りました。ツール: https://seidolab.com/tools/shaho-106/フロントエンドだけの静的サイトで、入力した内容はブラウザの中だけで計算し、送信しません。こ]]></summary>
+        <content type="html"><![CDATA[はじめに2026年10月1日に、パートやアルバイトが社会保険に加入する条件のうち、賃金要件(月8.8万円以上)が撤廃されました。「自分は社会保険に入るのか」「入ると手取りはいくら変わるのか」を確認できる計算ツールを作りました。ツール: https://seidolab.com/tools/shaho-106/フロントエンドだけの静的サイトで、入力した内容はブラウザの中だけで計算し、送信しません。この記事では、制度の要点と、判定フローの組み方、数字の落とし穴、競合を調べて決めた方針をまとめます。 何が変わったのか厚生労働省と日本年金機構の資料によると、撤廃されたのは賃...]]></content>
+        <author>
+            <name>つむ</name>
+        </author>
+        <published>2026-10-15T00:53:13.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOSのTestFlightによる課金のテストでの課金取消方法 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/nekomimimi/articles/80246eab6410b0</id>
+        <link href="https://zenn.dev/nekomimimi/articles/80246eab6410b0"/>
+        <updated>2026-10-15T00:09:22.000Z</updated>
+        <summary type="html"><![CDATA[XcodeのStoreKit Testingを使うと、開発環境で購入状態を変えながらテストできます。一方、TestFlightでの課金テストには、アカウントの切り替えや購入履歴の反映など、はまりどころがあります。消費型アイテムは繰り返し購入できますが、非消費型アイテムの初回購入や、サブスクリプションの新規購入を再現したいときは、購入履歴を消去してテストし直すことがあります。その際のポイントをまとめ]]></summary>
+        <content type="html"><![CDATA[XcodeのStoreKit Testingを使うと、開発環境で購入状態を変えながらテストできます。一方、TestFlightでの課金テストには、アカウントの切り替えや購入履歴の反映など、はまりどころがあります。消費型アイテムは繰り返し購入できますが、非消費型アイテムの初回購入や、サブスクリプションの新規購入を再現したいときは、購入履歴を消去してテストし直すことがあります。その際のポイントをまとめます。 事前準備App Store Connectの「ユーザとアクセス」→「Sandbox」で、テスト用アカウントを作成しておきます。 ポイント 1. 普段のApple Acco...]]></content>
+        <author>
+            <name>nekomimimi</name>
+        </author>
+        <published>2026-10-15T00:09:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIにTDDをやらせても、その価値は残るのか──手順ではなく利益を引き継ぐ | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/akring/articles/2bca6f38f3a347</id>
+        <link href="https://zenn.dev/akring/articles/2bca6f38f3a347"/>
+        <updated>2026-10-14T23:00:05.000Z</updated>
+        <summary type="html"><![CDATA[AIにTDDをやらせると、何が起こりうるかAIに、ユーザーを無効化する機能を作らせるとします。人間が書いて承認した受け入れ条件は、次の三つです。無効化されたユーザーは、新たにログインできない無効化されたユーザーの既存のセッションは、失効する無効化されていないユーザーのセッションには、影響しないTDDに倣って、AIにテストを先に書かせ、それを通す実装を書かせます。手順は、人間が書いていたときと同じで]]></summary>
+        <content type="html"><![CDATA[AIにTDDをやらせると、何が起こりうるかAIに、ユーザーを無効化する機能を作らせるとします。人間が書いて承認した受け入れ条件は、次の三つです。無効化されたユーザーは、新たにログインできない無効化されたユーザーの既存のセッションは、失効する無効化されていないユーザーのセッションには、影響しないTDDに倣って、AIにテストを先に書かせ、それを通す実装を書かせます。手順は、人間が書いていたときと同じです。こんな流れを想像してみてください。AIは、1と2を実装してテストを通します。ところが2の実装で、無効化したユーザーだけでなく、すべてのユーザーのセッションを失効させてしま...]]></content>
+        <author>
+            <name>mahitotsu</name>
+        </author>
+        <published>2026-10-14T23:00:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1週間の計算を1分ずつ総当たりし、増減と合計のずれをテストする | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/jisaku_net/articles/weekly-calculation-exhaustive-tests</id>
+        <link href="https://zenn.dev/jisaku_net/articles/weekly-calculation-exhaustive-tests"/>
+        <updated>2026-10-14T20:24:34.000Z</updated>
+        <summary type="html"><![CDATA[AI利用枠シミュレーターは、利用枠が回復する時刻を動かして、1週間に使う量を比較する自作Webアプリです。公開済みで、日付と時刻、スライダーから条件を指定できます。このアプリは、決めた使い方をもとに計算する試算ツールです。実サービスの利用枠を取得する機能はなく、各社の回復仕様を保証するものでもありません。計算モデルを変更したとき、代表的な時刻だけをテストするのではなく、スライダーの全位置を調べまし]]></summary>
+        <content type="html"><![CDATA[AI利用枠シミュレーターは、利用枠が回復する時刻を動かして、1週間に使う量を比較する自作Webアプリです。公開済みで、日付と時刻、スライダーから条件を指定できます。このアプリは、決めた使い方をもとに計算する試算ツールです。実サービスの利用枠を取得する機能はなく、各社の回復仕様を保証するものでもありません。計算モデルを変更したとき、代表的な時刻だけをテストするのではなく、スライダーの全位置を調べました。1週間を1分単位にすると10,080通りです。この規模なら、すべて計算してもテストは短時間で終わります。 何を計算しているか比較する期間は、入力した週間リセット日時までの7日間です...]]></content>
+        <author>
+            <name>何でも自作する人</name>
+        </author>
+        <published>2026-10-14T20:24:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PoCで終わらせない最適化 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/ctenopoma/books/optimization_production</id>
+        <link href="https://zenn.dev/ctenopoma/books/optimization_production"/>
+        <updated>2026-10-14T12:19:26.000Z</updated>
+        <summary type="html"><![CDATA[PoCで動いた最適化モデルを、本番システムとして動かし続けるための本です。100行のシフト最適化PoCを題材に、モデルのテスト設計、入力データのバリデーションなど、求解だけで終わらせず現場で使い続けられるシステムへ育てます。]]></summary>
+        <content type="html"><![CDATA[PoCで動いた最適化モデルを、本番システムとして動かし続けるための本です。100行のシフト最適化PoCを題材に、モデルのテスト設計、入力データのバリデーションなど、求解だけで終わらせず現場で使い続けられるシステムへ育てます。]]></content>
+        <author>
+            <name>クテノポマ</name>
+        </author>
+        <published>2026-10-14T12:19:26.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Playwright MCPを使ってアドホックテストを行ってみた | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/kishimin/articles/ad61bdb2397f13</id>
+        <link href="https://zenn.dev/kishimin/articles/ad61bdb2397f13"/>
+        <updated>2026-10-14T12:04:56.000Z</updated>
+        <summary type="html"><![CDATA[なぜ調べたかPlaywright MCPとCodexを使って、アドホックテストを行ってみたかったため。 学んだこと Playwright MCPとはPlaywright MCPは、AIエージェントがブラウザを操作するためのMCPサーバーです。ページのアクセシビリティ情報を利用して、画面遷移やクリック、フォームへの入力などを行えます。今回はCodexと組み合わせて、アドホックテストを実施しました。 ]]></summary>
+        <content type="html"><![CDATA[なぜ調べたかPlaywright MCPとCodexを使って、アドホックテストを行ってみたかったため。 学んだこと Playwright MCPとはPlaywright MCPは、AIエージェントがブラウザを操作するためのMCPサーバーです。ページのアクセシビリティ情報を利用して、画面遷移やクリック、フォームへの入力などを行えます。今回はCodexと組み合わせて、アドホックテストを実施しました。 Playwright MCPの導入方法CodexでPlaywright MCPを利用できるようにします。前提として、Node.jsとCodexが必要です。以下のコマ...]]></content>
+        <author>
+            <name>kishimin</name>
+        </author>
+        <published>2026-10-14T12:04:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[点を線にして、QA組織の次の「当たり前」をつくっていく | QA - SmartHR Tech Blog]]></title>
+        <id>https://tech.smarthr.jp/entry/2026/10/14/145752</id>
+        <link href="https://tech.smarthr.jp/entry/2026/10/14/145752"/>
+        <updated>2026-10-14T05:57:52.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、品質保証本部のtarappo です。 2024年9月にSmartHR 品質保証部のActing Managerとして入社して、現在は品質保証本部のDirectorとして働いています。 入社してからあっという間に2年が経ちました。 その間にいろいろなことを経験しつつ、さまざまなことに取り組んできました。 それらは別々の施策を次々と進めたというより、多くの「点」をつなぎ、組織として継続的に]]></summary>
+        <content type="html"><![CDATA[こんにちは、品質保証本部のtarappo です。 2024年9月にSmartHR 品質保証部のActing Managerとして入社して、現在は品質保証本部のDirectorとして働いています。 入社してからあっという間に2年が経ちました。 その間にいろいろなことを経験しつつ、さまざまなことに取り組んできました。 それらは別々の施策を次々と進めたというより、多くの「点」をつなぎ、組織として継続的に品質を高められる一本の「線」にしていく取り組みだったと考えています。 個々の取り組みについては、ブログや登壇などでその都度発信してきました。 今回はそれらの詳細を説明するのではなく、これまでの記事も参…]]></content>
+        <published>2026-10-14T05:57:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「いま押せるボタン」を、状態から推し量らない | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/miyakona/articles/buttons-from-posted-panel</id>
+        <link href="https://zenn.dev/miyakona/articles/buttons-from-posted-panel"/>
+        <updated>2026-10-14T05:30:18.000Z</updated>
+        <summary type="html"><![CDATA[定例作業をチャットBotで案内しています。担当者がスレッドに出たボタンを順に押し、Botが次の操作を案内する流れです。ここでは、このボタン付きメッセージを「操作盤」と呼びます。ところが、再投稿したときの案内は、こんな言い方のままでした。このスレッドに操作用のボタンが残っている場合は、先にそちらで終わらせてください。Bot自身が出したボタンなのに、名前を言えない。毎日のリマインドでも押すものを名指し]]></summary>
+        <content type="html"><![CDATA[定例作業をチャットBotで案内しています。担当者がスレッドに出たボタンを順に押し、Botが次の操作を案内する流れです。ここでは、このボタン付きメッセージを「操作盤」と呼びます。ところが、再投稿したときの案内は、こんな言い方のままでした。このスレッドに操作用のボタンが残っている場合は、先にそちらで終わらせてください。Bot自身が出したボタンなのに、名前を言えない。毎日のリマインドでも押すものを名指しできず、担当者がスレッドを遡って確認する必要がありました。この記事は、ボタン付きメッセージを投稿・更新するBotを保守し、案内文と表示のずれに困っている人に向けて書きます。Pytho...]]></content>
+        <author>
+            <name>miyakona</name>
+        </author>
+        <published>2026-10-14T05:30:18.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIが生成したテストコードを、レビューでどう扱うか | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/vaonvn/articles/0fbeb2f9a2e57d</id>
+        <link href="https://zenn.dev/vaonvn/articles/0fbeb2f9a2e57d"/>
+        <updated>2026-10-14T01:27:20.000Z</updated>
+        <summary type="html"><![CDATA[LLM にテストコードを書かせると、プルリクエストには緑のチェックが並んだ状態で届きます。テストが全部通っているので、レビューする側もつい「テストもあるし大丈夫そう」と承認したくなります。ところが、通っているテストが何を守っているのかは、緑のチェックからは分かりません。Qiita や Zenn は、AI が生成した内容を人が確かめてから公開することを求めています。テストコードも同じで、AI が書い]]></summary>
+        <content type="html"><![CDATA[LLM にテストコードを書かせると、プルリクエストには緑のチェックが並んだ状態で届きます。テストが全部通っているので、レビューする側もつい「テストもあるし大丈夫そう」と承認したくなります。ところが、通っているテストが何を守っているのかは、緑のチェックからは分かりません。Qiita や Zenn は、AI が生成した内容を人が確かめてから公開することを求めています。テストコードも同じで、AI が書いたものは、人が中身を確かめてから取り込みたいものです。この記事では、AI が生成したテストコードをレビューするときに見落としやすいパターンを、架空の小さな例で実際に動かしながら整理します。確...]]></content>
+        <author>
+            <name>VAON VIET NAM</name>
+        </author>
+        <published>2026-10-14T01:27:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CLAUDE.md の「無料版を体験版にしない」をテストに移しました。それでも、画面の置き場所が門になっていました | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/rapls/articles/359c2c49d9b764</id>
+        <link href="https://zenn.dev/rapls/articles/359c2c49d9b764"/>
+        <updated>2026-10-14T01:16:58.000Z</updated>
+        <summary type="html"><![CDATA[AI と一緒にコードを書いていると、守ってほしい方針を CLAUDE.md に書いておくことになります。書いておけば、毎回読んでくれる。ただ、読んでくれることと、守られていることは別です。自作の WordPress プラグインのうち、AI Chatbot と PDF Image Creator には、無料版と、追加で買う Pro 版があります。どちらにも共通の方針が1つあります。無料版を、有料版を]]></summary>
+        <content type="html"><![CDATA[AI と一緒にコードを書いていると、守ってほしい方針を CLAUDE.md に書いておくことになります。書いておけば、毎回読んでくれる。ただ、読んでくれることと、守られていることは別です。自作の WordPress プラグインのうち、AI Chatbot と PDF Image Creator には、無料版と、追加で買う Pro 版があります。どちらにも共通の方針が1つあります。無料版を、有料版を売るための体験版にしない。無料版でできていたことを Pro 版に移さないし、無料版の既定値を下げて Pro 版を良く見せることもしない。この方針を、PDF Image Creator ではテ...]]></content>
+        <author>
+            <name>Rapls</name>
+        </author>
+        <published>2026-10-14T01:16:58.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[厚生年金の標準報酬月額の上限引き上げ(2027〜2029年)の保険料を、時点別の等級表とテストで計算するツールを作成しました | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/tsumu26/articles/526ce667f80d21</id>
+        <link href="https://zenn.dev/tsumu26/articles/526ce667f80d21"/>
+        <updated>2026-10-14T01:09:03.000Z</updated>
+        <summary type="html"><![CDATA[はじめに厚生年金の標準報酬月額の上限が、2027年9月から3段階で上がります。自分の月の報酬だと、保険料がいくら変わるのかを、現行と並べて確認できる計算ツールを作りました。ツール: https://seidolab.com/tools/pension-cap/月の報酬別の一覧: https://seidolab.com/tools/pension-cap/tsuki/フロントエンドだけの静的サイト]]></summary>
+        <content type="html"><![CDATA[はじめに厚生年金の標準報酬月額の上限が、2027年9月から3段階で上がります。自分の月の報酬だと、保険料がいくら変わるのかを、現行と並べて確認できる計算ツールを作りました。ツール: https://seidolab.com/tools/pension-cap/月の報酬別の一覧: https://seidolab.com/tools/pension-cap/tsuki/フロントエンドだけの静的サイトで、入力した内容はブラウザの中だけで計算し、送信しません。この記事では、制度の要点と、「時点によって等級表が変わる」計算をどう組んだかをまとめます。 何が変わるのか厚生...]]></content>
+        <author>
+            <name>つむ</name>
+        </author>
+        <published>2026-10-14T01:09:03.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第1回】AI時代に、「場」を通してつながる①～関係性で生じる「違和感」と、場をつくるという手段～│専門家2人による往復書簡 | 品質 | Sqripts]]></title>
+        <id>https://sqripts.com/?p=106538</id>
+        <link href="https://sqripts.com/2026/10/14/106538/"/>
+        <updated>2026-10-14T00:47:27.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 皆さんは普段、テストや品質に携わっていて、関係性を感じることはありますか？ 「Connecting The Dots」では、今まで現場やコミュニティの中で出会ってきた専門家の皆様と、往復書簡のような形で意見を交...The post 【第1回】AI時代に、「場」を通してつながる①～関係性で生じる「違和感」と、場をつくるという手段～│専門家2人による往復書簡 first appeared ]]></summary>
+        <content type="html"><![CDATA[はじめに 皆さんは普段、テストや品質に携わっていて、関係性を感じることはありますか？ 「Connecting The Dots」では、今まで現場やコミュニティの中で出会ってきた専門家の皆様と、往復書簡のような形で意見を交...The post 【第1回】AI時代に、「場」を通してつながる①～関係性で生じる「違和感」と、場をつくるという手段～│専門家2人による往復書簡 first appeared on Sqripts.]]></content>
+        <author>
+            <name>masashi.takamizawa_1785918787</name>
+        </author>
+        <category label="特集"/>
+        <category label="品質"/>
+        <category label="ソフトウェアテスト"/>
+        <category label="QAエンジニア"/>
+        <category label="スクラム"/>
+        <published>2026-10-14T00:47:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI の「テストが通りました」を信じない:終了コードを証拠にする | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/k_iijima/articles/c93db4323345ec</id>
+        <link href="https://zenn.dev/k_iijima/articles/c93db4323345ec"/>
+        <updated>2026-10-13T22:07:41.000Z</updated>
+        <summary type="html"><![CDATA[はじめに私は、小さな事業者むけの業務ソフトを一人で作っています。開発は AI エージェント(Claude Code)にまかせています。AI にまかせていると、テストの結果は AI の言葉で届きます。「テストが通りました」「すべて成功しました」。ところが一度、通ったと報告されたテストが、実際には失敗していた ことがありました。この記事では、そのしくみと、それから AI に守らせていることを書きます。]]></summary>
+        <content type="html"><![CDATA[はじめに私は、小さな事業者むけの業務ソフトを一人で作っています。開発は AI エージェント(Claude Code)にまかせています。AI にまかせていると、テストの結果は AI の言葉で届きます。「テストが通りました」「すべて成功しました」。ところが一度、通ったと報告されたテストが、実際には失敗していた ことがありました。この記事では、そのしくみと、それから AI に守らせていることを書きます。前の記事(Claude Code の deny だけでは git push を止めきれない話)の続きで、今回は「AI の勘違いをどう防ぐか」の話です。 終了コードとは命令は、終...]]></content>
+        <author>
+            <name>飯島紘一</name>
+        </author>
+        <published>2026-10-13T22:07:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SWEPatchTest: Evaluating Software Tests Beyond Reproduction | arXiv Query: search_query=all:"software testing"&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10]]></title>
+        <id>https://arxiv.org/abs/2610.18004v1</id>
+        <link href="https://arxiv.org/abs/2610.18004v1"/>
+        <updated>2026-10-13T09:04:57.000Z</updated>
+        <summary type="html"><![CDATA[Coding agents use generated tests to decide whether a proposed patch satisfies an issue's requirements. A suite that fails on the buggy program and passes after applying the reference patch can still ]]></summary>
+        <content type="html"><![CDATA[Coding agents use generated tests to decide whether a proposed patch satisfies an issue's requirements. A suite that fails on the buggy program and passes after applying the reference patch can still accept an incorrect patch or reject a correct patch. We introduce SWEPATCHTEST, a test-generation benchmark with 619 tasks from SWE-bench Pro, SWE-bench Multilingual, and DeepSWE and 82,579 candidate patches collected from coding-agent trajectories. By replaying each suite on the buggy and patched c]]></content>
+        <published>2026-10-13T09:04:57.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JSTQB（ソフトウェアテスト技術者資格認定組織）、テスト自動化戦略スペシャリスト（CT-TAS）Version 1.0 J01 シラバスの日本語翻訳版を公開 | 特定非営利活動法人ソフトウェアテスト技術振興協会【プレスリリース】 by PR TIMES]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000060.000054604.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000060.000054604.html"/>
+        <updated>2026-10-13T05:00:02.000Z</updated>
+        <summary type="html"><![CDATA[[特定非営利活動法人ソフトウェアテスト技術振興協会]JSTQB（ソフトウェアテスト技術者資格認定組織）は、2026 年 10 月 13 日（火）にテスト自動化戦略スペシャリスト（CT-TAS）Version 1.0 J01 シラバスの日本語翻訳版を公開しました。本シラバスは、組織内でテス...]]></summary>
+        <content type="html"><![CDATA[[特定非営利活動法人ソフトウェアテスト技術振興協会]JSTQB（ソフトウェアテスト技術者資格認定組織）は、2026 年 10 月 13 日（火）にテスト自動化戦略スペシャリスト（CT-TAS）Version 1.0 J01 シラバスの日本語翻訳版を公開しました。本シラバスは、組織内でテス...]]></content>
+        <published>2026-10-13T05:00:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[良いテストを書き、良いテストを見分ける ─『単体テストの考え方/使い方』のエッセンス | Zennの「品質」のフィード]]></title>
+        <id>https://zenn.dev/nexta_/articles/unit-testing-principles-essence</id>
+        <link href="https://zenn.dev/nexta_/articles/unit-testing-principles-essence"/>
+        <updated>2026-10-13T02:30:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに株式会社ネクスタの tetsu.k です。生産管理SaaS「スマートF」の開発に携わっており、受注・発注・出荷・見積などのドメインを担当するチームに所属しています。ネクスタでは、事業の拡大とともにアプリケーションが複雑になっていくなかで、より速く、より良い価値を届け続けるために、「品質」に力を入れています。品質を支える手段の一つが、単体テストです。いまはAIに頼めば、テストを数秒で何十本も]]></summary>
+        <content type="html"><![CDATA[はじめに株式会社ネクスタの tetsu.k です。生産管理SaaS「スマートF」の開発に携わっており、受注・発注・出荷・見積などのドメインを担当するチームに所属しています。ネクスタでは、事業の拡大とともにアプリケーションが複雑になっていくなかで、より速く、より良い価値を届け続けるために、「品質」に力を入れています。品質を支える手段の一つが、単体テストです。いまはAIに頼めば、テストを数秒で何十本も書いてくれます。では、テストを増やせば品質は上がるのでしょうか。結論から言うと、大切なのはテストの数を増やすことではなく、次の2つです。良いテストを書くこと目の前のテスト...]]></content>
+        <author>
+            <name>tetsu.k</name>
+        </author>
+        <published>2026-10-13T02:30:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Agentの交差検証：複数の視点で、根拠を確かめる | ソフトウェアテストタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/engchina/items/e0049b71d34a6c53d3d5</id>
+        <link href="https://qiita.com/engchina/items/e0049b71d34a6c53d3d5"/>
+        <updated>2026-10-12T11:21:52.000Z</updated>
+        <summary type="html"><![CDATA[初めにAgentがコードを書き、最後に「問題ありません」と報告する。ただ、そのAgent自身が見落とした問題を、自分で見つけられるとは限りません。そこで、作成する役割と、検証する役割を分ける方法を考えます。この記事では、別のAgentが成果物と根拠を確認する仕組...]]></summary>
+        <content type="html"><![CDATA[初めにAgentがコードを書き、最後に「問題ありません」と報告する。ただ、そのAgent自身が見落とした問題を、自分で見つけられるとは限りません。そこで、作成する役割と、検証する役割を分ける方法を考えます。この記事では、別のAgentが成果物と根拠を確認する仕組...]]></content>
+        <published>2026-10-12T11:21:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Software Testing Meets Bayesian Workflow: A Literature-Driven Artifact Study of Probabilistic Programs | arXiv Query: search_query=all:"software testing"&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10]]></title>
+        <id>https://arxiv.org/abs/2610.16594v1</id>
+        <link href="https://arxiv.org/abs/2610.16594v1"/>
+        <updated>2026-10-12T11:16:51.000Z</updated>
+        <summary type="html"><![CDATA[Automated testing is an effective software quality assurance method, but it is rarely used for probabilistic models. This is despite the heavy use of probabilistic programming for data analytics in re]]></summary>
+        <content type="html"><![CDATA[Automated testing is an effective software quality assurance method, but it is rarely used for probabilistic models. This is despite the heavy use of probabilistic programming for data analytics in research and engineering, where the consequences of errors are dire. A key obstacle is the specification of testable correctness properties for probabilistic models, known as the oracle problem. Like machine learning, probabilistic programming is used precisely where no analytical specification exists]]></content>
+        <published>2026-10-12T11:16:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QAエンジニアの歌つくっちゃった | QAを楽しむ者]]></title>
+        <id>https://note.com/qa_tpen/n/n84d0d4713ceb</id>
+        <link href="https://note.com/qa_tpen/n/n84d0d4713ceb"/>
+        <updated>2026-10-11T10:54:15.000Z</updated>
+        <summary type="html"><![CDATA[最近、個人的に suno.ai が楽しくて、課金するくらいハマっています。ちょっと仕事で、QAについて他部署にもわかってもらえるようなドキュメント作成というのがあり、やっていました。続きをみる]]></summary>
+        <content type="html"><![CDATA[最近、個人的に suno.ai が楽しくて、課金するくらいハマっています。ちょっと仕事で、QAについて他部署にもわかってもらえるようなドキュメント作成というのがあり、やっていました。続きをみる]]></content>
+        <published>2026-10-11T10:54:15.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agentに向いているタスクは？「目標の明確さ」と「自動検証」で4分類してみる | ソフトウェアテストタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/engchina/items/94d33d0f1e4bf91cac01</id>
+        <link href="https://qiita.com/engchina/items/94d33d0f1e4bf91cac01"/>
+        <updated>2026-10-11T08:05:47.000Z</updated>
+        <summary type="html"><![CDATA[初めにコード修正、資料作成、調査、業務改善。AI Agentに任せたい作業はたくさんあります。ただ、同じように依頼しても、自律的に進めやすいタスクと、人の判断が必要なタスクがあります。今回は、**「目標が明確か」×「自動で検証できるか」**の2軸で整理します。Ag...]]></summary>
+        <content type="html"><![CDATA[初めにコード修正、資料作成、調査、業務改善。AI Agentに任せたい作業はたくさんあります。ただ、同じように依頼しても、自律的に進めやすいタスクと、人の判断が必要なタスクがあります。今回は、**「目標が明確か」×「自動で検証できるか」**の2軸で整理します。Ag...]]></content>
+        <published>2026-10-11T08:05:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第409回：　「ALTM」23　（テストプロセス改善: イントロダクション）  | Kouichi Akiyama]]></title>
+        <id>https://note.com/akiyama924/n/n17f2b41918f0</id>
+        <link href="https://note.com/akiyama924/n/n17f2b41918f0"/>
+        <updated>2026-10-10T22:12:07.000Z</updated>
+        <summary type="html"><![CDATA[◀前の記事へ 次の記事へ▶︎続きをみる]]></summary>
+        <content type="html"><![CDATA[◀前の記事へ 次の記事へ▶︎続きをみる]]></content>
+        <published>2026-10-10T22:12:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[起票する前に、重複バグを見つけよう | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/bugitdev/articles/dbfa1909be1dec</id>
+        <link href="https://zenn.dev/bugitdev/articles/dbfa1909be1dec"/>
+        <updated>2026-10-09T19:44:16.000Z</updated>
+        <summary type="html"><![CDATA[ログイン画面のバグを例に考えてみます。月曜日にテスターが「ログインのスピナーが回り続ける」と書きました。火曜日にはサポート担当が「パスワード画面の後でサインインできない」と書きました。水曜日には開発者が、トークン更新のタイムアウトに触れた3件目の報告を見つけました。チケットは3件、担当者は3人、バグは1つです。それぞれのチケットが答えの一部を持っています。1件目には手順があり、2件目には待っている]]></summary>
+        <content type="html"><![CDATA[ログイン画面のバグを例に考えてみます。月曜日にテスターが「ログインのスピナーが回り続ける」と書きました。火曜日にはサポート担当が「パスワード画面の後でサインインできない」と書きました。水曜日には開発者が、トークン更新のタイムアウトに触れた3件目の報告を見つけました。チケットは3件、担当者は3人、バグは1つです。それぞれのチケットが答えの一部を持っています。1件目には手順があり、2件目には待っているお客様がいて、3件目にはログがあります。全体像を誰も見られないまま、同じ問題を誰かが3回トリアージすることになります。重複は不注意の表れではありません。違う人が同じことを違う言葉で表現すると...]]></content>
+        <author>
+            <name>BugIt</name>
+        </author>
+        <published>2026-10-09T19:44:16.000Z</published>
+    </entry>
+</feed>
