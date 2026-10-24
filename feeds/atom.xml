@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yoshikiito.github.io/test-qa-rss-feed/</id>
+    <title>テスト・QA関連ブログRSS</title>
+    <updated>2026-10-24T11:54:46.234Z</updated>
+    <generator>yoshikiito/test-qa-rss-feed</generator>
+    <link rel="alternate" href="https://yoshikiito.github.io/test-qa-rss-feed/"/>
+    <link rel="self" href="https://yoshikiito.github.io/test-qa-rss-feed/feeds/atom.xml"/>
+    <subtitle>企テスト・QA関連ブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://yoshikiito.github.io/test-qa-rss-feed/images/icon.png</logo>
+    <icon>https://yoshikiito.github.io/test-qa-rss-feed/images/favicon.ico</icon>
+    <rights>yoshikiito/test-qa-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[確かめない技術 第3回：テストを再実行しない技術 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/garplab/articles/083e25df1be2fa</id>
+        <link href="https://zenn.dev/garplab/articles/083e25df1be2fa"/>
+        <updated>2026-10-24T08:17:06.000Z</updated>
+        <summary type="html"><![CDATA[この記事は、連載「確かめない技術」の第 3 回です。うまくいかない症状と、その対処を一つずつ並べています。各回はファイルやスクリプトを一つ置けば完結します。その仕組みがなぜ要るのかは、置いたあとに解説を読めば分かります。連載の全体像と各回の一覧は序論にあります。今回は、テストの再実行の話です。再実行というのは、コードを 1 文字も変えていないのに、同じテストをもう一度走らせることです。AIは「最終]]></summary>
+        <content type="html"><![CDATA[この記事は、連載「確かめない技術」の第 3 回です。うまくいかない症状と、その対処を一つずつ並べています。各回はファイルやスクリプトを一つ置けば完結します。その仕組みがなぜ要るのかは、置いたあとに解説を読めば分かります。連載の全体像と各回の一覧は序論にあります。今回は、テストの再実行の話です。再実行というのは、コードを 1 文字も変えていないのに、同じテストをもう一度走らせることです。AIは「最終確認をして引き継ぎます」と書いて、直前に通ったばかりのテストを走らせ直しました。AIにとって、確認と再実行は区別されないからです。私は、結果が変わらないと分かっている実行を、最後まで待って...]]></content>
+        <author>
+            <name>garplab</name>
+        </author>
+        <published>2026-10-24T08:17:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spring Boot の業務 API を Claude Code に書かせて分かった、「書いたことは守り、書かなかったことは落とす」 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/swdrk/articles/a18eca9e53d582</id>
+        <link href="https://zenn.dev/swdrk/articles/a18eca9e53d582"/>
+        <updated>2026-10-24T07:01:23.000Z</updated>
+        <summary type="html"><![CDATA[Java・Spring Boot で業務システムを作ってきました。業務システムのコードを AI のコーディングツール（Claude Code）にどこまで任せられるかを、架空の「備品貸出管理 API」で試しました。指示の出し方を変えて4回動かし、出てきたコードを人が書いたテストで確かめています。結論を先に書きます。文章でざっくり頼むと、動くものは出てくる。ただし、頼んでいない機能や、仕様にない判断（]]></summary>
+        <content type="html"><![CDATA[Java・Spring Boot で業務システムを作ってきました。業務システムのコードを AI のコーディングツール（Claude Code）にどこまで任せられるかを、架空の「備品貸出管理 API」で試しました。指示の出し方を変えて4回動かし、出てきたコードを人が書いたテストで確かめています。結論を先に書きます。文章でざっくり頼むと、動くものは出てくる。ただし、頼んでいない機能や、仕様にない判断（タイムゾーン・同時実行の扱い）を AI が自分で決めて入れるルールファイル（CLAUDE.md）と受け入れ条件で縛ると、範囲どおりに作り、テストも厚くなる。ただし、書かなかった非機能...]]></content>
+        <author>
+            <name>R.Sawada</name>
+        </author>
+        <published>2026-10-24T07:01:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[キャンプ場で、AIから離れた場所に構想が生まれた | QAを楽しむ者]]></title>
+        <id>https://note.com/qa_tpen/n/n4d331e58332a</id>
+        <link href="https://note.com/qa_tpen/n/n4d331e58332a"/>
+        <updated>2026-10-24T04:48:54.000Z</updated>
+        <summary type="html"><![CDATA[先日、初めてキャンプに行ってきました。AIが輝く場所は、IT業界の中より、リアルなビジネスや職業の近くにあるのではないか。そんな仮説のもとで、最近は、どこにヒントがあるかわからないまま手広く広げています。続きをみる]]></summary>
+        <content type="html"><![CDATA[先日、初めてキャンプに行ってきました。AIが輝く場所は、IT業界の中より、リアルなビジネスや職業の近くにあるのではないか。そんな仮説のもとで、最近は、どこにヒントがあるかわからないまま手広く広げています。続きをみる]]></content>
+        <published>2026-10-24T04:48:54.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLMが形式検証を現実的に？Anthropicが示すソフトウェア品質の未来 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/ament3/articles/ai-digest-2026-10-23-0026</id>
+        <link href="https://zenn.dev/ament3/articles/ai-digest-2026-10-23-0026"/>
+        <updated>2026-10-24T00:22:21.000Z</updated>
+        <summary type="html"><![CDATA[Hacker News等で大きな話題を呼んでいる、Anthropicによる最新の研究記事**「LLMs are making formal software verification feasible at a much larger scale」**をピックアップして解説します。AIによるコード自動生成が急速に普及する中で、エンジニアにとって最も重要なテーマの1つとなっているのが「生成されたコー]]></summary>
+        <content type="html"><![CDATA[Hacker News等で大きな話題を呼んでいる、Anthropicによる最新の研究記事**「LLMs are making formal software verification feasible at a much larger scale」**をピックアップして解説します。AIによるコード自動生成が急速に普及する中で、エンジニアにとって最も重要なテーマの1つとなっているのが「生成されたコードの安全性をどう担保するか」です。この記事では、LLMと「形式検証（Formal Verification）」の組み合わせがどのようにソフトウェア開発の常識を変えようとしているのかを紹介します...]]></content>
+        <author>
+            <name>田中根小介</name>
+        </author>
+        <published>2026-10-24T00:22:21.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[誤って止めるガードは、無いより悪い。Claude Codeのhooksを止めすぎない作り方 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/waiteu/articles/guard-without-false-blocks</id>
+        <link href="https://zenn.dev/waiteu/articles/guard-without-false-blocks"/>
+        <updated>2026-10-23T16:51:22.000Z</updated>
+        <summary type="html"><![CDATA[!この記事でわかること正しい作業まで止めてしまうガードが、なぜ「無いより悪い」のか実際に起きた誤ブロック5件と、それぞれの直し方止めるべき時に止め、通すべき時に通すことを両方確かめるテストの作り方 はじめに私は、Claude Codeのhooks（ツールを使う直前に自動で走るスクリプト）とgitのpre-commitで、公開リポジトリへのpushなどを機械で止めている。仕組みは前の記事に書いた。こ]]></summary>
+        <content type="html"><![CDATA[!この記事でわかること正しい作業まで止めてしまうガードが、なぜ「無いより悪い」のか実際に起きた誤ブロック5件と、それぞれの直し方止めるべき時に止め、通すべき時に通すことを両方確かめるテストの作り方 はじめに私は、Claude Codeのhooks（ツールを使う直前に自動で走るスクリプト）とgitのpre-commitで、公開リポジトリへのpushなどを機械で止めている。仕組みは前の記事に書いた。この記事ではその逆側の話として、正しい作業を止めてしまう「誤ブロック」をどう避けているかを書く。 ガードが無いより悪い誤ブロックひとことで言うと、誤ブロックは作業を止める...]]></content>
+        <author>
+            <name>waiteu</name>
+        </author>
+        <published>2026-10-23T16:51:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[泥臭いリファクタリング | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/gallu/books/18b1859947da0e</id>
+        <link href="https://zenn.dev/gallu/books/18b1859947da0e"/>
+        <updated>2026-10-23T14:27:20.000Z</updated>
+        <summary type="html"><![CDATA[仕様書がない。テストがない。作った人も、もういない。でも、そんな既存システムを「どうにかしなきゃいけない」状況になったとき。いったいどこから手を付ければよいのでしょうか?世の中には、リファクタリングについての良書がたくさんあります。しかし、現実の現場では、そもそも「リファクタリングを始められる状態にすらなっていない」システムも少なくありません。本書では、そんな「馬鹿でっかいマイナス」を、まずは「ど]]></summary>
+        <content type="html"><![CDATA[仕様書がない。テストがない。作った人も、もういない。でも、そんな既存システムを「どうにかしなきゃいけない」状況になったとき。いったいどこから手を付ければよいのでしょうか?世の中には、リファクタリングについての良書がたくさんあります。しかし、現実の現場では、そもそも「リファクタリングを始められる状態にすらなっていない」システムも少なくありません。本書では、そんな「馬鹿でっかいマイナス」を、まずは「どうにかできる程度のマイナス」にまで持っていくための考え方や手順を、実務寄りに書いていきます。現状の把握、リファクタリングを行うかどうかの判断、開発環境の整備、テストの導入、そして既存コードを 少しずつ 改善していく方法。理想的な設計や美しいコードを目指す、その手前にある泥臭い作業を中心に扱います。主な対象読者は、既存システムの保守や改修を任されたエンジニア、あるいはその判断を求められる技術者です。「全部作り直せれば楽なんだけどねぇ……」という状況で、それでも何とかしなければならない方に、少しでも参考になれば幸いです。]]></content>
+        <author>
+            <name>gallu</name>
+        </author>
+        <published>2026-10-23T14:27:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[紙とペンで挑んだ「テスト千本ノック！」〜新卒エンジニアのWACATE2026夏 2日目参加レポート〜 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/yoiyoi_rat/articles/b6c1a24c7e4759</id>
+        <link href="https://zenn.dev/yoiyoi_rat/articles/b6c1a24c7e4759"/>
+        <updated>2026-10-23T10:08:10.000Z</updated>
+        <summary type="html"><![CDATA[はじめにこんにちは！株式会社ログラス26卒エンジニアの加藤（@yoiyoi_rat）です。WACATE2026 夏 〜テスト千本ノック！〜 に参加してきました！WACATE（Workshop for Accelerating CApable Testing Engineers）は、ワークショップを通じてソフトウェアテストや品質保証を学ぶ、1泊2日の合宿型イベントです。新卒として、品質やテストが大切]]></summary>
+        <content type="html"><![CDATA[はじめにこんにちは！株式会社ログラス26卒エンジニアの加藤（@yoiyoi_rat）です。WACATE2026 夏 〜テスト千本ノック！〜 に参加してきました！WACATE（Workshop for Accelerating CApable Testing Engineers）は、ワークショップを通じてソフトウェアテストや品質保証を学ぶ、1泊2日の合宿型イベントです。新卒として、品質やテストが大切だということは教わっていたものの、テストをどう考え、どんな手法で設計するのかといった基本的な部分はほとんど知らない状態でした。そんな中、社内でWACATEの案内が共有されたのをきっかけ...]]></content>
+        <author>
+            <name>yoiyoi</name>
+        </author>
+        <published>2026-10-23T10:08:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[紙とペンで挑んだ「テスト千本ノック！」〜新卒エンジニアのWACATE2026夏 2日目参加レポート〜 | Zennの「品質」のフィード]]></title>
+        <id>https://zenn.dev/yoiyoi_rat/articles/b6c1a24c7e4759</id>
+        <link href="https://zenn.dev/yoiyoi_rat/articles/b6c1a24c7e4759"/>
+        <updated>2026-10-23T10:08:10.000Z</updated>
+        <summary type="html"><![CDATA[はじめにこんにちは！株式会社ログラス26卒エンジニアの加藤（@yoiyoi_rat）です。WACATE2026 夏 〜テスト千本ノック！〜 に参加してきました！WACATE（Workshop for Accelerating CApable Testing Engineers）は、ワークショップを通じてソフトウェアテストや品質保証を学ぶ、1泊2日の合宿型イベントです。新卒として、品質やテストが大切]]></summary>
+        <content type="html"><![CDATA[はじめにこんにちは！株式会社ログラス26卒エンジニアの加藤（@yoiyoi_rat）です。WACATE2026 夏 〜テスト千本ノック！〜 に参加してきました！WACATE（Workshop for Accelerating CApable Testing Engineers）は、ワークショップを通じてソフトウェアテストや品質保証を学ぶ、1泊2日の合宿型イベントです。新卒として、品質やテストが大切だということは教わっていたものの、テストをどう考え、どんな手法で設計するのかといった基本的な部分はほとんど知らない状態でした。そんな中、社内でWACATEの案内が共有されたのをきっかけ...]]></content>
+        <author>
+            <name>yoiyoi</name>
+        </author>
+        <published>2026-10-23T10:08:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D人物の膝が後ろへ曲がる原因は、足先だけで決めた曲げ方向だった | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/jisaku_net/articles/3d-knee-bend-foot-pelvis-direction</id>
+        <link href="https://zenn.dev/jisaku_net/articles/3d-knee-bend-foot-pelvis-direction"/>
+        <updated>2026-10-23T07:58:01.000Z</updated>
+        <summary type="html"><![CDATA[24式太極拳の動きを3Dで観察する「Taichi Studio」というアプリを、自分用に作っています。現在は開発中で、まだ本番公開していません。人物が向きを変える場面で、膝が骨盤に対して後ろへ曲がる姿勢がありました。足首や骨の長さは合っていても、膝の向きが不自然になります。原因は、膝をどちらへ曲げるかを足先の向きだけで決めていたことでした。足先と骨盤が大きく違う方向を向いたときに、骨盤の前方を使う]]></summary>
+        <content type="html"><![CDATA[24式太極拳の動きを3Dで観察する「Taichi Studio」というアプリを、自分用に作っています。現在は開発中で、まだ本番公開していません。人物が向きを変える場面で、膝が骨盤に対して後ろへ曲がる姿勢がありました。足首や骨の長さは合っていても、膝の向きが不自然になります。原因は、膝をどちらへ曲げるかを足先の向きだけで決めていたことでした。足先と骨盤が大きく違う方向を向いたときに、骨盤の前方を使う補正を加えました。 足首の位置と骨の長さだけでは、膝の位置は決まらないこのアプリでは、股関節と足首の位置、大腿と下腿の長さから膝の位置を求めています。ただし、この条件だけでは曲げる方...]]></content>
+        <author>
+            <name>何でも自作する人</name>
+        </author>
+        <published>2026-10-23T07:58:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[機械の検品を「出典あり」で通った語は、別の記事の見出しにあった | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/ciel_lab/articles/81bde10474dd93</id>
+        <link href="https://zenn.dev/ciel_lab/articles/81bde10474dd93"/>
+        <updated>2026-10-23T06:06:59.000Z</updated>
+        <summary type="html"><![CDATA[店の紹介サイトを AI に作らせています。前に note で、書いた文の語を情報源と突き合わせる照合の話を書きました。https://note.com/good_hawk7521/n/n4b53a565b17eこの照合は、機械の検品の中で走る検査のひとつです。情報源に無い語は「出典なし」で落ちる。硬い検査です。今回はその裏側です。「出典あり」で通ったのに、裏は取れていなかった話。 語はあった。事実]]></summary>
+        <content type="html"><![CDATA[店の紹介サイトを AI に作らせています。前に note で、書いた文の語を情報源と突き合わせる照合の話を書きました。https://note.com/good_hawk7521/n/n4b53a565b17eこの照合は、機械の検品の中で走る検査のひとつです。情報源に無い語は「出典なし」で落ちる。硬い検査です。今回はその裏側です。「出典あり」で通ったのに、裏は取れていなかった話。 語はあった。事実は書いていなかったある店の紹介文に「ミルクは常温と煮出しから選べる」と書いてありました。照合にかけると、『常温』は出典あり。機械は通します。情報源を開いて、『常温』がどこに...]]></content>
+        <author>
+            <name>Ciel</name>
+        </author>
+        <published>2026-10-23T06:06:59.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIが書いたコードの「動くけど間違っている」を、自分で見抜く5つの確認 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/shoebill_dev27/articles/ai-code-silent-bugs-checklist</id>
+        <link href="https://zenn.dev/shoebill_dev27/articles/ai-code-silent-bugs-checklist"/>
+        <updated>2026-10-23T01:19:52.000Z</updated>
+        <summary type="html"><![CDATA[AIにコードを書かせていて、こんな不安はないだろうか。動いた。エラーも出ない。でも、合っているのか分からない「ここ、間違ってない?」と聞くと「ご指摘ありがとうございます!」と直される。じゃあ聞かなかったらどうなっていたのかレビューしてくれる人がいない。自分はコードが読めないこれは「コードが読めないから起きる問題」ではない。「間違いの出かた」を知らないから起きる問題だ。そして間違いの出かたには型があ]]></summary>
+        <content type="html"><![CDATA[AIにコードを書かせていて、こんな不安はないだろうか。動いた。エラーも出ない。でも、合っているのか分からない「ここ、間違ってない?」と聞くと「ご指摘ありがとうございます!」と直される。じゃあ聞かなかったらどうなっていたのかレビューしてくれる人がいない。自分はコードが読めないこれは「コードが読めないから起きる問題」ではない。「間違いの出かた」を知らないから起きる問題だ。そして間違いの出かたには型があり、型を知れば、コードが書けなくても確認はできる。この記事では、非エンジニアが自分の手で実行できる確認を5つ挙げる。コード例はすべて標準ライブラリだけで動き、掲載前に実際に実行し...]]></content>
+        <author>
+            <name>shoebill-dev27</name>
+        </author>
+        <published>2026-10-23T01:19:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「完了しました」を信じない — サブエージェントの報告を検証可能にする | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/sitio1/articles/781f782927d6c3</id>
+        <link href="https://zenn.dev/sitio1/articles/781f782927d6c3"/>
+        <updated>2026-10-23T01:00:08.000Z</updated>
+        <summary type="html"><![CDATA[委譲した作業について、親が観測できるのは返ってきた報告のテキストだけです。そこに書かれた「完了しました」が実体と食い違っていても、報告を読むかぎり気づけません。実際に、進捗記録は「完了」なのに生成物がどこにも存在しない、という乖離が起きました。この記事では、完了報告を信じるのではなく検証可能にするための設計をまとめます。サブエージェントへ作業を委譲する運用を前提とした内容です。確認した証跡のパスを]]></summary>
+        <content type="html"><![CDATA[委譲した作業について、親が観測できるのは返ってきた報告のテキストだけです。そこに書かれた「完了しました」が実体と食い違っていても、報告を読むかぎり気づけません。実際に、進捗記録は「完了」なのに生成物がどこにも存在しない、という乖離が起きました。この記事では、完了報告を信じるのではなく検証可能にするための設計をまとめます。サブエージェントへ作業を委譲する運用を前提とした内容です。確認した証跡のパスを報告フォーマットに組み込む、バリデータの 0 件を完了と読み替えない、縮小実装は列挙させて採否は人間が決める、DoD をチェックリストとして固定する——いずれも、実運用で乖離が起きたあとに足し...]]></content>
+        <author>
+            <name>カイ</name>
+        </author>
+        <published>2026-10-23T01:00:08.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP の脆弱性（CVE-2026-109618、CVE-2026-109619）に関するご案内 | Ranorex Blog - テスト自動化ツール 『Ranorex』]]></title>
+        <id>https://ranorex.techmatrix.jp/?p=32880</id>
+        <link href="https://ranorex.techmatrix.jp/blog/2026/10/23/ranorex-cve-2026-109618-109619/"/>
+        <updated>2026-10-23T00:56:44.000Z</updated>
+        <summary type="html"><![CDATA[日頃から、Ranorexをご利用いただきありがとうございます。 現在報告されている PHP に関する脆弱性（CVE-2026-109618、CVE-2026-109619）において、Ranorex製品への影響についてご報 […]The post PHP の脆弱性（CVE-2026-109618、CVE-2026-109619）に関するご案内 first appeared on テスト自動化ツール ]]></summary>
+        <content type="html"><![CDATA[日頃から、Ranorexをご利用いただきありがとうございます。 現在報告されている PHP に関する脆弱性（CVE-2026-109618、CVE-2026-109619）において、Ranorex製品への影響についてご報 […]The post PHP の脆弱性（CVE-2026-109618、CVE-2026-109619）に関するご案内 first appeared on テスト自動化ツール 『Ranorex』.]]></content>
+        <author>
+            <name>user</name>
+        </author>
+        <category label="ニュース"/>
+        <published>2026-10-23T00:56:44.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[あなたはQA/品質保証に向いている、という話 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/tokium_dev/articles/2436a17903f2dd</id>
+        <link href="https://zenn.dev/tokium_dev/articles/2436a17903f2dd"/>
+        <updated>2026-10-22T23:00:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに株式会社TOKIUMでQAエンジニアをしている西田です。今回は、これまで公開してきたような技術共有とは趣向を変えて、軽めの雑談を持ってきました。個人の勝手な想像も含めた見解なので、その点ご容赦ください。生成AIが開発に入ってきて、品質保証（QA）の立ち位置もだいぶ変わってきました。コーディングに他職種の人が入ってきやすくなったのと同じで、QAも、AIの手を借りれば未経験の人でもある程度のテ]]></summary>
+        <content type="html"><![CDATA[はじめに株式会社TOKIUMでQAエンジニアをしている西田です。今回は、これまで公開してきたような技術共有とは趣向を変えて、軽めの雑談を持ってきました。個人の勝手な想像も含めた見解なので、その点ご容赦ください。生成AIが開発に入ってきて、品質保証（QA）の立ち位置もだいぶ変わってきました。コーディングに他職種の人が入ってきやすくなったのと同じで、QAも、AIの手を借りれば未経験の人でもある程度のテストはこなせるようになっています。しかも上流工程が爆速になったので、下流にいるQAがボトルネックになってリリースを止めてしまう心配は、前よりずっと大きくなりました。誰が担当し...]]></content>
+        <author>
+            <name>ynis_qa</name>
+        </author>
+        <published>2026-10-22T23:00:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[あなたはQA/品質保証に向いている、という話 | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/tokium_dev/articles/2436a17903f2dd</id>
+        <link href="https://zenn.dev/tokium_dev/articles/2436a17903f2dd"/>
+        <updated>2026-10-22T23:00:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに株式会社TOKIUMでQAエンジニアをしている西田です。今回は、これまで公開してきたような技術共有とは趣向を変えて、軽めの雑談を持ってきました。個人の勝手な想像も含めた見解なので、その点ご容赦ください。生成AIが開発に入ってきて、品質保証（QA）の立ち位置もだいぶ変わってきました。コーディングに他職種の人が入ってきやすくなったのと同じで、QAも、AIの手を借りれば未経験の人でもある程度のテ]]></summary>
+        <content type="html"><![CDATA[はじめに株式会社TOKIUMでQAエンジニアをしている西田です。今回は、これまで公開してきたような技術共有とは趣向を変えて、軽めの雑談を持ってきました。個人の勝手な想像も含めた見解なので、その点ご容赦ください。生成AIが開発に入ってきて、品質保証（QA）の立ち位置もだいぶ変わってきました。コーディングに他職種の人が入ってきやすくなったのと同じで、QAも、AIの手を借りれば未経験の人でもある程度のテストはこなせるようになっています。しかも上流工程が爆速になったので、下流にいるQAがボトルネックになってリリースを止めてしまう心配は、前よりずっと大きくなりました。誰が担当し...]]></content>
+        <author>
+            <name>ynis_qa</name>
+        </author>
+        <published>2026-10-22T23:00:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Test | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/y1rks/articles/65757ccfc24d00</id>
+        <link href="https://zenn.dev/y1rks/articles/65757ccfc24d00"/>
+        <updated>2026-10-22T22:56:53.000Z</updated>
+        <summary type="html"><![CDATA[This is a test.]]></summary>
+        <content type="html"><![CDATA[This is a test.]]></content>
+        <author>
+            <name>Yu</name>
+        </author>
+        <published>2026-10-22T22:56:53.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ECサポートAIをPythonで受入テストする：状態・操作履歴・構造化回答の採点 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/oyajico/articles/cc7e35a9e36c30</id>
+        <link href="https://zenn.dev/oyajico/articles/cc7e35a9e36c30"/>
+        <updated>2026-10-22T22:48:21.000Z</updated>
+        <summary type="html"><![CDATA[注文照会、キャンセル、返金を扱う AI を評価する場合、返答の文章に加えて、実行した操作も確認する必要があります。たとえば、返金額の最終値が 1,000 円でも、途中で別の操作 ID を使って返金を再要求していた可能性があります。店舗側の API が二重返金を防いでいれば、最終値だけでは、この試行を見落とします。この記事では、架空の日本語 EC 業務を使い、次の三つを機械的に採点する小さなテストキ]]></summary>
+        <content type="html"><![CDATA[注文照会、キャンセル、返金を扱う AI を評価する場合、返答の文章に加えて、実行した操作も確認する必要があります。たとえば、返金額の最終値が 1,000 円でも、途中で別の操作 ID を使って返金を再要求していた可能性があります。店舗側の API が二重返金を防いでいれば、最終値だけでは、この試行を見落とします。この記事では、架空の日本語 EC 業務を使い、次の三つを機械的に採点する小さなテストキットを紹介します。模擬 DB の最終状態と変更箇所成功・拒否・失敗を含むツールの試行履歴facts として返す構造化回答、およびケースで指定した文字列条件無料の 5 ケース版で...]]></content>
+        <author>
+            <name>Oyaji &amp;amp; Co.</name>
+        </author>
+        <published>2026-10-22T22:48:21.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「戻せる削除」と「戻せない削除」をどう扱うか。sasurahime の Cleaner trait と --yes の設計 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/ar1/articles/sasurahime-v030-internals</id>
+        <link href="https://zenn.dev/ar1/articles/sasurahime-v030-internals"/>
+        <updated>2026-10-22T11:07:02.000Z</updated>
+        <summary type="html"><![CDATA[ファイルを消す CLI は、機能の追加より「消さない仕組み」の設計が難しいです。sasurahime は macOS の開発キャッシュを消すツールで、対象は 51、テストは 752 件あります。この記事では、削除の契約、--yes の範囲を絞った判断、テストの環境依存を消した話を書きます。設計の中心は契約です。 中心にあるのは「消さない契約」すべての cleaner は Cleaner trait]]></summary>
+        <content type="html"><![CDATA[ファイルを消す CLI は、機能の追加より「消さない仕組み」の設計が難しいです。sasurahime は macOS の開発キャッシュを消すツールで、対象は 51、テストは 752 件あります。この記事では、削除の契約、--yes の範囲を絞った判断、テストの環境依存を消した話を書きます。設計の中心は契約です。 中心にあるのは「消さない契約」すべての cleaner は Cleaner trait を実装します。中核はこの 3 つです。pub trait Cleaner: Send + Sync { fn name(&amp;amp;self) -&amp;gt; &amp;amp;'stati...]]></content>
+        <author>
+            <name>ar1</name>
+        </author>
+        <published>2026-10-22T11:07:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テストが緑でも、柵があっても、守れているとは限らない ―― 偽りの安心を 5 つの型で見つけた記録 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/r2_san/articles/75724fb15adb70</id>
+        <link href="https://zenn.dev/r2_san/articles/75724fb15adb70"/>
+        <updated>2026-10-22T08:07:36.000Z</updated>
+        <summary type="html"><![CDATA[本記事の内容は私（R2-san）の体験（実装コード）・判断・指示に基づきますが、文章作成は生成 AI が行い、私の監修・確認を経て公開しています。(投稿時の情報です。開発中のもので、数字や仕様は 2026 年 10 月時点のものです。) この記事の対象自分の現場に、もうセキュリティ対策を入れている人に向けた記事です。対策を入れたかどうかではなく、入れた対策が本当に効いているかを確かめたい人を想定し]]></summary>
+        <content type="html"><![CDATA[本記事の内容は私（R2-san）の体験（実装コード）・判断・指示に基づきますが、文章作成は生成 AI が行い、私の監修・確認を経て公開しています。(投稿時の情報です。開発中のもので、数字や仕様は 2026 年 10 月時点のものです。) この記事の対象自分の現場に、もうセキュリティ対策を入れている人に向けた記事です。対策を入れたかどうかではなく、入れた対策が本当に効いているかを確かめたい人を想定しています。セキュリティの一番の敵は、対策が無いことではなく、効いていない対策が生む「守れている」という安心だと考えています。いわゆる Security Theater(安心の感覚...]]></content>
+        <author>
+            <name>R2-san</name>
+        </author>
+        <published>2026-10-22T08:07:36.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TRUSTDOCK QAチームが掲げる「伴走する品質保証」とリアルな現在地 | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/trustdock/articles/e5fef73a67382d</id>
+        <link href="https://zenn.dev/trustdock/articles/e5fef73a67382d"/>
+        <updated>2026-10-22T07:09:38.000Z</updated>
+        <summary type="html"><![CDATA[1. はじめに：仕組みの次は「カルチャー」の話をこんにちは！TRUSTDOCKで一人目QAエンジニアとして活動しているyosukenです。前回公開した記事（QAチーム立ち上げて半年を振り返って）では、一人目QAとして入社してから、どのようにQA組織の基盤づくりを進めてきたかについてお伝えしました。これまでの活動を通して、少しずつではありますがQAのプロセスや仕組みの輪郭は見え始めてきました。さらに]]></summary>
+        <content type="html"><![CDATA[1. はじめに：仕組みの次は「カルチャー」の話をこんにちは！TRUSTDOCKで一人目QAエンジニアとして活動しているyosukenです。前回公開した記事（QAチーム立ち上げて半年を振り返って）では、一人目QAとして入社してから、どのようにQA組織の基盤づくりを進めてきたかについてお伝えしました。これまでの活動を通して、少しずつではありますがQAのプロセスや仕組みの輪郭は見え始めてきました。さらに、9月には待望の2人目となるQAエンジニアも入社しました。これまで一人で立ち上げてきた基盤を、今後は「チーム」として組織全体へ定着させ、スケールさせていく新たなフェーズに入っていま...]]></content>
+        <author>
+            <name>yosuken</name>
+        </author>
+        <published>2026-10-22T07:09:38.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIに任せた品質保証に潜む、3つの落とし穴 | ソフトウェアテストタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/startdevin/items/ffd210336781f1e40f11</id>
+        <link href="https://qiita.com/startdevin/items/ffd210336781f1e40f11"/>
+        <updated>2026-10-22T01:06:13.000Z</updated>
+        <summary type="html"><![CDATA[🚀 Devin専門の解説メディア「StartDevin」を運営中！Devinの導入・使い方・最新アップデート・活用事例を、日本語でまとめています。👉 StartDevin をチェックする（startdevin.jp）この記事にぜひ いいね❤️ していただけると励み...]]></summary>
+        <content type="html"><![CDATA[🚀 Devin専門の解説メディア「StartDevin」を運営中！Devinの導入・使い方・最新アップデート・活用事例を、日本語でまとめています。👉 StartDevin をチェックする（startdevin.jp）この記事にぜひ いいね❤️ していただけると励み...]]></content>
+        <published>2026-10-22T01:06:13.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[落ちたテストを AI に消させない:A・B・C の 3 つに分けて直させる | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/k_iijima/articles/2de917c5b6c953</id>
+        <link href="https://zenn.dev/k_iijima/articles/2de917c5b6c953"/>
+        <updated>2026-10-21T22:17:13.000Z</updated>
+        <summary type="html"><![CDATA[はじめに私は、小さな事業者むけの業務ソフトを一人で作っています。開発は AI エージェント(Claude Code)にまかせています。AI にコードを直させると、前からあるテストが落ちることがあります。そのとき AI は、テストのほうを直して通そうとすることがあります。期待する値を書き換える、条件をゆるめる、skip を付ける、テストを消す。どれも「通った」という結果は出ますが、テストが守っていた]]></summary>
+        <content type="html"><![CDATA[はじめに私は、小さな事業者むけの業務ソフトを一人で作っています。開発は AI エージェント(Claude Code)にまかせています。AI にコードを直させると、前からあるテストが落ちることがあります。そのとき AI は、テストのほうを直して通そうとすることがあります。期待する値を書き換える、条件をゆるめる、skip を付ける、テストを消す。どれも「通った」という結果は出ますが、テストが守っていた約束は消えてしまいます。この記事では、私が AI に守らせている「落ちたテストの直し方」を書きます。2 本目の記事の「AI の『通りました』をどう信じるか」の続きです。 起きたこと...]]></content>
+        <author>
+            <name>飯島紘一</name>
+        </author>
+        <published>2026-10-21T22:17:13.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プロンプトを直すたびに壊れるLLMアプリに、録画テストで「前回比」を入れる | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/uenonao/articles/bb578afdd4891f</id>
+        <link href="https://zenn.dev/uenonao/articles/bb578afdd4891f"/>
+        <updated>2026-10-21T20:01:05.000Z</updated>
+        <summary type="html"><![CDATA[LLMを組み込んだアプリで、プロンプトを1行直したら別の入力で出力が壊れた、という経験はないでしょうか。普通のコードならテストで防ぐ「デグレ」ですが、LLMは出力が揺れるので、テストを書かずに手で数件試して終わりにしがちです。この記事では、APIキーなし・課金ゼロでCIに載せられる最小構成を紹介します。考え方はシンプルで、次の3つだけです。機械で白黒つく性質だけをチェックする（決定的チェック）LL]]></summary>
+        <content type="html"><![CDATA[LLMを組み込んだアプリで、プロンプトを1行直したら別の入力で出力が壊れた、という経験はないでしょうか。普通のコードならテストで防ぐ「デグレ」ですが、LLMは出力が揺れるので、テストを書かずに手で数件試して終わりにしがちです。この記事では、APIキーなし・課金ゼロでCIに載せられる最小構成を紹介します。考え方はシンプルで、次の3つだけです。機械で白黒つく性質だけをチェックする（決定的チェック）LLMの応答を録画して、テストは録画を再生して行う（カセット）「全部合格」ではなく「前回より悪くなっていないか」で判定する（ベースライン比較） 1. 決定的チェック「要約として自然...]]></content>
+        <author>
+            <name>中野 曲</name>
+        </author>
+        <published>2026-10-21T20:01:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プロンプトを変えても壊さない：Python×pytestで作るLLMアプリの回帰テスト入門 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/uenonao/books/c28277f28a2f5b</id>
+        <link href="https://zenn.dev/uenonao/books/c28277f28a2f5b"/>
+        <updated>2026-10-21T19:58:10.000Z</updated>
+        <summary type="html"><![CDATA[LLMを組み込んだアプリで「プロンプトを1行直したら別のところが壊れた」を防ぐための本です。決定的チェック・応答の録画（カセット）・LLM-as-a-Judgeの3層で、デグレを自動で検知する仕組みをPythonとpytestだけで作ります。サンプルコードはAPIキーなし・課金ゼロで動き、GitHub ActionsでもAPIを呼ばずに毎回テストできます。第1章は無料で読めます。]]></summary>
+        <content type="html"><![CDATA[LLMを組み込んだアプリで「プロンプトを1行直したら別のところが壊れた」を防ぐための本です。決定的チェック・応答の録画（カセット）・LLM-as-a-Judgeの3層で、デグレを自動で検知する仕組みをPythonとpytestだけで作ります。サンプルコードはAPIキーなし・課金ゼロで動き、GitHub ActionsでもAPIを呼ばずに毎回テストできます。第1章は無料で読めます。]]></content>
+        <author>
+            <name>中野 曲</name>
+        </author>
+        <published>2026-10-21T19:58:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pythonの-Oでセキュリティチェックが消える——QSVの検証コードから考えたFail-Closedの落とし穴 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/qspprotocol/articles/fa0e6c44ff9c9d</id>
+        <link href="https://zenn.dev/qspprotocol/articles/fa0e6c44ff9c9d"/>
+        <updated>2026-10-21T12:43:29.000Z</updated>
+        <summary type="html"><![CDATA[セキュリティの検証プログラムを書いていて、怖いことに気づいた。通常の実行では、不正なデータをきちんと拒否する。ところが、Pythonの起動オプションを一つ変えるだけで、その検査処理自体が実行されなくなる場合がある。問題になるのは、次のようなコードだ。assert actual_hash == expected_hash見た目は単純なハッシュ値の照合である。しかし、Pythonを-Oオプション付きで]]></summary>
+        <content type="html"><![CDATA[セキュリティの検証プログラムを書いていて、怖いことに気づいた。通常の実行では、不正なデータをきちんと拒否する。ところが、Pythonの起動オプションを一つ変えるだけで、その検査処理自体が実行されなくなる場合がある。問題になるのは、次のようなコードだ。assert actual_hash == expected_hash見た目は単純なハッシュ値の照合である。しかし、Pythonを-Oオプション付きで実行すると、このassert文は除去される。つまり、実行条件によっては、不正なデータを拒否するはずのプログラムが、その検査を行わずに通過させてしまう。これはPythonのバグでは...]]></content>
+        <author>
+            <name>QSP / QSV｜量子セキュリティ検証</name>
+        </author>
+        <published>2026-10-21T12:43:29.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FNV-1a を % 8 で振り分けたら、8人中3人に1件も来なかった — 2のべき乗の剰余は下位ビットしか見ない | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/mameresearcher/articles/fnv-modulo-power-of-two-low-bits</id>
+        <link href="https://zenn.dev/mameresearcher/articles/fnv-modulo-power-of-two-low-bits"/>
+        <updated>2026-10-21T11:06:09.000Z</updated>
+        <summary type="html"><![CDATA[個人の自動化プロジェクトで、リダイレクト用の小さな Worker を動かしている。今回、そこに「1つの入口URLから来た人を、8つの飛び先に均等に振り分ける」機能を足した。入口のURLは紙に印刷した QR コードに入る。印刷したあとは URL を変えられないので、振り分けはサーバー側でやることにした。条件は2つ。8つの飛び先にほぼ均等に散ること同じ端末は何度開いても同じ飛び先に行くこと(再訪のたび]]></summary>
+        <content type="html"><![CDATA[個人の自動化プロジェクトで、リダイレクト用の小さな Worker を動かしている。今回、そこに「1つの入口URLから来た人を、8つの飛び先に均等に振り分ける」機能を足した。入口のURLは紙に印刷した QR コードに入る。印刷したあとは URL を変えられないので、振り分けはサーバー側でやることにした。条件は2つ。8つの飛び先にほぼ均等に散ること同じ端末は何度開いても同じ飛び先に行くこと(再訪のたびに行き先が変わると、記録上の帰属が後から上書きされてしまう)2つ目があるので乱数は使えない。そこで「IP + User-Agent をハッシュして、8で割った余り」にした。よくある...]]></content>
+        <author>
+            <name>まめ研究員</name>
+        </author>
+        <published>2026-10-21T11:06:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On the Effectiveness of Snapshot Testing: An Empirical Study | arXiv Query: search_query=all:"software testing"&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10]]></title>
+        <id>https://arxiv.org/abs/2610.29549v1</id>
+        <link href="https://arxiv.org/abs/2610.29549v1"/>
+        <updated>2026-10-21T10:35:35.000Z</updated>
+        <summary type="html"><![CDATA[Software testing is essential for ensuring quality, yet testing complex front-end user interfaces is often time-consuming and difficult. Snapshot testing has emerged as a low-cost regression testing m]]></summary>
+        <content type="html"><![CDATA[Software testing is essential for ensuring quality, yet testing complex front-end user interfaces is often time-consuming and difficult. Snapshot testing has emerged as a low-cost regression testing method that detects unexpected changes by comparing program behavior before and after modifications. Despite its growing adoption, empirical evidence regarding its actual effectiveness remains scarce. To fill this gap, this study presents a large-scale empirical investigation into the effectiveness o]]></content>
+        <published>2026-10-21T10:35:35.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超攻撃的QA / Massive Attack QA - 9.81 PR/人/日の開発に、QAはどう追いつくか | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/kauche/articles/e748aa14bc7667</id>
+        <link href="https://zenn.dev/kauche/articles/e748aa14bc7667"/>
+        <updated>2026-10-21T07:48:55.000Z</updated>
+        <summary type="html"><![CDATA[はじめにカウシェでQAリードをしている亀井です！この記事は、2026年10月20日のJaSST nanoでの登壇内容をまとめたものです。カウシェは、SNSのように毎日開きたくなるECアプリです。発見型のお買い物体験に、ゲームやソーシャルの要素を組み合わせていて、アプリ内で作物を育てると実物の商品が届く「カウシェファーム」などを提供しています。リリースをすればするほど顧客価値があることは定量的に計測]]></summary>
+        <content type="html"><![CDATA[はじめにカウシェでQAリードをしている亀井です！この記事は、2026年10月20日のJaSST nanoでの登壇内容をまとめたものです。カウシェは、SNSのように毎日開きたくなるECアプリです。発見型のお買い物体験に、ゲームやソーシャルの要素を組み合わせていて、アプリ内で作物を育てると実物の商品が届く「カウシェファーム」などを提供しています。リリースをすればするほど顧客価値があることは定量的に計測できています。高速開発が事業にダイレクトヒットしています。そのためカウシェの開発は速く、2026年9月には9.81 PR/人/日のペースで進んでいます。1週間スプリントの中で、QAは...]]></content>
+        <author>
+            <name>亀井亮介@カウシェ</name>
+        </author>
+        <published>2026-10-21T07:48:55.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仕様書が整っていないWebアプリの今の挙動をREAで調べ、仕様かどうかを確かめる | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/mumihatsu/articles/6ca0221bc96c55</id>
+        <link href="https://zenn.dev/mumihatsu/articles/6ca0221bc96c55"/>
+        <updated>2026-10-21T05:18:50.000Z</updated>
+        <summary type="html"><![CDATA[はじめに仕様書が無い、古い、一部しか無い、という既存のWebシステムのテストを頼まれることがあります。仕様書などが整っていない場合は、今の挙動を調べて、それが仕様かどうかを判断する必要があります。今の挙動には不具合も混ざっています。REA（Reverse Engineer Anything）がWebサイトも調べられると知り、公式の練習用アプリで試しました。この記事では、REAで今の挙動の何が取れた]]></summary>
+        <content type="html"><![CDATA[はじめに仕様書が無い、古い、一部しか無い、という既存のWebシステムのテストを頼まれることがあります。仕様書などが整っていない場合は、今の挙動を調べて、それが仕様かどうかを判断する必要があります。今の挙動には不具合も混ざっています。REA（Reverse Engineer Anything）がWebサイトも調べられると知り、公式の練習用アプリで試しました。この記事では、REAで今の挙動の何が取れたか、それをどう記録したか、仕様かどうかの判断にどうつなげるかを書きます。仕様かどうかは、仕様を理解している人が判断します。そこで記録には「正しいと仮置き・仕様ではない」と書き、質問票を...]]></content>
+        <author>
+            <name>りょうさん</name>
+        </author>
+        <published>2026-10-21T05:18:50.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[紙とペンで挑んだ「テスト千本ノック！」〜新卒エンジニアのWACATE2026夏 1日目参加レポート〜 | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/loglass/articles/54c4f9688dab9f</id>
+        <link href="https://zenn.dev/loglass/articles/54c4f9688dab9f"/>
+        <updated>2026-10-21T05:01:36.000Z</updated>
+        <summary type="html"><![CDATA[はじめにこんにちは！株式会社ログラスで26卒エンジニアの北川(@ykitaaaa)です。WACATE2026 夏 〜テスト千本ノック！〜というイベントに参加してきました。https://wacate.jp/workshops/2026summer/このWACATE(Workshop for Accelerating CApable Testing Engineers)は、ワークショップ等を通じてソ]]></summary>
+        <content type="html"><![CDATA[はじめにこんにちは！株式会社ログラスで26卒エンジニアの北川(@ykitaaaa)です。WACATE2026 夏 〜テスト千本ノック！〜というイベントに参加してきました。https://wacate.jp/workshops/2026summer/このWACATE(Workshop for Accelerating CApable Testing Engineers)は、ワークショップ等を通じてソフトウェアテストや品質保証について学び、参加者同士で交流することを目的として夏と冬の年に2回開催されるイベントです。参加するきっかけとしては、社内で「こんなイベントがあるよ」と共有が...]]></content>
+        <author>
+            <name>ykitaa</name>
+        </author>
+        <published>2026-10-21T05:01:36.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第3回】XcodeとCodexでiOS用PDFビューアを育てる――公開できるテストPDFで、表示設定と検索・負荷を確かめる | ソフトウェアテストタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/tyamada22/items/021de2e09cdda239f24c</id>
+        <link href="https://qiita.com/tyamada22/items/021de2e09cdda239f24c"/>
+        <updated>2026-10-21T01:50:13.000Z</updated>
+        <summary type="html"><![CDATA[シリーズ：iOS版『見開きPDFビューア』開発記録この記事は、ChatGPTと壁打ちしながら作成しました。また、開発時の作業ログと、Gitの変更履歴・ソースコードを調査した結果を含みます。第2回の記事では、iOS用PDFビューア「MihirakiPDFViewer」...]]></summary>
+        <content type="html"><![CDATA[シリーズ：iOS版『見開きPDFビューア』開発記録この記事は、ChatGPTと壁打ちしながら作成しました。また、開発時の作業ログと、Gitの変更履歴・ソースコードを調査した結果を含みます。第2回の記事では、iOS用PDFビューア「MihirakiPDFViewer」...]]></content>
+        <published>2026-10-21T01:50:13.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIとの個人開発で学んだ回帰テストの重要性 | ソフトウェアテストタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/kinoto-r/items/f54e0dadd2e50af6065c</id>
+        <link href="https://qiita.com/kinoto-r/items/f54e0dadd2e50af6065c"/>
+        <updated>2026-10-20T07:24:07.000Z</updated>
+        <summary type="html"><![CDATA[はじめに私は法令・規格調査を効率化するため、生成AIを活用しながら個人開発を続けています。AIのおかげで、以前は難しかった機能も実装できるようになりました。しかし、開発を重ねるうちに、一つの修正が別の機能に影響を与える場面に何度も直面しました。「今、正常に動いてい...]]></summary>
+        <content type="html"><![CDATA[はじめに私は法令・規格調査を効率化するため、生成AIを活用しながら個人開発を続けています。AIのおかげで、以前は難しかった機能も実装できるようになりました。しかし、開発を重ねるうちに、一つの修正が別の機能に影響を与える場面に何度も直面しました。「今、正常に動いてい...]]></content>
+        <published>2026-10-20T07:24:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIがテスト設計書を書く時代、QAの主役は探索チャーターになった | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/zenkigen_tech/articles/6582574fc862fb</id>
+        <link href="https://zenn.dev/zenkigen_tech/articles/6582574fc862fb"/>
+        <updated>2026-10-19T03:00:07.000Z</updated>
+        <summary type="html"><![CDATA[AIがテスト設計書を書く時代、QAの主役は探索チャーターになった はじめに株式会社ZENKIGENでQAエンジニアをしている横田です。6月の記事「AIと歩む、点の自動化からフローの自動化へ」では、Claude Code を使って QA の業務フロー全体をパイプライン化した話を書きました。仕様書からテスト設計書を作り、テスト設計書からテスト項目書を作る。この流れをスキルとして整えたことで、成果物を作]]></summary>
+        <content type="html"><![CDATA[AIがテスト設計書を書く時代、QAの主役は探索チャーターになった はじめに株式会社ZENKIGENでQAエンジニアをしている横田です。6月の記事「AIと歩む、点の自動化からフローの自動化へ」では、Claude Code を使って QA の業務フロー全体をパイプライン化した話を書きました。仕様書からテスト設計書を作り、テスト設計書からテスト項目書を作る。この流れをスキルとして整えたことで、成果物を作るスピードは大きく上がりました。ところが、リリース前テストにかかる工数は思ったほど減りませんでした。作るのは速くなったのに、テストプロセス全体は速くなっていない。この記事は、その原...]]></content>
+        <author>
+            <name>横田雅和</name>
+        </author>
+        <published>2026-10-19T03:00:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第307回 はっぴょうかいの感謝感想回 #テストラジオ | テストラジオ]]></title>
+        <id>https://testradio.fm/?p=1811</id>
+        <link href="https://testradio.fm/testradio-no/1811/"/>
+        <updated>2026-10-18T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今回はまず、なぜ毎回冒頭でわざわざ収録日と時間を言っているのかという話 …]]></summary>
+        <content type="html"><![CDATA[今回はまず、なぜ毎回冒頭でわざわざ収録日と時間を言っているのかという話 …]]></content>
+        <author>
+            <name>なそ＠さとうひろゆき</name>
+        </author>
+        <category label="テストラジオ"/>
+        <category label="なそ回"/>
+        <category label="よしたけ回"/>
+        <published>2026-10-18T23:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Noise-Awareness in Quantum Software Testing: An Empirical Landscape Analysis | arXiv Query: search_query=all:"software testing"&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10]]></title>
+        <id>https://arxiv.org/abs/2610.25233v1</id>
+        <link href="https://arxiv.org/abs/2610.25233v1"/>
+        <updated>2026-10-18T12:54:10.000Z</updated>
+        <summary type="html"><![CDATA[Noisy Intermediate-Scale Quantum (NISQ) hardware has transformed quantum computing into a practical experimental platform while introducing fundamental challenges associated with hardware noise, decoh]]></summary>
+        <content type="html"><![CDATA[Noisy Intermediate-Scale Quantum (NISQ) hardware has transformed quantum computing into a practical experimental platform while introducing fundamental challenges associated with hardware noise, decoherence, and probabilistic execution. Although quantum software testing (QST) has rapidly emerged as an active research area, it remains unclear to what extent existing testing methodologies explicitly engage with noisy and hardware-constrained execution environments. This paper presents a systematic]]></content>
+        <published>2026-10-18T12:54:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第410回：　「ALTM」24　（テストプロセス改善: テスト改善プロセス(IDEAL)）  | Kouichi Akiyama]]></title>
+        <id>https://note.com/akiyama924/n/nd29f091cb969</id>
+        <link href="https://note.com/akiyama924/n/nd29f091cb969"/>
+        <updated>2026-10-17T22:01:04.000Z</updated>
+        <summary type="html"><![CDATA[◀前の記事へ 次の記事へ▶︎続きをみる]]></summary>
+        <content type="html"><![CDATA[◀前の記事へ 次の記事へ▶︎続きをみる]]></content>
+        <published>2026-10-17T22:01:04.000Z</published>
+    </entry>
+</feed>

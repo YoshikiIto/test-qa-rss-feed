@@ -1,0 +1,900 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "テスト・QA関連ブログRSS",
+    "home_page_url": "https://yoshikiito.github.io/test-qa-rss-feed/",
+    "feed_url": "https://yoshikiito.github.io/test-qa-rss-feed/feeds/feed.json",
+    "description": "企テスト・QA関連ブログの更新をまとめたRSSフィード",
+    "icon": "https://yoshikiito.github.io/test-qa-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://zenn.dev/garplab/articles/083e25df1be2fa",
+            "content_html": "この記事は、連載「確かめない技術」の第 3 回です。うまくいかない症状と、その対処を一つずつ並べています。各回はファイルやスクリプトを一つ置けば完結します。その仕組みがなぜ要るのかは、置いたあとに解説を読めば分かります。連載の全体像と各回の一覧は序論にあります。今回は、テストの再実行の話です。再実行というのは、コードを 1 文字も変えていないのに、同じテストをもう一度走らせることです。AIは「最終確認をして引き継ぎます」と書いて、直前に通ったばかりのテストを走らせ直しました。AIにとって、確認と再実行は区別されないからです。私は、結果が変わらないと分かっている実行を、最後まで待って...",
+            "url": "https://zenn.dev/garplab/articles/083e25df1be2fa",
+            "title": "確かめない技術 第3回：テストを再実行しない技術 | Zennの「Test」のフィード",
+            "summary": "この記事は、連載「確かめない技術」の第 3 回です。うまくいかない症状と、その対処を一つずつ並べています。各回はファイルやスクリプトを一つ置けば完結します。その仕組みがなぜ要るのかは、置いたあとに解説を読めば分かります。連載の全体像と各回の一覧は序論にあります。今回は、テストの再実行の話です。再実行というのは、コードを 1 文字も変えていないのに、同じテストをもう一度走らせることです。AIは「最終",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--AbXBwlA2--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%25A2%25BA%25E3%2581%258B%25E3%2582%2581%25E3%2581%25AA%25E3%2581%2584%25E6%258A%2580%25E8%25A1%2593%2520%25E7%25AC%25AC3%25E5%259B%259E%25EF%25BC%259A%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2582%2592%25E5%2586%258D%25E5%25AE%259F%25E8%25A1%258C%25E3%2581%2597%25E3%2581%25AA%25E3%2581%2584%25E6%258A%2580%25E8%25A1%2593%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:garplab%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSnJLclpvV19BYkZLd2xYTHI3UHp3M01HQVc3OVNHWTVQU0F5OUh3NmRxX3pCUVZCU1g9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+                "type": "png"
+            },
+            "date_modified": "2026-10-24T08:17:06.000Z",
+            "date_published": "2026-10-24T08:17:06.000Z",
+            "author": {
+                "name": "garplab"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "確かめない技術 第3回：テストを再実行しない技術",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/swdrk/articles/a18eca9e53d582",
+            "content_html": "Java・Spring Boot で業務システムを作ってきました。業務システムのコードを AI のコーディングツール（Claude Code）にどこまで任せられるかを、架空の「備品貸出管理 API」で試しました。指示の出し方を変えて4回動かし、出てきたコードを人が書いたテストで確かめています。結論を先に書きます。文章でざっくり頼むと、動くものは出てくる。ただし、頼んでいない機能や、仕様にない判断（タイムゾーン・同時実行の扱い）を AI が自分で決めて入れるルールファイル（CLAUDE.md）と受け入れ条件で縛ると、範囲どおりに作り、テストも厚くなる。ただし、書かなかった非機能...",
+            "url": "https://zenn.dev/swdrk/articles/a18eca9e53d582",
+            "title": "Spring Boot の業務 API を Claude Code に書かせて分かった、「書いたことは守り、書かなかったことは落とす」 | Zennの「Test」のフィード",
+            "summary": "Java・Spring Boot で業務システムを作ってきました。業務システムのコードを AI のコーディングツール（Claude Code）にどこまで任せられるかを、架空の「備品貸出管理 API」で試しました。指示の出し方を変えて4回動かし、出てきたコードを人が書いたテストで確かめています。結論を先に書きます。文章でざっくり頼むと、動くものは出てくる。ただし、頼んでいない機能や、仕様にない判断（",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--AFRiYsVp--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Spring%2520Boot%2520%25E3%2581%25AE%25E6%25A5%25AD%25E5%258B%2599%2520API%2520%25E3%2582%2592%2520Claude%2520Code%2520%25E3%2581%25AB%25E6%259B%25B8%25E3%2581%258B%25E3%2581%259B%25E3%2581%25A6%25E5%2588%2586%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%25E3%2580%2581%25E3%2580%258C%25E6%259B%25B8%25E3%2581%2584%25E3%2581%259F%25E3%2581%2593%25E3%2581%25A8%25E3%2581%25AF%25E5%25AE%2588%25E3%2582%258A%25E3%2580%2581%25E6%259B%25B8%25E3%2581%258B%25E3%2581%25AA...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:R.Sawada%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzJhOGZlYjFlMjMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+                "type": "png"
+            },
+            "date_modified": "2026-10-24T07:01:23.000Z",
+            "date_published": "2026-10-24T07:01:23.000Z",
+            "author": {
+                "name": "R.Sawada"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Spring Boot の業務 API を Claude Code に書かせて分かった、「書いたことは守り、書かなかったことは落とす」",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://note.com/qa_tpen/n/n4d331e58332a",
+            "content_html": "先日、初めてキャンプに行ってきました。AIが輝く場所は、IT業界の中より、リアルなビジネスや職業の近くにあるのではないか。そんな仮説のもとで、最近は、どこにヒントがあるかわからないまま手広く広げています。続きをみる",
+            "url": "https://note.com/qa_tpen/n/n4d331e58332a",
+            "title": "キャンプ場で、AIから離れた場所に構想が生まれた | QAを楽しむ者",
+            "summary": "先日、初めてキャンプに行ってきました。AIが輝く場所は、IT業界の中より、リアルなビジネスや職業の近くにあるのではないか。そんな仮説のもとで、最近は、どこにヒントがあるかわからないまま手広く広げています。続きをみる",
+            "image": {
+                "url": "https://assets.st-note.com/production/uploads/images/327846929/rectangle_large_type_2_73ec2f2c204baaf177a7e6ed4c6d2fa1.jpeg?fit=bounds&quality=85&width=1280",
+                "type": "jpeg"
+            },
+            "date_modified": "2026-10-24T04:48:54.000Z",
+            "date_published": "2026-10-24T04:48:54.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "キャンプ場で、AIから離れた場所に構想が生まれた",
+                "blogTitle": "QAを楽しむ者",
+                "blogLink": "https://note.com/qa_tpen",
+                "blogLinkMd5Hash": "7474b45f8e68b21b6e29916cd854069b",
+                "favicon": "https://assets.st-note.com/poc-image/manual/note-common-images/production/svg/production.ico"
+            }
+        },
+        {
+            "id": "https://zenn.dev/ament3/articles/ai-digest-2026-10-23-0026",
+            "content_html": "Hacker News等で大きな話題を呼んでいる、Anthropicによる最新の研究記事**「LLMs are making formal software verification feasible at a much larger scale」**をピックアップして解説します。AIによるコード自動生成が急速に普及する中で、エンジニアにとって最も重要なテーマの1つとなっているのが「生成されたコードの安全性をどう担保するか」です。この記事では、LLMと「形式検証（Formal Verification）」の組み合わせがどのようにソフトウェア開発の常識を変えようとしているのかを紹介します...",
+            "url": "https://zenn.dev/ament3/articles/ai-digest-2026-10-23-0026",
+            "title": "LLMが形式検証を現実的に？Anthropicが示すソフトウェア品質の未来 | Zennの「Test」のフィード",
+            "summary": "Hacker News等で大きな話題を呼んでいる、Anthropicによる最新の研究記事**「LLMs are making formal software verification feasible at a much larger scale」**をピックアップして解説します。AIによるコード自動生成が急速に普及する中で、エンジニアにとって最も重要なテーマの1つとなっているのが「生成されたコー",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--b8XSQ1DF--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:LLM%25E3%2581%258C%25E5%25BD%25A2%25E5%25BC%258F%25E6%25A4%259C%25E8%25A8%25BC%25E3%2582%2592%25E7%258F%25BE%25E5%25AE%259F%25E7%259A%2584%25E3%2581%25AB%25EF%25BC%259FAnthropic%25E3%2581%258C%25E7%25A4%25BA%25E3%2581%2599%25E3%2582%25BD%25E3%2583%2595%25E3%2583%2588%25E3%2582%25A6%25E3%2582%25A7%25E3%2582%25A2%25E5%2593%2581%25E8%25B3%25AA%25E3%2581%25AE%25E6%259C%25AA%25E6%259D%25A5%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E7%2594%25B0%25E4%25B8%25AD%25E6%25A0%25B9%25E5%25B0%258F%25E4%25BB%258B%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS2ZJTlVWMXNGNFFjSFpoSkNrbTBOMGJENEo3Y2dMNHZMMjRvdjJIam01akRnNXlLeHU9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+                "type": "png"
+            },
+            "date_modified": "2026-10-24T00:22:21.000Z",
+            "date_published": "2026-10-24T00:22:21.000Z",
+            "author": {
+                "name": "田中根小介"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "LLMが形式検証を現実的に？Anthropicが示すソフトウェア品質の未来",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/waiteu/articles/guard-without-false-blocks",
+            "content_html": "!この記事でわかること正しい作業まで止めてしまうガードが、なぜ「無いより悪い」のか実際に起きた誤ブロック5件と、それぞれの直し方止めるべき時に止め、通すべき時に通すことを両方確かめるテストの作り方 はじめに私は、Claude Codeのhooks（ツールを使う直前に自動で走るスクリプト）とgitのpre-commitで、公開リポジトリへのpushなどを機械で止めている。仕組みは前の記事に書いた。この記事ではその逆側の話として、正しい作業を止めてしまう「誤ブロック」をどう避けているかを書く。 ガードが無いより悪い誤ブロックひとことで言うと、誤ブロックは作業を止める...",
+            "url": "https://zenn.dev/waiteu/articles/guard-without-false-blocks",
+            "title": "誤って止めるガードは、無いより悪い。Claude Codeのhooksを止めすぎない作り方 | Zennの「Test」のフィード",
+            "summary": "!この記事でわかること正しい作業まで止めてしまうガードが、なぜ「無いより悪い」のか実際に起きた誤ブロック5件と、それぞれの直し方止めるべき時に止め、通すべき時に通すことを両方確かめるテストの作り方 はじめに私は、Claude Codeのhooks（ツールを使う直前に自動で走るスクリプト）とgitのpre-commitで、公開リポジトリへのpushなどを機械で止めている。仕組みは前の記事に書いた。こ",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--CyAQA2Q4--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%25AA%25A4%25E3%2581%25A3%25E3%2581%25A6%25E6%25AD%25A2%25E3%2582%2581%25E3%2582%258B%25E3%2582%25AC%25E3%2583%25BC%25E3%2583%2589%25E3%2581%25AF%25E3%2580%2581%25E7%2584%25A1%25E3%2581%2584%25E3%2582%2588%25E3%2582%258A%25E6%2582%25AA%25E3%2581%2584%25E3%2580%2582Claude%2520Code%25E3%2581%25AEhooks%25E3%2582%2592%25E6%25AD%25A2%25E3%2582%2581%25E3%2581%2599%25E3%2581%258E%25E3%2581%25AA%25E3%2581%2584%25E4%25BD%259C%25E3%2582%258A%25E6%2596%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:waiteu%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2I3OGRlZjhlMGQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+                "type": "png"
+            },
+            "date_modified": "2026-10-23T16:51:22.000Z",
+            "date_published": "2026-10-23T16:51:22.000Z",
+            "author": {
+                "name": "waiteu"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "誤って止めるガードは、無いより悪い。Claude Codeのhooksを止めすぎない作り方",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/gallu/books/18b1859947da0e",
+            "content_html": "仕様書がない。テストがない。作った人も、もういない。でも、そんな既存システムを「どうにかしなきゃいけない」状況になったとき。いったいどこから手を付ければよいのでしょうか?世の中には、リファクタリングについての良書がたくさんあります。しかし、現実の現場では、そもそも「リファクタリングを始められる状態にすらなっていない」システムも少なくありません。本書では、そんな「馬鹿でっかいマイナス」を、まずは「どうにかできる程度のマイナス」にまで持っていくための考え方や手順を、実務寄りに書いていきます。現状の把握、リファクタリングを行うかどうかの判断、開発環境の整備、テストの導入、そして既存コードを 少しずつ 改善していく方法。理想的な設計や美しいコードを目指す、その手前にある泥臭い作業を中心に扱います。主な対象読者は、既存システムの保守や改修を任されたエンジニア、あるいはその判断を求められる技術者です。「全部作り直せれば楽なんだけどねぇ……」という状況で、それでも何とかしなければならない方に、少しでも参考になれば幸いです。",
+            "url": "https://zenn.dev/gallu/books/18b1859947da0e",
+            "title": "泥臭いリファクタリング | Zennの「Test」のフィード",
+            "summary": "仕様書がない。テストがない。作った人も、もういない。でも、そんな既存システムを「どうにかしなきゃいけない」状況になったとき。いったいどこから手を付ければよいのでしょうか?世の中には、リファクタリングについての良書がたくさんあります。しかし、現実の現場では、そもそも「リファクタリングを始められる状態にすらなっていない」システムも少なくありません。本書では、そんな「馬鹿でっかいマイナス」を、まずは「ど",
+            "image": {
+                "url": "https://static.zenn.studio/images/logo-only-dark.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-23T14:27:20.000Z",
+            "date_published": "2026-10-23T14:27:20.000Z",
+            "author": {
+                "name": "gallu"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "泥臭いリファクタリング",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/yoiyoi_rat/articles/b6c1a24c7e4759",
+            "content_html": "はじめにこんにちは！株式会社ログラス26卒エンジニアの加藤（@yoiyoi_rat）です。WACATE2026 夏 〜テスト千本ノック！〜 に参加してきました！WACATE（Workshop for Accelerating CApable Testing Engineers）は、ワークショップを通じてソフトウェアテストや品質保証を学ぶ、1泊2日の合宿型イベントです。新卒として、品質やテストが大切だということは教わっていたものの、テストをどう考え、どんな手法で設計するのかといった基本的な部分はほとんど知らない状態でした。そんな中、社内でWACATEの案内が共有されたのをきっかけ...",
+            "url": "https://zenn.dev/yoiyoi_rat/articles/b6c1a24c7e4759",
+            "title": "紙とペンで挑んだ「テスト千本ノック！」〜新卒エンジニアのWACATE2026夏 2日目参加レポート〜 | Zennの「Test」のフィード",
+            "summary": "はじめにこんにちは！株式会社ログラス26卒エンジニアの加藤（@yoiyoi_rat）です。WACATE2026 夏 〜テスト千本ノック！〜 に参加してきました！WACATE（Workshop for Accelerating CApable Testing Engineers）は、ワークショップを通じてソフトウェアテストや品質保証を学ぶ、1泊2日の合宿型イベントです。新卒として、品質やテストが大切",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--0CLluYmy--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%25B4%2599%25E3%2581%25A8%25E3%2583%259A%25E3%2583%25B3%25E3%2581%25A7%25E6%258C%2591%25E3%2582%2593%25E3%2581%25A0%25E3%2580%258C%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E5%258D%2583%25E6%259C%25AC%25E3%2583%258E%25E3%2583%2583%25E3%2582%25AF%25EF%25BC%2581%25E3%2580%258D%25E3%2580%259C%25E6%2596%25B0%25E5%258D%2592%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2581%25AEWACATE2026%25E5%25A4%258F%25202%25E6%2597%25A5%25E7%259B%25AE%25E5%258F%2582%25E5%258A%25A0%25E3%2583%25AC%25E3%2583%259D%25E3%2583%25BC%25E3%2583%2588%25E3%2580%259C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yoiyoi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzU1NjQ1YTkzYWMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+                "type": "png"
+            },
+            "date_modified": "2026-10-23T10:08:10.000Z",
+            "date_published": "2026-10-23T10:08:10.000Z",
+            "author": {
+                "name": "yoiyoi"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "紙とペンで挑んだ「テスト千本ノック！」〜新卒エンジニアのWACATE2026夏 2日目参加レポート〜",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/yoiyoi_rat/articles/b6c1a24c7e4759",
+            "content_html": "はじめにこんにちは！株式会社ログラス26卒エンジニアの加藤（@yoiyoi_rat）です。WACATE2026 夏 〜テスト千本ノック！〜 に参加してきました！WACATE（Workshop for Accelerating CApable Testing Engineers）は、ワークショップを通じてソフトウェアテストや品質保証を学ぶ、1泊2日の合宿型イベントです。新卒として、品質やテストが大切だということは教わっていたものの、テストをどう考え、どんな手法で設計するのかといった基本的な部分はほとんど知らない状態でした。そんな中、社内でWACATEの案内が共有されたのをきっかけ...",
+            "url": "https://zenn.dev/yoiyoi_rat/articles/b6c1a24c7e4759",
+            "title": "紙とペンで挑んだ「テスト千本ノック！」〜新卒エンジニアのWACATE2026夏 2日目参加レポート〜 | Zennの「品質」のフィード",
+            "summary": "はじめにこんにちは！株式会社ログラス26卒エンジニアの加藤（@yoiyoi_rat）です。WACATE2026 夏 〜テスト千本ノック！〜 に参加してきました！WACATE（Workshop for Accelerating CApable Testing Engineers）は、ワークショップを通じてソフトウェアテストや品質保証を学ぶ、1泊2日の合宿型イベントです。新卒として、品質やテストが大切",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--0CLluYmy--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%25B4%2599%25E3%2581%25A8%25E3%2583%259A%25E3%2583%25B3%25E3%2581%25A7%25E6%258C%2591%25E3%2582%2593%25E3%2581%25A0%25E3%2580%258C%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E5%258D%2583%25E6%259C%25AC%25E3%2583%258E%25E3%2583%2583%25E3%2582%25AF%25EF%25BC%2581%25E3%2580%258D%25E3%2580%259C%25E6%2596%25B0%25E5%258D%2592%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2581%25AEWACATE2026%25E5%25A4%258F%25202%25E6%2597%25A5%25E7%259B%25AE%25E5%258F%2582%25E5%258A%25A0%25E3%2583%25AC%25E3%2583%259D%25E3%2583%25BC%25E3%2583%2588%25E3%2580%259C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yoiyoi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzU1NjQ1YTkzYWMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+                "type": "png"
+            },
+            "date_modified": "2026-10-23T10:08:10.000Z",
+            "date_published": "2026-10-23T10:08:10.000Z",
+            "author": {
+                "name": "yoiyoi"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "紙とペンで挑んだ「テスト千本ノック！」〜新卒エンジニアのWACATE2026夏 2日目参加レポート〜",
+                "blogTitle": "Zennの「品質」のフィード",
+                "blogLink": "https://zenn.dev/topics/品質",
+                "blogLinkMd5Hash": "e200817cf65d8ff87698360ebb70f56b",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/jisaku_net/articles/3d-knee-bend-foot-pelvis-direction",
+            "content_html": "24式太極拳の動きを3Dで観察する「Taichi Studio」というアプリを、自分用に作っています。現在は開発中で、まだ本番公開していません。人物が向きを変える場面で、膝が骨盤に対して後ろへ曲がる姿勢がありました。足首や骨の長さは合っていても、膝の向きが不自然になります。原因は、膝をどちらへ曲げるかを足先の向きだけで決めていたことでした。足先と骨盤が大きく違う方向を向いたときに、骨盤の前方を使う補正を加えました。 足首の位置と骨の長さだけでは、膝の位置は決まらないこのアプリでは、股関節と足首の位置、大腿と下腿の長さから膝の位置を求めています。ただし、この条件だけでは曲げる方...",
+            "url": "https://zenn.dev/jisaku_net/articles/3d-knee-bend-foot-pelvis-direction",
+            "title": "3D人物の膝が後ろへ曲がる原因は、足先だけで決めた曲げ方向だった | Zennの「Test」のフィード",
+            "summary": "24式太極拳の動きを3Dで観察する「Taichi Studio」というアプリを、自分用に作っています。現在は開発中で、まだ本番公開していません。人物が向きを変える場面で、膝が骨盤に対して後ろへ曲がる姿勢がありました。足首や骨の長さは合っていても、膝の向きが不自然になります。原因は、膝をどちらへ曲げるかを足先の向きだけで決めていたことでした。足先と骨盤が大きく違う方向を向いたときに、骨盤の前方を使う",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--85L0fbtE--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:3D%25E4%25BA%25BA%25E7%2589%25A9%25E3%2581%25AE%25E8%2586%259D%25E3%2581%258C%25E5%25BE%258C%25E3%2582%258D%25E3%2581%25B8%25E6%259B%25B2%25E3%2581%258C%25E3%2582%258B%25E5%258E%259F%25E5%259B%25A0%25E3%2581%25AF%25E3%2580%2581%25E8%25B6%25B3%25E5%2585%2588%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25A7%25E6%25B1%25BA%25E3%2582%2581%25E3%2581%259F%25E6%259B%25B2%25E3%2581%2592%25E6%2596%25B9%25E5%2590%2591%25E3%2581%25A0%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E4%25BD%2595%25E3%2581%25A7%25E3%2582%2582%25E8%2587%25AA%25E4%25BD%259C%25E3%2581%2599%25E3%2582%258B%25E4%25BA%25BA%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZkYTc3MDIzMjguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+                "type": "png"
+            },
+            "date_modified": "2026-10-23T07:58:01.000Z",
+            "date_published": "2026-10-23T07:58:01.000Z",
+            "author": {
+                "name": "何でも自作する人"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "3D人物の膝が後ろへ曲がる原因は、足先だけで決めた曲げ方向だった",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/ciel_lab/articles/81bde10474dd93",
+            "content_html": "店の紹介サイトを AI に作らせています。前に note で、書いた文の語を情報源と突き合わせる照合の話を書きました。https://note.com/good_hawk7521/n/n4b53a565b17eこの照合は、機械の検品の中で走る検査のひとつです。情報源に無い語は「出典なし」で落ちる。硬い検査です。今回はその裏側です。「出典あり」で通ったのに、裏は取れていなかった話。 語はあった。事実は書いていなかったある店の紹介文に「ミルクは常温と煮出しから選べる」と書いてありました。照合にかけると、『常温』は出典あり。機械は通します。情報源を開いて、『常温』がどこに...",
+            "url": "https://zenn.dev/ciel_lab/articles/81bde10474dd93",
+            "title": "機械の検品を「出典あり」で通った語は、別の記事の見出しにあった | Zennの「Test」のフィード",
+            "summary": "店の紹介サイトを AI に作らせています。前に note で、書いた文の語を情報源と突き合わせる照合の話を書きました。https://note.com/good_hawk7521/n/n4b53a565b17eこの照合は、機械の検品の中で走る検査のひとつです。情報源に無い語は「出典なし」で落ちる。硬い検査です。今回はその裏側です。「出典あり」で通ったのに、裏は取れていなかった話。 語はあった。事実",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--omz9jhz---/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%25A9%259F%25E6%25A2%25B0%25E3%2581%25AE%25E6%25A4%259C%25E5%2593%2581%25E3%2582%2592%25E3%2580%258C%25E5%2587%25BA%25E5%2585%25B8%25E3%2581%2582%25E3%2582%258A%25E3%2580%258D%25E3%2581%25A7%25E9%2580%259A%25E3%2581%25A3%25E3%2581%259F%25E8%25AA%259E%25E3%2581%25AF%25E3%2580%2581%25E5%2588%25A5%25E3%2581%25AE%25E8%25A8%2598%25E4%25BA%258B%25E3%2581%25AE%25E8%25A6%258B%25E5%2587%25BA%25E3%2581%2597%25E3%2581%25AB%25E3%2581%2582%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Ciel%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2VhNTBmZWIyMDkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+                "type": "png"
+            },
+            "date_modified": "2026-10-23T06:06:59.000Z",
+            "date_published": "2026-10-23T06:06:59.000Z",
+            "author": {
+                "name": "Ciel"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "機械の検品を「出典あり」で通った語は、別の記事の見出しにあった",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/shoebill_dev27/articles/ai-code-silent-bugs-checklist",
+            "content_html": "AIにコードを書かせていて、こんな不安はないだろうか。動いた。エラーも出ない。でも、合っているのか分からない「ここ、間違ってない?」と聞くと「ご指摘ありがとうございます!」と直される。じゃあ聞かなかったらどうなっていたのかレビューしてくれる人がいない。自分はコードが読めないこれは「コードが読めないから起きる問題」ではない。「間違いの出かた」を知らないから起きる問題だ。そして間違いの出かたには型があり、型を知れば、コードが書けなくても確認はできる。この記事では、非エンジニアが自分の手で実行できる確認を5つ挙げる。コード例はすべて標準ライブラリだけで動き、掲載前に実際に実行し...",
+            "url": "https://zenn.dev/shoebill_dev27/articles/ai-code-silent-bugs-checklist",
+            "title": "AIが書いたコードの「動くけど間違っている」を、自分で見抜く5つの確認 | Zennの「Test」のフィード",
+            "summary": "AIにコードを書かせていて、こんな不安はないだろうか。動いた。エラーも出ない。でも、合っているのか分からない「ここ、間違ってない?」と聞くと「ご指摘ありがとうございます!」と直される。じゃあ聞かなかったらどうなっていたのかレビューしてくれる人がいない。自分はコードが読めないこれは「コードが読めないから起きる問題」ではない。「間違いの出かた」を知らないから起きる問題だ。そして間違いの出かたには型があ",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--BbYcX15h--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%258C%25E6%259B%25B8%25E3%2581%2584%25E3%2581%259F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2581%25AE%25E3%2580%258C%25E5%258B%2595%25E3%2581%258F%25E3%2581%2591%25E3%2581%25A9%25E9%2596%2593%25E9%2581%2595%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B%25E3%2580%258D%25E3%2582%2592%25E3%2580%2581%25E8%2587%25AA%25E5%2588%2586%25E3%2581%25A7%25E8%25A6%258B%25E6%258A%259C%25E3%2581%258F5%25E3%2581%25A4%25E3%2581%25AE%25E7%25A2%25BA%25E8%25AA%258D%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:shoebill-dev27%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkzNzMwN2I1YTIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+                "type": "png"
+            },
+            "date_modified": "2026-10-23T01:19:52.000Z",
+            "date_published": "2026-10-23T01:19:52.000Z",
+            "author": {
+                "name": "shoebill-dev27"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "AIが書いたコードの「動くけど間違っている」を、自分で見抜く5つの確認",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/sitio1/articles/781f782927d6c3",
+            "content_html": "委譲した作業について、親が観測できるのは返ってきた報告のテキストだけです。そこに書かれた「完了しました」が実体と食い違っていても、報告を読むかぎり気づけません。実際に、進捗記録は「完了」なのに生成物がどこにも存在しない、という乖離が起きました。この記事では、完了報告を信じるのではなく検証可能にするための設計をまとめます。サブエージェントへ作業を委譲する運用を前提とした内容です。確認した証跡のパスを報告フォーマットに組み込む、バリデータの 0 件を完了と読み替えない、縮小実装は列挙させて採否は人間が決める、DoD をチェックリストとして固定する——いずれも、実運用で乖離が起きたあとに足し...",
+            "url": "https://zenn.dev/sitio1/articles/781f782927d6c3",
+            "title": "「完了しました」を信じない — サブエージェントの報告を検証可能にする | Zennの「Test」のフィード",
+            "summary": "委譲した作業について、親が観測できるのは返ってきた報告のテキストだけです。そこに書かれた「完了しました」が実体と食い違っていても、報告を読むかぎり気づけません。実際に、進捗記録は「完了」なのに生成物がどこにも存在しない、という乖離が起きました。この記事では、完了報告を信じるのではなく検証可能にするための設計をまとめます。サブエージェントへ作業を委譲する運用を前提とした内容です。確認した証跡のパスを",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--8JkN8jT_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258C%25E5%25AE%258C%25E4%25BA%2586%25E3%2581%2597%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%25E3%2580%258D%25E3%2582%2592%25E4%25BF%25A1%25E3%2581%2598%25E3%2581%25AA%25E3%2581%2584%2520%25E2%2580%2594%2520%25E3%2582%25B5%25E3%2583%2596%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25AE%25E5%25A0%25B1%25E5%2591%258A%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC%25E5%258F%25AF%25E8%2583%25BD%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25AB%25E3%2582%25A4%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzY5M2U3MjM1NGEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+                "type": "png"
+            },
+            "date_modified": "2026-10-23T01:00:08.000Z",
+            "date_published": "2026-10-23T01:00:08.000Z",
+            "author": {
+                "name": "カイ"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「完了しました」を信じない — サブエージェントの報告を検証可能にする",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://ranorex.techmatrix.jp/?p=32880",
+            "content_html": "日頃から、Ranorexをご利用いただきありがとうございます。 現在報告されている PHP に関する脆弱性（CVE-2026-109618、CVE-2026-109619）において、Ranorex製品への影響についてご報 […]The post PHP の脆弱性（CVE-2026-109618、CVE-2026-109619）に関するご案内 first appeared on テスト自動化ツール 『Ranorex』.",
+            "url": "https://ranorex.techmatrix.jp/blog/2026/10/23/ranorex-cve-2026-109618-109619/",
+            "title": "PHP の脆弱性（CVE-2026-109618、CVE-2026-109619）に関するご案内 | Ranorex Blog - テスト自動化ツール 『Ranorex』",
+            "summary": "日頃から、Ranorexをご利用いただきありがとうございます。 現在報告されている PHP に関する脆弱性（CVE-2026-109618、CVE-2026-109619）において、Ranorex製品への影響についてご報 […]The post PHP の脆弱性（CVE-2026-109618、CVE-2026-109619）に関するご案内 first appeared on テスト自動化ツール ",
+            "image": {
+                "url": "https://57.180.23.150/wp-content/uploads/rx-logo-desktop-dark.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-23T00:56:44.000Z",
+            "date_published": "2026-10-23T00:56:44.000Z",
+            "author": {
+                "name": "user"
+            },
+            "tags": [
+                "ニュース"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "PHP の脆弱性（CVE-2026-109618、CVE-2026-109619）に関するご案内",
+                "blogTitle": "Ranorex Blog - テスト自動化ツール 『Ranorex』",
+                "blogLink": "https://ranorex.techmatrix.jp",
+                "blogLinkMd5Hash": "e546ea5aec07f38807045009c0bc98ec",
+                "favicon": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_32,h_32/https://ranorex.techmatrix.jp/wp-content/uploads/cropped-RNX-new_favicon-32x32.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/tokium_dev/articles/2436a17903f2dd",
+            "content_html": "はじめに株式会社TOKIUMでQAエンジニアをしている西田です。今回は、これまで公開してきたような技術共有とは趣向を変えて、軽めの雑談を持ってきました。個人の勝手な想像も含めた見解なので、その点ご容赦ください。生成AIが開発に入ってきて、品質保証（QA）の立ち位置もだいぶ変わってきました。コーディングに他職種の人が入ってきやすくなったのと同じで、QAも、AIの手を借りれば未経験の人でもある程度のテストはこなせるようになっています。しかも上流工程が爆速になったので、下流にいるQAがボトルネックになってリリースを止めてしまう心配は、前よりずっと大きくなりました。誰が担当し...",
+            "url": "https://zenn.dev/tokium_dev/articles/2436a17903f2dd",
+            "title": "あなたはQA/品質保証に向いている、という話 | Zennの「Test」のフィード",
+            "summary": "はじめに株式会社TOKIUMでQAエンジニアをしている西田です。今回は、これまで公開してきたような技術共有とは趣向を変えて、軽めの雑談を持ってきました。個人の勝手な想像も含めた見解なので、その点ご容赦ください。生成AIが開発に入ってきて、品質保証（QA）の立ち位置もだいぶ変わってきました。コーディングに他職種の人が入ってきやすくなったのと同じで、QAも、AIの手を借りれば未経験の人でもある程度のテ",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--DTw6vseS--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%2582%25E3%2581%25AA%25E3%2581%259F%25E3%2581%25AFQA%252F%25E5%2593%2581%25E8%25B3%25AA%25E4%25BF%259D%25E8%25A8%25BC%25E3%2581%25AB%25E5%2590%2591%25E3%2581%2584%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B%25E3%2580%2581%25E3%2581%25A8%25E3%2581%2584%25E3%2581%2586%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ynis_qa%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzViNTEwYjI5ZjEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:TOKIUM%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2580%25E3%2582%25AF%25E3%2583%2588%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzM1ZGRkZGFkMWYuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+                "type": "png"
+            },
+            "date_modified": "2026-10-22T23:00:05.000Z",
+            "date_published": "2026-10-22T23:00:05.000Z",
+            "author": {
+                "name": "ynis_qa"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "あなたはQA/品質保証に向いている、という話",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/tokium_dev/articles/2436a17903f2dd",
+            "content_html": "はじめに株式会社TOKIUMでQAエンジニアをしている西田です。今回は、これまで公開してきたような技術共有とは趣向を変えて、軽めの雑談を持ってきました。個人の勝手な想像も含めた見解なので、その点ご容赦ください。生成AIが開発に入ってきて、品質保証（QA）の立ち位置もだいぶ変わってきました。コーディングに他職種の人が入ってきやすくなったのと同じで、QAも、AIの手を借りれば未経験の人でもある程度のテストはこなせるようになっています。しかも上流工程が爆速になったので、下流にいるQAがボトルネックになってリリースを止めてしまう心配は、前よりずっと大きくなりました。誰が担当し...",
+            "url": "https://zenn.dev/tokium_dev/articles/2436a17903f2dd",
+            "title": "あなたはQA/品質保証に向いている、という話 | Zennの「QA」のフィード",
+            "summary": "はじめに株式会社TOKIUMでQAエンジニアをしている西田です。今回は、これまで公開してきたような技術共有とは趣向を変えて、軽めの雑談を持ってきました。個人の勝手な想像も含めた見解なので、その点ご容赦ください。生成AIが開発に入ってきて、品質保証（QA）の立ち位置もだいぶ変わってきました。コーディングに他職種の人が入ってきやすくなったのと同じで、QAも、AIの手を借りれば未経験の人でもある程度のテ",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--DTw6vseS--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%2582%25E3%2581%25AA%25E3%2581%259F%25E3%2581%25AFQA%252F%25E5%2593%2581%25E8%25B3%25AA%25E4%25BF%259D%25E8%25A8%25BC%25E3%2581%25AB%25E5%2590%2591%25E3%2581%2584%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B%25E3%2580%2581%25E3%2581%25A8%25E3%2581%2584%25E3%2581%2586%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ynis_qa%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzViNTEwYjI5ZjEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:TOKIUM%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2580%25E3%2582%25AF%25E3%2583%2588%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzM1ZGRkZGFkMWYuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+                "type": "png"
+            },
+            "date_modified": "2026-10-22T23:00:05.000Z",
+            "date_published": "2026-10-22T23:00:05.000Z",
+            "author": {
+                "name": "ynis_qa"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "あなたはQA/品質保証に向いている、という話",
+                "blogTitle": "Zennの「QA」のフィード",
+                "blogLink": "https://zenn.dev/topics/qa",
+                "blogLinkMd5Hash": "31c7f35c994712b2f4c822a6de926717",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/y1rks/articles/65757ccfc24d00",
+            "content_html": "This is a test.",
+            "url": "https://zenn.dev/y1rks/articles/65757ccfc24d00",
+            "title": "Test | Zennの「Test」のフィード",
+            "summary": "This is a test.",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--dE2T0F2i--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_80:Test%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yu%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSmQ1SmRrdmhYcTVCSmV3UXZHWFoyZnlBaE9mU09NVkdaaHpDdjktdFVDVWlXTm9nPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+                "type": "png"
+            },
+            "date_modified": "2026-10-22T22:56:53.000Z",
+            "date_published": "2026-10-22T22:56:53.000Z",
+            "author": {
+                "name": "Yu"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Test",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/oyajico/articles/cc7e35a9e36c30",
+            "content_html": "注文照会、キャンセル、返金を扱う AI を評価する場合、返答の文章に加えて、実行した操作も確認する必要があります。たとえば、返金額の最終値が 1,000 円でも、途中で別の操作 ID を使って返金を再要求していた可能性があります。店舗側の API が二重返金を防いでいれば、最終値だけでは、この試行を見落とします。この記事では、架空の日本語 EC 業務を使い、次の三つを機械的に採点する小さなテストキットを紹介します。模擬 DB の最終状態と変更箇所成功・拒否・失敗を含むツールの試行履歴facts として返す構造化回答、およびケースで指定した文字列条件無料の 5 ケース版で...",
+            "url": "https://zenn.dev/oyajico/articles/cc7e35a9e36c30",
+            "title": "ECサポートAIをPythonで受入テストする：状態・操作履歴・構造化回答の採点 | Zennの「Test」のフィード",
+            "summary": "注文照会、キャンセル、返金を扱う AI を評価する場合、返答の文章に加えて、実行した操作も確認する必要があります。たとえば、返金額の最終値が 1,000 円でも、途中で別の操作 ID を使って返金を再要求していた可能性があります。店舗側の API が二重返金を防いでいれば、最終値だけでは、この試行を見落とします。この記事では、架空の日本語 EC 業務を使い、次の三つを機械的に採点する小さなテストキ",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--6lhJABYY--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:EC%25E3%2582%25B5%25E3%2583%259D%25E3%2583%25BC%25E3%2583%2588AI%25E3%2582%2592Python%25E3%2581%25A7%25E5%258F%2597%25E5%2585%25A5%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%2599%25E3%2582%258B%25EF%25BC%259A%25E7%258A%25B6%25E6%2585%258B%25E3%2583%25BB%25E6%2593%258D%25E4%25BD%259C%25E5%25B1%25A5%25E6%25AD%25B4%25E3%2583%25BB%25E6%25A7%258B%25E9%2580%25A0%25E5%258C%2596%25E5%259B%259E%25E7%25AD%2594%25E3%2581%25AE%25E6%258E%25A1%25E7%2582%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Oyaji%2520%2526%2520Co.%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSUV4al9QTnFmUG4wSktqU244ek1vR2YyaFJ5RDJCZXdSM3ZWTTItSkNqZWVnQjBRPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+                "type": "png"
+            },
+            "date_modified": "2026-10-22T22:48:21.000Z",
+            "date_published": "2026-10-22T22:48:21.000Z",
+            "author": {
+                "name": "Oyaji &amp; Co."
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "ECサポートAIをPythonで受入テストする：状態・操作履歴・構造化回答の採点",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/ar1/articles/sasurahime-v030-internals",
+            "content_html": "ファイルを消す CLI は、機能の追加より「消さない仕組み」の設計が難しいです。sasurahime は macOS の開発キャッシュを消すツールで、対象は 51、テストは 752 件あります。この記事では、削除の契約、--yes の範囲を絞った判断、テストの環境依存を消した話を書きます。設計の中心は契約です。 中心にあるのは「消さない契約」すべての cleaner は Cleaner trait を実装します。中核はこの 3 つです。pub trait Cleaner: Send + Sync { fn name(&amp;self) -&gt; &amp;'stati...",
+            "url": "https://zenn.dev/ar1/articles/sasurahime-v030-internals",
+            "title": "「戻せる削除」と「戻せない削除」をどう扱うか。sasurahime の Cleaner trait と --yes の設計 | Zennの「Test」のフィード",
+            "summary": "ファイルを消す CLI は、機能の追加より「消さない仕組み」の設計が難しいです。sasurahime は macOS の開発キャッシュを消すツールで、対象は 51、テストは 752 件あります。この記事では、削除の契約、--yes の範囲を絞った判断、テストの環境依存を消した話を書きます。設計の中心は契約です。 中心にあるのは「消さない契約」すべての cleaner は Cleaner trait",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s---UeXXOrH--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258C%25E6%2588%25BB%25E3%2581%259B%25E3%2582%258B%25E5%2589%258A%25E9%2599%25A4%25E3%2580%258D%25E3%2581%25A8%25E3%2580%258C%25E6%2588%25BB%25E3%2581%259B%25E3%2581%25AA%25E3%2581%2584%25E5%2589%258A%25E9%2599%25A4%25E3%2580%258D%25E3%2582%2592%25E3%2581%25A9%25E3%2581%2586%25E6%2589%25B1%25E3%2581%2586%25E3%2581%258B%25E3%2580%2582sasurahime%2520%25E3%2581%25AE%2520Cleaner%2520trait%2520%25E3%2581%25A8%2520--yes...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ar1%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hRUmVQdXAxR3M5S0YzUm9tNGs2bjA4YVpmTXExWFBGeWVYeW1tbDRvPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+                "type": "png"
+            },
+            "date_modified": "2026-10-22T11:07:02.000Z",
+            "date_published": "2026-10-22T11:07:02.000Z",
+            "author": {
+                "name": "ar1"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「戻せる削除」と「戻せない削除」をどう扱うか。sasurahime の Cleaner trait と --yes の設計",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/r2_san/articles/75724fb15adb70",
+            "content_html": "本記事の内容は私（R2-san）の体験（実装コード）・判断・指示に基づきますが、文章作成は生成 AI が行い、私の監修・確認を経て公開しています。(投稿時の情報です。開発中のもので、数字や仕様は 2026 年 10 月時点のものです。) この記事の対象自分の現場に、もうセキュリティ対策を入れている人に向けた記事です。対策を入れたかどうかではなく、入れた対策が本当に効いているかを確かめたい人を想定しています。セキュリティの一番の敵は、対策が無いことではなく、効いていない対策が生む「守れている」という安心だと考えています。いわゆる Security Theater(安心の感覚...",
+            "url": "https://zenn.dev/r2_san/articles/75724fb15adb70",
+            "title": "テストが緑でも、柵があっても、守れているとは限らない ―― 偽りの安心を 5 つの型で見つけた記録 | Zennの「Test」のフィード",
+            "summary": "本記事の内容は私（R2-san）の体験（実装コード）・判断・指示に基づきますが、文章作成は生成 AI が行い、私の監修・確認を経て公開しています。(投稿時の情報です。開発中のもので、数字や仕様は 2026 年 10 月時点のものです。) この記事の対象自分の現場に、もうセキュリティ対策を入れている人に向けた記事です。対策を入れたかどうかではなく、入れた対策が本当に効いているかを確かめたい人を想定し",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--F9TjJzVi--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%258C%25E7%25B7%2591%25E3%2581%25A7%25E3%2582%2582%25E3%2580%2581%25E6%259F%25B5%25E3%2581%258C%25E3%2581%2582%25E3%2581%25A3%25E3%2581%25A6%25E3%2582%2582%25E3%2580%2581%25E5%25AE%2588%25E3%2582%258C%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B%25E3%2581%25A8%25E3%2581%25AF%25E9%2599%2590%25E3%2582%2589%25E3%2581%25AA%25E3%2581%2584%2520%25E2%2580%2595%25E2%2580%2595%2520%25E5%2581%25BD%25E3%2582%258A%25E3%2581%25AE%25E5%25AE%2589%25E5%25BF%2583%25E3%2582%2592%25205%2520%25E3%2581%25A4%25E3%2581%25AE%25E5%259E%258B%25E3%2581%25A7%25E8%25A6%258B%25E3%2581%25A4%25E3%2581%2591%25E3%2581%259F%25E8%25A8%2598%25E9%258C%25B2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:R2-san%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTFNiVUpuVzdEUFBlcG9JZlRSSVZSWUg4S1N3NnU4TWxRMHFyVHpwYUpHY1JUWjdKaW9ldz1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+                "type": "png"
+            },
+            "date_modified": "2026-10-22T08:07:36.000Z",
+            "date_published": "2026-10-22T08:07:36.000Z",
+            "author": {
+                "name": "R2-san"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "テストが緑でも、柵があっても、守れているとは限らない ―― 偽りの安心を 5 つの型で見つけた記録",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/trustdock/articles/e5fef73a67382d",
+            "content_html": "1. はじめに：仕組みの次は「カルチャー」の話をこんにちは！TRUSTDOCKで一人目QAエンジニアとして活動しているyosukenです。前回公開した記事（QAチーム立ち上げて半年を振り返って）では、一人目QAとして入社してから、どのようにQA組織の基盤づくりを進めてきたかについてお伝えしました。これまでの活動を通して、少しずつではありますがQAのプロセスや仕組みの輪郭は見え始めてきました。さらに、9月には待望の2人目となるQAエンジニアも入社しました。これまで一人で立ち上げてきた基盤を、今後は「チーム」として組織全体へ定着させ、スケールさせていく新たなフェーズに入っていま...",
+            "url": "https://zenn.dev/trustdock/articles/e5fef73a67382d",
+            "title": "TRUSTDOCK QAチームが掲げる「伴走する品質保証」とリアルな現在地 | Zennの「QA」のフィード",
+            "summary": "1. はじめに：仕組みの次は「カルチャー」の話をこんにちは！TRUSTDOCKで一人目QAエンジニアとして活動しているyosukenです。前回公開した記事（QAチーム立ち上げて半年を振り返って）では、一人目QAとして入社してから、どのようにQA組織の基盤づくりを進めてきたかについてお伝えしました。これまでの活動を通して、少しずつではありますがQAのプロセスや仕組みの輪郭は見え始めてきました。さらに",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--84vnUFZM--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:TRUSTDOCK%2520QA%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%25E3%2581%258C%25E6%258E%25B2%25E3%2581%2592%25E3%2582%258B%25E3%2580%258C%25E4%25BC%25B4%25E8%25B5%25B0%25E3%2581%2599%25E3%2582%258B%25E5%2593%2581%25E8%25B3%25AA%25E4%25BF%259D%25E8%25A8%25BC%25E3%2580%258D%25E3%2581%25A8%25E3%2583%25AA%25E3%2582%25A2%25E3%2583%25AB%25E3%2581%25AA%25E7%258F%25BE%25E5%259C%25A8%25E5%259C%25B0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:yosuken%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzEzNzA5NTQzOWYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:TRUSTDOCK%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzk4MzQ2YWEyZTguanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+                "type": "png"
+            },
+            "date_modified": "2026-10-22T07:09:38.000Z",
+            "date_published": "2026-10-22T07:09:38.000Z",
+            "author": {
+                "name": "yosuken"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "TRUSTDOCK QAチームが掲げる「伴走する品質保証」とリアルな現在地",
+                "blogTitle": "Zennの「QA」のフィード",
+                "blogLink": "https://zenn.dev/topics/qa",
+                "blogLinkMd5Hash": "31c7f35c994712b2f4c822a6de926717",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://qiita.com/startdevin/items/ffd210336781f1e40f11",
+            "content_html": "🚀 Devin専門の解説メディア「StartDevin」を運営中！Devinの導入・使い方・最新アップデート・活用事例を、日本語でまとめています。👉 StartDevin をチェックする（startdevin.jp）この記事にぜひ いいね❤️ していただけると励み...",
+            "url": "https://qiita.com/startdevin/items/ffd210336781f1e40f11",
+            "title": "AIに任せた品質保証に潜む、3つの落とし穴 | ソフトウェアテストタグが付けられた新着記事 - Qiita",
+            "summary": "🚀 Devin専門の解説メディア「StartDevin」を運営中！Devinの導入・使い方・最新アップデート・活用事例を、日本語でまとめています。👉 StartDevin をチェックする（startdevin.jp）この記事にぜひ いいね❤️ していただけると励み...",
+            "image": {
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MzQ5NTA0JTJGNWExMjY4MTRjZjc4NTBhN2JhZTFmYjZkODUwYmNhNzdiZGQzOGQyZSUyRmxhcmdlLnBuZyUzRjE3NzQwODA0NDA_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWI0NDM1NDNmMTYyODRiMDgxZTFlOGJlN2I3Nzg0NTk1%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dca313fff3ec0ce6ec6997df648314dea?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODElQUIlRTQlQkIlQkIlRTMlODElOUIlRTMlODElOUYlRTUlOTMlODElRTglQjMlQUElRTQlQkYlOUQlRTglQTglQkMlRTMlODElQUIlRTYlQkQlOUMlRTMlODIlODAlRTMlODAlODEzJUUzJTgxJUE0JUUzJTgxJUFFJUU4JTkwJUJEJUUzJTgxJUE4JUUzJTgxJTk3JUU3JUE5JUI0JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9OGI1YTA0YTI5NTE5Mzk2MzBjOTY5OWQ0YWZmNmUwNjM&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBzdGFydGRldmluJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9YWY2ZTU5ODBkYjc0OWU4MjhlMzcxNDliYzc5MjQwMDQ&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=516b37b763afa12221532a0cd59a6a5d"
+            },
+            "date_modified": "2026-10-22T01:06:13.000Z",
+            "date_published": "2026-10-22T01:06:13.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "AIに任せた品質保証に潜む、3つの落とし穴",
+                "blogTitle": "ソフトウェアテストタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c",
+                "favicon": "https://cdn.qiita.com/assets/favicons/public/production-c620d3e403342b1022967ba5e3db1aaa.ico"
+            }
+        },
+        {
+            "id": "https://zenn.dev/k_iijima/articles/2de917c5b6c953",
+            "content_html": "はじめに私は、小さな事業者むけの業務ソフトを一人で作っています。開発は AI エージェント(Claude Code)にまかせています。AI にコードを直させると、前からあるテストが落ちることがあります。そのとき AI は、テストのほうを直して通そうとすることがあります。期待する値を書き換える、条件をゆるめる、skip を付ける、テストを消す。どれも「通った」という結果は出ますが、テストが守っていた約束は消えてしまいます。この記事では、私が AI に守らせている「落ちたテストの直し方」を書きます。2 本目の記事の「AI の『通りました』をどう信じるか」の続きです。 起きたこと...",
+            "url": "https://zenn.dev/k_iijima/articles/2de917c5b6c953",
+            "title": "落ちたテストを AI に消させない:A・B・C の 3 つに分けて直させる | Zennの「Test」のフィード",
+            "summary": "はじめに私は、小さな事業者むけの業務ソフトを一人で作っています。開発は AI エージェント(Claude Code)にまかせています。AI にコードを直させると、前からあるテストが落ちることがあります。そのとき AI は、テストのほうを直して通そうとすることがあります。期待する値を書き換える、条件をゆるめる、skip を付ける、テストを消す。どれも「通った」という結果は出ますが、テストが守っていた",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--AXCu7ZhN--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%2590%25BD%25E3%2581%25A1%25E3%2581%259F%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2582%2592%2520AI%2520%25E3%2581%25AB%25E6%25B6%2588%25E3%2581%2595%25E3%2581%259B%25E3%2581%25AA%25E3%2581%2584%253AA%25E3%2583%25BBB%25E3%2583%25BBC%2520%25E3%2581%25AE%25203%2520%25E3%2581%25A4%25E3%2581%25AB%25E5%2588%2586%25E3%2581%2591%25E3%2581%25A6%25E7%259B%25B4%25E3%2581%2595%25E3%2581%259B%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E9%25A3%25AF%25E5%25B3%25B6%25E7%25B4%2598%25E4%25B8%2580%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSmVEalRwUXNtSHZQTnVVRXpyUGphUE1mSWJOVU9LRWNDM2pzUlVKS2tfb0JoclRIbz1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+                "type": "png"
+            },
+            "date_modified": "2026-10-21T22:17:13.000Z",
+            "date_published": "2026-10-21T22:17:13.000Z",
+            "author": {
+                "name": "飯島紘一"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "落ちたテストを AI に消させない:A・B・C の 3 つに分けて直させる",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/uenonao/articles/bb578afdd4891f",
+            "content_html": "LLMを組み込んだアプリで、プロンプトを1行直したら別の入力で出力が壊れた、という経験はないでしょうか。普通のコードならテストで防ぐ「デグレ」ですが、LLMは出力が揺れるので、テストを書かずに手で数件試して終わりにしがちです。この記事では、APIキーなし・課金ゼロでCIに載せられる最小構成を紹介します。考え方はシンプルで、次の3つだけです。機械で白黒つく性質だけをチェックする（決定的チェック）LLMの応答を録画して、テストは録画を再生して行う（カセット）「全部合格」ではなく「前回より悪くなっていないか」で判定する（ベースライン比較） 1. 決定的チェック「要約として自然...",
+            "url": "https://zenn.dev/uenonao/articles/bb578afdd4891f",
+            "title": "プロンプトを直すたびに壊れるLLMアプリに、録画テストで「前回比」を入れる | Zennの「Test」のフィード",
+            "summary": "LLMを組み込んだアプリで、プロンプトを1行直したら別の入力で出力が壊れた、という経験はないでしょうか。普通のコードならテストで防ぐ「デグレ」ですが、LLMは出力が揺れるので、テストを書かずに手で数件試して終わりにしがちです。この記事では、APIキーなし・課金ゼロでCIに載せられる最小構成を紹介します。考え方はシンプルで、次の3つだけです。機械で白黒つく性質だけをチェックする（決定的チェック）LL",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--TrLI2fXq--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2597%25E3%2583%2588%25E3%2582%2592%25E7%259B%25B4%25E3%2581%2599%25E3%2581%259F%25E3%2581%25B3%25E3%2581%25AB%25E5%25A3%258A%25E3%2582%258C%25E3%2582%258BLLM%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2581%25AB%25E3%2580%2581%25E9%258C%25B2%25E7%2594%25BB%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25A7%25E3%2580%258C%25E5%2589%258D%25E5%259B%259E%25E6%25AF%2594%25E3%2580%258D%25E3%2582%2592%25E5%2585%25A5%25E3%2582%258C%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E4%25B8%25AD%25E9%2587%258E%2520%25E6%259B%25B2%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTDhyLXdMV1gwRlN1TEJkMVZDQjd5c3VjMWpBYXlPRmdOcDk2STJDQVk3Umt1TzFBPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+                "type": "png"
+            },
+            "date_modified": "2026-10-21T20:01:05.000Z",
+            "date_published": "2026-10-21T20:01:05.000Z",
+            "author": {
+                "name": "中野 曲"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "プロンプトを直すたびに壊れるLLMアプリに、録画テストで「前回比」を入れる",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/uenonao/books/c28277f28a2f5b",
+            "content_html": "LLMを組み込んだアプリで「プロンプトを1行直したら別のところが壊れた」を防ぐための本です。決定的チェック・応答の録画（カセット）・LLM-as-a-Judgeの3層で、デグレを自動で検知する仕組みをPythonとpytestだけで作ります。サンプルコードはAPIキーなし・課金ゼロで動き、GitHub ActionsでもAPIを呼ばずに毎回テストできます。第1章は無料で読めます。",
+            "url": "https://zenn.dev/uenonao/books/c28277f28a2f5b",
+            "title": "プロンプトを変えても壊さない：Python×pytestで作るLLMアプリの回帰テスト入門 | Zennの「Test」のフィード",
+            "summary": "LLMを組み込んだアプリで「プロンプトを1行直したら別のところが壊れた」を防ぐための本です。決定的チェック・応答の録画（カセット）・LLM-as-a-Judgeの3層で、デグレを自動で検知する仕組みをPythonとpytestだけで作ります。サンプルコードはAPIキーなし・課金ゼロで動き、GitHub ActionsでもAPIを呼ばずに毎回テストできます。第1章は無料で読めます。",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--1nvui4sD--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci81NmVhOGY5NmRjLmpwZWc=%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACMTiAE",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-21T19:58:10.000Z",
+            "date_published": "2026-10-21T19:58:10.000Z",
+            "author": {
+                "name": "中野 曲"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "プロンプトを変えても壊さない：Python×pytestで作るLLMアプリの回帰テスト入門",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/qspprotocol/articles/fa0e6c44ff9c9d",
+            "content_html": "セキュリティの検証プログラムを書いていて、怖いことに気づいた。通常の実行では、不正なデータをきちんと拒否する。ところが、Pythonの起動オプションを一つ変えるだけで、その検査処理自体が実行されなくなる場合がある。問題になるのは、次のようなコードだ。assert actual_hash == expected_hash見た目は単純なハッシュ値の照合である。しかし、Pythonを-Oオプション付きで実行すると、このassert文は除去される。つまり、実行条件によっては、不正なデータを拒否するはずのプログラムが、その検査を行わずに通過させてしまう。これはPythonのバグでは...",
+            "url": "https://zenn.dev/qspprotocol/articles/fa0e6c44ff9c9d",
+            "title": "Pythonの-Oでセキュリティチェックが消える——QSVの検証コードから考えたFail-Closedの落とし穴 | Zennの「Test」のフィード",
+            "summary": "セキュリティの検証プログラムを書いていて、怖いことに気づいた。通常の実行では、不正なデータをきちんと拒否する。ところが、Pythonの起動オプションを一つ変えるだけで、その検査処理自体が実行されなくなる場合がある。問題になるのは、次のようなコードだ。assert actual_hash == expected_hash見た目は単純なハッシュ値の照合である。しかし、Pythonを-Oオプション付きで",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--lapB6EIH--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Python%25E3%2581%25AE-O%25E3%2581%25A7%25E3%2582%25BB%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E3%2583%2581%25E3%2582%25A7%25E3%2583%2583%25E3%2582%25AF%25E3%2581%258C%25E6%25B6%2588%25E3%2581%2588%25E3%2582%258B%25E2%2580%2594%25E2%2580%2594QSV%25E3%2581%25AE%25E6%25A4%259C%25E8%25A8%25BC%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2581%258B%25E3%2582%2589%25E8%2580%2583%25E3%2581%2588%25E3%2581%259FFail-Closed%25E3%2581%25AE%25E8%2590%25BD%25E3%2581%25A8%25E3%2581%2597%25E7%25A9%25B4%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:QSP%2520%252F%2520QSV%25EF%25BD%259C%25E9%2587%258F%25E5%25AD%2590%25E3%2582%25BB%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E6%25A4%259C%25E8%25A8%25BC%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTDhCb3pCOG5XNlU0WHhkVy1oUDAwX1A2b0JtR3lSUlh1ZFV5LUNyMm53bzZfeWpnPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+                "type": "png"
+            },
+            "date_modified": "2026-10-21T12:43:29.000Z",
+            "date_published": "2026-10-21T12:43:29.000Z",
+            "author": {
+                "name": "QSP / QSV｜量子セキュリティ検証"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Pythonの-Oでセキュリティチェックが消える——QSVの検証コードから考えたFail-Closedの落とし穴",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/mameresearcher/articles/fnv-modulo-power-of-two-low-bits",
+            "content_html": "個人の自動化プロジェクトで、リダイレクト用の小さな Worker を動かしている。今回、そこに「1つの入口URLから来た人を、8つの飛び先に均等に振り分ける」機能を足した。入口のURLは紙に印刷した QR コードに入る。印刷したあとは URL を変えられないので、振り分けはサーバー側でやることにした。条件は2つ。8つの飛び先にほぼ均等に散ること同じ端末は何度開いても同じ飛び先に行くこと(再訪のたびに行き先が変わると、記録上の帰属が後から上書きされてしまう)2つ目があるので乱数は使えない。そこで「IP + User-Agent をハッシュして、8で割った余り」にした。よくある...",
+            "url": "https://zenn.dev/mameresearcher/articles/fnv-modulo-power-of-two-low-bits",
+            "title": "FNV-1a を % 8 で振り分けたら、8人中3人に1件も来なかった — 2のべき乗の剰余は下位ビットしか見ない | Zennの「Test」のフィード",
+            "summary": "個人の自動化プロジェクトで、リダイレクト用の小さな Worker を動かしている。今回、そこに「1つの入口URLから来た人を、8つの飛び先に均等に振り分ける」機能を足した。入口のURLは紙に印刷した QR コードに入る。印刷したあとは URL を変えられないので、振り分けはサーバー側でやることにした。条件は2つ。8つの飛び先にほぼ均等に散ること同じ端末は何度開いても同じ飛び先に行くこと(再訪のたび",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--RPHIOOdB--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:FNV-1a%2520%25E3%2582%2592%2520%2525%25208%2520%25E3%2581%25A7%25E6%258C%25AF%25E3%2582%258A%25E5%2588%2586%25E3%2581%2591%25E3%2581%259F%25E3%2582%2589%25E3%2580%25818%25E4%25BA%25BA%25E4%25B8%25AD3%25E4%25BA%25BA%25E3%2581%25AB1%25E4%25BB%25B6%25E3%2582%2582%25E6%259D%25A5%25E3%2581%25AA%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%2520%25E2%2580%2594%25202%25E3%2581%25AE%25E3%2581%25B9%25E3%2581%258D%25E4%25B9%2597%25E3%2581%25AE%25E5%2589%25B0%25E4%25BD%2599%25E3%2581%25AF%25E4%25B8%258B%25E4%25BD%258D%25E3%2583%2593%25E3%2583%2583%25E3%2583%2588%25E3%2581%2597%25E3%2581%258B%25E8%25A6%258B%25E3%2581%25AA%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25BE%25E3%2582%2581%25E7%25A0%2594%25E7%25A9%25B6%25E5%2593%25A1%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ViMjEyODk5ZWYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+                "type": "png"
+            },
+            "date_modified": "2026-10-21T11:06:09.000Z",
+            "date_published": "2026-10-21T11:06:09.000Z",
+            "author": {
+                "name": "まめ研究員"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "FNV-1a を % 8 で振り分けたら、8人中3人に1件も来なかった — 2のべき乗の剰余は下位ビットしか見ない",
+                "blogTitle": "Zennの「Test」のフィード",
+                "blogLink": "https://zenn.dev/topics/test",
+                "blogLinkMd5Hash": "928c29bcd75c83b04dd80e3ad5db0f08",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://arxiv.org/abs/2610.29549v1",
+            "content_html": "Software testing is essential for ensuring quality, yet testing complex front-end user interfaces is often time-consuming and difficult. Snapshot testing has emerged as a low-cost regression testing method that detects unexpected changes by comparing program behavior before and after modifications. Despite its growing adoption, empirical evidence regarding its actual effectiveness remains scarce. To fill this gap, this study presents a large-scale empirical investigation into the effectiveness o",
+            "url": "https://arxiv.org/abs/2610.29549v1",
+            "title": "On the Effectiveness of Snapshot Testing: An Empirical Study | arXiv Query: search_query=all:\"software testing\"&amp;id_list=&amp;start=0&amp;max_results=10",
+            "summary": "Software testing is essential for ensuring quality, yet testing complex front-end user interfaces is often time-consuming and difficult. Snapshot testing has emerged as a low-cost regression testing m",
+            "image": {
+                "height": "700",
+                "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+                "width": "1200",
+                "alt": "arXiv logo",
+                "type": "png"
+            },
+            "date_modified": "2026-10-21T10:35:35.000Z",
+            "date_published": "2026-10-21T10:35:35.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "On the Effectiveness of Snapshot Testing: An Empirical Study",
+                "blogTitle": "arXiv Query: search_query=all:\"software testing\"&amp;id_list=&amp;start=0&amp;max_results=10",
+                "blogLink": "https://arxiv.org/api/query?search_query=all:%22software+testing%22&start=0&max_results=10&id_list=",
+                "blogLinkMd5Hash": "a6098df66166f40f0feb0417c4f16121",
+                "favicon": "https://arxiv.org/static/browse/0.3.4/images/icons/favicon-32x32.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/kauche/articles/e748aa14bc7667",
+            "content_html": "はじめにカウシェでQAリードをしている亀井です！この記事は、2026年10月20日のJaSST nanoでの登壇内容をまとめたものです。カウシェは、SNSのように毎日開きたくなるECアプリです。発見型のお買い物体験に、ゲームやソーシャルの要素を組み合わせていて、アプリ内で作物を育てると実物の商品が届く「カウシェファーム」などを提供しています。リリースをすればするほど顧客価値があることは定量的に計測できています。高速開発が事業にダイレクトヒットしています。そのためカウシェの開発は速く、2026年9月には9.81 PR/人/日のペースで進んでいます。1週間スプリントの中で、QAは...",
+            "url": "https://zenn.dev/kauche/articles/e748aa14bc7667",
+            "title": "超攻撃的QA / Massive Attack QA - 9.81 PR/人/日の開発に、QAはどう追いつくか | Zennの「QA」のフィード",
+            "summary": "はじめにカウシェでQAリードをしている亀井です！この記事は、2026年10月20日のJaSST nanoでの登壇内容をまとめたものです。カウシェは、SNSのように毎日開きたくなるECアプリです。発見型のお買い物体験に、ゲームやソーシャルの要素を組み合わせていて、アプリ内で作物を育てると実物の商品が届く「カウシェファーム」などを提供しています。リリースをすればするほど顧客価値があることは定量的に計測",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--sXzJEu8r--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%25B6%2585%25E6%2594%25BB%25E6%2592%2583%25E7%259A%2584QA%2520%252F%2520Massive%2520Attack%2520QA%2520-%25209.81%2520PR%252F%25E4%25BA%25BA%252F%25E6%2597%25A5%25E3%2581%25AE%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25AB%25E3%2580%2581QA%25E3%2581%25AF%25E3%2581%25A9%25E3%2581%2586%25E8%25BF%25BD%25E3%2581%2584%25E3%2581%25A4%25E3%2581%258F%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E4%25BA%2580%25E4%25BA%2595%25E4%25BA%25AE%25E4%25BB%258B%2540%25E3%2582%25AB%25E3%2582%25A6%25E3%2582%25B7%25E3%2582%25A7%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzA0YzgwYTVkNzEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25AB%25E3%2582%25A6%25E3%2582%25B7%25E3%2582%25A7%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS0lRSHcyTGhTUVIwd2tHMU5fdURSSnNGQjNkUFljMkFaRnJhd1UySFRkTU00TGxxSUE9czI1MC1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+                "type": "png"
+            },
+            "date_modified": "2026-10-21T07:48:55.000Z",
+            "date_published": "2026-10-21T07:48:55.000Z",
+            "author": {
+                "name": "亀井亮介@カウシェ"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "超攻撃的QA / Massive Attack QA - 9.81 PR/人/日の開発に、QAはどう追いつくか",
+                "blogTitle": "Zennの「QA」のフィード",
+                "blogLink": "https://zenn.dev/topics/qa",
+                "blogLinkMd5Hash": "31c7f35c994712b2f4c822a6de926717",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/mumihatsu/articles/6ca0221bc96c55",
+            "content_html": "はじめに仕様書が無い、古い、一部しか無い、という既存のWebシステムのテストを頼まれることがあります。仕様書などが整っていない場合は、今の挙動を調べて、それが仕様かどうかを判断する必要があります。今の挙動には不具合も混ざっています。REA（Reverse Engineer Anything）がWebサイトも調べられると知り、公式の練習用アプリで試しました。この記事では、REAで今の挙動の何が取れたか、それをどう記録したか、仕様かどうかの判断にどうつなげるかを書きます。仕様かどうかは、仕様を理解している人が判断します。そこで記録には「正しいと仮置き・仕様ではない」と書き、質問票を...",
+            "url": "https://zenn.dev/mumihatsu/articles/6ca0221bc96c55",
+            "title": "仕様書が整っていないWebアプリの今の挙動をREAで調べ、仕様かどうかを確かめる | Zennの「QA」のフィード",
+            "summary": "はじめに仕様書が無い、古い、一部しか無い、という既存のWebシステムのテストを頼まれることがあります。仕様書などが整っていない場合は、今の挙動を調べて、それが仕様かどうかを判断する必要があります。今の挙動には不具合も混ざっています。REA（Reverse Engineer Anything）がWebサイトも調べられると知り、公式の練習用アプリで試しました。この記事では、REAで今の挙動の何が取れた",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--qJ-X3fNo--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E4%25BB%2595%25E6%25A7%2598%25E6%259B%25B8%25E3%2581%258C%25E6%2595%25B4%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%2584%25E3%2581%25AA%25E3%2581%2584Web%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2581%25AE%25E4%25BB%258A%25E3%2581%25AE%25E6%258C%2599%25E5%258B%2595%25E3%2582%2592REA%25E3%2581%25A7%25E8%25AA%25BF%25E3%2581%25B9%25E3%2580%2581%25E4%25BB%2595%25E6%25A7%2598%25E3%2581%258B%25E3%2581%25A9%25E3%2581%2586%25E3%2581%258B%25E3%2582%2592%25E7%25A2%25BA%25E3%2581%258B%25E3%2582%2581%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%258A%25E3%2582%2587%25E3%2581%2586%25E3%2581%2595%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTG9HdWk2dTJXckhwdzRkOVFLYWpxcWZlY0h5VjA4Y0RtUEVGM2RKQ0tJRFF5cDBnPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+                "type": "png"
+            },
+            "date_modified": "2026-10-21T05:18:50.000Z",
+            "date_published": "2026-10-21T05:18:50.000Z",
+            "author": {
+                "name": "りょうさん"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "仕様書が整っていないWebアプリの今の挙動をREAで調べ、仕様かどうかを確かめる",
+                "blogTitle": "Zennの「QA」のフィード",
+                "blogLink": "https://zenn.dev/topics/qa",
+                "blogLinkMd5Hash": "31c7f35c994712b2f4c822a6de926717",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://zenn.dev/loglass/articles/54c4f9688dab9f",
+            "content_html": "はじめにこんにちは！株式会社ログラスで26卒エンジニアの北川(@ykitaaaa)です。WACATE2026 夏 〜テスト千本ノック！〜というイベントに参加してきました。https://wacate.jp/workshops/2026summer/このWACATE(Workshop for Accelerating CApable Testing Engineers)は、ワークショップ等を通じてソフトウェアテストや品質保証について学び、参加者同士で交流することを目的として夏と冬の年に2回開催されるイベントです。参加するきっかけとしては、社内で「こんなイベントがあるよ」と共有が...",
+            "url": "https://zenn.dev/loglass/articles/54c4f9688dab9f",
+            "title": "紙とペンで挑んだ「テスト千本ノック！」〜新卒エンジニアのWACATE2026夏 1日目参加レポート〜 | Zennの「QA」のフィード",
+            "summary": "はじめにこんにちは！株式会社ログラスで26卒エンジニアの北川(@ykitaaaa)です。WACATE2026 夏 〜テスト千本ノック！〜というイベントに参加してきました。https://wacate.jp/workshops/2026summer/このWACATE(Workshop for Accelerating CApable Testing Engineers)は、ワークショップ等を通じてソ",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--aeYIkubs--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%25B4%2599%25E3%2581%25A8%25E3%2583%259A%25E3%2583%25B3%25E3%2581%25A7%25E6%258C%2591%25E3%2582%2593%25E3%2581%25A0%25E3%2580%258C%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E5%258D%2583%25E6%259C%25AC%25E3%2583%258E%25E3%2583%2583%25E3%2582%25AF%25EF%25BC%2581%25E3%2580%258D%25E3%2580%259C%25E6%2596%25B0%25E5%258D%2592%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2581%25AEWACATE2026%25E5%25A4%258F%25201%25E6%2597%25A5%25E7%259B%25AE%25E5%258F%2582%25E5%258A%25A0%25E3%2583%25AC%25E3%2583%259D%25E3%2583%25BC%25E3%2583%2588%25E3%2580%259C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ykitaa%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzRlNWQ4ZTRjZjguanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2582%25B9%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkyODBjNzcyMzcuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+                "type": "png"
+            },
+            "date_modified": "2026-10-21T05:01:36.000Z",
+            "date_published": "2026-10-21T05:01:36.000Z",
+            "author": {
+                "name": "ykitaa"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "紙とペンで挑んだ「テスト千本ノック！」〜新卒エンジニアのWACATE2026夏 1日目参加レポート〜",
+                "blogTitle": "Zennの「QA」のフィード",
+                "blogLink": "https://zenn.dev/topics/qa",
+                "blogLinkMd5Hash": "31c7f35c994712b2f4c822a6de926717",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://qiita.com/tyamada22/items/021de2e09cdda239f24c",
+            "content_html": "シリーズ：iOS版『見開きPDFビューア』開発記録この記事は、ChatGPTと壁打ちしながら作成しました。また、開発時の作業ログと、Gitの変更履歴・ソースコードを調査した結果を含みます。第2回の記事では、iOS用PDFビューア「MihirakiPDFViewer」...",
+            "url": "https://qiita.com/tyamada22/items/021de2e09cdda239f24c",
+            "title": "【第3回】XcodeとCodexでiOS用PDFビューアを育てる――公開できるテストPDFで、表示設定と検索・負荷を確かめる | ソフトウェアテストタグが付けられた新着記事 - Qiita",
+            "summary": "シリーズ：iOS版『見開きPDFビューア』開発記録この記事は、ChatGPTと壁打ちしながら作成しました。また、開発時の作業ログと、Gitの変更履歴・ソースコードを調査した結果を含みます。第2回の記事では、iOS用PDFビューア「MihirakiPDFViewer」...",
+            "image": {
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMyLmdpdGh1YnVzZXJjb250ZW50LmNvbSUyRnUlMkY4MDE1NSUzRnYlM0QzP2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz0wNDUzZmJiYmRhNGViMmVlZWM5ODA2NmNhOGZmMzc1OQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D322bcfdd34ad384c2f723f3cc0e384e9?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwJUU3JUFDJUFDMyVFNSU5QiU5RSVFMyU4MCU5MVhjb2RlJUUzJTgxJUE4Q29kZXglRTMlODElQTdpT1MlRTclOTQlQThQREYlRTMlODMlOTMlRTMlODMlQTUlRTMlODMlQkMlRTMlODIlQTIlRTMlODIlOTIlRTglODIlQjIlRTMlODElQTYlRTMlODIlOEIlRTIlODAlOTUlRTIlODAlOTUlRTUlODUlQUMlRTklOTYlOEIlRTMlODElQTclRTMlODElOEQlRTMlODIlOEIlRTMlODMlODYlRTMlODIlQjklRTMlODMlODhQREYlRTMlODElQTclRTMlODAlODElRTglQTElQTglRTclQTQlQkElRTglQTglQUQlRTUlQUUlOUElRTMlODElQTglRTYlQTQlOUMlRTclQjQlQTIlRTIlODAlQTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz05ODUwMTY4ZTIyMjhiNWEzNzVlNjMxOTk4NDUyYmQxZg&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0eWFtYWRhMjImdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iMjQxNDY3ZTI2MDZjMTZmZTQwMjYwOTYyZTk2ZmEwZA&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=5f465582bc78e79181ffe12aef241c8b"
+            },
+            "date_modified": "2026-10-21T01:50:13.000Z",
+            "date_published": "2026-10-21T01:50:13.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【第3回】XcodeとCodexでiOS用PDFビューアを育てる――公開できるテストPDFで、表示設定と検索・負荷を確かめる",
+                "blogTitle": "ソフトウェアテストタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c",
+                "favicon": "https://cdn.qiita.com/assets/favicons/public/production-c620d3e403342b1022967ba5e3db1aaa.ico"
+            }
+        },
+        {
+            "id": "https://qiita.com/kinoto-r/items/f54e0dadd2e50af6065c",
+            "content_html": "はじめに私は法令・規格調査を効率化するため、生成AIを活用しながら個人開発を続けています。AIのおかげで、以前は難しかった機能も実装できるようになりました。しかし、開発を重ねるうちに、一つの修正が別の機能に影響を与える場面に何度も直面しました。「今、正常に動いてい...",
+            "url": "https://qiita.com/kinoto-r/items/f54e0dadd2e50af6065c",
+            "title": "AIとの個人開発で学んだ回帰テストの重要性 | ソフトウェアテストタグが付けられた新着記事 - Qiita",
+            "summary": "はじめに私は法令・規格調査を効率化するため、生成AIを活用しながら個人開発を続けています。AIのおかげで、以前は難しかった機能も実装できるようになりました。しかし、開発を重ねるうちに、一つの修正が別の機能に影響を与える場面に何度も直面しました。「今、正常に動いてい...",
+            "image": {
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MzEyNjczJTJGYzgwMGU2Y2E3NmYwMGYxOTY1ZWYxNTkyODBhZGVlZWY2ZDljNTViNyUyRnhfbGFyZ2UucG5nJTNGMTc2OTQ5MTczOD9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9OTE3OWYyMjFjZmM4ZDc3NGRlYjA1NDQ1ZDM4NTk3YmM%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D6e4979ae2f577436b3bd5eb52cd36362?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODElQTglRTMlODElQUUlRTUlODAlOEIlRTQlQkElQkElRTklOTYlOEIlRTclOTklQkElRTMlODElQTclRTUlQUQlQTYlRTMlODIlOTMlRTMlODElQTAlRTUlOUIlOUUlRTUlQjglQjAlRTMlODMlODYlRTMlODIlQjklRTMlODMlODglRTMlODElQUUlRTklODclOEQlRTglQTYlODElRTYlODAlQTcmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1mZWIzM2U5NjRkYmY5ZjBhMjVkMDcyNGJhMzYzYWI5NA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBraW5vdG8tciZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTFiOTUyMWMwNGFiYTZiNjA4NDFhNTVmMGM1NzM0MzMz&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=ccc5ccf3d674ce602902bf7bf2825bd0"
+            },
+            "date_modified": "2026-10-20T07:24:07.000Z",
+            "date_published": "2026-10-20T07:24:07.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "AIとの個人開発で学んだ回帰テストの重要性",
+                "blogTitle": "ソフトウェアテストタグが付けられた新着記事 - Qiita",
+                "blogLink": "https://qiita.com",
+                "blogLinkMd5Hash": "9a148e328ff84264f956e2123fb3159c",
+                "favicon": "https://cdn.qiita.com/assets/favicons/public/production-c620d3e403342b1022967ba5e3db1aaa.ico"
+            }
+        },
+        {
+            "id": "https://zenn.dev/zenkigen_tech/articles/6582574fc862fb",
+            "content_html": "AIがテスト設計書を書く時代、QAの主役は探索チャーターになった はじめに株式会社ZENKIGENでQAエンジニアをしている横田です。6月の記事「AIと歩む、点の自動化からフローの自動化へ」では、Claude Code を使って QA の業務フロー全体をパイプライン化した話を書きました。仕様書からテスト設計書を作り、テスト設計書からテスト項目書を作る。この流れをスキルとして整えたことで、成果物を作るスピードは大きく上がりました。ところが、リリース前テストにかかる工数は思ったほど減りませんでした。作るのは速くなったのに、テストプロセス全体は速くなっていない。この記事は、その原...",
+            "url": "https://zenn.dev/zenkigen_tech/articles/6582574fc862fb",
+            "title": "AIがテスト設計書を書く時代、QAの主役は探索チャーターになった | Zennの「QA」のフィード",
+            "summary": "AIがテスト設計書を書く時代、QAの主役は探索チャーターになった はじめに株式会社ZENKIGENでQAエンジニアをしている横田です。6月の記事「AIと歩む、点の自動化からフローの自動化へ」では、Claude Code を使って QA の業務フロー全体をパイプライン化した話を書きました。仕様書からテスト設計書を作り、テスト設計書からテスト項目書を作る。この流れをスキルとして整えたことで、成果物を作",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--Wy-TW6Qg--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%258C%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E8%25A8%25AD%25E8%25A8%2588%25E6%259B%25B8%25E3%2582%2592%25E6%259B%25B8%25E3%2581%258F%25E6%2599%2582%25E4%25BB%25A3%25E3%2580%2581QA%25E3%2581%25AE%25E4%25B8%25BB%25E5%25BD%25B9%25E3%2581%25AF%25E6%258E%25A2%25E7%25B4%25A2%25E3%2583%2581%25E3%2583%25A3%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E6%25A8%25AA%25E7%2594%25B0%25E9%259B%2585%25E5%2592%258C%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNhNzk4YmFjMTcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:ZENKIGEN%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzFlNTBjMzczYzMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+                "type": "png"
+            },
+            "date_modified": "2026-10-19T03:00:07.000Z",
+            "date_published": "2026-10-19T03:00:07.000Z",
+            "author": {
+                "name": "横田雅和"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "AIがテスト設計書を書く時代、QAの主役は探索チャーターになった",
+                "blogTitle": "Zennの「QA」のフィード",
+                "blogLink": "https://zenn.dev/topics/qa",
+                "blogLinkMd5Hash": "31c7f35c994712b2f4c822a6de926717",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png"
+            }
+        },
+        {
+            "id": "https://testradio.fm/?p=1811",
+            "content_html": "今回はまず、なぜ毎回冒頭でわざわざ収録日と時間を言っているのかという話 …",
+            "url": "https://testradio.fm/testradio-no/1811/",
+            "title": "第307回 はっぴょうかいの感謝感想回 #テストラジオ | テストラジオ",
+            "summary": "今回はまず、なぜ毎回冒頭でわざわざ収録日と時間を言っているのかという話 …",
+            "image": {
+                "height": "800",
+                "url": "https://testradio.fm/wp/wp-content/uploads/2026/10/2521727a175fac6006cee25744096af2.jpg",
+                "width": "800",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-18T23:00:00.000Z",
+            "date_published": "2026-10-18T23:00:00.000Z",
+            "author": {
+                "name": "なそ＠さとうひろゆき"
+            },
+            "tags": [
+                "テストラジオ",
+                "なそ回",
+                "よしたけ回"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "第307回 はっぴょうかいの感謝感想回 #テストラジオ",
+                "blogTitle": "テストラジオ",
+                "blogLink": "https://testradio.fm",
+                "blogLinkMd5Hash": "8a3e971c7d1528db9e98a24a8bb08a1d",
+                "favicon": "https://testradio.fm/wp/wp-content/uploads/2017/08/cropped-スタンプ-32x32.png"
+            }
+        },
+        {
+            "id": "https://arxiv.org/abs/2610.25233v1",
+            "content_html": "Noisy Intermediate-Scale Quantum (NISQ) hardware has transformed quantum computing into a practical experimental platform while introducing fundamental challenges associated with hardware noise, decoherence, and probabilistic execution. Although quantum software testing (QST) has rapidly emerged as an active research area, it remains unclear to what extent existing testing methodologies explicitly engage with noisy and hardware-constrained execution environments. This paper presents a systematic",
+            "url": "https://arxiv.org/abs/2610.25233v1",
+            "title": "Noise-Awareness in Quantum Software Testing: An Empirical Landscape Analysis | arXiv Query: search_query=all:\"software testing\"&amp;id_list=&amp;start=0&amp;max_results=10",
+            "summary": "Noisy Intermediate-Scale Quantum (NISQ) hardware has transformed quantum computing into a practical experimental platform while introducing fundamental challenges associated with hardware noise, decoh",
+            "image": {
+                "height": "700",
+                "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+                "width": "1200",
+                "alt": "arXiv logo",
+                "type": "png"
+            },
+            "date_modified": "2026-10-18T12:54:10.000Z",
+            "date_published": "2026-10-18T12:54:10.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Noise-Awareness in Quantum Software Testing: An Empirical Landscape Analysis",
+                "blogTitle": "arXiv Query: search_query=all:\"software testing\"&amp;id_list=&amp;start=0&amp;max_results=10",
+                "blogLink": "https://arxiv.org/api/query?search_query=all:%22software+testing%22&start=0&max_results=10&id_list=",
+                "blogLinkMd5Hash": "a6098df66166f40f0feb0417c4f16121",
+                "favicon": "https://arxiv.org/static/browse/0.3.4/images/icons/favicon-32x32.png"
+            }
+        },
+        {
+            "id": "https://note.com/akiyama924/n/nd29f091cb969",
+            "content_html": "◀前の記事へ 次の記事へ▶︎続きをみる",
+            "url": "https://note.com/akiyama924/n/nd29f091cb969",
+            "title": "第410回：　「ALTM」24　（テストプロセス改善: テスト改善プロセス(IDEAL)）  | Kouichi Akiyama",
+            "summary": "◀前の記事へ 次の記事へ▶︎続きをみる",
+            "image": {
+                "url": "https://assets.st-note.com/production/uploads/images/323518639/rectangle_large_type_2_a58f24fec74f279d15f84ae25d2524ea.png?fit=bounds&quality=85&width=1280",
+                "type": "png"
+            },
+            "date_modified": "2026-10-17T22:01:04.000Z",
+            "date_published": "2026-10-17T22:01:04.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "第410回：　「ALTM」24　（テストプロセス改善: テスト改善プロセス(IDEAL)） ",
+                "blogTitle": "Kouichi Akiyama",
+                "blogLink": "https://note.com/akiyama924",
+                "blogLinkMd5Hash": "d78afad1063505d755d008a40f9424e8",
+                "favicon": "https://assets.st-note.com/poc-image/manual/note-common-images/production/svg/production.ico"
+            }
+        }
+    ]
+}
