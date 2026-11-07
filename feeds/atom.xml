@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yoshikiito.github.io/test-qa-rss-feed/</id>
+    <title>テスト・QA関連ブログRSS</title>
+    <updated>2026-11-07T13:49:08.187Z</updated>
+    <generator>yoshikiito/test-qa-rss-feed</generator>
+    <link rel="alternate" href="https://yoshikiito.github.io/test-qa-rss-feed/"/>
+    <link rel="self" href="https://yoshikiito.github.io/test-qa-rss-feed/feeds/atom.xml"/>
+    <subtitle>企テスト・QA関連ブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://yoshikiito.github.io/test-qa-rss-feed/images/icon.png</logo>
+    <icon>https://yoshikiito.github.io/test-qa-rss-feed/images/favicon.ico</icon>
+    <rights>yoshikiito/test-qa-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[ディクテーションの自動採点で「つづりミス」と「別の単語」を分ける線を、2回引き直した | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/horibe/articles/dictation-scoring-edit-distance</id>
+        <link href="https://zenn.dev/horibe/articles/dictation-scoring-edit-distance"/>
+        <updated>2026-11-07T11:42:50.000Z</updated>
+        <summary type="html"><![CDATA[TOEICの学習アプリを作っている。ディクテーション（聞こえた英文を打ち込む）の画面が、ずっとこうなっていた。単語ごとに自己判断してください。1. He's [◯ 聞き取れた] [✕ 聞き取れなかった]2. placing [◯ 聞き取れた] [✕ 聞き取れなかった]3. a [◯ 聞き取れた] [✕ 聞き取れなかった]4. paper [◯ 聞き取れた] [✕ 聞き取れなかった]...8語の文な]]></summary>
+        <content type="html"><![CDATA[TOEICの学習アプリを作っている。ディクテーション（聞こえた英文を打ち込む）の画面が、ずっとこうなっていた。単語ごとに自己判断してください。1. He's [◯ 聞き取れた] [✕ 聞き取れなかった]2. placing [◯ 聞き取れた] [✕ 聞き取れなかった]3. a [◯ 聞き取れた] [✕ 聞き取れなかった]4. paper [◯ 聞き取れた] [✕ 聞き取れなかった]...8語の文なら、8行×2ボタン。 毎回これを押す。ある日気づいた。正解の英文も、打ち込んだ文字列も、画面にある。突き合わせれば機械が判定で...]]></content>
+        <author>
+            <name>Horibe</name>
+        </author>
+        <published>2026-11-07T11:42:50.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026年アイデアログ開発チーム合宿実施レポート | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/idealog/articles/b73f4a307ceeff</id>
+        <link href="https://zenn.dev/idealog/articles/b73f4a307ceeff"/>
+        <updated>2026-11-07T06:52:38.000Z</updated>
+        <summary type="html"><![CDATA[株式会社アイデアログでCTOをしている松川です。会場ベストサーチやスペなびといった、会場・スペース探しのサービスを作っています。10月は、開発チームの合宿と、社外のCTO向けイベント（CTO Night &amp;amp; Day）に参加しました。なお、10月19日〜21日に参加したCTO Night &amp;amp; Dayは、会場で聞いた話を外に出さないルールのイベントです。なのでここに書くのは、合宿で起きたことと、イベン]]></summary>
+        <content type="html"><![CDATA[株式会社アイデアログでCTOをしている松川です。会場ベストサーチやスペなびといった、会場・スペース探しのサービスを作っています。10月は、開発チームの合宿と、社外のCTO向けイベント（CTO Night &amp;amp; Day）に参加しました。なお、10月19日〜21日に参加したCTO Night &amp;amp; Dayは、会場で聞いた話を外に出さないルールのイベントです。なのでここに書くのは、合宿で起きたことと、イベントから帰ったあとに自分が考えたことだけです。 合宿のテーマを「連携」にした10月15日〜16日に、開発チーム12名で1泊2日の合宿をしました。去年の合宿のテーマは「成...]]></content>
+        <author>
+            <name>アイデアログ開発チーム</name>
+        </author>
+        <published>2026-11-07T06:52:38.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JSON台帳の部分読みで、同じ結果をどう確かめるか | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/miyakona/articles/stream-json-ledger-equivalence</id>
+        <link href="https://zenn.dev/miyakona/articles/stream-json-ledger-equivalence"/>
+        <updated>2026-11-07T06:39:43.000Z</updated>
+        <summary type="html"><![CDATA[再試行で通った監視を、そのままにできなかった定期処理の結果が共有先へ反映されたかを、AWS Lambdaで監視していました。監視は、過去の結果を蓄積するJSONファイルを毎回丸ごと読み、今回の処理に関係するレコードを照合します。この記事では、そのJSONを「台帳」、1回の定期処理を「run」と呼びます。あるとき、監視がタイムアウトしてアラームが鳴りました。時間切れになると、その実行では検査を完了で]]></summary>
+        <content type="html"><![CDATA[再試行で通った監視を、そのままにできなかった定期処理の結果が共有先へ反映されたかを、AWS Lambdaで監視していました。監視は、過去の結果を蓄積するJSONファイルを毎回丸ごと読み、今回の処理に関係するレコードを照合します。この記事では、そのJSONを「台帳」、1回の定期処理を「run」と呼びます。あるとき、監視がタイムアウトしてアラームが鳴りました。時間切れになると、その実行では検査を完了できません。再試行は正常に終わり、データへの影響はありませんでしたが、ログを振り返るとメモリ使用量が割り当ての上限へ近づき続けていました。まずメモリを増やして止血しました。その後、監視が...]]></content>
+        <author>
+            <name>miyakona</name>
+        </author>
+        <published>2026-11-07T06:39:43.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OCRの同値分割と境界値、実際のテストコードで見る | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/vaonvn/articles/d839a1ad1273e9</id>
+        <link href="https://zenn.dev/vaonvn/articles/d839a1ad1273e9"/>
+        <updated>2026-11-07T02:37:44.000Z</updated>
+        <summary type="html"><![CDATA[対象はOCRエンジンそのものではありません。エンジンが返した結果を受け取ったあとの、ルールで書かれた部分です。アップロードサイズの上限、信頼度による振り分け、識別番号(IMEI)の妥当性チェックの3つを扱います。認識精度のほうは、出力が毎回少しずつ揺れるので、サンプル画像セットと閾値付きの比較で見ています(その方法は前に書きました)。後処理は入力が決まれば出力も決まるので、古典的な技法がそのまま効]]></summary>
+        <content type="html"><![CDATA[対象はOCRエンジンそのものではありません。エンジンが返した結果を受け取ったあとの、ルールで書かれた部分です。アップロードサイズの上限、信頼度による振り分け、識別番号(IMEI)の妥当性チェックの3つを扱います。認識精度のほうは、出力が毎回少しずつ揺れるので、サンプル画像セットと閾値付きの比較で見ています(その方法は前に書きました)。後処理は入力が決まれば出力も決まるので、古典的な技法がそのまま効きます。そして、実際に不具合が出やすいのもこちらでした。コードはこの記事のために新しく書いたもので、実際の案件のコードではありません。上限の10MiBや信頼度0.90も記事用の値です。テスト...]]></content>
+        <author>
+            <name>VAON VIET NAM</name>
+        </author>
+        <published>2026-11-07T02:37:44.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[なぜ、AI時代にはものづくりが非常に大変になったのか？ | Zennの「品質」のフィード]]></title>
+        <id>https://zenn.dev/pdfractal/articles/71588bb79ddb57</id>
+        <link href="https://zenn.dev/pdfractal/articles/71588bb79ddb57"/>
+        <updated>2026-11-06T15:49:37.000Z</updated>
+        <summary type="html"><![CDATA[はじめにAIの発達によって、誰でも簡単にものづくりができる時代になりました。プログラムを書き、イラストを描き、文章を作り、設計図を引くといった作業は、かつて専門的な技能を習得した人間でなければ困難でした。しかし、現在ではAIに指示するだけで、一定以上の品質を備えた成果物を短時間で得られます。ものづくりの参入障壁が劇的に下がったことは間違いありませんが、ここには重大な逆説があります。ものを作ることが]]></summary>
+        <content type="html"><![CDATA[はじめにAIの発達によって、誰でも簡単にものづくりができる時代になりました。プログラムを書き、イラストを描き、文章を作り、設計図を引くといった作業は、かつて専門的な技能を習得した人間でなければ困難でした。しかし、現在ではAIに指示するだけで、一定以上の品質を備えた成果物を短時間で得られます。ものづくりの参入障壁が劇的に下がったことは間違いありませんが、ここには重大な逆説があります。ものを作ることが簡単になったにもかかわらず、ものづくりによって価値を生み出すことは、かえって難しくなったのです。なぜなら、AIが得意とする品質と、人間が本当に求める品質には大きな違いがあり、しかもAIの普...]]></content>
+        <author>
+            <name>pdfractal</name>
+        </author>
+        <published>2026-11-06T15:49:37.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「直った」の確信を、代わりの合図から取らない | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/matasuke_t/articles/32fd6cd3722313</id>
+        <link href="https://zenn.dev/matasuke_t/articles/32fd6cd3722313"/>
+        <updated>2026-11-06T11:42:05.000Z</updated>
+        <summary type="html"><![CDATA[ある週、同じ形の失敗を何度か踏んだ。どれも「直したはず」「できているはず」と思い込んでいて、実際には別のものを見て安心していた、という失敗だった。あとから並べてみると、確信を「本物の状態」ではなく「その手前の合図」から取っていた点で共通していた。 CI が緑でも、中身は入れ替わっていなかったデプロイのジョブは緑だった。ところが中のステップは「組み立ては別の場所でやる」という理由で SKIPPED ]]></summary>
+        <content type="html"><![CDATA[ある週、同じ形の失敗を何度か踏んだ。どれも「直したはず」「できているはず」と思い込んでいて、実際には別のものを見て安心していた、という失敗だった。あとから並べてみると、確信を「本物の状態」ではなく「その手前の合図」から取っていた点で共通していた。 CI が緑でも、中身は入れ替わっていなかったデプロイのジョブは緑だった。ところが中のステップは「組み立ては別の場所でやる」という理由で SKIPPED を出して、そのまま正常終了していた。緑はジョブが落ちなかったことしか保証しない。本番に入っているコミットと、配備の状態ファイルを読んで、ようやく「何も入れ替わっていない」と分かった。それ...]]></content>
+        <author>
+            <name>またすけ</name>
+        </author>
+        <published>2026-11-06T11:42:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【JaSST'26 Niigata 参加レポート】AIに任せた品質は、誰が見立てるのか | ソフトウェアテストタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/Fujisakkun/items/2058c59fc65d38ee301d</id>
+        <link href="https://qiita.com/Fujisakkun/items/2058c59fc65d38ee301d"/>
+        <updated>2026-11-06T09:09:10.000Z</updated>
+        <summary type="html"><![CDATA[はじめに2026年9月18日に開催された JaSST'26 Niigata にオンライン参加してきました。今回のテーマは「AI時代のQA Re-Engineering —— 思考の純度を高め、品質の壁を突破する」でした。LayerX の中野直樹さんによる基調講演「AIに...]]></summary>
+        <content type="html"><![CDATA[はじめに2026年9月18日に開催された JaSST'26 Niigata にオンライン参加してきました。今回のテーマは「AI時代のQA Re-Engineering —— 思考の純度を高め、品質の壁を突破する」でした。LayerX の中野直樹さんによる基調講演「AIに...]]></content>
+        <published>2026-11-06T09:09:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[hasAttribute は aria-disabled="false" でも true を返す。属性名だけ置換したらテストが空洞になった | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/matsutake_prgrm/articles/hasattribute-returns-true-for-aria-disabled-false</id>
+        <link href="https://zenn.dev/matsutake_prgrm/articles/hasattribute-returns-true-for-aria-disabled-false"/>
+        <updated>2026-11-06T09:00:08.000Z</updated>
+        <summary type="html"><![CDATA[!2作目のポートフォリオとして「Hubpin」（分散した発信を1か所に集めるハブサイト）を作りながら書いています。リポジトリ: https://github.com/Matsutake29/hubpinNext.js（App Router） + Supabase + Tailwind CSS並び替えボタンで、フォーカスが消える不具合がありました。キーボードで切り分けると、消えるのは「移動先が1番目]]></summary>
+        <content type="html"><![CDATA[!2作目のポートフォリオとして「Hubpin」（分散した発信を1か所に集めるハブサイト）を作りながら書いています。リポジトリ: https://github.com/Matsutake29/hubpinNext.js（App Router） + Supabase + Tailwind CSS並び替えボタンで、フォーカスが消える不具合がありました。キーボードで切り分けると、消えるのは「移動先が1番目のとき」だけで、原因は disabled={index === 0} でした。disabled な要素は、フォーカスを保持できません。そこで disabled を aria-...]]></content>
+        <author>
+            <name>まつたけ</name>
+        </author>
+        <published>2026-11-06T09:00:08.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIエージェントのテスト設計 ― 実行結果と判断過程をどう評価するか | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/taru_neko/articles/ai-agent-testing-design</id>
+        <link href="https://zenn.dev/taru_neko/articles/ai-agent-testing-design"/>
+        <updated>2026-11-06T07:23:02.000Z</updated>
+        <summary type="html"><![CDATA[従来のWebアプリケーションでは、入力に対して期待する処理結果を定義し、テストで検証する。AIエージェントでも基本は変わらない。ただし、LLMがToolの選択や実行順序を判断する場合、同じ依頼でも異なる手順で処理される可能性がある。そのため、正しい業務結果が得られたかだけでなく、そこに至る操作が適切だったかも評価する必要がある。本記事では、社内の経費精算システムを例に、AIエージェントの機能テスト]]></summary>
+        <content type="html"><![CDATA[従来のWebアプリケーションでは、入力に対して期待する処理結果を定義し、テストで検証する。AIエージェントでも基本は変わらない。ただし、LLMがToolの選択や実行順序を判断する場合、同じ依頼でも異なる手順で処理される可能性がある。そのため、正しい業務結果が得られたかだけでなく、そこに至る操作が適切だったかも評価する必要がある。本記事では、社内の経費精算システムを例に、AIエージェントの機能テストを考える。特に、結合テスト・システムテストでLLMの振る舞いをどう評価し、合格基準を設計するかに焦点を当てる。性能・負荷・障害耐性などの非機能テストは対象外とする。 1. 従来のWe...]]></content>
+        <author>
+            <name>樽猫先生</name>
+        </author>
+        <published>2026-11-06T07:23:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Bedrockで挑む、自治体AIコンタクトセンター（AWSぶっちゃけ討論会vol.7） | SHIFT EVOLVE グループの新着イベント]]></title>
+        <id>https://shiftevolve.connpass.com/event/409441/</id>
+        <link href="https://shiftevolve.connpass.com/event/409441/"/>
+        <updated>2026-11-06T05:02:26.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2026/12/16 19:00 ～ 20:30&amp;lt;br /&amp;gt;開催場所: オンライン&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;h2&amp;gt;Amazon Bedrockで挑む、自治体AIコンタクトセンター（AWSぶっちゃけ討論会vol.7）&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;AWSを長年利用してきた人にしかわからない、リアルな問題や対策法をざっくばらんにディスカッション。教科書に載っていない、検索しても出てこない、AWS活用の現実]]></summary>
+        <content type="html"><![CDATA[開催日時: 2026/12/16 19:00 ～ 20:30&amp;lt;br /&amp;gt;開催場所: オンライン&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;h2&amp;gt;Amazon Bedrockで挑む、自治体AIコンタクトセンター（AWSぶっちゃけ討論会vol.7）&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;AWSを長年利用してきた人にしかわからない、リアルな問題や対策法をざっくばらんにディスカッション。教科書に載っていない、検索しても出てこない、AWS活用の現実を掘り下げます。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;今回は、AWS Summit Japan 2026でCfPを通過したセッション&amp;lt;a href="https://speakerdeck.com/shift_evolve/20260626-taku-nishizawa-and-satoshi-torano" rel="nofollow"&amp;gt;『区民の問い合わせ、AIにどこまで任せる？ 品川区×SHIFTが挑む自治体音声AI実証の現在地』&amp;lt;/a&amp;gt;を題材に、当日15分の講演枠では語りきれなかった開発の裏側や、その後のアップデートをご紹介します。品川区役所 西澤氏とSHIFT 寅野が語る事例に、AWSを長年利用しているMIX]]></content>
+        <published>2026-11-06T05:02:26.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[複数のプラットフォームで画像比較を成功させるための方法 | Ranorex Blog - テスト自動化ツール 『Ranorex』]]></title>
+        <id>https://ranorex.techmatrix.jp/?p=33065</id>
+        <link href="https://ranorex.techmatrix.jp/blog/2026/11/06/multi-platform-image-validate/"/>
+        <updated>2026-11-06T02:36:42.000Z</updated>
+        <summary type="html"><![CDATA[※本記事は、Ranorexの画像検証に関する基礎知識をお持ちの方を対象としています。※Ranorex ハンズオンセミナー(初級・中級)を受講することで、Ranorexの画像検証について学習いただけます。 Ranorexの […]The post 複数のプラットフォームで画像比較を成功させるための方法 first appeared on テスト自動化ツール 『Ranorex』.]]></summary>
+        <content type="html"><![CDATA[※本記事は、Ranorexの画像検証に関する基礎知識をお持ちの方を対象としています。※Ranorex ハンズオンセミナー(初級・中級)を受講することで、Ranorexの画像検証について学習いただけます。 Ranorexの […]The post 複数のプラットフォームで画像比較を成功させるための方法 first appeared on テスト自動化ツール 『Ranorex』.]]></content>
+        <author>
+            <name>Ranorex編集部</name>
+        </author>
+        <category label="Ranorex機能"/>
+        <category label="ノウハウ"/>
+        <category label="事例・ソリューション"/>
+        <published>2026-11-06T02:36:42.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[善意では、人は動かない ── Folio v3 公開βのしくみ | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/masamune0625/articles/bffe4b9637589e</id>
+        <link href="https://zenn.dev/masamune0625/articles/bffe4b9637589e"/>
+        <updated>2026-11-06T00:52:28.000Z</updated>
+        <summary type="html"><![CDATA[この記事は、Folio を運営する株式会社AKIMA が書いています。2026年11月6日に、Folio v3 の公開βを始めました。「テストしてください」X で何度つぶやいても、誰も触ってくれない。善意では、人は動かない。だから Folio は、報酬を払って、契約で動かすことにしました。作っただけで、終わらせない。 Folio v3 とはアプリは作れた。でも、触ったのは自分と AI だけ。この状]]></summary>
+        <content type="html"><![CDATA[この記事は、Folio を運営する株式会社AKIMA が書いています。2026年11月6日に、Folio v3 の公開βを始めました。「テストしてください」X で何度つぶやいても、誰も触ってくれない。善意では、人は動かない。だから Folio は、報酬を払って、契約で動かすことにしました。作っただけで、終わらせない。 Folio v3 とはアプリは作れた。でも、触ったのは自分と AI だけ。この状態で公開すると、初めて使う人がどこで止まるかを知らないまま出すことになります。出した後に、最初に使ってくれる人へどう届けるかも、作った人が一人で抱えがちです。Folio v3...]]></content>
+        <author>
+            <name>Folio運営</name>
+        </author>
+        <published>2026-11-06T00:52:28.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIに採点させて品質を上げる：100点満点の採点役と、直す役を分けた改善ループ | Zennの「品質」のフィード]]></title>
+        <id>https://zenn.dev/shoyomayabot/articles/ai-scoring-improvement-loop</id>
+        <link href="https://zenn.dev/shoyomayabot/articles/ai-scoring-improvement-loop"/>
+        <updated>2026-11-05T10:08:47.000Z</updated>
+        <summary type="html"><![CDATA[AIにコードを直させると、「改善しました」と報告してくれます。でも、本当に良くなったのかは、報告だけでは分かりません。この記事では、AIに採点させて、その点数を上げていく改善ループを紹介します。個人で公開しているリポジトリ15個に対して、採点と修正を5周まわしました。平均点は73点から、およそ85点まで上がりました。一番のポイントは、採点する役と直す役を分けることです。 なぜ役を分けるのか同じAI]]></summary>
+        <content type="html"><![CDATA[AIにコードを直させると、「改善しました」と報告してくれます。でも、本当に良くなったのかは、報告だけでは分かりません。この記事では、AIに採点させて、その点数を上げていく改善ループを紹介します。個人で公開しているリポジトリ15個に対して、採点と修正を5周まわしました。平均点は73点から、およそ85点まで上がりました。一番のポイントは、採点する役と直す役を分けることです。 なぜ役を分けるのか同じAIに「採点して、直して、また採点して」と頼むと、点数は簡単に上がります。ただしそれは、品質が上がったからとは限りません。自分が直したところを、甘く見てしまう「直した」という記録（変...]]></content>
+        <author>
+            <name>mayabot</name>
+        </author>
+        <published>2026-11-05T10:08:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[並行テストは、割り込みが起きたことまで確かめる | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/miyakona/articles/interleaving-test-must-interleave</id>
+        <link href="https://zenn.dev/miyakona/articles/interleaving-test-must-interleave"/>
+        <updated>2026-11-05T07:28:09.000Z</updated>
+        <summary type="html"><![CDATA[全通り試しても、直列にしか動いていなかった共有ファイルをBotと再生成用のLambdaが更新する処理で、追記が消えないことを確かめたかった。読む処理と書く処理の間へ別の更新を差し込むテストは、すでにありました。ただ、AIエージェントが並行処理のセルフレビューをするたびに、割り込みを再現するスクリプトを作り直していました。そこで、操作の直前で書き手を止め、どちらを1手進めるかを全通り試す部品へ移しま]]></summary>
+        <content type="html"><![CDATA[全通り試しても、直列にしか動いていなかった共有ファイルをBotと再生成用のLambdaが更新する処理で、追記が消えないことを確かめたかった。読む処理と書く処理の間へ別の更新を差し込むテストは、すでにありました。ただ、AIエージェントが並行処理のセルフレビューをするたびに、割り込みを再現するスクリプトを作り直していました。そこで、操作の直前で書き手を止め、どちらを1手進めるかを全通り試す部品へ移しました。ところが、部品自身のレビューで、最初の操作だけを止める設定でもテストが通ることが分かりました。2本が同時に待っていても、片方が読み書きを全部終えてから、もう片方が動いていたのです。...]]></content>
+        <author>
+            <name>miyakona</name>
+        </author>
+        <published>2026-11-05T07:28:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Playwrightテスト失敗時にスクリーンショットを自動保存する（GitHub Actions） | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/skiyaki_dev/articles/1099304d7f947f</id>
+        <link href="https://zenn.dev/skiyaki_dev/articles/1099304d7f947f"/>
+        <updated>2026-11-05T03:42:18.000Z</updated>
+        <summary type="html"><![CDATA[GitHub ActionsでPlaywrightのE2Eテストを実行している場合、テスト失敗時に失敗タイミングのスクリーンショットを残しておくと原因調査が楽になると思い、設定してみました。特に面倒な事とかはしてないのでメモ的に....。 設定方法playwright.config.tsexport default defineConfig({ use: { screenshot: 'only-o]]></summary>
+        <content type="html"><![CDATA[GitHub ActionsでPlaywrightのE2Eテストを実行している場合、テスト失敗時に失敗タイミングのスクリーンショットを残しておくと原因調査が楽になると思い、設定してみました。特に面倒な事とかはしてないのでメモ的に....。 設定方法playwright.config.tsexport default defineConfig({ use: { screenshot: 'only-on-failure', },});workflow.yml- name: Run Playwright tests run: npx playwright...]]></content>
+        <author>
+            <name>イイノテン</name>
+        </author>
+        <published>2026-11-05T03:42:18.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BLOG de プレゼントキャンペーン2026 | MagicPod Blog]]></title>
+        <id>https://magicpod.com/blog/blog-campaign2026/</id>
+        <link href="https://magicpod.com/blog/blog-campaign2026/"/>
+        <updated>2026-11-05T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[🎄MagicPod BLOG de プレゼントキャンペーン2026🎁今年もやります！年末恒例のMagicPod BLOGキャンペーン✨ご参加いただいた方全員に、素敵なプレゼントをお送りします🎁💡参加方法「MagicPod」に関する記事を公開（500文字以上）公開後、申し込みフォームからキャンペーンにお申し込みこのページの「投稿記事一覧」にあなたの記事が追加されます（掲載に同意いただいた方のみ）個人]]></summary>
+        <content type="html"><![CDATA[🎄MagicPod BLOG de プレゼントキャンペーン2026🎁今年もやります！年末恒例のMagicPod BLOGキャンペーン✨ご参加いただいた方全員に、素敵なプレゼントをお送りします🎁💡参加方法「MagicPod」に関する記事を公開（500文字以上）公開後、申し込みフォームからキャンペーンにお申し込みこのページの「投稿記事一覧」にあなたの記事が追加されます（掲載に同意いただいた方のみ）個人ブログ、Zenn、Qiita、note、所属企業のテックブログなど、投稿先は自由です。✨ 記事テーマ例MagicPodを使ってみた感想やお気に入りの機能「MagicPod MCPやってみた」など、AIと組み合わせた活用例新機能を試してみた話テスト自動化の工夫やチームでの取り組みうまくいかなかったこと、最初につまずいたところとその解決策MagicPodイベントやコミュニティ参加レポートなど、「MagicPod」に関する内容なら自由です！失敗談も、同じところで悩む誰かの助けになります。🎁 プレゼント内容キャンペーン参加者全員に、以下4つの中からお好きなノベルティを1点プレゼント！🚀 早期投稿特典【]]></content>
+        <author>
+            <name>Junko Tagami</name>
+        </author>
+        <published>2026-11-05T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIエージェントの試行錯誤に「見た目が崩れていないか」の検査を組み込む 判定をLLMに任せない理由 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/miyanaga/articles/zenn-2026-11-05</id>
+        <link href="https://zenn.dev/miyanaga/articles/zenn-2026-11-05"/>
+        <updated>2026-11-04T22:02:11.000Z</updated>
+        <summary type="html"><![CDATA[弊社（アイデアマンズ）はページスピード改善の仕事で、主にフロントエンドの改善を提案しています。速くするためにHTMLやCSS、JavaScriptへ手を入れますが、見た目が変わってしまっては困ります。速くなっても表示が崩れるのでは意味がありません。以前はこの確認を目視でしていました。ところが改善の試行錯誤をAIエージェントへ任せるようになり、人間の目視では追いつかなくなりました。この記事では、AI]]></summary>
+        <content type="html"><![CDATA[弊社（アイデアマンズ）はページスピード改善の仕事で、主にフロントエンドの改善を提案しています。速くするためにHTMLやCSS、JavaScriptへ手を入れますが、見た目が変わってしまっては困ります。速くなっても表示が崩れるのでは意味がありません。以前はこの確認を目視でしていました。ところが改善の試行錯誤をAIエージェントへ任せるようになり、人間の目視では追いつかなくなりました。この記事では、AIの試行錯誤のループに「見た目が変わっていないか」の検査を組み込んだときの設計判断を整理します。検査の判定をLLMに任せなかった理由と、機械的な比較を実用にするための2つの工夫が中心です。...]]></content>
+        <author>
+            <name>miyanaga</name>
+        </author>
+        <published>2026-11-04T22:02:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIは嘘をつく前提で。仕様準拠を exit code で判定する「spec-gate」を作った | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/nozomi720/articles/spec-gate-harness</id>
+        <link href="https://zenn.dev/nozomi720/articles/spec-gate-harness"/>
+        <updated>2026-11-04T16:54:32.000Z</updated>
+        <summary type="html"><![CDATA[TL;DRAI が書いたコードが 自然言語の仕様（Markdown / Mermaid / Figma / 画像）を守っているか を、エージェントの自己申告を一切使わずに exit code で判定するハーネス spec-gate を作りました仕様とコードを直接比べることはしません。間に claim（検証できる形にした仕様の主張） を挟み、「AI が抽出 → 人間が承認 → 機械が判定」の3段に分]]></summary>
+        <content type="html"><![CDATA[TL;DRAI が書いたコードが 自然言語の仕様（Markdown / Mermaid / Figma / 画像）を守っているか を、エージェントの自己申告を一切使わずに exit code で判定するハーネス spec-gate を作りました仕様とコードを直接比べることはしません。間に claim（検証できる形にした仕様の主張） を挟み、「AI が抽出 → 人間が承認 → 機械が判定」の3段に分けています。人間がやるのは承認だけです承認済み claim の編集、承認そのもの、プランの検証行の書き換えは、hook-gate のルールでエージェントには できない ようにしていま...]]></content>
+        <author>
+            <name>nonchan7720</name>
+        </author>
+        <published>2026-11-04T16:54:32.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pgregory.net/rapidで学ぶプロパティベーステスト | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/gesu/articles/rapid-property-based-testing</id>
+        <link href="https://zenn.dev/gesu/articles/rapid-property-based-testing"/>
+        <updated>2026-11-04T15:19:50.000Z</updated>
+        <summary type="html"><![CDATA[最近業務でpgregory.net/rapidとPBTに初めて触れる機会があったので、これらについて調べてみました。AIによってPBTが再発見されつつありますが、PBT自体は古くからあるテスト手法です。私自身はGoで開発者人生をスタートしたこともあり、テストといえばテーブル駆動テストやtestifyなどのライブラリを使ったassertionによるものがメインでした。なのでPBTについては初めて知る]]></summary>
+        <content type="html"><![CDATA[最近業務でpgregory.net/rapidとPBTに初めて触れる機会があったので、これらについて調べてみました。AIによってPBTが再発見されつつありますが、PBT自体は古くからあるテスト手法です。私自身はGoで開発者人生をスタートしたこともあり、テストといえばテーブル駆動テストやtestifyなどのライブラリを使ったassertionによるものがメインでした。なのでPBTについては初めて知ることが多かったです。この記事は、同じようにassertionによるテストを中心に書いてきた人に向けて、調べた内容をまとめたものです。ざっくりPBTとは何かが理解できる、Goでrapidを使って...]]></content>
+        <author>
+            <name>imsugeno</name>
+        </author>
+        <published>2026-11-04T15:19:50.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[引き継ぎ時に消さないでおきたい、番号付きに見える段落のバックスラッシュ | ソフトウェアテストタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/yanwang/items/1620ab41dea32d700ed4</id>
+        <link href="https://qiita.com/yanwang/items/1620ab41dea32d700ed4"/>
+        <updated>2026-11-04T12:01:00.000Z</updated>
+        <summary type="html"><![CDATA[レビュー中のMarkdownに 7\. Inspect と書かれていると、バックスラッシュを余分な記号だと思うかもしれません。しかし、ドットの直前にあるその記号は、数字とドットをリストの開始記号として解釈させないための手掛かりです。削除すると、普通の段落として渡したかった内...]]></summary>
+        <content type="html"><![CDATA[レビュー中のMarkdownに 7\. Inspect と書かれていると、バックスラッシュを余分な記号だと思うかもしれません。しかし、ドットの直前にあるその記号は、数字とドットをリストの開始記号として解釈させないための手掛かりです。削除すると、普通の段落として渡したかった内...]]></content>
+        <published>2026-11-04T12:01:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI生成コードの検証をCIに埋め込む — スキャナが届かない「認可」を自動テストで埋める | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/hackbox_ai/articles/0c1707bfff7898</id>
+        <link href="https://zenn.dev/hackbox_ai/articles/0c1707bfff7898"/>
+        <updated>2026-11-04T10:15:28.000Z</updated>
+        <summary type="html"><![CDATA[AI コーディングアシスタントが当たり前になって、コードを書く速度は確実に上がりました。GitHub が 2022 年に公開した研究では、Copilot を使った被験者は同じタスクを約 55% 速く完了しています。数字の大小より重要なのは、この速度差がそのまま「レビュー待ち行列」と「未検証のコード」に積み上がるという点です。ここで起きがちなのが、次のような錯覚です。「CI は回しているし、SAST]]></summary>
+        <content type="html"><![CDATA[AI コーディングアシスタントが当たり前になって、コードを書く速度は確実に上がりました。GitHub が 2022 年に公開した研究では、Copilot を使った被験者は同じタスクを約 55% 速く完了しています。数字の大小より重要なのは、この速度差がそのまま「レビュー待ち行列」と「未検証のコード」に積み上がるという点です。ここで起きがちなのが、次のような錯覚です。「CI は回しているし、SAST も SCA も入れている」「四半期ごとにペネトレーションテストもやっている」「だから検証は足りている」実際には、この三つを足しても認可の穴はほぼ素通りします。本記事では、その理由...]]></content>
+        <author>
+            <name>Hackbox.ai</name>
+        </author>
+        <published>2026-11-04T10:15:28.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[改稿は終わっていた。確認用コピーは旧稿のままだった | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/bricks/articles/review-copy-must-match-revision</id>
+        <link href="https://zenn.dev/bricks/articles/review-copy-must-match-revision"/>
+        <updated>2026-11-04T04:48:41.000Z</updated>
+        <summary type="html"><![CDATA[技術記事を改稿し、ローカルの完了記録には更新後のhashも残っていました。しかし、確認用に渡していたクラウドのコピーは、以前の原稿のままでした。URLが同じでも、そこにある本文まで同じとは限りません。今回の不一致は、原本の改稿と、確認用コピーへの反映を別々に照合したことで見つかりました。 ファイル名とURLでは、どの版か分からない2026年10月20日の保存記録では、ローカルの改稿は5,387 b]]></summary>
+        <content type="html"><![CDATA[技術記事を改稿し、ローカルの完了記録には更新後のhashも残っていました。しかし、確認用に渡していたクラウドのコピーは、以前の原稿のままでした。URLが同じでも、そこにある本文まで同じとは限りません。今回の不一致は、原本の改稿と、確認用コピーへの反映を別々に照合したことで見つかりました。 ファイル名とURLでは、どの版か分からない2026年10月20日の保存記録では、ローカルの改稿は5,387 bytes、確認用コピーは3,171 bytesでした。改稿では検証範囲を追記していましたが、確認用コピーにはその前の説明が残っていました。確認用コピーの全文を、保存していた旧稿と比較す...]]></content>
+        <author>
+            <name>Renga</name>
+        </author>
+        <published>2026-11-04T04:48:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIにQAの判断を任せる：AIによるトリアージ精度を2倍にするQAコンテキスト設計 | QA - Tabelog Tech Blog]]></title>
+        <id>https://tech-blog.tabelog.com/entry/connecting-qa-data-for-ai-driven-test-repair</id>
+        <link href="https://tech-blog.tabelog.com/entry/connecting-qa-data-for-ai-driven-test-repair"/>
+        <updated>2026-11-04T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[目次 はじめに これまでのAI4QAの取り組み 今回の取り組み AIにトリアージさせるためのコンテキスト設計 何を渡すか どう渡すか 判定の基準をどこに持たせるか 結果 定性的評価：トリアージができた3つの例 定量的評価：トリアージ精度が2倍に まとめ 採用情報 はじめに こんにちは。食べログカンパニー 開発本部 品質管理部QAチームの中尾です。飲食店プロダクト領域で、E2Eテストの自動化とQA工]]></summary>
+        <content type="html"><![CDATA[目次 はじめに これまでのAI4QAの取り組み 今回の取り組み AIにトリアージさせるためのコンテキスト設計 何を渡すか どう渡すか 判定の基準をどこに持たせるか 結果 定性的評価：トリアージができた3つの例 定量的評価：トリアージ精度が2倍に まとめ 採用情報 はじめに こんにちは。食べログカンパニー 開発本部 品質管理部QAチームの中尾です。飲食店プロダクト領域で、E2Eテストの自動化とQA工程のAI化に取り組んでいます。 これまでのAI4QAの取り組み 食べログの品質管理部では、「AI4QA」というプロジェクトを進めています。AI4QAは、QA業務の全てをAIが担う状態を目指し、テスト設…]]></content>
+        <published>2026-11-04T03:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ハイキュー!! 1 (日向と影山)」がシリーズにまとまらなかった。巻数のあとの括弧つき副題を正規表現で拾う | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/hk_work/articles/series-subtitle-in-parentheses</id>
+        <link href="https://zenn.dev/hk_work/articles/series-subtitle-in-parentheses"/>
+        <updated>2026-11-04T02:00:10.000Z</updated>
+        <summary type="html"><![CDATA[蔵書管理アプリ「本棚（hondana）」では、本のタイトルから「シリーズ名」と「巻数」を推定して、漫画をシリーズごとにまとめています。推定のしかたは前の記事に書きました。そのあと実機でバーコードを読み、『ハイキュー!!』を登録すると、シリーズにまとまりませんでした。この記事は、その原因と直し方です。 書名が「巻数 (副題)」の形だったopenBD が返した書名は、こうでした。ハイキュー!! 1 (]]></summary>
+        <content type="html"><![CDATA[蔵書管理アプリ「本棚（hondana）」では、本のタイトルから「シリーズ名」と「巻数」を推定して、漫画をシリーズごとにまとめています。推定のしかたは前の記事に書きました。そのあと実機でバーコードを読み、『ハイキュー!!』を登録すると、シリーズにまとまりませんでした。この記事は、その原因と直し方です。 書名が「巻数 (副題)」の形だったopenBD が返した書名は、こうでした。ハイキュー!! 1 (日向と影山)ハイキュー!! 2 (頂の景色)巻数のあとに、括弧つきの副題が付いています。前の記事の正規表現は、巻数が書名の末尾にあることを前提にしていました。final _vol...]]></content>
+        <author>
+            <name>HIROKI KUROGI</name>
+        </author>
+        <published>2026-11-04T02:00:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[保存データを守るQAケースブック｜操作・想定値・不具合報告の6実例 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/kissa_hitotoki/books/8115f8face0439</id>
+        <link href="https://zenn.dev/kissa_hitotoki/books/8115f8face0439"/>
+        <updated>2026-11-04T00:17:51.000Z</updated>
+        <summary type="html"><![CDATA[保存・復元のあるアプリを作る個人開発者向けに、ダミーデータの準備、操作、期待値、不具合報告、AI・開発者への修正依頼、修正後の確認を6例でまとめた静的な教材です。BOOTHの同名6ケースPDF版と同じ6題材をWeb閲覧用に再構成しています。重複購入にご注意ください。PDF本体は含みません。はじめに・復元1ケース・記録ひな形は無料です。本体アプリや失敗条件の模擬機能、個別の診断・修正・添削は含みませ]]></summary>
+        <content type="html"><![CDATA[保存・復元のあるアプリを作る個人開発者向けに、ダミーデータの準備、操作、期待値、不具合報告、AI・開発者への修正依頼、修正後の確認を6例でまとめた静的な教材です。BOOTHの同名6ケースPDF版と同じ6題材をWeb閲覧用に再構成しています。重複購入にご注意ください。PDF本体は含みません。はじめに・復元1ケース・記録ひな形は無料です。本体アプリや失敗条件の模擬機能、個別の診断・修正・添削は含みません。実DB・通信・端末間の競合や、すべての不具合の発見を保証するものではありません。AI支援で制作しています。]]></content>
+        <author>
+            <name>喫茶のひととき</name>
+        </author>
+        <published>2026-11-04T00:17:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[保存データを守るQAケースブック｜操作・想定値・不具合報告の6実例 | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/kissa_hitotoki/books/8115f8face0439</id>
+        <link href="https://zenn.dev/kissa_hitotoki/books/8115f8face0439"/>
+        <updated>2026-11-04T00:17:51.000Z</updated>
+        <summary type="html"><![CDATA[保存・復元のあるアプリを作る個人開発者向けに、ダミーデータの準備、操作、期待値、不具合報告、AI・開発者への修正依頼、修正後の確認を6例でまとめた静的な教材です。BOOTHの同名6ケースPDF版と同じ6題材をWeb閲覧用に再構成しています。重複購入にご注意ください。PDF本体は含みません。はじめに・復元1ケース・記録ひな形は無料です。本体アプリや失敗条件の模擬機能、個別の診断・修正・添削は含みませ]]></summary>
+        <content type="html"><![CDATA[保存・復元のあるアプリを作る個人開発者向けに、ダミーデータの準備、操作、期待値、不具合報告、AI・開発者への修正依頼、修正後の確認を6例でまとめた静的な教材です。BOOTHの同名6ケースPDF版と同じ6題材をWeb閲覧用に再構成しています。重複購入にご注意ください。PDF本体は含みません。はじめに・復元1ケース・記録ひな形は無料です。本体アプリや失敗条件の模擬機能、個別の診断・修正・添削は含みません。実DB・通信・端末間の競合や、すべての不具合の発見を保証するものではありません。AI支援で制作しています。]]></content>
+        <author>
+            <name>喫茶のひととき</name>
+        </author>
+        <published>2026-11-04T00:17:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLMの出力が毎回違ってもpytestでassertできる「決定的チェック」5選 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/uenonao/articles/b2fd482dc5310d</id>
+        <link href="https://zenn.dev/uenonao/articles/b2fd482dc5310d"/>
+        <updated>2026-11-03T23:35:36.000Z</updated>
+        <summary type="html"><![CDATA[LLMアプリのテストを書こうとして、「出力が毎回違うから assert out == expected が書けない」と手が止まったことはないでしょうか。実は、出力の文面が揺れても必ず守られていなければならない性質はたくさんあります。そこだけをチェックすれば、揺れるLLMでも普通にpytestで落とせます。本記事ではこれを「決定的チェック」と呼び、すぐ使える5つを紹介します。題材は、商品レビューを読]]></summary>
+        <content type="html"><![CDATA[LLMアプリのテストを書こうとして、「出力が毎回違うから assert out == expected が書けない」と手が止まったことはないでしょうか。実は、出力の文面が揺れても必ず守られていなければならない性質はたくさんあります。そこだけをチェックすれば、揺れるLLMでも普通にpytestで落とせます。本記事ではこれを「決定的チェック」と呼び、すぐ使える5つを紹介します。題材は、商品レビューを読んで {"sentiment": ..., "summary": ..., "topics": [...]} を返す小さなアプリです。各チェックは「出力 out（dict）とケース case...]]></content>
+        <author>
+            <name>中野 曲</name>
+        </author>
+        <published>2026-11-03T23:35:36.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[取引所に逆指値を置いたら、Botが売れなくなった。テストの代役が応答の形を隠していた | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/codecraft/articles/exchange-stop-cancel-response-no-data</id>
+        <link href="https://zenn.dev/codecraft/articles/exchange-stop-cancel-response-no-data"/>
+        <updated>2026-11-03T23:13:35.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産の自動売買Botを作っています。口座2万円ほどの少額で動かしながら、検証と本番の動きが一致しているかを毎週点検しています。今回は、安全のために足した仕組みが、Botの売りを止めていた話です。テストは全部通り、実機でも「注文が置けた」ことを確かめて、完了と書いていました。原因はたった1行の ["data"] でした。先に断っておくと、成績の話ではありません。実際の取引が1件絡みますが、1件で]]></summary>
+        <content type="html"><![CDATA[暗号資産の自動売買Botを作っています。口座2万円ほどの少額で動かしながら、検証と本番の動きが一致しているかを毎週点検しています。今回は、安全のために足した仕組みが、Botの売りを止めていた話です。テストは全部通り、実機でも「注文が置けた」ことを確かめて、完了と書いていました。原因はたった1行の ["data"] でした。先に断っておくと、成績の話ではありません。実際の取引が1件絡みますが、1件で言えることは「その経路が動いた」までです。 1. 足したもの: 取引所に置く-15%の逆指値それまでのBotは、損切りを自分の中だけで持っていました。15秒ごとに価格を見て、条件に触...]]></content>
+        <author>
+            <name>CodeCraft｜システムトレーダー</name>
+        </author>
+        <published>2026-11-03T23:13:35.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[復元エラーの後も元データは残るか：JavaScriptの8入力で確かめる | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/kissa_hitotoki/articles/b217f40176624c</id>
+        <link href="https://zenn.dev/kissa_hitotoki/articles/b217f40176624c"/>
+        <updated>2026-11-03T17:21:34.000Z</updated>
+        <summary type="html"><![CDATA[復元の失敗を表示できても、元データを保持できているとは限りません。先に既存データを空にした後でJSONの解析に失敗すると、画面にはエラーが出ても元の2件は消えます。この記事では、人工データだけを扱うJavaScriptの最小モデルで確認します。コード全文を載せているので、商品や外部ライブラリを購入せず再現できます。 この例で決める復元形式version は 1notes は1件以上の配列各レコード]]></summary>
+        <content type="html"><![CDATA[復元の失敗を表示できても、元データを保持できているとは限りません。先に既存データを空にした後でJSONの解析に失敗すると、画面にはエラーが出ても元の2件は消えます。この記事では、人工データだけを扱うJavaScriptの最小モデルで確認します。コード全文を載せているので、商品や外部ライブラリを購入せず再現できます。 この例で決める復元形式version は 1notes は1件以上の配列各レコードは空でない文字列の id と、文字列の body を持つid の重複は拒否する空のバックアップを拒否するのは、この例の仕様です。実アプリで0件への復元を許すかは、別に...]]></content>
+        <author>
+            <name>喫茶のひととき</name>
+        </author>
+        <published>2026-11-03T17:21:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[復元エラーの後も元データは残るか：JavaScriptの8入力で確かめる | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/kissa_hitotoki/articles/b217f40176624c</id>
+        <link href="https://zenn.dev/kissa_hitotoki/articles/b217f40176624c"/>
+        <updated>2026-11-03T17:21:34.000Z</updated>
+        <summary type="html"><![CDATA[復元の失敗を表示できても、元データを保持できているとは限りません。先に既存データを空にした後でJSONの解析に失敗すると、画面にはエラーが出ても元の2件は消えます。この記事では、人工データだけを扱うJavaScriptの最小モデルで確認します。コード全文を載せているので、商品や外部ライブラリを購入せず再現できます。 この例で決める復元形式version は 1notes は1件以上の配列各レコード]]></summary>
+        <content type="html"><![CDATA[復元の失敗を表示できても、元データを保持できているとは限りません。先に既存データを空にした後でJSONの解析に失敗すると、画面にはエラーが出ても元の2件は消えます。この記事では、人工データだけを扱うJavaScriptの最小モデルで確認します。コード全文を載せているので、商品や外部ライブラリを購入せず再現できます。 この例で決める復元形式version は 1notes は1件以上の配列各レコードは空でない文字列の id と、文字列の body を持つid の重複は拒否する空のバックアップを拒否するのは、この例の仕様です。実アプリで0件への復元を許すかは、別に...]]></content>
+        <author>
+            <name>喫茶のひととき</name>
+        </author>
+        <published>2026-11-03T17:21:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XLSXのメタデータ削除をPythonで検証する：属性値とZIP部品の回帰チェック | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/aimetaclean/articles/edcc424ccc7c92</id>
+        <link href="https://zenn.dev/aimetaclean/articles/edcc424ccc7c92"/>
+        <updated>2026-11-03T16:37:04.000Z</updated>
+        <summary type="html"><![CDATA[メタデータ用XMLのハッシュが変わっても、「作成者名が消えた」とは限りません。別の日時だけが変わった可能性もあります。この記事では、小さな検証用XLSXを使い、処理後の属性値を読み取る確認と、属性以外のZIP部品が変わっていないかの確認を組み合わせます。XLSXを生成・加工する処理の回帰チェックを作りたい方が対象です。比較コードはクリーナー固有のAPIを使いません。AI MetaCleanプロジェ]]></summary>
+        <content type="html"><![CDATA[メタデータ用XMLのハッシュが変わっても、「作成者名が消えた」とは限りません。別の日時だけが変わった可能性もあります。この記事では、小さな検証用XLSXを使い、処理後の属性値を読み取る確認と、属性以外のZIP部品が変わっていないかの確認を組み合わせます。XLSXを生成・加工する処理の回帰チェックを作りたい方が対象です。比較コードはクリーナー固有のAPIを使いません。AI MetaCleanプロジェクトで得た検証記録を、AIの執筆支援を用いてまとめました。コードは実際の入力・ダウンロード出力と、意図的に壊した出力で実行しています。画像は私たちの実際のツール画面です。氏名・会社名・案件コ...]]></content>
+        <author>
+            <name>が必要です</name>
+        </author>
+        <published>2026-11-03T16:37:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Investigation on Numerical Bugs in GPU Programs Towards Automated Bug Detection | arXiv Query: search_query=all:"software testing"&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10]]></title>
+        <id>https://arxiv.org/abs/2611.05121v1</id>
+        <link href="https://arxiv.org/abs/2611.05121v1"/>
+        <updated>2026-11-03T16:09:26.000Z</updated>
+        <summary type="html"><![CDATA[General-purpose graphics processing unit (GPU) computing has emerged as a leading parallel computing paradigm, offering significant performance gains in various domains such as scientific computing an]]></summary>
+        <content type="html"><![CDATA[General-purpose graphics processing unit (GPU) computing has emerged as a leading parallel computing paradigm, offering significant performance gains in various domains such as scientific computing and deep learning. However, GPU programs are susceptible to numerical bugs, which can lead to incorrect results or crashes. These bugs are difficult to detect, debug, and fix due to their dependence on specific input values or types and the absence of reliable error-checking mechanisms and oracles. Ad]]></content>
+        <published>2026-11-03T16:09:26.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[結合見出しのある表をMarkdownで渡す前に、列の意味を引き継ぐ | ソフトウェアテストタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/yanwang/items/210b8ee5077b89c93b0e</id>
+        <link href="https://qiita.com/yanwang/items/210b8ee5077b89c93b0e"/>
+        <updated>2026-11-03T12:13:47.000Z</updated>
+        <summary type="html"><![CDATA[開示：この記事はYan Wang / LensUp向けにGPT-6.1 Terraで大部分を下書きし、Codex AIがソースと事実を確認しました。Yan WangはLensUpの関係者です。記載した結果は、変更していないconvertDocxと既存のAnyDoc WASM...]]></summary>
+        <content type="html"><![CDATA[開示：この記事はYan Wang / LensUp向けにGPT-6.1 Terraで大部分を下書きし、Codex AIがソースと事実を確認しました。Yan WangはLensUpの関係者です。記載した結果は、変更していないconvertDocxと既存のAnyDoc WASM...]]></content>
+        <published>2026-11-03T12:13:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DOCXの文字を太く大きくしても見出しになるとは限らない：入力プロパティから切り分ける | ソフトウェアテストタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/yanwang/items/5a1fd5c939d3115b9b71</id>
+        <link href="https://qiita.com/yanwang/items/5a1fd5c939d3115b9b71"/>
+        <updated>2026-11-03T12:10:59.000Z</updated>
+        <summary type="html"><![CDATA[開示：この記事はYan Wang / LensUp向けにGPT-6.1 Terraで大部分を下書きし、Codex AIがソースと事実を確認しました。Yan WangはLensUpの関係者です。記載した結果は、変更していないconvertDocxと既存のAnyDoc WASM...]]></summary>
+        <content type="html"><![CDATA[開示：この記事はYan Wang / LensUp向けにGPT-6.1 Terraで大部分を下書きし、Codex AIがソースと事実を確認しました。Yan WangはLensUpの関係者です。記載した結果は、変更していないconvertDocxと既存のAnyDoc WASM...]]></content>
+        <published>2026-11-03T12:10:59.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#58 中継役のAstraが工程を決め始めた。Codexマルチエージェントの自律性とコストの境界 | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/corone/articles/codex-multiagent-astra-cost</id>
+        <link href="https://zenn.dev/corone/articles/codex-multiagent-astra-cost"/>
+        <updated>2026-11-03T01:12:23.000Z</updated>
+        <summary type="html"><![CDATA[🍔 はじめにこんにちは！久しぶりの更新です。Codex Desktopで、多数のテストケース（以下、TC）の改善をマルチエージェントで進める検証をしています。目的は、TC改善を終わらせることだけではありません。一般的なデスクトップ環境で、AIによる業務効率化がどこまで再現できるか、どのくらいの作業量まで費用対効果が成り立つかを確かめることです。そのため、検証環境はCodex Desktopに統一し]]></summary>
+        <content type="html"><![CDATA[🍔 はじめにこんにちは！久しぶりの更新です。Codex Desktopで、多数のテストケース（以下、TC）の改善をマルチエージェントで進める検証をしています。目的は、TC改善を終わらせることだけではありません。一般的なデスクトップ環境で、AIによる業務効率化がどこまで再現できるか、どのくらいの作業量まで費用対効果が成り立つかを確かめることです。そのため、検証環境はCodex Desktopに統一しています。CLIに切り替えることは解決策にしません。前半の工程までは、期待どおりの速度で進みました。しかし差分修正の工程に入ると、進みが極端に遅くなりました。調べてみると、メインチャ...]]></content>
+        <author>
+            <name>コロネ</name>
+        </author>
+        <published>2026-11-03T01:12:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プロポーザルを添削してくれるGEMを作成しました！ | ブロッコリーのブログ]]></title>
+        <id>https://nihonbuson.hatenadiary.jp/entry/2026/11/02/180000</id>
+        <link href="https://nihonbuson.hatenadiary.jp/entry/2026/11/02/180000"/>
+        <updated>2026-11-02T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 技術系カンファレンスでは、一般公募（プロポーザルの募集）を行い、運営が審査して採択をする形式があります。 私は昨年、普段プロポーザルを提出し採択されている経験と、プロポーザルの採択者としての経験を基に、プロポーザル提出時に気にすべきポイントを記事にしました。 nihonbuson.hatenadiary.jp ただし、このような記事を書くと、 普段から気にしている人はさらに取り入れてくれ]]></summary>
+        <content type="html"><![CDATA[はじめに 技術系カンファレンスでは、一般公募（プロポーザルの募集）を行い、運営が審査して採択をする形式があります。 私は昨年、普段プロポーザルを提出し採択されている経験と、プロポーザルの採択者としての経験を基に、プロポーザル提出時に気にすべきポイントを記事にしました。 nihonbuson.hatenadiary.jp ただし、このような記事を書くと、 普段から気にしている人はさらに取り入れてくれる プロポーザルを提出したことがない人や、プロポーザルを提出しているが中身をあまり精査できていない人は、記事の読者対象にしたい人にも関わらず読んでもらえない とった状況を生み出します。 そこで、プロポ…]]></content>
+        <published>2026-11-02T09:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コードはAIが書く。品質は自分が守る ── 元QAが1人で作ったiOSアプリが世界最大級ハッカソンの最終選考へ | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/kurigaki/articles/e3aba0881b85ad</id>
+        <link href="https://zenn.dev/kurigaki/articles/e3aba0881b85ad"/>
+        <updated>2026-11-02T03:30:34.000Z</updated>
+        <summary type="html"><![CDATA[はじめにコードは、ほとんど書いていません。それでも、品質の責任は自分にあります。英単語学習アプリ「Word Spell Master」を1人で開発し、2026年9月19日に App Store で公開しました。このアプリは、世界最大級のハッカソン「RevenueCat Shipaton 2026」（参加者3万人弱）で、最終選考に進出しました。コードの大半は AI（Claude Code）が書いてい]]></summary>
+        <content type="html"><![CDATA[はじめにコードは、ほとんど書いていません。それでも、品質の責任は自分にあります。英単語学習アプリ「Word Spell Master」を1人で開発し、2026年9月19日に App Store で公開しました。このアプリは、世界最大級のハッカソン「RevenueCat Shipaton 2026」（参加者3万人弱）で、最終選考に進出しました。コードの大半は AI（Claude Code）が書いています。私の担当は、次の4つです。設計の方針を決める受け入れの基準を決めるAI が出した変更を、その説明・テストの結果・実機での動きで確かめて、取り込むかを判断する出してよい...]]></content>
+        <author>
+            <name>栗垣健二</name>
+        </author>
+        <published>2026-11-02T03:30:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metamorphic Testing for Evaluating Robustness of Sentiment Analysis Models | arXiv Query: search_query=all:"software testing"&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10]]></title>
+        <id>https://arxiv.org/abs/2611.02248v1</id>
+        <link href="https://arxiv.org/abs/2611.02248v1"/>
+        <updated>2026-11-01T22:10:45.000Z</updated>
+        <summary type="html"><![CDATA[Machine learning systems are challenging to test using traditional software testing methods because their behavior is learned from data rather than explicitly programmed. This challenge is particularl]]></summary>
+        <content type="html"><![CDATA[Machine learning systems are challenging to test using traditional software testing methods because their behavior is learned from data rather than explicitly programmed. This challenge is particularly significant in natural language processing (NLP), where small input variations can lead to unexpected model behavior. Conventional evaluation metrics, such as accuracy and F1-score, often fail to capture such inconsistencies. Metamorphic testing addresses this limitation by evaluating expected rel]]></content>
+        <published>2026-11-01T22:10:45.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソフトウェアテスト自動化カンファレンス2026 | テスト自動化研究会 グループの新着イベント]]></title>
+        <id>https://testautomationresearch.connpass.com/event/400397/</id>
+        <link href="https://testautomationresearch.connpass.com/event/400397/"/>
+        <updated>2026-11-01T06:13:32.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2026/12/12 12:50 ～ 18:00&amp;lt;br /&amp;gt;開催場所: オンライン&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;h1&amp;gt;オンライン開催&amp;lt;/h1&amp;gt;&amp;lt;p&amp;gt;「ソフトウェアテスト自動化カンファレンス2026」はオンライン開催になります。&amp;lt;br&amp;gt;コミュニケーションの手段として下記のツールを利用します。どちらも無料でご利用いただけます。&amp;lt;/p&amp;gt;&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;Discord（スケジュール、講演中のコメン]]></summary>
+        <content type="html"><![CDATA[開催日時: 2026/12/12 12:50 ～ 18:00&amp;lt;br /&amp;gt;開催場所: オンライン&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;h1&amp;gt;オンライン開催&amp;lt;/h1&amp;gt;&amp;lt;p&amp;gt;「ソフトウェアテスト自動化カンファレンス2026」はオンライン開催になります。&amp;lt;br&amp;gt;コミュニケーションの手段として下記のツールを利用します。どちらも無料でご利用いただけます。&amp;lt;/p&amp;gt;&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;Discord（スケジュール、講演中のコメント、Ask the Speaker）&amp;lt;br&amp;gt; &amp;lt;a href="https://discord.com" rel="nofollow"&amp;gt;https://discord.com&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Zoom（講演のストリーム配信）&amp;lt;br&amp;gt; &amp;lt;a href="https://zoom.us" rel="nofollow"&amp;gt;https://zoom.us&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&amp;lt;p&amp;gt;なお、講演は後日、テスト自動化研究会のYouTubeチャンネル &amp;lt;a href="https://www.youtube.com/c/テスト自動化研究会/featured" rel="nofollow"&amp;gt;http]]></content>
+        <published>2026-11-01T06:13:32.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第412回：　「ALTM」26　（テストプロセス改善: 分析ベースのテストプロセス改善）  | Kouichi Akiyama]]></title>
+        <id>https://note.com/akiyama924/n/n16b7eb13017a</id>
+        <link href="https://note.com/akiyama924/n/n16b7eb13017a"/>
+        <updated>2026-10-31T21:41:56.000Z</updated>
+        <summary type="html"><![CDATA[◀前の記事へ 次の記事へ▶︎続きをみる]]></summary>
+        <content type="html"><![CDATA[◀前の記事へ 次の記事へ▶︎続きをみる]]></content>
+        <published>2026-10-31T21:41:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIではじめるセルフQA | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/yasuakiomokawa/articles/3d1f83458053d9</id>
+        <link href="https://zenn.dev/yasuakiomokawa/articles/3d1f83458053d9"/>
+        <updated>2026-10-31T03:32:35.000Z</updated>
+        <summary type="html"><![CDATA[サマリーAI全盛の今、QAの方だけでなく、エンジニアもQAする時代が本格的になってきました。ただ、AI は計画に書かれたとおりに実装します。計画に書かれていないことは実装しません。コードベースを読んで初めて見つかる要求の穴があります。ですので、この記事ではその穴を実装の前に見つける方法を紹介します。自分はこれを define-done という Agentスキルにしています。題材のリポジトリは ht]]></summary>
+        <content type="html"><![CDATA[サマリーAI全盛の今、QAの方だけでなく、エンジニアもQAする時代が本格的になってきました。ただ、AI は計画に書かれたとおりに実装します。計画に書かれていないことは実装しません。コードベースを読んで初めて見つかる要求の穴があります。ですので、この記事ではその穴を実装の前に見つける方法を紹介します。自分はこれを define-done という Agentスキルにしています。題材のリポジトリは https://github.com/YasuakiOmokawa/skills で公開しています。 計画どおりに実装しても壊れる例次の例はスキルの評価用に作った架空のものです。利用...]]></content>
+        <author>
+            <name>Yasuaki Omokawa</name>
+        </author>
+        <published>2026-10-31T03:32:35.000Z</published>
+    </entry>
+</feed>
