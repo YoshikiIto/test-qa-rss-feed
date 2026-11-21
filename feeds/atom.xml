@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yoshikiito.github.io/test-qa-rss-feed/</id>
+    <title>テスト・QA関連ブログRSS</title>
+    <updated>2026-11-21T08:06:16.046Z</updated>
+    <generator>yoshikiito/test-qa-rss-feed</generator>
+    <link rel="alternate" href="https://yoshikiito.github.io/test-qa-rss-feed/"/>
+    <link rel="self" href="https://yoshikiito.github.io/test-qa-rss-feed/feeds/atom.xml"/>
+    <subtitle>企テスト・QA関連ブログの更新をまとめたRSSフィード</subtitle>
+    <logo>https://yoshikiito.github.io/test-qa-rss-feed/images/icon.png</logo>
+    <icon>https://yoshikiito.github.io/test-qa-rss-feed/images/favicon.ico</icon>
+    <rights>yoshikiito/test-qa-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[Excelのテスト仕様書からJUnitの雛形を自動で作る：AIに単体テストを書かせる前の「下ごしらえ」ツールの設計 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/shoyomayabot/articles/excel-test-spec-to-junit</id>
+        <link href="https://zenn.dev/shoyomayabot/articles/excel-test-spec-to-junit"/>
+        <updated>2026-11-21T03:26:27.000Z</updated>
+        <summary type="html"><![CDATA[業務のシステム開発では、テスト仕様書をExcelで書くことがよくあります。項番、テスト対象、観点、前提、入力、期待結果。1行が1つのテストケースです。そして、その仕様書を見ながら、JUnitのテストクラスを手で作ります。項番ごとにメソッドを作り、観点をコメントに写し、名前を付ける。数百行の仕様書だと、これだけでかなりの時間がかかります。AIに「この仕様書からテストを書いて」と頼む方法もあります。で]]></summary>
+        <content type="html"><![CDATA[業務のシステム開発では、テスト仕様書をExcelで書くことがよくあります。項番、テスト対象、観点、前提、入力、期待結果。1行が1つのテストケースです。そして、その仕様書を見ながら、JUnitのテストクラスを手で作ります。項番ごとにメソッドを作り、観点をコメントに写し、名前を付ける。数百行の仕様書だと、これだけでかなりの時間がかかります。AIに「この仕様書からテストを書いて」と頼む方法もあります。でも、数百行を一度に渡すと、抜けや取り違えが起きます。どの項番のテストを書いたのか、後から確かめるのも大変です。そこで、Excelのテスト仕様書から、JUnit 5のテストクラスの「雛形」を...]]></content>
+        <author>
+            <name>mayabot</name>
+        </author>
+        <published>2026-11-21T03:26:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【TLA+】AIにテストケースを書かせるな。ルールを書け | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/karamage/articles/73027ee36796dc</id>
+        <link href="https://zenn.dev/karamage/articles/73027ee36796dc"/>
+        <updated>2026-11-21T02:12:39.000Z</updated>
+        <summary type="html"><![CDATA[「はて、このテストケース、誰が考えたんだっけ？ ほんとにだいじょぶ？」AIに頼めば、実装もテストも数秒で出て、CIが全部グリーンになってApproveボタンを押そうとしたとき、ふと手が止まりました。なんか嫌な予感。。。実装を書いたのはAIレビューしたのもAIテストを書いたのも同じAIま、だいじょぶでしょ！(大丈夫じゃない)えぇい、ままよ！ マージしちゃえ！問い: AIがコードもテストも書く時代に、]]></summary>
+        <content type="html"><![CDATA[「はて、このテストケース、誰が考えたんだっけ？ ほんとにだいじょぶ？」AIに頼めば、実装もテストも数秒で出て、CIが全部グリーンになってApproveボタンを押そうとしたとき、ふと手が止まりました。なんか嫌な予感。。。実装を書いたのはAIレビューしたのもAIテストを書いたのも同じAIま、だいじょぶでしょ！(大丈夫じゃない)えぇい、ままよ！ マージしちゃえ！問い: AIがコードもテストも書く時代に、テストはどう変わるのか？結論: 人間は「テストケース」を書くのをやめて、「守るべきルール」を書く理由: テストケースを考えるのは機械のほうが得意で、ルールを決められる...]]></content>
+        <author>
+            <name>karamage</name>
+        </author>
+        <published>2026-11-21T02:12:39.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS EmulatorをMacで動かす本を書きました | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/chiwamaru/articles/aws-emulator-guide-announcement</id>
+        <link href="https://zenn.dev/chiwamaru/articles/aws-emulator-guide-announcement"/>
+        <updated>2026-11-20T14:00:01.000Z</updated>
+        <summary type="html"><![CDATA[検証のたびに実AWSのアカウントを使うことに、以前から不安がありました。課金も気になりますが、それ以上に怖いのが操作ミスです。環境変数の設定を間違えたままコマンドを実行すれば、ローカルで試しているつもりが実AWSのリソースを触っていた、ということも起こり得ます。そこで、AWS公式のローカルエミュレータ「AWS Emulator」をMacで試してみました。最初に手こずったのは、起動するまでの準備です]]></summary>
+        <content type="html"><![CDATA[検証のたびに実AWSのアカウントを使うことに、以前から不安がありました。課金も気になりますが、それ以上に怖いのが操作ミスです。環境変数の設定を間違えたままコマンドを実行すれば、ローカルで試しているつもりが実AWSのリソースを触っていた、ということも起こり得ます。そこで、AWS公式のローカルエミュレータ「AWS Emulator」をMacで試してみました。最初に手こずったのは、起動するまでの準備です。完成済みのDockerイメージは配布されていないため、公式のDockerfileを使って自分でビルドする必要があります。Apple Siliconではaarch64、Intel Macでは...]]></content>
+        <author>
+            <name>chiwamaru</name>
+        </author>
+        <published>2026-11-20T14:00:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JaSST'26 Kyushuにきました🍜 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/massanjp/articles/0eb654183d4c74</id>
+        <link href="https://zenn.dev/massanjp/articles/0eb654183d4c74"/>
+        <updated>2026-11-20T08:23:46.000Z</updated>
+        <summary type="html"><![CDATA[毎年九州で秋頃開催されているJaSST Kyushuに参加しました。初めての現地参加です🏃‍♀️ 概要2007年から開催され、九州各県で開催されています。沖縄回などもあるので今年はどこかなとそわそわしていましたが、福岡でした。https://jasst.jp/kyushu/26-about/会場は福岡ファッションビルの8階です。今回は会場後ろにコンセントの充電エリアとお土産エリアあり。最寄りは福岡]]></summary>
+        <content type="html"><![CDATA[毎年九州で秋頃開催されているJaSST Kyushuに参加しました。初めての現地参加です🏃‍♀️ 概要2007年から開催され、九州各県で開催されています。沖縄回などもあるので今年はどこかなとそわそわしていましたが、福岡でした。https://jasst.jp/kyushu/26-about/会場は福岡ファッションビルの8階です。今回は会場後ろにコンセントの充電エリアとお土産エリアあり。最寄りは福岡市地下鉄空港線の祇園ですが、博多駅から地下通路があるのでそれなりに来やすかったです。 当日レポ スポンサーセッションからJaSST Kyushuは大部屋で１レーンのみなので、...]]></content>
+        <author>
+            <name>massan</name>
+        </author>
+        <published>2026-11-20T08:23:46.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swift Testing の .timeLimit を実測した： 秒は指定できず、制限はテストごとに効く | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/mochiai/articles/3b19394d853c7e</id>
+        <link href="https://zenn.dev/mochiai/articles/3b19394d853c7e"/>
+        <updated>2026-11-20T05:49:47.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、Mochiです。Swift Testing には、テストに時間制限を付ける Traits の .timeLimit があります。資料によっては「秒指定は非推奨」などと書かれていて、実際の挙動がどうなのか気になったので、手元で動かして確かめました。検証した環境は Xcode 27.2 と Xcode 27.3 beta で、結果はどちらも同じでした。SwiftPM のテスト用パッケージを]]></summary>
+        <content type="html"><![CDATA[こんにちは、Mochiです。Swift Testing には、テストに時間制限を付ける Traits の .timeLimit があります。資料によっては「秒指定は非推奨」などと書かれていて、実際の挙動がどうなのか気になったので、手元で動かして確かめました。検証した環境は Xcode 27.2 と Xcode 27.3 beta で、結果はどちらも同じでした。SwiftPM のテスト用パッケージを作り、swift test で実行しています。日付は 2026年11月 です。 この記事の結論時間の指定は分単位だけです。秒やミリ秒を指定すると、警告ではなくコンパイルエラーになり...]]></content>
+        <author>
+            <name>Mochi</name>
+        </author>
+        <published>2026-11-20T05:49:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIに作らせた経理アプリ3本を22項目で測ったら、穴は「コード」ではなく「運用」に集まっていた | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/atsu1979/articles/93b40ea690eb1a</id>
+        <link href="https://zenn.dev/atsu1979/articles/93b40ea690eb1a"/>
+        <updated>2026-11-20T03:50:42.000Z</updated>
+        <summary type="html"><![CDATA[先に結論素人の依頼文だけでAIに作らせた経理アプリ3本を、同じ22項目の物差しで測りました。修正前は 3本で25件（8／8／9件）の不足が見つかりました。アプリの中の守り（他人のデータを読ませない、SQL注入、CSVの式混入、トークンの期限）は、3本とも最初から通過していました。落ちたのは運用の側です。総当たりの制限、テスト、ログ、バックアップ、DBの行単位の権限、DBへの接続権限、依存の版の固定]]></summary>
+        <content type="html"><![CDATA[先に結論素人の依頼文だけでAIに作らせた経理アプリ3本を、同じ22項目の物差しで測りました。修正前は 3本で25件（8／8／9件）の不足が見つかりました。アプリの中の守り（他人のデータを読ませない、SQL注入、CSVの式混入、トークンの期限）は、3本とも最初から通過していました。落ちたのは運用の側です。総当たりの制限、テスト、ログ、バックアップ、DBの行単位の権限、DBへの接続権限、依存の版の固定、画面側の依存の既知脆弱性。この8項目は 3本すべてで不合格 でした。別のAIに直させた後は、物差しの上で 1件／0件／0件。残った1件は検査側の誤検知でした。ただし「物差しが...]]></content>
+        <author>
+            <name>Atsu1979</name>
+        </author>
+        <published>2026-11-20T03:50:42.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIが書いたコードを読む練習2：平均を求める関数が`None`を返すのはなぜ？ | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/riko111/articles/5ec7158ba72dba</id>
+        <link href="https://zenn.dev/riko111/articles/5ec7158ba72dba"/>
+        <updated>2026-11-20T03:31:15.000Z</updated>
+        <summary type="html"><![CDATA[def average(scores): """点数のリストから平均を返す。空のリストなら None を返す。""" if not scores: return None return sum(scores) / len(scores)点数のリストから平均を求めるPythonの関数を書いてとClaudeに頼んだら、上記のコードが返ってきました。 はじめにaverage([60, 80, 100])]]></summary>
+        <content type="html"><![CDATA[def average(scores): """点数のリストから平均を返す。空のリストなら None を返す。""" if not scores: return None return sum(scores) / len(scores)点数のリストから平均を求めるPythonの関数を書いてとClaudeに頼んだら、上記のコードが返ってきました。 はじめにaverage([60, 80, 100])は80.0。では、average([])は？ 関数の先頭にある説明文（docstri...]]></content>
+        <author>
+            <name>Riko</name>
+        </author>
+        <published>2026-11-20T03:31:15.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minecraftに置いた32万ブロックが正しいかを、ゲームを開かずに確かめる | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/fuyu/articles/6e42367390c963</id>
+        <link href="https://zenn.dev/fuyu/articles/6e42367390c963"/>
+        <updated>2026-11-19T22:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Minecraftに置いた約32万ブロックが正しいかを、ゲームの画面を開かずに確かめた方法を書きます。zipの中身をPythonで照らし合わせる方法と、公式のサーバー版にRCONでコマンドを送って1個ずつ数える方法です。 はじめに文字や画像や風景を、立方体 (ボクセル) の立体に変えるツール「ボクセル工房」を作っています。作った立体は、マインクラフト (Java版) のデータパックとして保存できま]]></summary>
+        <content type="html"><![CDATA[Minecraftに置いた約32万ブロックが正しいかを、ゲームの画面を開かずに確かめた方法を書きます。zipの中身をPythonで照らし合わせる方法と、公式のサーバー版にRCONでコマンドを送って1個ずつ数える方法です。 はじめに文字や画像や風景を、立方体 (ボクセル) の立体に変えるツール「ボクセル工房」を作っています。作った立体は、マインクラフト (Java版) のデータパックとして保存できます。https://fu-yu.github.io/voxel-maker/!ボクセル工房のプログラムと、この記事の文は、Claude (AnthropicのAI) と対話しながら作...]]></content>
+        <author>
+            <name>fuyu</name>
+        </author>
+        <published>2026-11-19T22:30:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「QAエンジニアってどんな仕事？」｜現役エンジニアが語るQAのリアル｜QAエンジニア・H執筆 | ソフトウェアテストタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/Oursship/items/b63fa21532f340fa467d</id>
+        <link href="https://qiita.com/Oursship/items/b63fa21532f340fa467d"/>
+        <updated>2026-11-19T16:53:27.000Z</updated>
+        <summary type="html"><![CDATA[QAエンジニアとは？QA（Quality Assurance）とは、日本語で「品質保証」という意味です。システムやソフトウェアの品質を保証することを主な業務としています。「ユーザーが安心して使える製品になっているか」その品質を守ることが、QAエンジニアの役割です。...]]></summary>
+        <content type="html"><![CDATA[QAエンジニアとは？QA（Quality Assurance）とは、日本語で「品質保証」という意味です。システムやソフトウェアの品質を保証することを主な業務としています。「ユーザーが安心して使える製品になっているか」その品質を守ることが、QAエンジニアの役割です。...]]></content>
+        <published>2026-11-19T16:53:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【CloudNative Days Winter 2026】参加メモ | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/ho377/articles/2026-11-18-cndw2026-report</id>
+        <link href="https://zenn.dev/ho377/articles/2026-11-18-cndw2026-report"/>
+        <updated>2026-11-19T12:24:40.000Z</updated>
+        <summary type="html"><![CDATA[はじめにCloudNative Days Winter 2026に参加してきました！K8sやコンテナは業務で触らないので、前日にコンテナとK8sの本で急いで学習しました！！ゆるく感想とか書いていきます！イベント名：CloudNative Days Winter 2026開催日時：2026年11月18〜19日場所：有明セントラルタワーホール&amp;amp;カンファレンス公式Webサイトhttps://cloudn]]></summary>
+        <content type="html"><![CDATA[はじめにCloudNative Days Winter 2026に参加してきました！K8sやコンテナは業務で触らないので、前日にコンテナとK8sの本で急いで学習しました！！ゆるく感想とか書いていきます！イベント名：CloudNative Days Winter 2026開催日時：2026年11月18〜19日場所：有明セントラルタワーホール&amp;amp;カンファレンス公式Webサイトhttps://cloudnativedays.jp/ この記事で学べることクラウドネイティブ初心者がイベントに参加した感想 想定読者クラウドネイティブ初心者クラウドネイティブのイ...]]></content>
+        <author>
+            <name>hot377</name>
+        </author>
+        <published>2026-11-19T12:24:40.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リンク切れゼロでも、WordPressの静的化は終わっていなかった | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/miyakona/articles/static-migration-live-html-parity</id>
+        <link href="https://zenn.dev/miyakona/articles/static-migration-live-html-parity"/>
+        <updated>2026-11-19T08:00:22.000Z</updated>
+        <summary type="html"><![CDATA[WordPressで運用していたコーポレートサイトを、静的HTMLへ移すことにしました。担当者が管理画面から更新する頻度に対して、WordPressを保守する手間が合わなくなっていたためです。既存のS3とCloudFrontで配信し、今後はHTMLをGitとPRで更新する形にします。最初の移行では、AIエージェントがWordPressのエクスポートXMLとテーマを読み、固定ページとニュースを静的ペ]]></summary>
+        <content type="html"><![CDATA[WordPressで運用していたコーポレートサイトを、静的HTMLへ移すことにしました。担当者が管理画面から更新する頻度に対して、WordPressを保守する手間が合わなくなっていたためです。既存のS3とCloudFrontで配信し、今後はHTMLをGitとPRで更新する形にします。最初の移行では、AIエージェントがWordPressのエクスポートXMLとテーマを読み、固定ページとニュースを静的ページへ起こしました。リンクや画像の欠損を調べる検査も、スマホとデスクトップのブラウザ確認も通っています。ところが、公開前に現行サイトと並べて比べると、上下のパンくずがない。ニュース一覧の1ペ...]]></content>
+        <author>
+            <name>miyakona</name>
+        </author>
+        <published>2026-11-19T08:00:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIが爆速で開発する時代の、自動テストとの向き合い方 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/daiaoki/articles/webterm-ai-era-testing</id>
+        <link href="https://zenn.dev/daiaoki/articles/webterm-ai-era-testing"/>
+        <updated>2026-11-19T07:11:24.000Z</updated>
+        <summary type="html"><![CDATA[WebTerm Learnという、プロのエンジニアを目指す人のためのオンライン学習サービスを個人で開発しています。スライドで仕組みを学び、そのままブラウザの中のターミナルでコマンドを打って練習する、という形で学べます。ありがたいことに、いまは1日1校のペースで教育機関に導入していただいています！その一方で、バグを出してはいけないというプレッシャーも日に日に大きくなっています。生徒「あれ、正しいコマ]]></summary>
+        <content type="html"><![CDATA[WebTerm Learnという、プロのエンジニアを目指す人のためのオンライン学習サービスを個人で開発しています。スライドで仕組みを学び、そのままブラウザの中のターミナルでコマンドを打って練習する、という形で学べます。ありがたいことに、いまは1日1校のペースで教育機関に導入していただいています！その一方で、バグを出してはいけないというプレッシャーも日に日に大きくなっています。生徒「あれ、正しいコマンドを打ってるはずなのに次に進まない…？」先生「おかしいな、確認したときは問題なかったんだけど…」授業で使われるサービスでは、この一言で授業が止まります。「また別の日にやりまし...]]></content>
+        <author>
+            <name>Dai</name>
+        </author>
+        <published>2026-11-19T07:11:24.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JaSST'26 Kyushu JSTQB スポンサーセッション | rina]]></title>
+        <id>https://speakerdeck.com/____rina____/jasst26-kyushu-v01</id>
+        <link href="https://speakerdeck.com/____rina____/jasst26-kyushu-v01"/>
+        <updated>2026-11-19T05:00:00.000Z</updated>
+        <published>2026-11-19T05:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OTP 入力画面を「状態」でテストする：再送タイマー、SMS Retriever の5分タイムアウト、プロセス再生成を adb で確認 | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/growthmktg/articles/0e61a3abbb8bad</id>
+        <link href="https://zenn.dev/growthmktg/articles/0e61a3abbb8bad"/>
+        <updated>2026-11-19T03:42:20.000Z</updated>
+        <summary type="html"><![CDATA[（開示：筆者は DuoPlus で働いています。この記事は製品紹介ではなく手順の共有で、検証環境は末尾に書きました。）自社アプリの登録フローで、SMS の確認コード（OTP）を入力する画面は小さいわりに不具合が多い場所です。「コードが届く・入力できる」という正常系は誰でも確認しますが、問題になるのはだいたいその周辺です。再送タイマーが画面回転で 0 に戻る、バックグラウンドから戻ったら入力欄が空に]]></summary>
+        <content type="html"><![CDATA[（開示：筆者は DuoPlus で働いています。この記事は製品紹介ではなく手順の共有で、検証環境は末尾に書きました。）自社アプリの登録フローで、SMS の確認コード（OTP）を入力する画面は小さいわりに不具合が多い場所です。「コードが届く・入力できる」という正常系は誰でも確認しますが、問題になるのはだいたいその周辺です。再送タイマーが画面回転で 0 に戻る、バックグラウンドから戻ったら入力欄が空になる、5 分放置したら自動入力が二度と動かない、といった類いのものです。この記事では、OTP 画面を「状態の組み合わせ」として洗い出し、adb で再現しながら潰すためのチェックリストをまとめ...]]></content>
+        <author>
+            <name>Growth Marketing</name>
+        </author>
+        <published>2026-11-19T03:42:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OTP 入力画面を「状態」でテストする：再送タイマー、SMS Retriever の5分タイムアウト、プロセス再生成を adb で確認 | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/growthmktg/articles/0e61a3abbb8bad</id>
+        <link href="https://zenn.dev/growthmktg/articles/0e61a3abbb8bad"/>
+        <updated>2026-11-19T03:42:20.000Z</updated>
+        <summary type="html"><![CDATA[（開示：筆者は DuoPlus で働いています。この記事は製品紹介ではなく手順の共有で、検証環境は末尾に書きました。）自社アプリの登録フローで、SMS の確認コード（OTP）を入力する画面は小さいわりに不具合が多い場所です。「コードが届く・入力できる」という正常系は誰でも確認しますが、問題になるのはだいたいその周辺です。再送タイマーが画面回転で 0 に戻る、バックグラウンドから戻ったら入力欄が空に]]></summary>
+        <content type="html"><![CDATA[（開示：筆者は DuoPlus で働いています。この記事は製品紹介ではなく手順の共有で、検証環境は末尾に書きました。）自社アプリの登録フローで、SMS の確認コード（OTP）を入力する画面は小さいわりに不具合が多い場所です。「コードが届く・入力できる」という正常系は誰でも確認しますが、問題になるのはだいたいその周辺です。再送タイマーが画面回転で 0 に戻る、バックグラウンドから戻ったら入力欄が空になる、5 分放置したら自動入力が二度と動かない、といった類いのものです。この記事では、OTP 画面を「状態の組み合わせ」として洗い出し、adb で再現しながら潰すためのチェックリストをまとめ...]]></content>
+        <author>
+            <name>Growth Marketing</name>
+        </author>
+        <published>2026-11-19T03:42:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[動画の背景色を「画面の中央」で決めたら、紺の箱が背景になって検品が全部落ちた | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/tarowhitey/articles/abc7bf0b0226e1</id>
+        <link href="https://zenn.dev/tarowhitey/articles/abc7bf0b0226e1"/>
+        <updated>2026-11-19T02:46:08.000Z</updated>
+        <summary type="html"><![CDATA[合格のはずの動画が、3 種類の検査で同時に落ちた前の記事で、縦動画の文字のはみ出しを ffmpeg と Python の標準ライブラリだけで検品する仕組みを書きました。静止画を灰色の生の画素で取り出し、背景と明るさが大きく違う画素を「点」として、画面の端や右の帯で数える検査です。その検査が、ある回のリールで次の 3 つを同時に出しました。画面の端で絵や文字が切れている右のボタンの下に文字がかかる左]]></summary>
+        <content type="html"><![CDATA[合格のはずの動画が、3 種類の検査で同時に落ちた前の記事で、縦動画の文字のはみ出しを ffmpeg と Python の標準ライブラリだけで検品する仕組みを書きました。静止画を灰色の生の画素で取り出し、背景と明るさが大きく違う画素を「点」として、画面の端や右の帯で数える検査です。その検査が、ある回のリールで次の 3 つを同時に出しました。画面の端で絵や文字が切れている右のボタンの下に文字がかかる左右の余白が 150px 未満（最小 約 0px）場面は、紺色の箱を 4 段に積んだ図です。人の目で見ると、左右には十分な余白があります。それでも検品は不合格を出し、自動の作り...]]></content>
+        <author>
+            <name>たろー｜一人会社×AI COO</name>
+        </author>
+        <published>2026-11-19T02:46:08.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pstack 完全ガイド ─AIエージェントに雑なコード     を書かせない技術─ | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/karamage/books/50c18e52e7d19e</id>
+        <link href="https://zenn.dev/karamage/books/50c18e52e7d19e"/>
+        <updated>2026-11-19T01:52:32.000Z</updated>
+        <summary type="html"><![CDATA[AIエージェントに仕事を頼むと、自信満々の報告と一緒に検証されていない大量のコードが届いて困ったことはありませんか？AIエージェントを使い始めた人はもちろん、日常的に使いこなしているエンジニアでも、「どうすれば品質を担保できるのか」「どこまで自律的に仕事を任せられるのか」という疑問は共通の課題ではないでしょうかpstack は、元React コアチームのエンジニア poteto（Lauren Ta]]></summary>
+        <content type="html"><![CDATA[AIエージェントに仕事を頼むと、自信満々の報告と一緒に検証されていない大量のコードが届いて困ったことはありませんか？AIエージェントを使い始めた人はもちろん、日常的に使いこなしているエンジニアでも、「どうすれば品質を担保できるのか」「どこまで自律的に仕事を任せられるのか」という疑問は共通の課題ではないでしょうかpstack は、元React コアチームのエンジニア poteto（Lauren Tan）氏が、日々の開発で使っているスキルを公開したものです本書は、pstackの思想から実践までを体系的に解説した初心者から中上級者までを対象とする実践ガイドです。単なるスキルの使い方にとどまらず、AIエージェントの仕事の進め方そのものを見直し、検証可能で信頼できる開発ワークフローをどう構築するかまで踏み込みます。この本を読むと、明日からAIへの仕事の任せ方が変わります- 寝る前に仕事を頼み、朝には検証済みのPRが作成されている- AIの「直しました」を、実行結果や動作確認の証拠つきで受け取れる- コードレビューする必要性が減り、動画やスクショのチェックだけでマージできる (機械的な検証を自動化]]></content>
+        <author>
+            <name>karamage</name>
+        </author>
+        <published>2026-11-19T01:52:32.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pytestのparametrizeで境界値テストを1つの表にまとめる | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/hasib105/articles/f01b4bf2deaa95</id>
+        <link href="https://zenn.dev/hasib105/articles/f01b4bf2deaa95"/>
+        <updated>2026-11-18T17:51:59.000Z</updated>
+        <summary type="html"><![CDATA[点数を成績に変換する関数のテストを書くとき、つい「テスト関数をコピーして値を2つ書き換える」ことをしていませんか。ケースが増えるほどコピーも増えて、メンテナンスがつらくなります。この記事では、@pytest.mark.parametrize で境界値のテストを1つの表にまとめる方法を紹介します。 テスト対象grading.py という小さな関数を用意します。def grade(score): if]]></summary>
+        <content type="html"><![CDATA[点数を成績に変換する関数のテストを書くとき、つい「テスト関数をコピーして値を2つ書き換える」ことをしていませんか。ケースが増えるほどコピーも増えて、メンテナンスがつらくなります。この記事では、@pytest.mark.parametrize で境界値のテストを1つの表にまとめる方法を紹介します。 テスト対象grading.py という小さな関数を用意します。def grade(score): if not 0 &amp;lt;= score &amp;lt;= 100: raise ValueError(f"score must be between 0 and...]]></content>
+        <author>
+            <name>Hasib Ahmed</name>
+        </author>
+        <published>2026-11-18T17:51:59.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[同じJSONを再インポートしたとき、保存件数は増えないか | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/danilapryadko/articles/09ddd04cc0aba1</id>
+        <link href="https://zenn.dev/danilapryadko/articles/09ddd04cc0aba1"/>
+        <updated>2026-11-18T12:03:26.000Z</updated>
+        <summary type="html"><![CDATA[JSONバックアップを持つブラウザー拡張を作る方向けに、同じファイルの再インポートで重複が増えないか確認した手順をまとめます。開発者による検証記録です。合成データだけを使い、文章の整理には生成AIを利用しました。 検証した環境と範囲2026年11月18日（UTC）、Microsoft Edge Add-onsからインストールしたTabwell 1.1.6を通常のプロファイルで操作しました。開発者モ]]></summary>
+        <content type="html"><![CDATA[JSONバックアップを持つブラウザー拡張を作る方向けに、同じファイルの再インポートで重複が増えないか確認した手順をまとめます。開発者による検証記録です。合成データだけを使い、文章の整理には生成AIを利用しました。 検証した環境と範囲2026年11月18日（UTC）、Microsoft Edge Add-onsからインストールしたTabwell 1.1.6を通常のプロファイルで操作しました。開発者モードはオフ、UIは英語です。画面にはProの試用期間が14日残っていると表示されていました。既存データは、前の検証で取り込んだ合成スナップショット1件だけです。オートスナップショット、...]]></content>
+        <author>
+            <name>Danila Pryadko</name>
+        </author>
+        <published>2026-11-18T12:03:26.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テストを実行せずに、テストが呼ぶ関数を割り出す | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/rets/articles/3f9a7c4c62bf10</id>
+        <link href="https://zenn.dev/rets/articles/3f9a7c4c62bf10"/>
+        <updated>2026-11-18T11:44:46.000Z</updated>
+        <summary type="html"><![CDATA[AIエージェントにテストを弱めさせないチェッカー「hadome」を作っています。テストが呼んでいる関数の集合 を「守っている範囲」として、変更の前（base）と後（head）で比較します。その結果、範囲が狭まったときだけ後退として止めてくれるツールです。この記事は、その「テストが何を呼んでいるか」の割り出し方の話です。hadomeはテストを実行せず、ソースを読むだけで割り出します。 テストを実行し]]></summary>
+        <content type="html"><![CDATA[AIエージェントにテストを弱めさせないチェッカー「hadome」を作っています。テストが呼んでいる関数の集合 を「守っている範囲」として、変更の前（base）と後（head）で比較します。その結果、範囲が狭まったときだけ後退として止めてくれるツールです。この記事は、その「テストが何を呼んでいるか」の割り出し方の話です。hadomeはテストを実行せず、ソースを読むだけで割り出します。 テストを実行しない理由テストが何を呼んでいるかを知りたいなら、テストを動かしてカバレッジを取るのがいちばん素直です。テストを動かさずに読むことにしたのは、次の3つの理由からです。変更のたび...]]></content>
+        <author>
+            <name>rets</name>
+        </author>
+        <published>2026-11-18T11:44:46.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIが書いたコードを読む練習1：素数判定の「正しさ」をどう確かめる？ | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/riko111/articles/97003febb578e9</id>
+        <link href="https://zenn.dev/riko111/articles/97003febb578e9"/>
+        <updated>2026-11-18T10:49:43.000Z</updated>
+        <summary type="html"><![CDATA[素数判定のコードに、i += 6。 なぜ、6ずつ進めるの？ はじめにdef is_prime(n: int) -&amp;gt; bool: if n &amp;lt; 2: return False if n &amp;lt; 4: # 2, 3 return True if n % 2 == 0 or n % 3 == 0: return False i = 5 while i * i &amp;lt;= n: # 6k±1 の形だけ調べる if ]]></summary>
+        <content type="html"><![CDATA[素数判定のコードに、i += 6。 なぜ、6ずつ進めるの？ はじめにdef is_prime(n: int) -&amp;gt; bool: if n &amp;lt; 2: return False if n &amp;lt; 4: # 2, 3 return True if n % 2 == 0 or n % 3 == 0: return False i = 5 while i * i &amp;lt;= n: # 6k±1 の形だけ調べる if n % i == 0 or n % (...]]></content>
+        <author>
+            <name>Riko</name>
+        </author>
+        <published>2026-11-18T10:49:43.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QA効率化におけるAI活用事例 | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/applibot_tech/articles/6b8ec8d196634b</id>
+        <link href="https://zenn.dev/applibot_tech/articles/6b8ec8d196634b"/>
+        <updated>2026-11-18T06:33:59.000Z</updated>
+        <summary type="html"><![CDATA[はじめにアプリボットの田中です。普段はUnityエンジニアとしてスマートフォンゲームを開発しており、最近はAIを活用した業務の効率化に取り組んでいます。プロジェクトメンバーとQA担当者が連携しながら、ここ半年ほど、AIを活用した仕組みをいくつかつくってきました。私を含むチームメンバーで作成した、以下の 3 つを紹介します。仕様書と実装の差分チェック不具合の起票数の予測設計書とマスターデータの静的チ]]></summary>
+        <content type="html"><![CDATA[はじめにアプリボットの田中です。普段はUnityエンジニアとしてスマートフォンゲームを開発しており、最近はAIを活用した業務の効率化に取り組んでいます。プロジェクトメンバーとQA担当者が連携しながら、ここ半年ほど、AIを活用した仕組みをいくつかつくってきました。私を含むチームメンバーで作成した、以下の 3 つを紹介します。仕様書と実装の差分チェック不具合の起票数の予測設計書とマスターデータの静的チェック3 つとも、「AIにどこまで任せるか」を考えながらつくりました。成功事例というよりも、AIを活用して効率化を進める取り組みとして、読んでいただければと思います。 ...]]></content>
+        <author>
+            <name>tanaka_shuntaro</name>
+        </author>
+        <published>2026-11-18T06:33:59.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIが書いたAPI、動作確認まで完走させる（テスト自動生成と自己修正） | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/kanepion/articles/f58670d96b6b4f</id>
+        <link href="https://zenn.dev/kanepion/articles/f58670d96b6b4f"/>
+        <updated>2026-11-18T04:17:59.000Z</updated>
+        <summary type="html"><![CDATA[はじめにAPI実装はAIエージェントに任せると数分で実装が完了しますが、「本当にすべてのエンドポイントが動作するか」の確認は人の手で行っているケースも少なくないのではないでしょうか。この記事では、その確認までエージェントに任せる手順を紹介します。使うのは、私たちNITIがMITライセンスで公開したCLI「Ajiro API（ajiro-api）」です。読み終えると、次の3つができるようになります。]]></summary>
+        <content type="html"><![CDATA[はじめにAPI実装はAIエージェントに任せると数分で実装が完了しますが、「本当にすべてのエンドポイントが動作するか」の確認は人の手で行っているケースも少なくないのではないでしょうか。この記事では、その確認までエージェントに任せる手順を紹介します。使うのは、私たちNITIがMITライセンスで公開したCLI「Ajiro API（ajiro-api）」です。読み終えると、次の3つができるようになります。既存のAPIから、エンドポイントごとのテストケースを自動作成AIエージェントが実装のあとにテストを回し、失敗を自分で修正同じテストをGitHub Actionsでも回す ...]]></content>
+        <author>
+            <name>NITI Tech ブログ</name>
+        </author>
+        <published>2026-11-18T04:17:59.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QA＝テストではない――テストの外側に、品質保証の世界がある | Zennの「品質」のフィード]]></title>
+        <id>https://zenn.dev/93ch/books/testing-not-equals-qa</id>
+        <link href="https://zenn.dev/93ch/books/testing-not-equals-qa"/>
+        <updated>2026-11-18T02:33:32.000Z</updated>
+        <summary type="html"><![CDATA[「QA＝テスト」の思い込みを解きほぐし、テスト以外のQA活動を体系的に紹介する。品質定義ワークショップ、テスト戦略、AI時代の分業、品質組織のつくり方まで、現場で試して効果があった方法をまとめた一冊。]]></summary>
+        <content type="html"><![CDATA[「QA＝テスト」の思い込みを解きほぐし、テスト以外のQA活動を体系的に紹介する。品質定義ワークショップ、テスト戦略、AI時代の分業、品質組織のつくり方まで、現場で試して効果があった方法をまとめた一冊。]]></content>
+        <author>
+            <name>日下部 聡久</name>
+        </author>
+        <published>2026-11-18T02:33:32.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QA＝テストではない――テストの外側に、品質保証の世界がある | Zennの「Test」のフィード]]></title>
+        <id>https://zenn.dev/93ch/books/testing-not-equals-qa</id>
+        <link href="https://zenn.dev/93ch/books/testing-not-equals-qa"/>
+        <updated>2026-11-18T02:33:32.000Z</updated>
+        <summary type="html"><![CDATA[「QA＝テスト」の思い込みを解きほぐし、テスト以外のQA活動を体系的に紹介する。品質定義ワークショップ、テスト戦略、AI時代の分業、品質組織のつくり方まで、現場で試して効果があった方法をまとめた一冊。]]></summary>
+        <content type="html"><![CDATA[「QA＝テスト」の思い込みを解きほぐし、テスト以外のQA活動を体系的に紹介する。品質定義ワークショップ、テスト戦略、AI時代の分業、品質組織のつくり方まで、現場で試して効果があった方法をまとめた一冊。]]></content>
+        <author>
+            <name>日下部 聡久</name>
+        </author>
+        <published>2026-11-18T02:33:32.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QA＝テストではない――テストの外側に、品質保証の世界がある | Zennの「QA」のフィード]]></title>
+        <id>https://zenn.dev/93ch/books/testing-not-equals-qa</id>
+        <link href="https://zenn.dev/93ch/books/testing-not-equals-qa"/>
+        <updated>2026-11-18T02:33:32.000Z</updated>
+        <summary type="html"><![CDATA[「QA＝テスト」の思い込みを解きほぐし、テスト以外のQA活動を体系的に紹介する。品質定義ワークショップ、テスト戦略、AI時代の分業、品質組織のつくり方まで、現場で試して効果があった方法をまとめた一冊。]]></summary>
+        <content type="html"><![CDATA[「QA＝テスト」の思い込みを解きほぐし、テスト以外のQA活動を体系的に紹介する。品質定義ワークショップ、テスト戦略、AI時代の分業、品質組織のつくり方まで、現場で試して効果があった方法をまとめた一冊。]]></content>
+        <author>
+            <name>日下部 聡久</name>
+        </author>
+        <published>2026-11-18T02:33:32.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【最終回】抽象化は、あなたが何者かをつくる | 品質 | Sqripts]]></title>
+        <id>https://sqripts.com/?p=106643</id>
+        <link href="https://sqripts.com/2026/11/18/106643/"/>
+        <updated>2026-11-18T02:21:55.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 前回の記事では、抽象度の高い仕事と責任の関係について書きました。何をテストするのか、どのリスクを許容するのかを決める仕事では、すべてを把握できなくても、その判断の結果を引き受ける必要があります。AIがコードやテ...The post 【最終回】抽象化は、あなたが何者かをつくる first appeared on Sqripts.]]></summary>
+        <content type="html"><![CDATA[はじめに 前回の記事では、抽象度の高い仕事と責任の関係について書きました。何をテストするのか、どのリスクを許容するのかを決める仕事では、すべてを把握できなくても、その判断の結果を引き受ける必要があります。AIがコードやテ...The post 【最終回】抽象化は、あなたが何者かをつくる first appeared on Sqripts.]]></content>
+        <author>
+            <name>masashi.takamizawa_1785918787</name>
+        </author>
+        <category label="特集"/>
+        <category label="品質"/>
+        <category label="QAエンジニア"/>
+        <published>2026-11-18T02:21:55.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When the World Is the Test Suite: Agentic Intelligence for the Physical World | arXiv Query: search_query=all:"software testing"&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10]]></title>
+        <id>https://arxiv.org/abs/2611.22291v1</id>
+        <link href="https://arxiv.org/abs/2611.22291v1"/>
+        <updated>2026-11-17T06:48:03.000Z</updated>
+        <summary type="html"><![CDATA[Coding agents built to repair software now write, test, and repair programs for robots, laboratories, and industrial controllers. Unlike in software engineering, no test suite comes with the code. Whe]]></summary>
+        <content type="html"><![CDATA[Coding agents built to repair software now write, test, and repair programs for robots, laboratories, and industrial controllers. Unlike in software engineering, no test suite comes with the code. Whether a program works must be established by running it on a robot, in a physics simulator, or through the policies it helps to train, and such evidence is costly to obtain and can itself be wrong. As these agents take on more physical tasks, how their programs are judged matters as much as how they ]]></content>
+        <published>2026-11-17T06:48:03.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Runtimeライセンスの利用方法 | Ranorex Blog - テスト自動化ツール 『Ranorex』]]></title>
+        <id>https://ranorex.techmatrix.jp/?p=32809</id>
+        <link href="https://ranorex.techmatrix.jp/blog/2026/11/17/ranorex_runtime_license/"/>
+        <updated>2026-11-17T04:10:51.000Z</updated>
+        <summary type="html"><![CDATA[Ranorexには、StudioライセンスとRuntimeライセンスがあります。Runtimeライセンスは、Ranorex Studioで作成した自動テストを実行するためのライセンスです。 本記事では、Ranorexのラ […]The post Runtimeライセンスの利用方法 first appeared on テスト自動化ツール 『Ranorex』.]]></summary>
+        <content type="html"><![CDATA[Ranorexには、StudioライセンスとRuntimeライセンスがあります。Runtimeライセンスは、Ranorex Studioで作成した自動テストを実行するためのライセンスです。 本記事では、Ranorexのラ […]The post Runtimeライセンスの利用方法 first appeared on テスト自動化ツール 『Ranorex』.]]></content>
+        <author>
+            <name>Ranorex編集部</name>
+        </author>
+        <category label="Ranorex機能"/>
+        <category label="ノウハウ"/>
+        <published>2026-11-17T04:10:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AlphaProof Codeにみる形式検証とLLMの融合：Leanを用いた暗号実装の自動証明 | ソフトウェアテストタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/savor-speedup-dotage/items/520290b4f1c9d80eba3e</id>
+        <link href="https://qiita.com/savor-speedup-dotage/items/520290b4f1c9d80eba3e"/>
+        <updated>2026-11-17T01:52:20.000Z</updated>
+        <summary type="html"><![CDATA[はじめにGoogle DeepMindから、ソフトウェアの形式検証（Formal Verification）をLLMエージェントによってスケールさせるアプローチ「AlphaProof Code」が発表されました（参照: Google DeepMind Blog）。発表に...]]></summary>
+        <content type="html"><![CDATA[はじめにGoogle DeepMindから、ソフトウェアの形式検証（Formal Verification）をLLMエージェントによってスケールさせるアプローチ「AlphaProof Code」が発表されました（参照: Google DeepMind Blog）。発表に...]]></content>
+        <published>2026-11-17T01:52:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[手戻りはなぜ発生するのか | Zennの「品質」のフィード]]></title>
+        <id>https://zenn.dev/matsunaopen/articles/ai-era-sdlc-rework-visibility</id>
+        <link href="https://zenn.dev/matsunaopen/articles/ai-era-sdlc-rework-visibility"/>
+        <updated>2026-11-16T22:41:21.000Z</updated>
+        <summary type="html"><![CDATA[AIコーディングエージェントで実装は速くなったのに、リリースまでの時間はあまり変わらない。レビューでの差し戻しが続く、QAで仕様の解釈違いが見つかる、作り終えてから「求めていたものと違う」と言われる。実装で縮めた時間がその前後の手戻りに使われています。実際に、Farosの「The Speed Trap」では、同じチームの中でAIの導入度が高かった四半期を低かった四半期と比べると、開発者1人あたりの]]></summary>
+        <content type="html"><![CDATA[AIコーディングエージェントで実装は速くなったのに、リリースまでの時間はあまり変わらない。レビューでの差し戻しが続く、QAで仕様の解釈違いが見つかる、作り終えてから「求めていたものと違う」と言われる。実装で縮めた時間がその前後の手戻りに使われています。実際に、Farosの「The Speed Trap」では、同じチームの中でAIの導入度が高かった四半期を低かった四半期と比べると、開発者1人あたりのやり直しが66.7%多く、タスクがQAにいる時間は300.6%長くなっていました。では、手戻りはなぜ発生するのでしょうか。件数を数えるだけではその答えも減らし方も分かりません。手戻りの原因と...]]></content>
+        <author>
+            <name>MatsuNaoPen</name>
+        </author>
+        <published>2026-11-16T22:41:21.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「テストが通る」と「守られている」は別 ― AI が書いたテストが、仕様を変えても 24/24 で通った | Zennの「品質」のフィード]]></title>
+        <id>https://zenn.dev/t_azk/articles/ai-tests-passed-24-of-24</id>
+        <link href="https://zenn.dev/t_azk/articles/ai-tests-passed-24-of-24"/>
+        <updated>2026-11-16T13:54:00.000Z</updated>
+        <summary type="html"><![CDATA[ざっくり 3 つにまとめると監査ログの「免除属性」を既定から外す変更を入れたところ、その属性があることを確かめるテストが 24/24 で通ったままだった原因は、そのテストがソースの文字列一致で属性を見ており、同じコミットで自分が書いた案内コメントがその文字列を含んでいたこと緑でも、守られているとは限らない。わざと壊して赤くなるかを測るしかなく、しかもそのものさしも狂う 何をやっていたか定義ファイル]]></summary>
+        <content type="html"><![CDATA[ざっくり 3 つにまとめると監査ログの「免除属性」を既定から外す変更を入れたところ、その属性があることを確かめるテストが 24/24 で通ったままだった原因は、そのテストがソースの文字列一致で属性を見ており、同じコミットで自分が書いた案内コメントがその文字列を含んでいたこと緑でも、守られているとは限らない。わざと壊して赤くなるかを測るしかなく、しかもそのものさしも狂う 何をやっていたか定義ファイルから CRUD の UseCase（作成・更新・削除）を初回だけ自動生成する仕組みがあります。生成された後は、人間と AI が手でロジックを実装していきます。今回は、その...]]></content>
+        <author>
+            <name>t-azk</name>
+        </author>
+        <published>2026-11-16T13:54:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIエージェントでテスト自動化を始めよう：Claude CodeとMagicPod MCPでテストを作る・直す流れ | MagicPod Blog]]></title>
+        <id>https://magicpod.com/blog/magicpod-mcp-ai-agent/</id>
+        <link href="https://magicpod.com/blog/magicpod-mcp-ai-agent/"/>
+        <updated>2026-11-16T01:30:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。MagicPodエバンジェリストのYoshiki Ito / 伊藤由貴です。MagicPodのMCPサーバーを使うと、Claude CodeなどのAIエージェントからMagicPodのテストを作成したり編集したりできます。とはいえ、「MCPと言われてもピンとこない」「AIエージェントに何と頼めばいいのか分からない」という方も多いのではないでしょうか。そこで本記事では、Claude Co]]></summary>
+        <content type="html"><![CDATA[こんにちは。MagicPodエバンジェリストのYoshiki Ito / 伊藤由貴です。MagicPodのMCPサーバーを使うと、Claude CodeなどのAIエージェントからMagicPodのテストを作成したり編集したりできます。とはいえ、「MCPと言われてもピンとこない」「AIエージェントに何と頼めばいいのか分からない」という方も多いのではないでしょうか。そこで本記事では、Claude Codeに「MagicPod MCPでテストを作りたい」と話しかけるところから、テストを作成して実行し、あとから修正するまでの流れを、会話の画面イメージに沿ってご紹介します。後半では、運用中に役立つ使い方として、不安定なテストを見つけて直してもらう例もお見せします。読み終えるころには、自分のプロジェクトで最初の1件を試すイメージを持っていただけると思います。なお、本記事に掲載している画面は、実際の操作をもとに作成したイメージです。組織名やプロジェクト名は架空のものに置き換えています。]]></content>
+        <author>
+            <name>Yoshiki Ito</name>
+        </author>
+        <published>2026-11-16T01:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[内製 Coding Agent "haro" と社内 GPU で、探索的テスト AI Agent をぶん回している | 品質 - LayerX エンジニアブログ]]></title>
+        <id>https://tech.layerx.co.jp/entry/haro-et-agent</id>
+        <link href="https://tech.layerx.co.jp/entry/haro-et-agent"/>
+        <updated>2026-11-15T23:50:00.000Z</updated>
+        <summary type="html"><![CDATA[探索的テストを、社内の Background Coding Agent「haro」と、社内 GPU で動かしている Qwen3.8-27B にまかせています。今回はその仕組みと、約 10 時間で 47 本のシナリオを回して分かったこと、そして「全部 Claude で回したらいくらかかるのか」をお話しします。]]></summary>
+        <content type="html"><![CDATA[探索的テストを、社内の Background Coding Agent「haro」と、社内 GPU で動かしている Qwen3.8-27B にまかせています。今回はその仕組みと、約 10 時間で 47 本のシナリオを回して分かったこと、そして「全部 Claude で回したらいくらかかるのか」をお話しします。]]></content>
+        <published>2026-11-15T23:50:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第308回テストラジオ お悩み相談のコーナー「スマホどうしよう」から、社内なのに伝言ゲームの話まで #テストラジオ | テストラジオ]]></title>
+        <id>https://testradio.fm/?p=1822</id>
+        <link href="https://testradio.fm/testradio-no/1822/"/>
+        <updated>2026-11-15T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今回はまず、なその「スマホを買い替えようかな」というお悩み相談のコーナ …]]></summary>
+        <content type="html"><![CDATA[今回はまず、なその「スマホを買い替えようかな」というお悩み相談のコーナ …]]></content>
+        <author>
+            <name>なそ＠さとうひろゆき</name>
+        </author>
+        <category label="テストラジオ"/>
+        <published>2026-11-15T23:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日科技連でシフトレフトについて講演 | 千里霧中]]></title>
+        <id>https://goyoki.hatenablog.com/entry/2026/11/15/233336</id>
+        <link href="https://goyoki.hatenablog.com/entry/2026/11/15/233336"/>
+        <updated>2026-11-15T14:33:36.000Z</updated>
+        <summary type="html"><![CDATA[先日、品質管理や品質保証で言及される、ソフトウェア開発のシフトレフトをテーマに、日科技連の特別講義の講師の機会を頂きました。 今回は「シフトレフトは、ソフトウェア開発全領域のソフトウェンジニアリングの適正化である」をコンセプトとして、要件定義から設計、実装、テスト、運用、ビジネスの全領域を押さえる品質マネジメントのアプローチについて話させていただきました。 speakerdeck.comご機会を頂]]></summary>
+        <content type="html"><![CDATA[先日、品質管理や品質保証で言及される、ソフトウェア開発のシフトレフトをテーマに、日科技連の特別講義の講師の機会を頂きました。 今回は「シフトレフトは、ソフトウェア開発全領域のソフトウェンジニアリングの適正化である」をコンセプトとして、要件定義から設計、実装、テスト、運用、ビジネスの全領域を押さえる品質マネジメントのアプローチについて話させていただきました。 speakerdeck.comご機会を頂いた永田さん、大変ありがとうございました。 最近書籍執筆が落ち着いたこともあり、こうした講演の機会は喜んで対応させていただいています。お声がけいただけると幸いです。]]></content>
+        <published>2026-11-15T14:33:36.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アプリケーションのバグをMECEに潰せないと不安になった時の思考法 | ソフトウェアテストタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/yomogi_enginner/items/dd5e3ea9623427b4be7d</id>
+        <link href="https://qiita.com/yomogi_enginner/items/dd5e3ea9623427b4be7d"/>
+        <updated>2026-11-15T00:45:07.000Z</updated>
+        <summary type="html"><![CDATA[本記事の整理は、AIとの対話をもとにしている。一般論、私の判断、今回の環境での整理は、見出しのかっこで書き分けた。エグゼクティブサマリー1. 背景:ボトムアップでバグを直し続けることへの不安(今回の環境)最近、アプリケーションを構築している。現時点で、重...]]></summary>
+        <content type="html"><![CDATA[本記事の整理は、AIとの対話をもとにしている。一般論、私の判断、今回の環境での整理は、見出しのかっこで書き分けた。エグゼクティブサマリー1. 背景:ボトムアップでバグを直し続けることへの不安(今回の環境)最近、アプリケーションを構築している。現時点で、重...]]></content>
+        <published>2026-11-15T00:45:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第414回：　「ALTM」28　（テストツール: イントロダクション）  | Kouichi Akiyama]]></title>
+        <id>https://note.com/akiyama924/n/n9dc9f904210e</id>
+        <link href="https://note.com/akiyama924/n/n9dc9f904210e"/>
+        <updated>2026-11-14T20:58:18.000Z</updated>
+        <summary type="html"><![CDATA[◀前の記事へ 次の記事へ▶︎続きをみる]]></summary>
+        <content type="html"><![CDATA[◀前の記事へ 次の記事へ▶︎続きをみる]]></content>
+        <published>2026-11-14T20:58:18.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AlphaProof Codeにみる形式検証とLLMの融合：Leanを用いた暗号実装の自動証明 | ソフトウェアテストタグが付けられた新着記事 - Qiita]]></title>
+        <id>https://qiita.com/savor-speedup-dotage/items/cf626424b0151ab32710</id>
+        <link href="https://qiita.com/savor-speedup-dotage/items/cf626424b0151ab32710"/>
+        <updated>2026-11-14T15:50:48.000Z</updated>
+        <summary type="html"><![CDATA[はじめにGoogle DeepMindから、ソフトウェアの形式検証（Formal Verification）をLLMエージェントによってスケールさせるアプローチ「AlphaProof Code」が発表されました（参照: Google DeepMind Blog）。発表に...]]></summary>
+        <content type="html"><![CDATA[はじめにGoogle DeepMindから、ソフトウェアの形式検証（Formal Verification）をLLMエージェントによってスケールさせるアプローチ「AlphaProof Code」が発表されました（参照: Google DeepMind Blog）。発表に...]]></content>
+        <published>2026-11-14T15:50:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[成果物を「デジタル化」して、期待どおりの品質を保証できないか | Zennの「品質」のフィード]]></title>
+        <id>https://zenn.dev/hamasyou/articles/7ae3b3dcaf4f52</id>
+        <link href="https://zenn.dev/hamasyou/articles/7ae3b3dcaf4f52"/>
+        <updated>2026-11-14T11:57:56.000Z</updated>
+        <summary type="html"><![CDATA[同じ美容院で同じメニューを頼んでも、担当する人によって仕上がりが違います。車の整備も同じで、腕のいい整備士とそうでない整備士がいます。エンジニアの仕事も例外ではありません。同じ言語、同じフレームワークを使っていても、できあがるシステムの品質にはばらつきが出ます。資格はそろっていて、使う道具もそろっているのに、成果だけがそろいません。一方で、DX（デジタルトランスフォーメーション）という言葉は、IT]]></summary>
+        <content type="html"><![CDATA[同じ美容院で同じメニューを頼んでも、担当する人によって仕上がりが違います。車の整備も同じで、腕のいい整備士とそうでない整備士がいます。エンジニアの仕事も例外ではありません。同じ言語、同じフレームワークを使っていても、できあがるシステムの品質にはばらつきが出ます。資格はそろっていて、使う道具もそろっているのに、成果だけがそろいません。一方で、DX（デジタルトランスフォーメーション）という言葉は、IT ツールの導入やシステム化の話として語られることが多いように思います。私は、DX の狙いは組織や成果物を「デジタル化」することにあると考えています。ここでいうデジタル化は、コンピュータを使...]]></content>
+        <author>
+            <name>hamasyou</name>
+        </author>
+        <published>2026-11-14T11:57:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[OPT] 仕様どおりなのに、使いにくかった ── 個人開発アプリの改善記録 | Zennの「品質」のフィード]]></title>
+        <id>https://zenn.dev/tsukimi_soba/articles/opt-spec-vs-usability-improvement</id>
+        <link href="https://zenn.dev/tsukimi_soba/articles/opt-spec-vs-usability-improvement"/>
+        <updated>2026-11-14T06:05:26.000Z</updated>
+        <summary type="html"><![CDATA[1. 概要1本目の記事の続きです。v1.0.0 から v1.2.0 までの改善の記録です。機能追加ではなく、使いづらいところを直す軽い仕様修正が中心です。大きな機能追加は v1.2.0 で区切り、GitHub のマイルストーンに分けて進める予定です。テストは全部通り、状態遷移も仕様どおりでしたが、使いにくいところがあったので、仕様を変更しました。使ったときの違和感に対して、使いやすさの案を考え、C]]></summary>
+        <content type="html"><![CDATA[1. 概要1本目の記事の続きです。v1.0.0 から v1.2.0 までの改善の記録です。機能追加ではなく、使いづらいところを直す軽い仕様修正が中心です。大きな機能追加は v1.2.0 で区切り、GitHub のマイルストーンに分けて進める予定です。テストは全部通り、状態遷移も仕様どおりでしたが、使いにくいところがあったので、仕様を変更しました。使ったときの違和感に対して、使いやすさの案を考え、Claude Code の案も含めて仕様の合否を私が決めました。実際に動かしてみて、仕様を決めました。特に、メンダコのテンションの部分などは、調整を繰り返しました。Cl...]]></content>
+        <author>
+            <name>つきみ</name>
+        </author>
+        <published>2026-11-14T06:05:26.000Z</published>
+    </entry>
+</feed>
